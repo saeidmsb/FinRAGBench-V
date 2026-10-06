@@ -4,3 +4,6 @@ __pycache__/
 *.pyc
 .vscode/
 test.py
+data_archives/
+extracted_pdfs/
+mini_corpus/
