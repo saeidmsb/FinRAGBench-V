@@ -1,0 +1,452 @@
+[
+  {
+    "query-id": "中国医疗器械行业：如何在竞争日益激烈的市场中蓬勃发展？（英文版）_6.png-3",
+    "query": "From the statistics of Net exports (exports - imports) of medical devices, which product category showed the most significant net exports in 2020's first half year?",
+    "answer": "Health and rehabilitation products",
+    "category": "Chart-Information Extraction",
+    "answer_type": "short",
+    "from_pages": "6",
+    "normalized_category": "Chart-Information Extraction"
+  },
+  {
+    "query-id": "FINAL PROOF for Online Posting PDFS_2024ProxyStatement No blank pages_77.png-3",
+    "query": "Accoding to the statistics of Compensation Actually Paid and GAAP Revenue Growth from 2020 to 2023, what is the GAAP revenue growth in 2022?",
+    "answer": "$37.5 million",
+    "category": "Chart-Information Extraction",
+    "answer_type": "short",
+    "from_pages": "77",
+    "normalized_category": "Chart-Information Extraction"
+  },
+  {
+    "query-id": "AIM_CRW_2023_multipage_51-60.png-2",
+    "query": "How does the Craneware Group engage with its various stakeholder groups like customers, employees, and community according to the 2023 Annual Report?",
+    "answer": "Craneware Group engages with customers through initiatives that enhance the customer experience and offer support services. Employee engagement is supported by a framework aligned with company values, assessed through surveys, and senior management and the Board actively consider feedback. Community engagement is conducted via the 'Craneware Cares' initiative focusing on charitable giving and volunteering.",
+    "category": "Text-MultiPage",
+    "answer_type": "long",
+    "from_pages": "52,53",
+    "normalized_category": "MultiPage"
+  },
+  {
+    "query-id": "NASDAQ_AMBC_2021_15.png-1",
+    "query": "According to Ambac Financial Group, Inc. 2021 FORM 10-K, what is the role of the Watch List and Adversely Classified Credits in managing credit risk according to the document image?",
+    "answer": "The Watch List and Adversely Classified Credits are used to track and prompt immediate action and proper internal and external resources for managing credit risk. They are regularly reviewed and tailored to remediate plans based on credit developments.",
+    "category": "Text Inference",
+    "answer_type": "long",
+    "from_pages": "15",
+    "normalized_category": "Text Inference"
+  },
+  {
+    "query-id": "NASDAQ_AMBC_2023_110.png-1",
+    "query": "Accoring to Ambac Financial Group, Inc 2023 Form 10-K, what are the legal requirements for regulated insurance companies regarding financial statements according to the document?",
+    "answer": "Regulated insurance companies are required to file quarterly and annual statutory financial statements in each jurisdiction in which they are licensed.",
+    "category": "Text Inference",
+    "answer_type": "long",
+    "from_pages": "110",
+    "normalized_category": "Text Inference"
+  },
+  {
+    "query-id": "Financial Times UK - 13 January 2024_9.png-2",
+    "query": "According to the statistics about the housing crisis, what changes have occurred in living arrangements for young adults in Britain and America over the past 30 years?",
+    "answer": "Over the past 30 years, there has been a decline in young adults living independently with a partner and a rise in those living independently without a partner. Originally, living as a couple with children was most common, but now couples without children are more common in both Britain and America.",
+    "category": "Chart-Information Extraction",
+    "answer_type": "short",
+    "from_pages": "9",
+    "normalized_category": "Chart-Information Extraction"
+  },
+  {
+    "query-id": "GSMA：2024年全球移动货币行业状况深度研究报告（英文版）_43.png-4",
+    "query": "Calculate the average annual change in the value of bank-to-mobile transactions from 2019 to 2023 based on the Bank-to-mobile and mobile-to-bank transaction values from 2019 to 2023?",
+    "answer": "$17.25 billion.",
+    "category": "Chart-Numerical Calculation",
+    "answer_type": "short",
+    "from_pages": "43",
+    "normalized_category": "Chart-Numerical Calculation"
+  },
+  {
+    "query-id": "2022年世界发展报告：逐渐复苏的融资（英文版）_199.png-4",
+    "query": "BAccording to the data from GOGLA 2021, for the volume of off-grid lighting products sold as cash products and via PAYGo, which year had the highest number of cash products sold?",
+    "answer": "H2 2019",
+    "category": "Chart-Time Sensitive",
+    "answer_type": "short",
+    "from_pages": "199",
+    "normalized_category": "Chart-Time Sensitive"
+  },
+  {
+    "query-id": "NASDAQ_SRCE_2023_multipage_11-20.png-5",
+    "query": "According to SRCE's 2023 annual report, how does 1st Source Corporation address Diversity, Equity, and Inclusion according to the document?",
+    "answer": "1st Source Corporation emphasizes diversity and inclusion as central to their values, using a multidimensional approach. As of December 31, 2023, they had 1,170 colleagues and have achieved the recognition of having over 21% new diverse hires. They emphasize diversity in leadership, with 42% of the Board being women or minorities. Additionally, all new employees undergo unconscious bias training within six months.",
+    "category": "Text-MultiPage",
+    "answer_type": "long",
+    "from_pages": "18,19",
+    "normalized_category": "MultiPage"
+  },
+  {
+    "query-id": "AIM_CRW_2020_78.png-4",
+    "query": "In the Craneware plc's annual report of 2020, what is the numerical change in corporation tax on profits of the year from 2019 to 2020?",
+    "answer": "$241 thousand",
+    "category": "Table-Numerical Calculation",
+    "answer_type": "short",
+    "from_pages": "78",
+    "normalized_category": "Table-Numerical Calculation"
+  },
+  {
+    "query-id": "AIM_CRW_2022_multipage_57-58.png-2",
+    "query": "How does the Craneware Group ensure employee engagement and well-being, and maintain an inclusive and open work environment?",
+    "answer": "The Craneware Group ensures employee engagement and well-being by providing clean, healthy, and safe working conditions, regularly reviewing policies for training, risk assessment, safe working, and accident management, establishing a Health and Safety Committee, maintaining an inclusive work environment and a culture of openness, providing equal opportunities, facilitating the development of employee skills, adopting a fair remuneration policy, and encouraging employee involvement in the Group's performance through share schemes. Additionally, the Group does not tolerate any form of harassment, prohibits discrimination based on various factors, and actively promotes its core values.",
+    "category": "Text-MultiPage",
+    "answer_type": "long",
+    "from_pages": "57,58",
+    "normalized_category": "MultiPage"
+  },
+  {
+    "query-id": "2022年促进有效的能源转型（英文版）_22.png-4",
+    "query": "Calculate the combined renewable energy capacity investment by China, Japan, and Germany from 2010 to the first half of 2019?",
+    "answer": "$1,139 billion",
+    "category": "Chart-Numerical Calculation",
+    "answer_type": "short",
+    "from_pages": "22",
+    "normalized_category": "Chart-Numerical Calculation"
+  },
+  {
+    "query-id": "NASDAQ_TSBK_2022_78.png-1",
+    "query": "In the Consolidated Balance Sheets of Timberland Bancorp, Inc. and Subsidiary for September 30, 2022, and 2021, what is the difference in the total shareholders’ equity reported between the two years?",
+    "answer": "$11,670 thousand increase.",
+    "category": "Table-Numerical Calculation",
+    "answer_type": "short",
+    "from_pages": "78",
+    "normalized_category": "Table-Numerical Calculation"
+  },
+  {
+    "query-id": "GSMA：2024年全球移动货币行业状况深度研究报告（英文版）_20.png-4",
+    "query": "According to GSMA Global Adoption Survey 2023 and estimates, what is the average global activity rate between 2019 and 2023?",
+    "answer": "25.44%",
+    "category": "Chart-Numerical Calculation",
+    "answer_type": "short",
+    "from_pages": "20",
+    "normalized_category": "Chart-Numerical Calculation"
+  },
+  {
+    "query-id": "世界银行：2024年印尼政府对个人支付体系中受益人选择的早期经验报告（英文版）_37.png-4",
+    "query": "If the ratio of working to non-working beneficiaries of Program Sembako continues, how many would be working in a group of 200 beneficiaries?",
+    "answer": "Approximately 83",
+    "category": "Chart-Numerical Calculation",
+    "answer_type": "short",
+    "from_pages": "37",
+    "normalized_category": "Chart-Numerical Calculation"
+  },
+  {
+    "query-id": "奥纬咨询：2024日本大型银行未来展望报告（英文版）_11.png-2",
+    "query": "How do the share distributions to shareholders change for Japanese banks from JFY 2020 to JFY 2023?",
+    "answer": "The share distributions for Japanese banks initially drop from 7.4% in JFY 2020 to 4.5% in JFY 2021, then increase steadily to reach 5.3% in JFY 2022 and remain close to this level at 6.3% in JFY 2023.",
+    "category": "Chart-Time Sensitive",
+    "answer_type": "long",
+    "from_pages": "11",
+    "normalized_category": "Chart-Time Sensitive"
+  },
+  {
+    "query-id": "AIM_CRW_2022_multipage_121-130.png-1",
+    "query": "Based on Craneware plc Annual Report 2022, compare the net book value changes from 30 June 2021 to 30 June 2022 across both property, plant and equipment, and intangible assets for the group.",
+    "answer": "For property, plant, and equipment (Group), the net book value increased from $1,992,000 at 30 June 2021 to $2,572,000 at 30 June 2022. For intangible assets (Group), the net book value increased from $11,188,000 at 30 June 2021 to $237,646,000 at 30 June 2022.",
+    "category": "Table-MultiPage",
+    "answer_type": "long",
+    "from_pages": "121,123",
+    "normalized_category": "MultiPage"
+  },
+  {
+    "query-id": "毕马威：2024年第三季度全球风险投资报告（英文版）_67.png-1",
+    "query": "According to the statistics of venture financing in Spain from 2018 to Q3 2024, what was the trend in deal value from Q1 2018 to Q3 2019?",
+    "answer": "The deal value initially decreased from Q1 2018 to Q3 2018, followed by a significant increase in Q4 2018 and Q2 2019.",
+    "category": "Chart-Time Sensitive",
+    "answer_type": "long",
+    "from_pages": "67",
+    "normalized_category": "Chart-Time Sensitive"
+  },
+  {
+    "query-id": "Financial Times Europe - 28 June 2024_6.png-5",
+    "query": "What competitive dynamics are highlighted concerning the tech industry’s reaction to EU regulatory strikes?",
+    "answer": "The highlights are that tech giants like Google, Amazon, and smaller rivals such as Zalando and Zoom Video now need to navigate and adapt to the EU's regulatory measures. These measures aim to level the playing field through legislation and appeals, with a focus on privacy and market fairness.",
+    "category": "Text Inference",
+    "answer_type": "long",
+    "from_pages": "6",
+    "normalized_category": "Text Inference"
+  },
+  {
+    "query-id": "LSE_HWDN_2022_105.png-1",
+    "query": "According to Howden Joinery Group Plc's Annual Reports & Accounts 2022, in the Company statement of changes in equity, which year had the higher total equity balance at the end of December: 2020, 2021, or 2022?",
+    "answer": "2020.",
+    "category": "Table-Compare and Sort",
+    "answer_type": "short",
+    "from_pages": "105",
+    "normalized_category": "Table-Compare and Sort"
+  },
+  {
+    "query-id": "2021中国豪华车市场研究报告英文版_18.png-2",
+    "query": "Analyzing the monthly viewership and view-through rates from 2020.05 to 2021.05, which brand among Tesla, NIO, and Li Auto showed the most consistent growth?",
+    "answer": "Li Auto",
+    "category": "Chart-Time Sensitive",
+    "answer_type": "short",
+    "from_pages": "18",
+    "normalized_category": "Chart-Time Sensitive"
+  },
+  {
+    "query-id": "Bias-in-the-effective-bid-ask-spread_2021_Journal-of-Financial-Economics_11.png-2",
+    "query": "According to the descriptive statistics of liquidity and trading volume measures, what is the difference between the 'quoted spread' in the 75th percentile and in the 95th percentile?",
+    "answer": "4.21bps",
+    "category": "Table-Numerical Calculation",
+    "answer_type": "short",
+    "from_pages": "11",
+    "normalized_category": "Table-Numerical Calculation"
+  },
+  {
+    "query-id": "2022年世界发展报告：逐渐复苏的融资（英文版）_227.png-3",
+    "query": "What was the share of GDP for general government gross debt for lower-middle-income countries in 2020?",
+    "answer": "61.4%",
+    "category": "Chart-Information Extraction",
+    "answer_type": "short",
+    "from_pages": "227",
+    "normalized_category": "Chart-Information Extraction"
+  },
+  {
+    "query-id": "FT Partners：2024年第三季度金融科技洞察报告（英文版）_12.png-3",
+    "query": "Calculate the percentage decrease in the combined volume of IPOs and Private Company Financing from Q1 2022 to Q2 2022.",
+    "answer": "26.29%",
+    "category": "Chart-Numerical Calculation",
+    "answer_type": "short",
+    "from_pages": "12",
+    "normalized_category": "Chart-Numerical Calculation"
+  },
+  {
+    "query-id": "NASDAQ_TLF_2021_32.png-1",
+    "query": "Based on the Consolidated Balance Sheets of Tandy Leather Factory, Inc., what is the difference in total current assets between December 31, 2021, and December 31, 2020?",
+    "answer": "$563 thousand decrease",
+    "category": "Table-Numerical Calculation",
+    "answer_type": "short",
+    "from_pages": "32",
+    "normalized_category": "Table-Numerical Calculation"
+  },
+  {
+    "query-id": "Competition--Product-differentiation-and-Crises--Evid_2024_Journal-of-Financ_4.png-3",
+    "query": "What is the relationship between sponsor competition and differentiation share based on the data from 1999q3 to 2007q3?",
+    "answer": "There's a positive correlation between sponsor competition and the share of differentiated loans. As sponsor HHI decreases, indicating an increase in competition, there is an increase in the share of differentiated loans.",
+    "category": "Chart-Information Extraction",
+    "answer_type": "short",
+    "from_pages": "4",
+    "normalized_category": "Chart-Information Extraction"
+  },
+  {
+    "query-id": "NASDAQ_AMBC_2020_67.png-3",
+    "query": "In the 2020 Form 10-K document of Ambac Financial Group, Inc., regarding the breakdown of gross par outstanding as of December 31, 2020, which category had the largest increase in gross par outstanding compared to December 31, 2019?",
+    "answer": "Ambac UK and Other Credits.",
+    "category": "Table-Compare and Sort",
+    "answer_type": "short",
+    "from_pages": "67",
+    "normalized_category": "Table-Compare and Sort"
+  },
+  {
+    "query-id": "Financial Times Europe - 29 June 2024_19.png-5",
+    "query": "Based on the 'Small-caps need special attention' segment, what changes to the UK market overhaul are necessary to accommodate small-cap entities?",
+    "answer": "There is a need for a revised regulatory framework to accommodate small-caps, ensuring they are better able to access capital and compete with larger firms, potentially involving adjustments in trading systems and taxation policies that support smaller enterprises.",
+    "category": "Text Inference",
+    "answer_type": "long",
+    "from_pages": "19",
+    "normalized_category": "Text Inference"
+  },
+  {
+    "query-id": "NASDAQ_TSBK_2022_99.png-1",
+    "query": "According to the Timberland Bancorp, Inc. and Subsidiary's report, what is the year-over-year increase in total mortgage loans from 2021 to 2022?",
+    "answer": "$158,974 thousand",
+    "category": "Table-Numerical Calculation",
+    "answer_type": "short",
+    "from_pages": "99",
+    "normalized_category": "Table-Numerical Calculation"
+  },
+  {
+    "query-id": "NASDAQ_AMBC_2023_multipage_92-93.png-1",
+    "query": "According to Ambac Financial Group, Inc' 2023 Form 10-K，during the years 2021 to 2023, which year had the highest Net premiums earned under Legacy Financial Guarantee Insurance?",
+    "answer": "During the years 2021 to 2023, the highest net premiums earned by Legacy Financial Guarantee Insurance were in 2021, amounting to 46 million US dollars.",
+    "category": "Table-MultiPage",
+    "answer_type": "long",
+    "from_pages": "92,93",
+    "normalized_category": "MultiPage"
+  },
+  {
+    "query-id": "Financial Times Europe - 26 June 2024_19.png-3",
+    "query": "According to statistics of total planted UK vineyards, what is the projected trend for vineyards from 2018 to 2023?",
+    "answer": "There's an increasing trend in hectares planted with vines from 2018 to 2023, suggesting a continuous expansion in vine plantation.",
+    "category": "Chart-Time Sensitive",
+    "answer_type": "long",
+    "from_pages": "19",
+    "normalized_category": "Chart-Time Sensitive"
+  },
+  {
+    "query-id": "气候政策倡议组织（CPI）：2024年欧洲养老基金净零转型状况欧洲养老基金净零转型状况报告（英文版）_multipage_44-45.png-2",
+    "query": "What is the total size of the Green bond funds and Equity funds, expressed in USD, according to the report in the State of European Pension Funds’ Net-Zero Transition?",
+    "answer": "USD 4.17 billion",
+    "category": "Table-Multipage",
+    "answer_type": "short",
+    "from_pages": "44,45",
+    "normalized_category": "MultiPage"
+  },
+  {
+    "query-id": "AIM_CRW_2020_71.png-5",
+    "query": "According to the 'Notes to the Financial Statements' for Craneware plc, which period had the largest contribution to lease liabilities as of June 30, 2020?",
+    "answer": "Between 2 and 5 years",
+    "category": "Table-Compare and Sort",
+    "answer_type": "short",
+    "from_pages": "71",
+    "normalized_category": "Table-Compare and Sort"
+  },
+  {
+    "query-id": "FT Partners：2024年第三季度金融科技洞察报告（英文版）_13.png-2",
+    "query": "Based on the Private Financing & IPO Volume statistics, calculate the total volume growth from 2011 to 2021.",
+    "answer": "$175.6",
+    "category": "Chart-Numerical Calculation",
+    "answer_type": "short",
+    "from_pages": "13",
+    "normalized_category": "Chart-Numerical Calculation"
+  },
+  {
+    "query-id": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）_multipage_184-185.png-1",
+    "query": "According to MUTUAL EVALUATION REPORT OF EL SALVADOR, what was the nature of the active MLA request made by El Salvador's Specialised Corruption Crimes Prosecution Unit to Panama, and what was the outcome of the investigation?",
+    "answer": "The active MLA request made by El Salvador's Specialised Corruption Crimes Prosecution Unit to Panama was to obtain financial records of bank account holders and beneficial owners, as well as registration records of the companies H.A., S.A. and T.C. S.A. and the natural persons O.E. and R.H. The investigation established the existence of transfers between banks in the Panamanian financial system to the company H.A., S.A., up to an amount of more than USD 80,000, as well as the purchase of a vehicle from Panama through money transfers to the account of a dealer in El Salvador for the amount of USD 25,000. The Panamanian Central Authority sent the results of the bank and registry investigations to the Directorate of International Affairs of the FGR, which forwarded the documents to the requesting Prosecutor’s Unit.",
+    "category": "Table-MultiPage",
+    "answer_type": "long",
+    "from_pages": "184,185",
+    "normalized_category": "MultiPage"
+  },
+  {
+    "query-id": "AIM_CRW_2022_58.png-1",
+    "query": "According to Craneware plc’s Annual Report 2022, what is the Group's policy regarding the employment of disabled persons?",
+    "answer": "The Group ensures that applications from disabled persons are fully considered, with training, career development, and promotion aligned with the abilities of the applicant. They aim for identical treatment for those who are not disabled.",
+    "category": "Text Inference",
+    "answer_type": "long",
+    "from_pages": "58",
+    "normalized_category": "Text Inference"
+  },
+  {
+    "query-id": "LSE_HWDN_2022_56.png-3",
+    "query": "According to Howdens' 2022 annual report, from the statistics about Company and Executive Committee tenure, who has the longest company tenure?",
+    "answer": "Andy Witts",
+    "category": "Chart-Information Extraction",
+    "answer_type": "short",
+    "from_pages": "56",
+    "normalized_category": "Chart-Information Extraction"
+  },
+  {
+    "query-id": "NASDAQ_AMBC_2022_61.png-2",
+    "query": "In the 2022 FORM 10-K document by Ambac Financial Group, Inc., which year had a larger total gross loss and loss expense reserves?",
+    "answer": "2022.",
+    "category": "Table-Compare and Sort",
+    "answer_type": "short",
+    "from_pages": "61",
+    "normalized_category": "Table-Compare and Sort"
+  },
+  {
+    "query-id": "加拿大中央银行：2024年10月币政策报告（英文版）_53.png-2",
+    "query": "Based on the statistics of Businesses expect wage growth to moderate gradually, what changes in the average expected wage increases are observed from 2018 to 2024 according to the Business Outlook Survey data?",
+    "answer": "The average expected wage increases, according to the Business Outlook Survey, showed a gradual increase starting from around 3% in 2018, peaking at over 5% in 2021/2022, and then moderating to just above 3% by 2024.",
+    "category": "Chart-Time Sensitive",
+    "answer_type": "long",
+    "from_pages": "53",
+    "normalized_category": "Chart-Time Sensitive"
+  },
+  {
+    "query-id": "NASDAQ_SRCE_2021_77.png-2",
+    "query": "According to the SRCE 2021 Form 10-K, comparing the reported total financing receivables for the Commercial and Agricultural sectors between December 31, 2021, and December 31, 2020, which period had the larger value?",
+    "answer": "2020.",
+    "category": "Table-Compare and Sort",
+    "answer_type": "short",
+    "from_pages": "77",
+    "normalized_category": "Table-Compare and Sort"
+  },
+  {
+    "query-id": "Financial Times UK - 15.08.2024_13.png-4",
+    "query": "According to the Financial Times Europe on 15 August 2024, in the 'Markets Update' section, which region experienced the highest percentage change in currency on that day??",
+    "answer": "Brizil.",
+    "category": "Table-Compare and Sort",
+    "answer_type": "short",
+    "from_pages": "13",
+    "normalized_category": "Table-Compare and Sort"
+  },
+  {
+    "query-id": "世界银行：2024年印尼政府对个人支付体系中受益人选择的早期经验报告（英文版）_64.png-4",
+    "query": "According to the World Bank calculations using data from the Social Assistance and Government-to-Person Survey, by how much does the transportation cost contribute to the overall cost per cashing out method for PKH using a banking agent (in percentage)?",
+    "answer": "27.57%",
+    "category": "Chart-Numerical Calculation",
+    "answer_type": "short",
+    "from_pages": "64",
+    "normalized_category": "Chart-Numerical Calculation"
+  },
+  {
+    "query-id": "Financial Times Europe - 30 May 2024_11.png-3",
+    "query": "According to the Financial Times Europe - 30 May 2024, in the 'FTSE 100 SUMMARY' section, which company saw the largest Day's change?",
+    "answer": "Flutter Entertainment PLC.",
+    "category": "Table-Compare and Sort",
+    "answer_type": "short",
+    "from_pages": "11",
+    "normalized_category": "Table-Compare and Sort"
+  },
+  {
+    "query-id": "AIM_CRW_2021_16.png-1",
+    "query": "According to Craneware plc Annual Report 2021, what are the main components of the Group's risk management process as described in the document?",
+    "answer": "The main components include a robust assessment of principal and emerging risks, maintaining an internal risk register, and regular reviews by Executive Directors and senior management to minimize risks and ensure their effectiveness. The risk management also involves the Governance Committee and the Security Council.",
+    "category": "Text Inference",
+    "answer_type": "long",
+    "from_pages": "16",
+    "normalized_category": "Text Inference"
+  },
+  {
+    "query-id": "Incrementum：2024年12月月度黄金指南报告（英文版）_10.png-1",
+    "query": "Based on the statistics of from 12/2014 to 11/2024, compare the trend of Gold in USD and Incrementum World Gold Price (IWGP)?",
+    "answer": "The Incrementum World Gold Price (IWGP) generally trends higher than the USD gold price from 2014 to 2023, and both have followed a largely synchronized trend, both have a notable local peak around 2020. ",
+    "category": "Chart-Time Sensitive",
+    "answer_type": "long",
+    "from_pages": "10",
+    "normalized_category": "Chart-Time Sensitive"
+  },
+  {
+    "query-id": "Report_ China's SMEs gain vitality, resilience - Chinadaily.com.cn_5.png-2",
+    "query": "According to the proportion of assessed cities' contributions, what percentage of registered trademarks in 2023 are held by assessed cities?",
+    "answer": "56.2%",
+    "category": "Chart-Information Extraction",
+    "answer_type": "short",
+    "from_pages": "5",
+    "normalized_category": "Chart-Information Extraction"
+  },
+  {
+    "query-id": "0001558370-24-014874_22.png-1",
+    "query": "According to the statistics of Reconciliati on of GAAP to Non-GAAP Spending by Function, what is the total Stock-based compensation expense adjustment for the Cost of Revenue from 2022 to 2024?",
+    "answer": "$9,010 (thousands)",
+    "category": "Table-Numerical Calculation",
+    "answer_type": "short",
+    "from_pages": "22",
+    "normalized_category": "Table-Numerical Calculation"
+  },
+  {
+    "query-id": "NASDAQ_AMBC_2021_127.png-5",
+    "query": "According to the financial statements of AMBAC Financial Group, Inc. and Subsidiaries, how much has the Par value of long-term debt decreased from 2020 to 2021?",
+    "answer": "$550 million",
+    "category": "Table-Numerical Calculation",
+    "answer_type": "short",
+    "from_pages": "127",
+    "normalized_category": "Table-Numerical Calculation"
+  },
+  {
+    "query-id": "NASDAQ_AMBC_2022_multipage_25-26.png-2",
+    "query": "According to Ambac Financial Group, Inc' 2022 Form 10-K，what factors could lead to a decline in the price of AFG's common stock as described in the provided documents?",
+    "answer": "The price of AFG's common stock could decline due to several factors, including:1. Adverse developments in financial condition or operational results; 2. Changes in the risk within the Legacy Financial Guarantee insured portfolio; 3. Changes in regulatory status; 4. Changes in valuation measures by investors or analysts; 5. Market perceptions of the company's success in new business strategies; 6. Impact of acquisitions, dispositions, or strategic transactions; 7. Adverse industry and market developments; 8. Economic conditions like recession or inflation affecting insurance policies and asset liquidity.",
+    "category": "Table-MultiPage",
+    "answer_type": "long",
+    "from_pages": "25,26",
+    "normalized_category": "MultiPage"
+  },
+  {
+    "query-id": "AR COVER _ PRINT PDF FINAL (cov22-13582-1_460047_client)_15.png-3",
+    "query": "What specific steps does the company take towards environmental responsibility as mentioned in the document image?",
+    "answer": "Specific steps include complying with legal and regulatory requirements, achieving ISO14001 certification, creating an environmental management system (EMS), reducing the usage of toxic substances, conserving energy, recycling, and implementing retrofits to reduce energy consumption.",
+    "category": "Text Inference",
+    "answer_type": "long",
+    "from_pages": "15",
+    "normalized_category": "Text Inference"
+  }
+]

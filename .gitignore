@@ -1,0 +1,6 @@
+.localmeta/
+hf_meta/
+__pycache__/
+*.pyc
+.vscode/
+test.py

@@ -1,0 +1,452 @@
+[
+  {
+    "query-id": "德勤：2025年全球保险行业展望报告_11.png-1",
+    "query": "展望2025年全球保险行业情况，外包服务在保险公司所执行的核心职能中，哪一种职能比例最高？",
+    "answer": "销售与营销职能比例最高，占60%",
+    "category": "Chart-Information Extraction",
+    "answer_type": "short",
+    "from_pages": "11",
+    "normalized_category": "Chart-Information Extraction"
+  },
+  {
+    "query-id": "财经2023第04期_78.png-1",
+    "query": "有关全球云计算基础设施市场份额（2022Q3），AWS的市场份额是多少？",
+    "answer": "34%",
+    "category": "Chart-Information Extraction",
+    "answer_type": "short",
+    "from_pages": "78",
+    "normalized_category": "Chart-Information Extraction"
+  },
+  {
+    "query-id": "【财经分析】日本央行按兵不动：市场寻找加息线索 日元面临新风险 - 中国金融信息网_multipage_1-3.png-3",
+    "query": "根据2024年12月19日新华财经的数据与分析，日本央行的现行利率政策如何影响未来日元的国际竞争力？",
+    "answer": "从日本央行当前维持的0.25%不变的利率政策来看，虽然短期内可能支持日本企业和经济增长，但由于国际市场对日本央行加息的期望未满足，日元将面临贬值压力，进而削弱其国际竞争力，特别是相对其他加息国家而言，如美国。这种政策可能导致资本输出增加，影响贸易和经济活动。",
+    "category": "Text-Multipage",
+    "answer_type": "long",
+    "from_pages": "1,2",
+    "normalized_category": "MultiPage"
+  },
+  {
+    "query-id": "周期、重构、起航-2018年中国新经济创投白皮书_189.png-2",
+    "query": "根据周期、重构、起航-2018年中国新经济创投白皮书，腾讯在2018年是如何在“产业互联网”方面进行战略调整的？",
+    "answer": "2018年腾讯战略调整，聚焦于“产业互联网”，加强ToB业务，关注对产业互联网各个关键节点的布局，包括企业金融、汽车服务、传统产业信息化等。",
+    "category": "Text Inference",
+    "answer_type": "long",
+    "from_pages": "189",
+    "normalized_category": "Text Inference"
+  },
+  {
+    "query-id": "2020年疫情下中国新经济产业投资研究报告_10.png-2",
+    "query": "根据2020年疫情下中国新经济产业投资研究报告，针对新冠疫情下的各个行业，文本中提到的疫情对哪个阶段的行业产生较大的转变？",
+    "answer": "对商业初期的在线教育、远程办公SaaS、生鲜电商等行业有较大的转变。",
+    "category": "Text Inference",
+    "answer_type": "long",
+    "from_pages": "10",
+    "normalized_category": "Text Inference"
+  },
+  {
+    "query-id": "转型中的中东经济——中国与中东经贸合作前景广阔_31.png-2",
+    "query": "依据毕马威2022年中东和南亚税务指南，海湾国家中企业所得税率最高的是哪个国家，该税率是多少？",
+    "answer": "沙特，企业所得税率为20%。",
+    "category": "Chart-Information Extraction",
+    "answer_type": "short",
+    "from_pages": "31",
+    "normalized_category": "Chart-Information Extraction"
+  },
+  {
+    "query-id": "【研报推荐】联博基金首只公募产品即将面世，工银瑞信沪深300ETF降费_8.png-2",
+    "query": "东方证券的分析表明，联博基金首只公募产品即将面世，工银瑞信沪深300ETF降费。请问从年初至今，债券型基金比主动量化型基金的平均收益率高多少？",
+    "answer": "11.19%。",
+    "category": "Chart-Numerical Calculation",
+    "answer_type": "short",
+    "from_pages": "8",
+    "normalized_category": "Chart-Numerical Calculation"
+  },
+  {
+    "query-id": "财经2024年9期_37.png-1",
+    "query": "中国央行货币金储备量在2020年1月至2024年3月的增长趋势如何？",
+    "answer": "持续增长，显示出明显的上升趋势。",
+    "category": "Chart-Time Sensitive",
+    "answer_type": "short",
+    "from_pages": "37",
+    "normalized_category": "Chart-Time Sensitive"
+  },
+  {
+    "query-id": "中国货币政策执行报告2022年第一季度_multipage_1-10.png-3",
+    "query": "分析中国货币政策执行报告，健全现代货币政策框架通过哪些措施显著成效？",
+    "answer": "专栏中提到，通过完善货币供应调空机制、健全市场化利率和传导机制、创新和丰富货币政策工具体系，推动了经济增长，控制住通胀，保持了金融市场的稳定。",
+    "category": "Text-Multipage",
+    "answer_type": "long",
+    "from_pages": "10,11",
+    "normalized_category": "MultiPage"
+  },
+  {
+    "query-id": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告_61.png-2",
+    "query": "在苏州科达科技股份有限公司2020年度报告中，有关母公司和主要子公司的的员工情况，计算公司在职员工中占比最高的专业构成人数与占比最低的专业构成人数之间的差异。",
+    "answer": "2,473人。",
+    "category": "Table-Numerical Calculation",
+    "answer_type": "short",
+    "from_pages": "61",
+    "normalized_category": "Table-Numerical Calculation"
+  },
+  {
+    "query-id": "宠物经济发展趋势研究报告_multipage_1-10.png-2",
+    "query": "比较2019年中国宠物经济中，宠物种类和消费结构的分布具体如何？宠物主的年龄、性别、居住城市有什么特点？",
+    "answer": "2019年，54.4%为狗类，43.1%为猫类。消费结构中，食品占34%，医疗占23%，用品占16%，服务及其他占27%。宠物主中，85/90后最多，占40.3%；女性占52%，略多于男性；从宠物主城市角度，北京分布最多，占6.0%。",
+    "category": "Chart-Multipage",
+    "answer_type": "long",
+    "from_pages": "8,9",
+    "normalized_category": "MultiPage"
+  },
+  {
+    "query-id": "第一财经2024年12期_64.png-3",
+    "query": "在胖东来超市中生鲜类、杂货类、家居类的毛利润率和净利润率分析中，家居类商品的毛利润率和净利润率之间的差值是多少？",
+    "answer": "22.4%。",
+    "category": "Chart-Numerical Calculation",
+    "answer_type": "short",
+    "from_pages": "64",
+    "normalized_category": "Chart-Numerical Calculation"
+  },
+  {
+    "query-id": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_56.png-3",
+    "query": "在思看科技(杭州)股份有限公司科创板IPO上市招股说明书中，有关新增股东杭州云栖的信息，假设每个有限合伙人的出资拥有相同的回报率，那么出资额为10,000万元的合伙人的总收益将超过出资额为1,000万元的普通合伙人的多少倍？",
+    "answer": "40倍",
+    "category": "Table-Numerical Calculation",
+    "answer_type": "short",
+    "from_pages": "56",
+    "normalized_category": "Table-Numerical Calculation"
+  },
+  {
+    "query-id": "周期、重构、起航-2018年中国新经济创投白皮书_89.png-3",
+    "query": "在医疗健康行业上，2014年至2018年医疗行业总并购项目数的增长率是多少？",
+    "answer": "1087.5%。",
+    "category": "Chart-Numerical Calculation",
+    "answer_type": "short",
+    "from_pages": "89",
+    "normalized_category": "Chart-Numerical Calculation"
+  },
+  {
+    "query-id": "周期、重构、起航-2018年中国新经济创投白皮书_63.png-2",
+    "query": "根据2018年中国新经济创投白皮书中有关2013-2018年投资事件数量的分析，2013年到2015年投资事件数量增长了百分之多少？",
+    "answer": "546.70%",
+    "category": "Chart-Numerical Calculation",
+    "answer_type": "short",
+    "from_pages": "63",
+    "normalized_category": "Chart-Numerical Calculation"
+  },
+  {
+    "query-id": "麦肯锡全球银行业年度报告_38.png-1",
+    "query": "从2004年到2019年，对于扣除风险成本后的零售银行业务收入百分比来说，哪些年龄段的零售银行业务收入占比发生了显著变化？",
+    "answer": "从2004年到2019年，中年大众（36-64岁）和富裕客户（金融财富排名前10%）的零售银行业务收入占比发生了显著变化。中年大众的占比下降了，而富裕客户的占比上升了。",
+    "category": "Chart-Time Sensitive",
+    "answer_type": "long",
+    "from_pages": "38",
+    "normalized_category": "Chart-Time Sensitive"
+  },
+  {
+    "query-id": "中国工商银行股份有限公司2023年度报告_multipage_231-240.png-1",
+    "query": "在这个PDF文件中国工商银行股份有限公司2023年度报告，租赁业务模式核心内容是什么？",
+    "answer": "租赁业务模式主要包括融资租赁和经营租赁，融资租赁为承租人提供融资，经营租赁不确认融资租赁资产。本集团将对租入开始时确认使用权资产和租赁负债的使用权资产与租赁负债的初始计量金额。确认使用权资产和租赁负债后，承租人要根据相关计量规则进行计量与确认。",
+    "category": "Text-Multipage",
+    "answer_type": "long",
+    "from_pages": "231,232,233",
+    "normalized_category": "MultiPage"
+  },
+  {
+    "query-id": "周期、重构、起航-2018年中国新经济创投白皮书_12.png-3",
+    "query": "根据2018年细分产业对工业的拉动率，2018年工业对GDP的拉动率在四个季度中的变化趋势如何？",
+    "answer": "2018年工业对GDP的拉动率呈下降趋势，从第一季度的2.21%下降到第三季度的1.97%。",
+    "category": "Chart-Time Sensitive",
+    "answer_type": "long",
+    "from_pages": "12",
+    "normalized_category": "Chart-Time Sensitive"
+  },
+  {
+    "query-id": "第一财经2024年4期_80.png-2",
+    "query": "根据第一财经2024年4期的报道，SHEIN的服装供货商生产的周期是多少天，平台是如何频繁更新的？",
+    "answer": "SHEIN的服装供货商生产的周期是5到12天，平台每天更新的款式上千件。",
+    "category": "Text Inference",
+    "answer_type": "long",
+    "from_pages": "80",
+    "normalized_category": "Text Inference"
+  },
+  {
+    "query-id": "中国银行股份有限公司2024年半年度报告_41.png-2",
+    "query": "依据中国银行股份有限公司2024年半年度报告，2024年6月30日，中国内地哪个行业的不良贷款余额最高，并说明其占贷款总额的比例。",
+    "answer": "房地产业的不良贷款余额最高，为47,085百万元，占贷款总额的4.94%。",
+    "category": "Table-Compare and Sort",
+    "answer_type": "short",
+    "from_pages": "41",
+    "normalized_category": "Table-Compare and Sort"
+  },
+  {
+    "query-id": "中国金融科技专题分析2020_8.png-3",
+    "query": "根据中国金融科技专题分析2020，描述2018-2022年金融机构的技术研发投入和同比增长率是如何变化的？",
+    "answer": "2018年研发投入为2548.37亿元，增长率为未提供；2019年投入为2653.92亿元，增长率为4.14%；2020年投入为2874.46亿元，增长率为8.31%；2021年投入为2961.35亿元，增长率为3.02%；2022年投入为3307.42亿元，增长率为11.69%。可以看出，研发投入稳步增长，同比增长率除了2021年下降外，总体体现出增长趋势。",
+    "category": "Chart-Time Sensitive",
+    "answer_type": "long",
+    "from_pages": "8",
+    "normalized_category": "Chart-Time Sensitive"
+  },
+  {
+    "query-id": "海利尔：行业景气基本触底，期待新项目放量_3.png-3",
+    "query": "海利尔对于金融行业研究中有关财务报表的预测和比率分析，从2022到2026年货币资金预计上升多少（百万元）？",
+    "answer": "1051（百万元）",
+    "category": "Table-Numerical Calculation",
+    "answer_type": "short",
+    "from_pages": "3",
+    "normalized_category": "Table-Numerical Calculation"
+  },
+  {
+    "query-id": "2021年的全球经济与中国经济_11.png-2",
+    "query": "2011年至2020年中标普500的指数峰值何时出现？",
+    "answer": "2020年",
+    "category": "Chart-Information Extraction",
+    "answer_type": "short",
+    "from_pages": "11",
+    "normalized_category": "Chart-Information Extraction"
+  },
+  {
+    "query-id": "中国证券投资基金业协会：《声音》2024年第11期专题征文之十：基金投顾费率机制优化探讨（二）_6.png-2",
+    "query": "根据2000年以来美国主动股票基金规模及费率的分析，计算2008年与2017年之间总规模增长的百分比大约上涨多少？",
+    "answer": "55.56%。",
+    "category": "Chart-Numerical Calculation",
+    "answer_type": "short",
+    "from_pages": "6",
+    "normalized_category": "Chart-Numerical Calculation"
+  },
+  {
+    "query-id": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告_79.png-1",
+    "query": "根据四川明星电力2020年度的现金流量，2020年经营活动现金流出与投资活动现金流出的比值是多少？",
+    "answer": "7.20",
+    "category": "Table-Numerical Calculation",
+    "answer_type": "short",
+    "from_pages": "79",
+    "normalized_category": "Table-Numerical Calculation"
+  },
+  {
+    "query-id": "远东资信：《远东信用观察》2024年第2期_62.png-3",
+    "query": "根据远东资信对2023年14家地方债发行人债务情况的分析，哪个省份地方政府负债率最高？",
+    "answer": "青海",
+    "category": "Chart-Information Extraction",
+    "answer_type": "short",
+    "from_pages": "62",
+    "normalized_category": "Chart-Information Extraction"
+  },
+  {
+    "query-id": "52fd4a323d97356a463959671794e900699baae5_99.png-1",
+    "query": "在这份深圳信立泰药业股份有限公司首次公开发行股票招股意向书文档中，公司2009年1-6月期间哪个产品类别的营业收入占比最高？请描述相关数据。",
+    "answer": "2009年1-6月期间，硫酸氯吡格雷(片剂)的营业收入占比最高，占39.94%，其营业收入金额为14,118.38万元。",
+    "category": "Table-Compare and Sort",
+    "answer_type": "long",
+    "from_pages": "99",
+    "normalized_category": "Table-Compare and Sort"
+  },
+  {
+    "query-id": "第一财经2023年8期_99.png-2",
+    "query": "根据第一财经2023年8期的描述，在科勒的商业发展策略中，设计和舒适被视作怎样的核心理念？",
+    "answer": "科勒的核心理念是贯穿始终的“敢创”理念，这不仅体现在设计与舒适上，还结合了可持续发展和美好社会的追求。科勒通过结合美学、科技及艺术积累的力量，将设计和舒适作为其商业发展过程中不可或缺的组成部分。",
+    "category": "Text Inference",
+    "answer_type": "long",
+    "from_pages": "99",
+    "normalized_category": "Text Inference"
+  },
+  {
+    "query-id": "52fd4a323d97356a463959671794e900699baae5_57.png-1",
+    "query": "在深圳信立泰药业股份有限公司首次公开发行股票的文件中，2009年6月30日为止的净资产与2008年12月31日的净资产相比，变化了多少？",
+    "answer": "增加了13,810.00港元",
+    "category": "Table-Numerical Calculation",
+    "answer_type": "short",
+    "from_pages": "57",
+    "normalized_category": "Table-Numerical Calculation"
+  },
+  {
+    "query-id": "810d8681429537dbf20a437a6dbf08e34c1ece27_multipage_323-324.png-2",
+    "query": "有关浙江百达精工股份有限公司的母公司财务情况，2016年末的资产合计和负债合计的差是多少？",
+    "answer": "资产合计为495,055,021.64元，负债合计为146,408,343.46元，资产合计比负债合计多48,646,678.18元。",
+    "category": "Table-Multipage",
+    "answer_type": "long",
+    "from_pages": "323,324",
+    "normalized_category": "MultiPage"
+  },
+  {
+    "query-id": "2017-2018中国互联网金融行业舆情监测分析报告_21.png-2",
+    "query": "根据2017-2018年互联网金融行业舆情监测分析，请分析哪几个月份套路贷的搜索指数出现明显峰值，可能是什么原因导致的？",
+    "answer": "套路贷的搜索指数在2018年1月、4月和5月出现明显峰值。这可能是因为1月有借贷高峰，很多人在年初进行金钱周转，导致搜索热度上升；4月和5月可能是因为与一些负面新闻报道相关，引发公众关注和讨论。",
+    "category": "Chart-Time Sensitive",
+    "answer_type": "long",
+    "from_pages": "21",
+    "normalized_category": "Chart-Time Sensitive"
+  },
+  {
+    "query-id": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_multipage_191-200.png-2",
+    "query": "在中国上市及新三板挂牌公司低空经济发展报告2024中，高翔通航和航宇荣康在不同年份的总资产有哪些变化？",
+    "answer": "高翔通航的总资产从2019年的5975.95万元到2023年为7411.25万元，整体上呈增加态势；而航宇荣康的总资产从2019年的8062.21万元上涨到了2023年的18394.94万元，呈显著增加趋势。",
+    "category": "Chart-Multipage",
+    "answer_type": "long",
+    "from_pages": "191,195",
+    "normalized_category": "MultiPage"
+  },
+  {
+    "query-id": "中国人民大学国际货币研究所：中国财富管理行业趋势报告（2024上）_12.png-1",
+    "query": "请问在中国财富管理行业如何做好数字化金融大文章中，2024年上半年业内机构公募财富管理产品中，排名前十的机构名称和对应的指数是多少？",
+    "answer": "招商银行 510.90, 兴业银行 478.26, 中国工商银行 461.53, 中国银行 459.17, 中国建设银行 457.68, 中国民生银行 452.82, 蚂蚁（杭州）基金销售 445.64, 中国农业银行 439.67, 中国光大银行 434.99, 交通银行 419.06",
+    "category": "Table-Compare and Sort",
+    "answer_type": "long",
+    "from_pages": "12",
+    "normalized_category": "Table-Compare and Sort"
+  },
+  {
+    "query-id": "财经2023第04期_76.png-1",
+    "query": "根据全球四大云厂商三年营收增速对比，阿里云2020年第一季度到2022年第四季度的营收增速大约变化了多少百分点？",
+    "answer": "56个",
+    "category": "Chart-Numerical Calculation",
+    "answer_type": "short",
+    "from_pages": "76",
+    "normalized_category": "Chart-Numerical Calculation"
+  },
+  {
+    "query-id": "52fd4a323d97356a463959671794e900699baae5_multipage_172-173.png-2",
+    "query": "查看深圳信立泰药业股份有限公司首次公开发行股票招股意向书，有关固定资产折旧情况，比较机器设备与运输设备的年折旧率。",
+    "answer": "机器设备的年折旧率为9%，运输设备为18%，运输设备的年折旧率高。",
+    "category": "Table-Multipage",
+    "answer_type": "long",
+    "from_pages": "172,173",
+    "normalized_category": "MultiPage"
+  },
+  {
+    "query-id": "中国银行中国经济金融展望报告（2025年）：增量政策加力显效，推动经济“V”型反转_66.png-1",
+    "query": "根据中国银行中国经济金融展望报告（2025年），化债政策预计能够取得哪些积极的政策效应？",
+    "answer": "第一，化债政策将能够有效减轻地方政府偿债压力，激发地方政府发展经济的动力和能力；第二，化债政策将向社会各界释放积极的政策信号，有利于稳定市场预期；第三，化债政策将有利于畅通地方政府的资金链条，提升市场活力。",
+    "category": "Text Inference",
+    "answer_type": "long",
+    "from_pages": "66",
+    "normalized_category": "Text Inference"
+  },
+  {
+    "query-id": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_28.png-1",
+    "query": "在《2024年中国上市及新三板挂牌公司低空经济发展报告》中，2023年新三板公司低空业务收入TOP3的公司及其收入分别是多少？",
+    "answer": "首航直升收入167909.99万元，蔚蓝航空收入16241.40万元，成功通航收入11656.45万元。",
+    "category": "Chart-Information Extraction",
+    "answer_type": "short",
+    "from_pages": "28",
+    "normalized_category": "Chart-Information Extraction"
+  },
+  {
+    "query-id": "中国银行股份有限公司2024年半年度报告_53.png-1",
+    "query": "关于中国银行股份有限公司的股份变动和股东情况，根据普通股持有者信息，2024年6月30日持股比例最高的机构是哪一个？",
+    "answer": "中央汇金投资有限责任公司",
+    "category": "Table-Compare and Sort",
+    "answer_type": "short",
+    "from_pages": "53",
+    "normalized_category": "Table-Compare and Sort"
+  },
+  {
+    "query-id": "2019年国民经济和社会发展统计公报_2.png-3",
+    "query": "2015年至2019年间的全员劳动生产率变化，分析其累计增长趋势，并推测可能的经济原因。",
+    "answer": "2015年至2019年全员劳动生产率整体呈现增长的趋势。特别是从2016年至2019年，每年的增长幅度比较稳定，意味着经济活动可能呈现出持续改善的趋势，如技术进步、劳动者技能提升以及资源利用效率的提高等因素，都是可能推动全员劳动生产率增强的原因。",
+    "category": "Chart-Time Sensitive",
+    "answer_type": "long",
+    "from_pages": "2",
+    "normalized_category": "Chart-Time Sensitive"
+  },
+  {
+    "query-id": "天风证券：券商行业2025年年度策略：政策大利好不断，券商板块静待进攻_33.png-1",
+    "query": "在天风证券关于互换便利下券商加杠杆净利润弹性空间的分析中，哪家证券公司的主动权益规模最大？",
+    "answer": "东北证券",
+    "category": "Table-Compare and Sort",
+    "answer_type": "short",
+    "from_pages": "33",
+    "normalized_category": "Table-Compare and Sort"
+  },
+  {
+    "query-id": "第一财经2023年11期_94.png-2",
+    "query": "根据A24制作的电影报表，2016年到2018年，哪一部电影的投资回报率最高，同时IMDb评分还不低于7.0？",
+    "answer": "《月光男孩》的投资回报率最高，为4255.3%，IMDb评分为7.4。",
+    "category": "Table-Compare and Sort",
+    "answer_type": "long",
+    "from_pages": "94",
+    "normalized_category": "Table-Compare and Sort"
+  },
+  {
+    "query-id": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_29.png-3",
+    "query": "在2023年低空业务营业收入的航空器制造TOP3中，最大的收入与最小的收入的差值是多少万元？",
+    "answer": "2931306.66",
+    "category": "Chart-Numerical Calculation",
+    "answer_type": "short",
+    "from_pages": "29",
+    "normalized_category": "Chart-Numerical Calculation"
+  },
+  {
+    "query-id": "中国工商银行股份有限公司2023年度报告_82.png-1",
+    "query": "针对中国工商银行股份有限公司2023年度报告，截止到2023年12月31日，贷款最高占比出现在哪个地区？",
+    "answer": "长江三角洲，贷款占比为21.5%。",
+    "category": "Table-Compare and Sort",
+    "answer_type": "short",
+    "from_pages": "82",
+    "normalized_category": "Table-Compare and Sort"
+  },
+  {
+    "query-id": "财经2024年7期_32.png-3",
+    "query": "这个文件中，解释关于TikTok和美国市场关系的部分，有哪些法律措施被提议来制约TikTok？",
+    "answer": "文本中提到几项法律措施，包括《No Tiktok on United States Devices Act》、《Averting the National Threat of Internet Surveillance, Oppressive Censorship and Influence, and Algorithmic Learning by the CCP Act》、《Protecting Personnal Data from Foreign Adversaries Act》、《Deterring America's Technological Adversaries Act》、《Stopping Attempts by Foreign Entities to Target Youths on Social Media Act of 2023》、《Restricting the Emergence of Security Threats that Risk Information and Communications Technology Act》 等。",
+    "category": "Text Inference",
+    "answer_type": "long",
+    "from_pages": "32",
+    "normalized_category": "Text Inference"
+  },
+  {
+    "query-id": "财经2024年8期_71.png-3",
+    "query": "依据财经杂志对万科困局的分析，有关2020年至2023年期间万科的负债情况，哪些类别的负债总量出现了持续减少的趋势？",
+    "answer": "流动负债合计在2020年至2023年呈现逐年减少的趋势。",
+    "category": "Chart-Time Sensitive",
+    "answer_type": "short",
+    "from_pages": "71",
+    "normalized_category": "Chart-Time Sensitive"
+  },
+  {
+    "query-id": "金融数字化发展联盟：2024年消费金融数字化转型主题调研报告_130.png-1",
+    "query": "在不同客户群信用卡用户未来愿意办理其他产品/服务的意愿中，哪两类客户的愿意程度最高？",
+    "answer": "高净值用户、高线城市银发群体",
+    "category": "Chart-Information Extraction",
+    "answer_type": "short",
+    "from_pages": "130",
+    "normalized_category": "Chart-Information Extraction"
+  },
+  {
+    "query-id": "中国共享经济发展年度报告（2019）_27.png-1",
+    "query": "针对2015-2018年在线外卖收入占全国餐饮业收入比重的变化，2018年在线外卖收入占比与2016年相比增长了多少百分点？",
+    "answer": "5.9个百分点。",
+    "category": "Table-Numerical Calculation",
+    "answer_type": "short",
+    "from_pages": "27",
+    "normalized_category": "Table-Numerical Calculation"
+  },
+  {
+    "query-id": "中国金融稳定报告2017_150.png-1",
+    "query": "在2016年中资中型银行资产负债中，对非金融性公司债权，在第二季度和第三季度之间增长了多少？",
+    "answer": "791.72亿元。",
+    "category": "Table-Numerical Calculation",
+    "answer_type": "short",
+    "from_pages": "150",
+    "normalized_category": "Table-Numerical Calculation"
+  },
+  {
+    "query-id": "中国金融稳定报告2016_multipage_151-160.png-2",
+    "query": "《中国金融稳定报告2016》中的压力测试结果显示，对于大中型商业银行来说，信贷风险在不同情景下对资本充足率的影响有多大？",
+    "answer": "在不同情景下，大型商业银行的资本充足率由初始状态的11.87%降至重度冲击下的8.62%，中型商业银行由初始状态的13.50%降至重度冲击下的9.99%。",
+    "category": "Chart-Multipage",
+    "answer_type": "long",
+    "from_pages": "157,158,159,160",
+    "normalized_category": "MultiPage"
+  },
+  {
+    "query-id": "中国货币政策执行报告2022年第一季度_36.png-1",
+    "query": "根据中国货币政策执行报告2022年第一季度，在关于银行间市场国债收益率曲线变化的报告中，1年期国债收益率与去年末相比下行了多少个基点？",
+    "answer": "11个基点",
+    "category": "Text Inference",
+    "answer_type": "short",
+    "from_pages": "36",
+    "normalized_category": "Text Inference"
+  }
+]
