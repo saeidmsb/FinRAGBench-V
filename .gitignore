@@ -7,3 +7,10 @@ test.py
 data_archives/
 extracted_pdfs/
 mini_corpus/
+# FinRAGBench-V generated / large files
+FinRAGBench-V/retrieval/colqwen2-v1.0-merged/
+FinRAGBench-V/retrieval/corpus/
+FinRAGBench-V/retrieval/encode/
+FinRAGBench-V/retrieval/queries/
+render_test/
+FinRAGBench-V/retrieval/test.txt

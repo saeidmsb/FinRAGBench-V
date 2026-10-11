@@ -1,0 +1,3074 @@
+{
+  "language": "ch",
+  "random_seed": 42,
+  "target_corpus_size": 500,
+  "source_document_count": 39,
+  "available_pdf_pages": 5253,
+  "gold_item_count": 61,
+  "distractor_candidate_count": 5192,
+  "selected_distractor_count": 439,
+  "duplicate_count": 0,
+  "items": [
+    {
+      "type": "distractor",
+      "document": "2017-2018中国互联网金融行业舆情监测分析报告",
+      "page": 18,
+      "output_filename": "2017-2018中国互联网金融行业舆情监测分析报告_18.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "2017-2018中国互联网金融行业舆情监测分析报告",
+      "page": 21,
+      "output_filename": "2017-2018中国互联网金融行业舆情监测分析报告_21.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2017-2018中国互联网金融行业舆情监测分析报告",
+      "page": 28,
+      "output_filename": "2017-2018中国互联网金融行业舆情监测分析报告_28.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2017-2018中国互联网金融行业舆情监测分析报告",
+      "page": 31,
+      "output_filename": "2017-2018中国互联网金融行业舆情监测分析报告_31.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2017-2018中国互联网金融行业舆情监测分析报告",
+      "page": 5,
+      "output_filename": "2017-2018中国互联网金融行业舆情监测分析报告_5.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2019年国民经济和社会发展统计公报",
+      "page": 19,
+      "output_filename": "2019年国民经济和社会发展统计公报_19.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "2019年国民经济和社会发展统计公报",
+      "page": 2,
+      "output_filename": "2019年国民经济和社会发展统计公报_2.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2019年国民经济和社会发展统计公报",
+      "page": 24,
+      "output_filename": "2019年国民经济和社会发展统计公报_24.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2019年国民经济和社会发展统计公报",
+      "page": 30,
+      "output_filename": "2019年国民经济和社会发展统计公报_30.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "2020年疫情下中国新经济产业投资研究报告",
+      "page": 10,
+      "output_filename": "2020年疫情下中国新经济产业投资研究报告_10.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2020年疫情下中国新经济产业投资研究报告",
+      "page": 12,
+      "output_filename": "2020年疫情下中国新经济产业投资研究报告_12.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2020年疫情下中国新经济产业投资研究报告",
+      "page": 27,
+      "output_filename": "2020年疫情下中国新经济产业投资研究报告_27.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2020年疫情下中国新经济产业投资研究报告",
+      "page": 8,
+      "output_filename": "2020年疫情下中国新经济产业投资研究报告_8.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告",
+      "page": 100,
+      "output_filename": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告_100.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告",
+      "page": 109,
+      "output_filename": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告_109.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告",
+      "page": 127,
+      "output_filename": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告_127.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告",
+      "page": 140,
+      "output_filename": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告_140.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告",
+      "page": 143,
+      "output_filename": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告_143.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告",
+      "page": 145,
+      "output_filename": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告_145.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告",
+      "page": 178,
+      "output_filename": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告_178.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告",
+      "page": 2,
+      "output_filename": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告_2.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告",
+      "page": 41,
+      "output_filename": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告_41.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告",
+      "page": 54,
+      "output_filename": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告_54.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告",
+      "page": 61,
+      "output_filename": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告_61.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告",
+      "page": 76,
+      "output_filename": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告_76.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告",
+      "page": 86,
+      "output_filename": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告_86.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告",
+      "page": 87,
+      "output_filename": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告_87.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告",
+      "page": 111,
+      "output_filename": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告_111.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告",
+      "page": 115,
+      "output_filename": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告_115.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告",
+      "page": 117,
+      "output_filename": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告_117.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告",
+      "page": 13,
+      "output_filename": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告_13.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告",
+      "page": 144,
+      "output_filename": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告_144.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告",
+      "page": 159,
+      "output_filename": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告_159.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告",
+      "page": 166,
+      "output_filename": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告_166.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告",
+      "page": 169,
+      "output_filename": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告_169.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告",
+      "page": 17,
+      "output_filename": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告_17.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告",
+      "page": 175,
+      "output_filename": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告_175.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告",
+      "page": 180,
+      "output_filename": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告_180.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告",
+      "page": 181,
+      "output_filename": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告_181.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告",
+      "page": 183,
+      "output_filename": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告_183.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告",
+      "page": 25,
+      "output_filename": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告_25.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告",
+      "page": 26,
+      "output_filename": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告_26.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告",
+      "page": 42,
+      "output_filename": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告_42.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告",
+      "page": 55,
+      "output_filename": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告_55.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告",
+      "page": 61,
+      "output_filename": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告_61.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告",
+      "page": 75,
+      "output_filename": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告_75.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告",
+      "page": 79,
+      "output_filename": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告_79.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告",
+      "page": 86,
+      "output_filename": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告_86.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2021年的全球经济与中国经济",
+      "page": 1,
+      "output_filename": "2021年的全球经济与中国经济_1.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "2021年的全球经济与中国经济",
+      "page": 11,
+      "output_filename": "2021年的全球经济与中国经济_11.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2021年的全球经济与中国经济",
+      "page": 4,
+      "output_filename": "2021年的全球经济与中国经济_4.png"
+    },
+    {
+      "type": "distractor",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "page": 102,
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_102.png"
+    },
+    {
+      "type": "distractor",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "page": 103,
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_103.png"
+    },
+    {
+      "type": "distractor",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "page": 131,
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_131.png"
+    },
+    {
+      "type": "distractor",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "page": 139,
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_139.png"
+    },
+    {
+      "type": "distractor",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "page": 142,
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_142.png"
+    },
+    {
+      "type": "distractor",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "page": 157,
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_157.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "page": 172,
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_172.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "page": 173,
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_173.png"
+    },
+    {
+      "type": "distractor",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "page": 189,
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_189.png"
+    },
+    {
+      "type": "distractor",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "page": 200,
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_200.png"
+    },
+    {
+      "type": "distractor",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "page": 232,
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_232.png"
+    },
+    {
+      "type": "distractor",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "page": 244,
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_244.png"
+    },
+    {
+      "type": "distractor",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "page": 247,
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_247.png"
+    },
+    {
+      "type": "distractor",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "page": 252,
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_252.png"
+    },
+    {
+      "type": "distractor",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "page": 255,
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_255.png"
+    },
+    {
+      "type": "distractor",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "page": 26,
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_26.png"
+    },
+    {
+      "type": "distractor",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "page": 260,
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_260.png"
+    },
+    {
+      "type": "distractor",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "page": 280,
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_280.png"
+    },
+    {
+      "type": "distractor",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "page": 282,
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_282.png"
+    },
+    {
+      "type": "distractor",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "page": 290,
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_290.png"
+    },
+    {
+      "type": "distractor",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "page": 294,
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_294.png"
+    },
+    {
+      "type": "distractor",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "page": 36,
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_36.png"
+    },
+    {
+      "type": "distractor",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "page": 4,
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_4.png"
+    },
+    {
+      "type": "distractor",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "page": 40,
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_40.png"
+    },
+    {
+      "type": "distractor",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "page": 45,
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_45.png"
+    },
+    {
+      "type": "distractor",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "page": 47,
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_47.png"
+    },
+    {
+      "type": "distractor",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "page": 50,
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_50.png"
+    },
+    {
+      "type": "distractor",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "page": 52,
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_52.png"
+    },
+    {
+      "type": "distractor",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "page": 53,
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_53.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "page": 57,
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_57.png"
+    },
+    {
+      "type": "distractor",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "page": 65,
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_65.png"
+    },
+    {
+      "type": "distractor",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "page": 66,
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_66.png"
+    },
+    {
+      "type": "distractor",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "page": 69,
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_69.png"
+    },
+    {
+      "type": "distractor",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "page": 79,
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_79.png"
+    },
+    {
+      "type": "distractor",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "page": 8,
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_8.png"
+    },
+    {
+      "type": "distractor",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "page": 85,
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_85.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "page": 99,
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_99.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 10,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_10.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 103,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_103.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 104,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_104.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 107,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_107.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 129,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_129.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 135,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_135.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 136,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_136.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 138,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_138.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 173,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_173.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 18,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_18.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 182,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_182.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 213,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_213.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 221,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_221.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 235,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_235.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 242,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_242.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 262,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_262.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 263,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_263.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 274,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_274.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 276,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_276.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 28,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_28.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 291,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_291.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 30,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_30.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 323,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_323.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 324,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_324.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 326,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_326.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 33,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_33.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 336,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_336.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 341,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_341.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 363,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_363.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 39,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_39.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 406,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_406.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 414,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_414.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 445,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_445.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 459,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_459.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 461,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_461.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 466,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_466.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 482,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_482.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 485,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_485.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 488,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_488.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 497,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_497.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 500,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_500.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 503,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_503.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 516,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_516.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 524,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_524.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 525,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_525.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 531,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_531.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 541,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_541.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 545,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_545.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 62,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_62.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 67,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_67.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 76,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_76.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 79,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_79.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 86,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_86.png"
+    },
+    {
+      "type": "distractor",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "page": 89,
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_89.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "【研报推荐】联博基金首只公募产品即将面世，工银瑞信沪深300ETF降费",
+      "page": 8,
+      "output_filename": "【研报推荐】联博基金首只公募产品即将面世，工银瑞信沪深300ETF降费_8.png"
+    },
+    {
+      "type": "distractor",
+      "document": "【研报推荐】联博基金首只公募产品即将面世，工银瑞信沪深300ETF降费",
+      "page": 9,
+      "output_filename": "【研报推荐】联博基金首只公募产品即将面世，工银瑞信沪深300ETF降费_9.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "【财经分析】日本央行按兵不动：市场寻找加息线索 日元面临新风险 - 中国金融信息网",
+      "page": 1,
+      "output_filename": "【财经分析】日本央行按兵不动：市场寻找加息线索 日元面临新风险 - 中国金融信息网_1.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "【财经分析】日本央行按兵不动：市场寻找加息线索 日元面临新风险 - 中国金融信息网",
+      "page": 2,
+      "output_filename": "【财经分析】日本央行按兵不动：市场寻找加息线索 日元面临新风险 - 中国金融信息网_2.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "中国人民大学国际货币研究所：中国财富管理行业趋势报告（2024上）",
+      "page": 12,
+      "output_filename": "中国人民大学国际货币研究所：中国财富管理行业趋势报告（2024上）_12.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国人民大学国际货币研究所：中国财富管理行业趋势报告（2024上）",
+      "page": 34,
+      "output_filename": "中国人民大学国际货币研究所：中国财富管理行业趋势报告（2024上）_34.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国共享经济发展年度报告（2019）",
+      "page": 21,
+      "output_filename": "中国共享经济发展年度报告（2019）_21.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "中国共享经济发展年度报告（2019）",
+      "page": 27,
+      "output_filename": "中国共享经济发展年度报告（2019）_27.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国共享经济发展年度报告（2019）",
+      "page": 34,
+      "output_filename": "中国共享经济发展年度报告（2019）_34.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国共享经济发展年度报告（2019）",
+      "page": 35,
+      "output_filename": "中国共享经济发展年度报告（2019）_35.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国共享经济发展年度报告（2019）",
+      "page": 41,
+      "output_filename": "中国共享经济发展年度报告（2019）_41.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "page": 143,
+      "output_filename": "中国工商银行股份有限公司2023年度报告_143.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "page": 144,
+      "output_filename": "中国工商银行股份有限公司2023年度报告_144.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "page": 149,
+      "output_filename": "中国工商银行股份有限公司2023年度报告_149.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "page": 162,
+      "output_filename": "中国工商银行股份有限公司2023年度报告_162.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "page": 17,
+      "output_filename": "中国工商银行股份有限公司2023年度报告_17.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "page": 182,
+      "output_filename": "中国工商银行股份有限公司2023年度报告_182.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "page": 188,
+      "output_filename": "中国工商银行股份有限公司2023年度报告_188.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "page": 231,
+      "output_filename": "中国工商银行股份有限公司2023年度报告_231.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "page": 232,
+      "output_filename": "中国工商银行股份有限公司2023年度报告_232.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "page": 233,
+      "output_filename": "中国工商银行股份有限公司2023年度报告_233.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "page": 234,
+      "output_filename": "中国工商银行股份有限公司2023年度报告_234.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "page": 238,
+      "output_filename": "中国工商银行股份有限公司2023年度报告_238.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "page": 243,
+      "output_filename": "中国工商银行股份有限公司2023年度报告_243.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "page": 246,
+      "output_filename": "中国工商银行股份有限公司2023年度报告_246.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "page": 253,
+      "output_filename": "中国工商银行股份有限公司2023年度报告_253.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "page": 259,
+      "output_filename": "中国工商银行股份有限公司2023年度报告_259.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "page": 264,
+      "output_filename": "中国工商银行股份有限公司2023年度报告_264.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "page": 269,
+      "output_filename": "中国工商银行股份有限公司2023年度报告_269.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "page": 273,
+      "output_filename": "中国工商银行股份有限公司2023年度报告_273.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "page": 281,
+      "output_filename": "中国工商银行股份有限公司2023年度报告_281.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "page": 301,
+      "output_filename": "中国工商银行股份有限公司2023年度报告_301.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "page": 309,
+      "output_filename": "中国工商银行股份有限公司2023年度报告_309.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "page": 314,
+      "output_filename": "中国工商银行股份有限公司2023年度报告_314.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "page": 317,
+      "output_filename": "中国工商银行股份有限公司2023年度报告_317.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "page": 322,
+      "output_filename": "中国工商银行股份有限公司2023年度报告_322.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "page": 323,
+      "output_filename": "中国工商银行股份有限公司2023年度报告_323.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "page": 340,
+      "output_filename": "中国工商银行股份有限公司2023年度报告_340.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "page": 344,
+      "output_filename": "中国工商银行股份有限公司2023年度报告_344.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "page": 346,
+      "output_filename": "中国工商银行股份有限公司2023年度报告_346.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "page": 358,
+      "output_filename": "中国工商银行股份有限公司2023年度报告_358.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "page": 36,
+      "output_filename": "中国工商银行股份有限公司2023年度报告_36.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "page": 382,
+      "output_filename": "中国工商银行股份有限公司2023年度报告_382.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "page": 384,
+      "output_filename": "中国工商银行股份有限公司2023年度报告_384.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "page": 393,
+      "output_filename": "中国工商银行股份有限公司2023年度报告_393.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "page": 394,
+      "output_filename": "中国工商银行股份有限公司2023年度报告_394.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "page": 69,
+      "output_filename": "中国工商银行股份有限公司2023年度报告_69.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "page": 71,
+      "output_filename": "中国工商银行股份有限公司2023年度报告_71.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "page": 72,
+      "output_filename": "中国工商银行股份有限公司2023年度报告_72.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "page": 73,
+      "output_filename": "中国工商银行股份有限公司2023年度报告_73.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "page": 82,
+      "output_filename": "中国工商银行股份有限公司2023年度报告_82.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "page": 84,
+      "output_filename": "中国工商银行股份有限公司2023年度报告_84.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "page": 90,
+      "output_filename": "中国工商银行股份有限公司2023年度报告_90.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "page": 97,
+      "output_filename": "中国工商银行股份有限公司2023年度报告_97.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国证券投资基金业协会：《声音》2024年第11期专题征文之十：基金投顾费率机制优化探讨（二）",
+      "page": 10,
+      "output_filename": "中国证券投资基金业协会：《声音》2024年第11期专题征文之十：基金投顾费率机制优化探讨（二）_10.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "中国证券投资基金业协会：《声音》2024年第11期专题征文之十：基金投顾费率机制优化探讨（二）",
+      "page": 6,
+      "output_filename": "中国证券投资基金业协会：《声音》2024年第11期专题征文之十：基金投顾费率机制优化探讨（二）_6.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "中国货币政策执行报告2022年第一季度",
+      "page": 10,
+      "output_filename": "中国货币政策执行报告2022年第一季度_10.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "中国货币政策执行报告2022年第一季度",
+      "page": 11,
+      "output_filename": "中国货币政策执行报告2022年第一季度_11.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国货币政策执行报告2022年第一季度",
+      "page": 27,
+      "output_filename": "中国货币政策执行报告2022年第一季度_27.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "中国货币政策执行报告2022年第一季度",
+      "page": 36,
+      "output_filename": "中国货币政策执行报告2022年第一季度_36.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国货币政策执行报告2022年第一季度",
+      "page": 38,
+      "output_filename": "中国货币政策执行报告2022年第一季度_38.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国货币政策执行报告2022年第一季度",
+      "page": 4,
+      "output_filename": "中国货币政策执行报告2022年第一季度_4.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国货币政策执行报告2022年第一季度",
+      "page": 41,
+      "output_filename": "中国货币政策执行报告2022年第一季度_41.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国货币政策执行报告2022年第一季度",
+      "page": 51,
+      "output_filename": "中国货币政策执行报告2022年第一季度_51.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国货币政策执行报告2022年第一季度",
+      "page": 57,
+      "output_filename": "中国货币政策执行报告2022年第一季度_57.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国货币政策执行报告2022年第一季度",
+      "page": 6,
+      "output_filename": "中国货币政策执行报告2022年第一季度_6.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国金融科技专题分析2020",
+      "page": 18,
+      "output_filename": "中国金融科技专题分析2020_18.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国金融科技专题分析2020",
+      "page": 35,
+      "output_filename": "中国金融科技专题分析2020_35.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国金融科技专题分析2020",
+      "page": 46,
+      "output_filename": "中国金融科技专题分析2020_46.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国金融科技专题分析2020",
+      "page": 5,
+      "output_filename": "中国金融科技专题分析2020_5.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国金融科技专题分析2020",
+      "page": 50,
+      "output_filename": "中国金融科技专题分析2020_50.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国金融科技专题分析2020",
+      "page": 51,
+      "output_filename": "中国金融科技专题分析2020_51.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "中国金融科技专题分析2020",
+      "page": 8,
+      "output_filename": "中国金融科技专题分析2020_8.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国金融稳定报告2016",
+      "page": 10,
+      "output_filename": "中国金融稳定报告2016_10.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国金融稳定报告2016",
+      "page": 130,
+      "output_filename": "中国金融稳定报告2016_130.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国金融稳定报告2016",
+      "page": 133,
+      "output_filename": "中国金融稳定报告2016_133.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国金融稳定报告2016",
+      "page": 139,
+      "output_filename": "中国金融稳定报告2016_139.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国金融稳定报告2016",
+      "page": 14,
+      "output_filename": "中国金融稳定报告2016_14.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国金融稳定报告2016",
+      "page": 146,
+      "output_filename": "中国金融稳定报告2016_146.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国金融稳定报告2016",
+      "page": 151,
+      "output_filename": "中国金融稳定报告2016_151.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国金融稳定报告2016",
+      "page": 156,
+      "output_filename": "中国金融稳定报告2016_156.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "中国金融稳定报告2016",
+      "page": 157,
+      "output_filename": "中国金融稳定报告2016_157.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "中国金融稳定报告2016",
+      "page": 158,
+      "output_filename": "中国金融稳定报告2016_158.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "中国金融稳定报告2016",
+      "page": 159,
+      "output_filename": "中国金融稳定报告2016_159.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "中国金融稳定报告2016",
+      "page": 160,
+      "output_filename": "中国金融稳定报告2016_160.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国金融稳定报告2016",
+      "page": 164,
+      "output_filename": "中国金融稳定报告2016_164.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国金融稳定报告2016",
+      "page": 167,
+      "output_filename": "中国金融稳定报告2016_167.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国金融稳定报告2016",
+      "page": 169,
+      "output_filename": "中国金融稳定报告2016_169.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国金融稳定报告2016",
+      "page": 170,
+      "output_filename": "中国金融稳定报告2016_170.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国金融稳定报告2016",
+      "page": 172,
+      "output_filename": "中国金融稳定报告2016_172.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国金融稳定报告2016",
+      "page": 173,
+      "output_filename": "中国金融稳定报告2016_173.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国金融稳定报告2016",
+      "page": 183,
+      "output_filename": "中国金融稳定报告2016_183.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国金融稳定报告2016",
+      "page": 185,
+      "output_filename": "中国金融稳定报告2016_185.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国金融稳定报告2016",
+      "page": 191,
+      "output_filename": "中国金融稳定报告2016_191.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国金融稳定报告2016",
+      "page": 24,
+      "output_filename": "中国金融稳定报告2016_24.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国金融稳定报告2016",
+      "page": 26,
+      "output_filename": "中国金融稳定报告2016_26.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国金融稳定报告2016",
+      "page": 30,
+      "output_filename": "中国金融稳定报告2016_30.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国金融稳定报告2016",
+      "page": 38,
+      "output_filename": "中国金融稳定报告2016_38.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国金融稳定报告2016",
+      "page": 40,
+      "output_filename": "中国金融稳定报告2016_40.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国金融稳定报告2016",
+      "page": 51,
+      "output_filename": "中国金融稳定报告2016_51.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国金融稳定报告2016",
+      "page": 53,
+      "output_filename": "中国金融稳定报告2016_53.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国金融稳定报告2017",
+      "page": 10,
+      "output_filename": "中国金融稳定报告2017_10.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国金融稳定报告2017",
+      "page": 107,
+      "output_filename": "中国金融稳定报告2017_107.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国金融稳定报告2017",
+      "page": 133,
+      "output_filename": "中国金融稳定报告2017_133.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国金融稳定报告2017",
+      "page": 135,
+      "output_filename": "中国金融稳定报告2017_135.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "中国金融稳定报告2017",
+      "page": 150,
+      "output_filename": "中国金融稳定报告2017_150.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国金融稳定报告2017",
+      "page": 30,
+      "output_filename": "中国金融稳定报告2017_30.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国金融稳定报告2017",
+      "page": 52,
+      "output_filename": "中国金融稳定报告2017_52.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国金融稳定报告2017",
+      "page": 65,
+      "output_filename": "中国金融稳定报告2017_65.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国金融稳定报告2017",
+      "page": 75,
+      "output_filename": "中国金融稳定报告2017_75.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国金融稳定报告2017",
+      "page": 76,
+      "output_filename": "中国金融稳定报告2017_76.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国金融稳定报告2017",
+      "page": 77,
+      "output_filename": "中国金融稳定报告2017_77.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国金融稳定报告2017",
+      "page": 80,
+      "output_filename": "中国金融稳定报告2017_80.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国金融稳定报告2017",
+      "page": 81,
+      "output_filename": "中国金融稳定报告2017_81.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国金融稳定报告2017",
+      "page": 85,
+      "output_filename": "中国金融稳定报告2017_85.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国银行中国经济金融展望报告（2025年）：增量政策加力显效，推动经济“V”型反转",
+      "page": 39,
+      "output_filename": "中国银行中国经济金融展望报告（2025年）：增量政策加力显效，推动经济“V”型反转_39.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国银行中国经济金融展望报告（2025年）：增量政策加力显效，推动经济“V”型反转",
+      "page": 42,
+      "output_filename": "中国银行中国经济金融展望报告（2025年）：增量政策加力显效，推动经济“V”型反转_42.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "中国银行中国经济金融展望报告（2025年）：增量政策加力显效，推动经济“V”型反转",
+      "page": 66,
+      "output_filename": "中国银行中国经济金融展望报告（2025年）：增量政策加力显效，推动经济“V”型反转_66.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国银行中国经济金融展望报告（2025年）：增量政策加力显效，推动经济“V”型反转",
+      "page": 69,
+      "output_filename": "中国银行中国经济金融展望报告（2025年）：增量政策加力显效，推动经济“V”型反转_69.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国银行中国经济金融展望报告（2025年）：增量政策加力显效，推动经济“V”型反转",
+      "page": 8,
+      "output_filename": "中国银行中国经济金融展望报告（2025年）：增量政策加力显效，推动经济“V”型反转_8.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国银行股份有限公司2024年半年度报告",
+      "page": 117,
+      "output_filename": "中国银行股份有限公司2024年半年度报告_117.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国银行股份有限公司2024年半年度报告",
+      "page": 133,
+      "output_filename": "中国银行股份有限公司2024年半年度报告_133.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国银行股份有限公司2024年半年度报告",
+      "page": 137,
+      "output_filename": "中国银行股份有限公司2024年半年度报告_137.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国银行股份有限公司2024年半年度报告",
+      "page": 14,
+      "output_filename": "中国银行股份有限公司2024年半年度报告_14.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国银行股份有限公司2024年半年度报告",
+      "page": 141,
+      "output_filename": "中国银行股份有限公司2024年半年度报告_141.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国银行股份有限公司2024年半年度报告",
+      "page": 148,
+      "output_filename": "中国银行股份有限公司2024年半年度报告_148.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国银行股份有限公司2024年半年度报告",
+      "page": 154,
+      "output_filename": "中国银行股份有限公司2024年半年度报告_154.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国银行股份有限公司2024年半年度报告",
+      "page": 155,
+      "output_filename": "中国银行股份有限公司2024年半年度报告_155.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国银行股份有限公司2024年半年度报告",
+      "page": 19,
+      "output_filename": "中国银行股份有限公司2024年半年度报告_19.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国银行股份有限公司2024年半年度报告",
+      "page": 40,
+      "output_filename": "中国银行股份有限公司2024年半年度报告_40.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "中国银行股份有限公司2024年半年度报告",
+      "page": 41,
+      "output_filename": "中国银行股份有限公司2024年半年度报告_41.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "中国银行股份有限公司2024年半年度报告",
+      "page": 53,
+      "output_filename": "中国银行股份有限公司2024年半年度报告_53.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国银行股份有限公司2024年半年度报告",
+      "page": 6,
+      "output_filename": "中国银行股份有限公司2024年半年度报告_6.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国银行股份有限公司2024年半年度报告",
+      "page": 64,
+      "output_filename": "中国银行股份有限公司2024年半年度报告_64.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国银行股份有限公司2024年半年度报告",
+      "page": 83,
+      "output_filename": "中国银行股份有限公司2024年半年度报告_83.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国银行股份有限公司2024年半年度报告",
+      "page": 89,
+      "output_filename": "中国银行股份有限公司2024年半年度报告_89.png"
+    },
+    {
+      "type": "distractor",
+      "document": "周期、重构、起航-2018年中国新经济创投白皮书",
+      "page": 100,
+      "output_filename": "周期、重构、起航-2018年中国新经济创投白皮书_100.png"
+    },
+    {
+      "type": "distractor",
+      "document": "周期、重构、起航-2018年中国新经济创投白皮书",
+      "page": 106,
+      "output_filename": "周期、重构、起航-2018年中国新经济创投白皮书_106.png"
+    },
+    {
+      "type": "distractor",
+      "document": "周期、重构、起航-2018年中国新经济创投白皮书",
+      "page": 115,
+      "output_filename": "周期、重构、起航-2018年中国新经济创投白皮书_115.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "周期、重构、起航-2018年中国新经济创投白皮书",
+      "page": 12,
+      "output_filename": "周期、重构、起航-2018年中国新经济创投白皮书_12.png"
+    },
+    {
+      "type": "distractor",
+      "document": "周期、重构、起航-2018年中国新经济创投白皮书",
+      "page": 126,
+      "output_filename": "周期、重构、起航-2018年中国新经济创投白皮书_126.png"
+    },
+    {
+      "type": "distractor",
+      "document": "周期、重构、起航-2018年中国新经济创投白皮书",
+      "page": 151,
+      "output_filename": "周期、重构、起航-2018年中国新经济创投白皮书_151.png"
+    },
+    {
+      "type": "distractor",
+      "document": "周期、重构、起航-2018年中国新经济创投白皮书",
+      "page": 163,
+      "output_filename": "周期、重构、起航-2018年中国新经济创投白皮书_163.png"
+    },
+    {
+      "type": "distractor",
+      "document": "周期、重构、起航-2018年中国新经济创投白皮书",
+      "page": 173,
+      "output_filename": "周期、重构、起航-2018年中国新经济创投白皮书_173.png"
+    },
+    {
+      "type": "distractor",
+      "document": "周期、重构、起航-2018年中国新经济创投白皮书",
+      "page": 180,
+      "output_filename": "周期、重构、起航-2018年中国新经济创投白皮书_180.png"
+    },
+    {
+      "type": "distractor",
+      "document": "周期、重构、起航-2018年中国新经济创投白皮书",
+      "page": 181,
+      "output_filename": "周期、重构、起航-2018年中国新经济创投白皮书_181.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "周期、重构、起航-2018年中国新经济创投白皮书",
+      "page": 189,
+      "output_filename": "周期、重构、起航-2018年中国新经济创投白皮书_189.png"
+    },
+    {
+      "type": "distractor",
+      "document": "周期、重构、起航-2018年中国新经济创投白皮书",
+      "page": 203,
+      "output_filename": "周期、重构、起航-2018年中国新经济创投白皮书_203.png"
+    },
+    {
+      "type": "distractor",
+      "document": "周期、重构、起航-2018年中国新经济创投白皮书",
+      "page": 212,
+      "output_filename": "周期、重构、起航-2018年中国新经济创投白皮书_212.png"
+    },
+    {
+      "type": "distractor",
+      "document": "周期、重构、起航-2018年中国新经济创投白皮书",
+      "page": 47,
+      "output_filename": "周期、重构、起航-2018年中国新经济创投白皮书_47.png"
+    },
+    {
+      "type": "distractor",
+      "document": "周期、重构、起航-2018年中国新经济创投白皮书",
+      "page": 48,
+      "output_filename": "周期、重构、起航-2018年中国新经济创投白皮书_48.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "周期、重构、起航-2018年中国新经济创投白皮书",
+      "page": 63,
+      "output_filename": "周期、重构、起航-2018年中国新经济创投白皮书_63.png"
+    },
+    {
+      "type": "distractor",
+      "document": "周期、重构、起航-2018年中国新经济创投白皮书",
+      "page": 82,
+      "output_filename": "周期、重构、起航-2018年中国新经济创投白皮书_82.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "周期、重构、起航-2018年中国新经济创投白皮书",
+      "page": 89,
+      "output_filename": "周期、重构、起航-2018年中国新经济创投白皮书_89.png"
+    },
+    {
+      "type": "distractor",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "page": 115,
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_115.png"
+    },
+    {
+      "type": "distractor",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "page": 124,
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_124.png"
+    },
+    {
+      "type": "distractor",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "page": 13,
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_13.png"
+    },
+    {
+      "type": "distractor",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "page": 146,
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_146.png"
+    },
+    {
+      "type": "distractor",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "page": 149,
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_149.png"
+    },
+    {
+      "type": "distractor",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "page": 157,
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_157.png"
+    },
+    {
+      "type": "distractor",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "page": 171,
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_171.png"
+    },
+    {
+      "type": "distractor",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "page": 172,
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_172.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "page": 191,
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_191.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "page": 195,
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_195.png"
+    },
+    {
+      "type": "distractor",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "page": 210,
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_210.png"
+    },
+    {
+      "type": "distractor",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "page": 213,
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_213.png"
+    },
+    {
+      "type": "distractor",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "page": 218,
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_218.png"
+    },
+    {
+      "type": "distractor",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "page": 245,
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_245.png"
+    },
+    {
+      "type": "distractor",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "page": 249,
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_249.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "page": 28,
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_28.png"
+    },
+    {
+      "type": "distractor",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "page": 286,
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_286.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "page": 29,
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_29.png"
+    },
+    {
+      "type": "distractor",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "page": 290,
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_290.png"
+    },
+    {
+      "type": "distractor",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "page": 294,
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_294.png"
+    },
+    {
+      "type": "distractor",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "page": 298,
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_298.png"
+    },
+    {
+      "type": "distractor",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "page": 299,
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_299.png"
+    },
+    {
+      "type": "distractor",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "page": 312,
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_312.png"
+    },
+    {
+      "type": "distractor",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "page": 43,
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_43.png"
+    },
+    {
+      "type": "distractor",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "page": 48,
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_48.png"
+    },
+    {
+      "type": "distractor",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "page": 60,
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_60.png"
+    },
+    {
+      "type": "distractor",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "page": 81,
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_81.png"
+    },
+    {
+      "type": "distractor",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "page": 86,
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_86.png"
+    },
+    {
+      "type": "distractor",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "page": 94,
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_94.png"
+    },
+    {
+      "type": "distractor",
+      "document": "天风证券：券商行业2025年年度策略：政策大利好不断，券商板块静待进攻",
+      "page": 22,
+      "output_filename": "天风证券：券商行业2025年年度策略：政策大利好不断，券商板块静待进攻_22.png"
+    },
+    {
+      "type": "distractor",
+      "document": "天风证券：券商行业2025年年度策略：政策大利好不断，券商板块静待进攻",
+      "page": 25,
+      "output_filename": "天风证券：券商行业2025年年度策略：政策大利好不断，券商板块静待进攻_25.png"
+    },
+    {
+      "type": "distractor",
+      "document": "天风证券：券商行业2025年年度策略：政策大利好不断，券商板块静待进攻",
+      "page": 3,
+      "output_filename": "天风证券：券商行业2025年年度策略：政策大利好不断，券商板块静待进攻_3.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "天风证券：券商行业2025年年度策略：政策大利好不断，券商板块静待进攻",
+      "page": 33,
+      "output_filename": "天风证券：券商行业2025年年度策略：政策大利好不断，券商板块静待进攻_33.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "宠物经济发展趋势研究报告",
+      "page": 8,
+      "output_filename": "宠物经济发展趋势研究报告_8.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "宠物经济发展趋势研究报告",
+      "page": 9,
+      "output_filename": "宠物经济发展趋势研究报告_9.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "德勤：2025年全球保险行业展望报告",
+      "page": 11,
+      "output_filename": "德勤：2025年全球保险行业展望报告_11.png"
+    },
+    {
+      "type": "distractor",
+      "document": "德勤：2025年全球保险行业展望报告",
+      "page": 5,
+      "output_filename": "德勤：2025年全球保险行业展望报告_5.png"
+    },
+    {
+      "type": "distractor",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "page": 114,
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_114.png"
+    },
+    {
+      "type": "distractor",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "page": 119,
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_119.png"
+    },
+    {
+      "type": "distractor",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "page": 152,
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_152.png"
+    },
+    {
+      "type": "distractor",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "page": 157,
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_157.png"
+    },
+    {
+      "type": "distractor",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "page": 162,
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_162.png"
+    },
+    {
+      "type": "distractor",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "page": 219,
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_219.png"
+    },
+    {
+      "type": "distractor",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "page": 221,
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_221.png"
+    },
+    {
+      "type": "distractor",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "page": 241,
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_241.png"
+    },
+    {
+      "type": "distractor",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "page": 243,
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_243.png"
+    },
+    {
+      "type": "distractor",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "page": 247,
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_247.png"
+    },
+    {
+      "type": "distractor",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "page": 25,
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_25.png"
+    },
+    {
+      "type": "distractor",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "page": 250,
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_250.png"
+    },
+    {
+      "type": "distractor",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "page": 251,
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_251.png"
+    },
+    {
+      "type": "distractor",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "page": 254,
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_254.png"
+    },
+    {
+      "type": "distractor",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "page": 26,
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_26.png"
+    },
+    {
+      "type": "distractor",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "page": 288,
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_288.png"
+    },
+    {
+      "type": "distractor",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "page": 294,
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_294.png"
+    },
+    {
+      "type": "distractor",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "page": 305,
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_305.png"
+    },
+    {
+      "type": "distractor",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "page": 316,
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_316.png"
+    },
+    {
+      "type": "distractor",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "page": 344,
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_344.png"
+    },
+    {
+      "type": "distractor",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "page": 346,
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_346.png"
+    },
+    {
+      "type": "distractor",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "page": 359,
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_359.png"
+    },
+    {
+      "type": "distractor",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "page": 373,
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_373.png"
+    },
+    {
+      "type": "distractor",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "page": 374,
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_374.png"
+    },
+    {
+      "type": "distractor",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "page": 404,
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_404.png"
+    },
+    {
+      "type": "distractor",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "page": 415,
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_415.png"
+    },
+    {
+      "type": "distractor",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "page": 48,
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_48.png"
+    },
+    {
+      "type": "distractor",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "page": 52,
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_52.png"
+    },
+    {
+      "type": "distractor",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "page": 55,
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_55.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "page": 56,
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_56.png"
+    },
+    {
+      "type": "distractor",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "page": 59,
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_59.png"
+    },
+    {
+      "type": "distractor",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "page": 70,
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_70.png"
+    },
+    {
+      "type": "distractor",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "page": 71,
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_71.png"
+    },
+    {
+      "type": "distractor",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "page": 83,
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_83.png"
+    },
+    {
+      "type": "distractor",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "page": 92,
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_92.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "海利尔：行业景气基本触底，期待新项目放量",
+      "page": 3,
+      "output_filename": "海利尔：行业景气基本触底，期待新项目放量_3.png"
+    },
+    {
+      "type": "distractor",
+      "document": "第一财经2023年11期",
+      "page": 107,
+      "output_filename": "第一财经2023年11期_107.png"
+    },
+    {
+      "type": "distractor",
+      "document": "第一财经2023年11期",
+      "page": 111,
+      "output_filename": "第一财经2023年11期_111.png"
+    },
+    {
+      "type": "distractor",
+      "document": "第一财经2023年11期",
+      "page": 116,
+      "output_filename": "第一财经2023年11期_116.png"
+    },
+    {
+      "type": "distractor",
+      "document": "第一财经2023年11期",
+      "page": 123,
+      "output_filename": "第一财经2023年11期_123.png"
+    },
+    {
+      "type": "distractor",
+      "document": "第一财经2023年11期",
+      "page": 139,
+      "output_filename": "第一财经2023年11期_139.png"
+    },
+    {
+      "type": "distractor",
+      "document": "第一财经2023年11期",
+      "page": 142,
+      "output_filename": "第一财经2023年11期_142.png"
+    },
+    {
+      "type": "distractor",
+      "document": "第一财经2023年11期",
+      "page": 27,
+      "output_filename": "第一财经2023年11期_27.png"
+    },
+    {
+      "type": "distractor",
+      "document": "第一财经2023年11期",
+      "page": 31,
+      "output_filename": "第一财经2023年11期_31.png"
+    },
+    {
+      "type": "distractor",
+      "document": "第一财经2023年11期",
+      "page": 50,
+      "output_filename": "第一财经2023年11期_50.png"
+    },
+    {
+      "type": "distractor",
+      "document": "第一财经2023年11期",
+      "page": 66,
+      "output_filename": "第一财经2023年11期_66.png"
+    },
+    {
+      "type": "distractor",
+      "document": "第一财经2023年11期",
+      "page": 68,
+      "output_filename": "第一财经2023年11期_68.png"
+    },
+    {
+      "type": "distractor",
+      "document": "第一财经2023年11期",
+      "page": 79,
+      "output_filename": "第一财经2023年11期_79.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "第一财经2023年11期",
+      "page": 94,
+      "output_filename": "第一财经2023年11期_94.png"
+    },
+    {
+      "type": "distractor",
+      "document": "第一财经2023年11期",
+      "page": 98,
+      "output_filename": "第一财经2023年11期_98.png"
+    },
+    {
+      "type": "distractor",
+      "document": "第一财经2023年8期",
+      "page": 125,
+      "output_filename": "第一财经2023年8期_125.png"
+    },
+    {
+      "type": "distractor",
+      "document": "第一财经2023年8期",
+      "page": 15,
+      "output_filename": "第一财经2023年8期_15.png"
+    },
+    {
+      "type": "distractor",
+      "document": "第一财经2023年8期",
+      "page": 36,
+      "output_filename": "第一财经2023年8期_36.png"
+    },
+    {
+      "type": "distractor",
+      "document": "第一财经2023年8期",
+      "page": 53,
+      "output_filename": "第一财经2023年8期_53.png"
+    },
+    {
+      "type": "distractor",
+      "document": "第一财经2023年8期",
+      "page": 55,
+      "output_filename": "第一财经2023年8期_55.png"
+    },
+    {
+      "type": "distractor",
+      "document": "第一财经2023年8期",
+      "page": 6,
+      "output_filename": "第一财经2023年8期_6.png"
+    },
+    {
+      "type": "distractor",
+      "document": "第一财经2023年8期",
+      "page": 74,
+      "output_filename": "第一财经2023年8期_74.png"
+    },
+    {
+      "type": "distractor",
+      "document": "第一财经2023年8期",
+      "page": 86,
+      "output_filename": "第一财经2023年8期_86.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "第一财经2023年8期",
+      "page": 99,
+      "output_filename": "第一财经2023年8期_99.png"
+    },
+    {
+      "type": "distractor",
+      "document": "第一财经2024年12期",
+      "page": 11,
+      "output_filename": "第一财经2024年12期_11.png"
+    },
+    {
+      "type": "distractor",
+      "document": "第一财经2024年12期",
+      "page": 120,
+      "output_filename": "第一财经2024年12期_120.png"
+    },
+    {
+      "type": "distractor",
+      "document": "第一财经2024年12期",
+      "page": 131,
+      "output_filename": "第一财经2024年12期_131.png"
+    },
+    {
+      "type": "distractor",
+      "document": "第一财经2024年12期",
+      "page": 150,
+      "output_filename": "第一财经2024年12期_150.png"
+    },
+    {
+      "type": "distractor",
+      "document": "第一财经2024年12期",
+      "page": 16,
+      "output_filename": "第一财经2024年12期_16.png"
+    },
+    {
+      "type": "distractor",
+      "document": "第一财经2024年12期",
+      "page": 170,
+      "output_filename": "第一财经2024年12期_170.png"
+    },
+    {
+      "type": "distractor",
+      "document": "第一财经2024年12期",
+      "page": 171,
+      "output_filename": "第一财经2024年12期_171.png"
+    },
+    {
+      "type": "distractor",
+      "document": "第一财经2024年12期",
+      "page": 175,
+      "output_filename": "第一财经2024年12期_175.png"
+    },
+    {
+      "type": "distractor",
+      "document": "第一财经2024年12期",
+      "page": 189,
+      "output_filename": "第一财经2024年12期_189.png"
+    },
+    {
+      "type": "distractor",
+      "document": "第一财经2024年12期",
+      "page": 191,
+      "output_filename": "第一财经2024年12期_191.png"
+    },
+    {
+      "type": "distractor",
+      "document": "第一财经2024年12期",
+      "page": 32,
+      "output_filename": "第一财经2024年12期_32.png"
+    },
+    {
+      "type": "distractor",
+      "document": "第一财经2024年12期",
+      "page": 6,
+      "output_filename": "第一财经2024年12期_6.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "第一财经2024年12期",
+      "page": 64,
+      "output_filename": "第一财经2024年12期_64.png"
+    },
+    {
+      "type": "distractor",
+      "document": "第一财经2024年12期",
+      "page": 73,
+      "output_filename": "第一财经2024年12期_73.png"
+    },
+    {
+      "type": "distractor",
+      "document": "第一财经2024年12期",
+      "page": 8,
+      "output_filename": "第一财经2024年12期_8.png"
+    },
+    {
+      "type": "distractor",
+      "document": "第一财经2024年4期",
+      "page": 117,
+      "output_filename": "第一财经2024年4期_117.png"
+    },
+    {
+      "type": "distractor",
+      "document": "第一财经2024年4期",
+      "page": 23,
+      "output_filename": "第一财经2024年4期_23.png"
+    },
+    {
+      "type": "distractor",
+      "document": "第一财经2024年4期",
+      "page": 45,
+      "output_filename": "第一财经2024年4期_45.png"
+    },
+    {
+      "type": "distractor",
+      "document": "第一财经2024年4期",
+      "page": 7,
+      "output_filename": "第一财经2024年4期_7.png"
+    },
+    {
+      "type": "distractor",
+      "document": "第一财经2024年4期",
+      "page": 73,
+      "output_filename": "第一财经2024年4期_73.png"
+    },
+    {
+      "type": "distractor",
+      "document": "第一财经2024年4期",
+      "page": 8,
+      "output_filename": "第一财经2024年4期_8.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "第一财经2024年4期",
+      "page": 80,
+      "output_filename": "第一财经2024年4期_80.png"
+    },
+    {
+      "type": "distractor",
+      "document": "财经2023第04期",
+      "page": 104,
+      "output_filename": "财经2023第04期_104.png"
+    },
+    {
+      "type": "distractor",
+      "document": "财经2023第04期",
+      "page": 106,
+      "output_filename": "财经2023第04期_106.png"
+    },
+    {
+      "type": "distractor",
+      "document": "财经2023第04期",
+      "page": 107,
+      "output_filename": "财经2023第04期_107.png"
+    },
+    {
+      "type": "distractor",
+      "document": "财经2023第04期",
+      "page": 117,
+      "output_filename": "财经2023第04期_117.png"
+    },
+    {
+      "type": "distractor",
+      "document": "财经2023第04期",
+      "page": 20,
+      "output_filename": "财经2023第04期_20.png"
+    },
+    {
+      "type": "distractor",
+      "document": "财经2023第04期",
+      "page": 21,
+      "output_filename": "财经2023第04期_21.png"
+    },
+    {
+      "type": "distractor",
+      "document": "财经2023第04期",
+      "page": 31,
+      "output_filename": "财经2023第04期_31.png"
+    },
+    {
+      "type": "distractor",
+      "document": "财经2023第04期",
+      "page": 37,
+      "output_filename": "财经2023第04期_37.png"
+    },
+    {
+      "type": "distractor",
+      "document": "财经2023第04期",
+      "page": 50,
+      "output_filename": "财经2023第04期_50.png"
+    },
+    {
+      "type": "distractor",
+      "document": "财经2023第04期",
+      "page": 62,
+      "output_filename": "财经2023第04期_62.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "财经2023第04期",
+      "page": 76,
+      "output_filename": "财经2023第04期_76.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "财经2023第04期",
+      "page": 78,
+      "output_filename": "财经2023第04期_78.png"
+    },
+    {
+      "type": "distractor",
+      "document": "财经2023第04期",
+      "page": 81,
+      "output_filename": "财经2023第04期_81.png"
+    },
+    {
+      "type": "distractor",
+      "document": "财经2023第04期",
+      "page": 82,
+      "output_filename": "财经2023第04期_82.png"
+    },
+    {
+      "type": "distractor",
+      "document": "财经2023第04期",
+      "page": 87,
+      "output_filename": "财经2023第04期_87.png"
+    },
+    {
+      "type": "distractor",
+      "document": "财经2023第04期",
+      "page": 9,
+      "output_filename": "财经2023第04期_9.png"
+    },
+    {
+      "type": "distractor",
+      "document": "财经2023第04期",
+      "page": 93,
+      "output_filename": "财经2023第04期_93.png"
+    },
+    {
+      "type": "distractor",
+      "document": "财经2024年7期",
+      "page": 100,
+      "output_filename": "财经2024年7期_100.png"
+    },
+    {
+      "type": "distractor",
+      "document": "财经2024年7期",
+      "page": 17,
+      "output_filename": "财经2024年7期_17.png"
+    },
+    {
+      "type": "distractor",
+      "document": "财经2024年7期",
+      "page": 31,
+      "output_filename": "财经2024年7期_31.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "财经2024年7期",
+      "page": 32,
+      "output_filename": "财经2024年7期_32.png"
+    },
+    {
+      "type": "distractor",
+      "document": "财经2024年7期",
+      "page": 35,
+      "output_filename": "财经2024年7期_35.png"
+    },
+    {
+      "type": "distractor",
+      "document": "财经2024年7期",
+      "page": 37,
+      "output_filename": "财经2024年7期_37.png"
+    },
+    {
+      "type": "distractor",
+      "document": "财经2024年7期",
+      "page": 71,
+      "output_filename": "财经2024年7期_71.png"
+    },
+    {
+      "type": "distractor",
+      "document": "财经2024年7期",
+      "page": 76,
+      "output_filename": "财经2024年7期_76.png"
+    },
+    {
+      "type": "distractor",
+      "document": "财经2024年7期",
+      "page": 8,
+      "output_filename": "财经2024年7期_8.png"
+    },
+    {
+      "type": "distractor",
+      "document": "财经2024年7期",
+      "page": 87,
+      "output_filename": "财经2024年7期_87.png"
+    },
+    {
+      "type": "distractor",
+      "document": "财经2024年7期",
+      "page": 90,
+      "output_filename": "财经2024年7期_90.png"
+    },
+    {
+      "type": "distractor",
+      "document": "财经2024年7期",
+      "page": 94,
+      "output_filename": "财经2024年7期_94.png"
+    },
+    {
+      "type": "distractor",
+      "document": "财经2024年8期",
+      "page": 113,
+      "output_filename": "财经2024年8期_113.png"
+    },
+    {
+      "type": "distractor",
+      "document": "财经2024年8期",
+      "page": 114,
+      "output_filename": "财经2024年8期_114.png"
+    },
+    {
+      "type": "distractor",
+      "document": "财经2024年8期",
+      "page": 18,
+      "output_filename": "财经2024年8期_18.png"
+    },
+    {
+      "type": "distractor",
+      "document": "财经2024年8期",
+      "page": 28,
+      "output_filename": "财经2024年8期_28.png"
+    },
+    {
+      "type": "distractor",
+      "document": "财经2024年8期",
+      "page": 3,
+      "output_filename": "财经2024年8期_3.png"
+    },
+    {
+      "type": "distractor",
+      "document": "财经2024年8期",
+      "page": 52,
+      "output_filename": "财经2024年8期_52.png"
+    },
+    {
+      "type": "distractor",
+      "document": "财经2024年8期",
+      "page": 60,
+      "output_filename": "财经2024年8期_60.png"
+    },
+    {
+      "type": "distractor",
+      "document": "财经2024年8期",
+      "page": 63,
+      "output_filename": "财经2024年8期_63.png"
+    },
+    {
+      "type": "distractor",
+      "document": "财经2024年8期",
+      "page": 64,
+      "output_filename": "财经2024年8期_64.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "财经2024年8期",
+      "page": 71,
+      "output_filename": "财经2024年8期_71.png"
+    },
+    {
+      "type": "distractor",
+      "document": "财经2024年8期",
+      "page": 79,
+      "output_filename": "财经2024年8期_79.png"
+    },
+    {
+      "type": "distractor",
+      "document": "财经2024年8期",
+      "page": 9,
+      "output_filename": "财经2024年8期_9.png"
+    },
+    {
+      "type": "distractor",
+      "document": "财经2024年8期",
+      "page": 97,
+      "output_filename": "财经2024年8期_97.png"
+    },
+    {
+      "type": "distractor",
+      "document": "财经2024年9期",
+      "page": 102,
+      "output_filename": "财经2024年9期_102.png"
+    },
+    {
+      "type": "distractor",
+      "document": "财经2024年9期",
+      "page": 11,
+      "output_filename": "财经2024年9期_11.png"
+    },
+    {
+      "type": "distractor",
+      "document": "财经2024年9期",
+      "page": 117,
+      "output_filename": "财经2024年9期_117.png"
+    },
+    {
+      "type": "distractor",
+      "document": "财经2024年9期",
+      "page": 22,
+      "output_filename": "财经2024年9期_22.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "财经2024年9期",
+      "page": 37,
+      "output_filename": "财经2024年9期_37.png"
+    },
+    {
+      "type": "distractor",
+      "document": "财经2024年9期",
+      "page": 66,
+      "output_filename": "财经2024年9期_66.png"
+    },
+    {
+      "type": "distractor",
+      "document": "财经2024年9期",
+      "page": 69,
+      "output_filename": "财经2024年9期_69.png"
+    },
+    {
+      "type": "distractor",
+      "document": "财经2024年9期",
+      "page": 75,
+      "output_filename": "财经2024年9期_75.png"
+    },
+    {
+      "type": "distractor",
+      "document": "财经2024年9期",
+      "page": 88,
+      "output_filename": "财经2024年9期_88.png"
+    },
+    {
+      "type": "distractor",
+      "document": "财经2024年9期",
+      "page": 90,
+      "output_filename": "财经2024年9期_90.png"
+    },
+    {
+      "type": "distractor",
+      "document": "转型中的中东经济——中国与中东经贸合作前景广阔",
+      "page": 13,
+      "output_filename": "转型中的中东经济——中国与中东经贸合作前景广阔_13.png"
+    },
+    {
+      "type": "distractor",
+      "document": "转型中的中东经济——中国与中东经贸合作前景广阔",
+      "page": 16,
+      "output_filename": "转型中的中东经济——中国与中东经贸合作前景广阔_16.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "转型中的中东经济——中国与中东经贸合作前景广阔",
+      "page": 31,
+      "output_filename": "转型中的中东经济——中国与中东经贸合作前景广阔_31.png"
+    },
+    {
+      "type": "distractor",
+      "document": "转型中的中东经济——中国与中东经贸合作前景广阔",
+      "page": 48,
+      "output_filename": "转型中的中东经济——中国与中东经贸合作前景广阔_48.png"
+    },
+    {
+      "type": "distractor",
+      "document": "转型中的中东经济——中国与中东经贸合作前景广阔",
+      "page": 49,
+      "output_filename": "转型中的中东经济——中国与中东经贸合作前景广阔_49.png"
+    },
+    {
+      "type": "distractor",
+      "document": "转型中的中东经济——中国与中东经贸合作前景广阔",
+      "page": 56,
+      "output_filename": "转型中的中东经济——中国与中东经贸合作前景广阔_56.png"
+    },
+    {
+      "type": "distractor",
+      "document": "转型中的中东经济——中国与中东经贸合作前景广阔",
+      "page": 66,
+      "output_filename": "转型中的中东经济——中国与中东经贸合作前景广阔_66.png"
+    },
+    {
+      "type": "distractor",
+      "document": "转型中的中东经济——中国与中东经贸合作前景广阔",
+      "page": 8,
+      "output_filename": "转型中的中东经济——中国与中东经贸合作前景广阔_8.png"
+    },
+    {
+      "type": "distractor",
+      "document": "转型中的中东经济——中国与中东经贸合作前景广阔",
+      "page": 9,
+      "output_filename": "转型中的中东经济——中国与中东经贸合作前景广阔_9.png"
+    },
+    {
+      "type": "distractor",
+      "document": "远东资信：《远东信用观察》2024年第2期",
+      "page": 107,
+      "output_filename": "远东资信：《远东信用观察》2024年第2期_107.png"
+    },
+    {
+      "type": "distractor",
+      "document": "远东资信：《远东信用观察》2024年第2期",
+      "page": 116,
+      "output_filename": "远东资信：《远东信用观察》2024年第2期_116.png"
+    },
+    {
+      "type": "distractor",
+      "document": "远东资信：《远东信用观察》2024年第2期",
+      "page": 128,
+      "output_filename": "远东资信：《远东信用观察》2024年第2期_128.png"
+    },
+    {
+      "type": "distractor",
+      "document": "远东资信：《远东信用观察》2024年第2期",
+      "page": 131,
+      "output_filename": "远东资信：《远东信用观察》2024年第2期_131.png"
+    },
+    {
+      "type": "distractor",
+      "document": "远东资信：《远东信用观察》2024年第2期",
+      "page": 31,
+      "output_filename": "远东资信：《远东信用观察》2024年第2期_31.png"
+    },
+    {
+      "type": "distractor",
+      "document": "远东资信：《远东信用观察》2024年第2期",
+      "page": 35,
+      "output_filename": "远东资信：《远东信用观察》2024年第2期_35.png"
+    },
+    {
+      "type": "distractor",
+      "document": "远东资信：《远东信用观察》2024年第2期",
+      "page": 42,
+      "output_filename": "远东资信：《远东信用观察》2024年第2期_42.png"
+    },
+    {
+      "type": "distractor",
+      "document": "远东资信：《远东信用观察》2024年第2期",
+      "page": 46,
+      "output_filename": "远东资信：《远东信用观察》2024年第2期_46.png"
+    },
+    {
+      "type": "distractor",
+      "document": "远东资信：《远东信用观察》2024年第2期",
+      "page": 48,
+      "output_filename": "远东资信：《远东信用观察》2024年第2期_48.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "远东资信：《远东信用观察》2024年第2期",
+      "page": 62,
+      "output_filename": "远东资信：《远东信用观察》2024年第2期_62.png"
+    },
+    {
+      "type": "distractor",
+      "document": "远东资信：《远东信用观察》2024年第2期",
+      "page": 68,
+      "output_filename": "远东资信：《远东信用观察》2024年第2期_68.png"
+    },
+    {
+      "type": "distractor",
+      "document": "远东资信：《远东信用观察》2024年第2期",
+      "page": 93,
+      "output_filename": "远东资信：《远东信用观察》2024年第2期_93.png"
+    },
+    {
+      "type": "distractor",
+      "document": "金融数字化发展联盟：2024年消费金融数字化转型主题调研报告",
+      "page": 110,
+      "output_filename": "金融数字化发展联盟：2024年消费金融数字化转型主题调研报告_110.png"
+    },
+    {
+      "type": "distractor",
+      "document": "金融数字化发展联盟：2024年消费金融数字化转型主题调研报告",
+      "page": 114,
+      "output_filename": "金融数字化发展联盟：2024年消费金融数字化转型主题调研报告_114.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "金融数字化发展联盟：2024年消费金融数字化转型主题调研报告",
+      "page": 130,
+      "output_filename": "金融数字化发展联盟：2024年消费金融数字化转型主题调研报告_130.png"
+    },
+    {
+      "type": "distractor",
+      "document": "金融数字化发展联盟：2024年消费金融数字化转型主题调研报告",
+      "page": 14,
+      "output_filename": "金融数字化发展联盟：2024年消费金融数字化转型主题调研报告_14.png"
+    },
+    {
+      "type": "distractor",
+      "document": "金融数字化发展联盟：2024年消费金融数字化转型主题调研报告",
+      "page": 149,
+      "output_filename": "金融数字化发展联盟：2024年消费金融数字化转型主题调研报告_149.png"
+    },
+    {
+      "type": "distractor",
+      "document": "金融数字化发展联盟：2024年消费金融数字化转型主题调研报告",
+      "page": 16,
+      "output_filename": "金融数字化发展联盟：2024年消费金融数字化转型主题调研报告_16.png"
+    },
+    {
+      "type": "distractor",
+      "document": "金融数字化发展联盟：2024年消费金融数字化转型主题调研报告",
+      "page": 36,
+      "output_filename": "金融数字化发展联盟：2024年消费金融数字化转型主题调研报告_36.png"
+    },
+    {
+      "type": "distractor",
+      "document": "金融数字化发展联盟：2024年消费金融数字化转型主题调研报告",
+      "page": 92,
+      "output_filename": "金融数字化发展联盟：2024年消费金融数字化转型主题调研报告_92.png"
+    },
+    {
+      "type": "distractor",
+      "document": "金融数字化发展联盟：2024年消费金融数字化转型主题调研报告",
+      "page": 99,
+      "output_filename": "金融数字化发展联盟：2024年消费金融数字化转型主题调研报告_99.png"
+    },
+    {
+      "type": "distractor",
+      "document": "麦肯锡全球银行业年度报告",
+      "page": 17,
+      "output_filename": "麦肯锡全球银行业年度报告_17.png"
+    },
+    {
+      "type": "distractor",
+      "document": "麦肯锡全球银行业年度报告",
+      "page": 37,
+      "output_filename": "麦肯锡全球银行业年度报告_37.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "麦肯锡全球银行业年度报告",
+      "page": 38,
+      "output_filename": "麦肯锡全球银行业年度报告_38.png"
+    },
+    {
+      "type": "distractor",
+      "document": "麦肯锡全球银行业年度报告",
+      "page": 8,
+      "output_filename": "麦肯锡全球银行业年度报告_8.png"
+    }
+  ]
+}

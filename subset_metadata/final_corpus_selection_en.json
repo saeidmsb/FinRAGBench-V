@@ -1,0 +1,3070 @@
+{
+  "language": "en",
+  "random_seed": 42,
+  "target_corpus_size": 500,
+  "source_document_count": 38,
+  "available_pdf_pages": 3516,
+  "gold_item_count": 56,
+  "distractor_candidate_count": 3459,
+  "selected_distractor_count": 444,
+  "duplicate_count": 0,
+  "items": [
+    {
+      "type": "distractor",
+      "document": "0001558370-24-014874",
+      "page": 14,
+      "output_filename": "0001558370-24-014874_14.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "0001558370-24-014874",
+      "page": 22,
+      "output_filename": "0001558370-24-014874_22.png"
+    },
+    {
+      "type": "distractor",
+      "document": "0001558370-24-014874",
+      "page": 3,
+      "output_filename": "0001558370-24-014874_3.png"
+    },
+    {
+      "type": "distractor",
+      "document": "0001558370-24-014874",
+      "page": 9,
+      "output_filename": "0001558370-24-014874_9.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2021中国豪华车市场研究报告英文版",
+      "page": 12,
+      "output_filename": "2021中国豪华车市场研究报告英文版_12.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "2021中国豪华车市场研究报告英文版",
+      "page": 18,
+      "output_filename": "2021中国豪华车市场研究报告英文版_18.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2021中国豪华车市场研究报告英文版",
+      "page": 19,
+      "output_filename": "2021中国豪华车市场研究报告英文版_19.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2021中国豪华车市场研究报告英文版",
+      "page": 28,
+      "output_filename": "2021中国豪华车市场研究报告英文版_28.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2021中国豪华车市场研究报告英文版",
+      "page": 41,
+      "output_filename": "2021中国豪华车市场研究报告英文版_41.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2021中国豪华车市场研究报告英文版",
+      "page": 6,
+      "output_filename": "2021中国豪华车市场研究报告英文版_6.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2021中国豪华车市场研究报告英文版",
+      "page": 9,
+      "output_filename": "2021中国豪华车市场研究报告英文版_9.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年世界发展报告：逐渐复苏的融资（英文版）",
+      "page": 113,
+      "output_filename": "2022年世界发展报告：逐渐复苏的融资（英文版）_113.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年世界发展报告：逐渐复苏的融资（英文版）",
+      "page": 123,
+      "output_filename": "2022年世界发展报告：逐渐复苏的融资（英文版）_123.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年世界发展报告：逐渐复苏的融资（英文版）",
+      "page": 128,
+      "output_filename": "2022年世界发展报告：逐渐复苏的融资（英文版）_128.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年世界发展报告：逐渐复苏的融资（英文版）",
+      "page": 141,
+      "output_filename": "2022年世界发展报告：逐渐复苏的融资（英文版）_141.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年世界发展报告：逐渐复苏的融资（英文版）",
+      "page": 143,
+      "output_filename": "2022年世界发展报告：逐渐复苏的融资（英文版）_143.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年世界发展报告：逐渐复苏的融资（英文版）",
+      "page": 15,
+      "output_filename": "2022年世界发展报告：逐渐复苏的融资（英文版）_15.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年世界发展报告：逐渐复苏的融资（英文版）",
+      "page": 157,
+      "output_filename": "2022年世界发展报告：逐渐复苏的融资（英文版）_157.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年世界发展报告：逐渐复苏的融资（英文版）",
+      "page": 165,
+      "output_filename": "2022年世界发展报告：逐渐复苏的融资（英文版）_165.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年世界发展报告：逐渐复苏的融资（英文版）",
+      "page": 168,
+      "output_filename": "2022年世界发展报告：逐渐复苏的融资（英文版）_168.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年世界发展报告：逐渐复苏的融资（英文版）",
+      "page": 170,
+      "output_filename": "2022年世界发展报告：逐渐复苏的融资（英文版）_170.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年世界发展报告：逐渐复苏的融资（英文版）",
+      "page": 173,
+      "output_filename": "2022年世界发展报告：逐渐复苏的融资（英文版）_173.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年世界发展报告：逐渐复苏的融资（英文版）",
+      "page": 175,
+      "output_filename": "2022年世界发展报告：逐渐复苏的融资（英文版）_175.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年世界发展报告：逐渐复苏的融资（英文版）",
+      "page": 176,
+      "output_filename": "2022年世界发展报告：逐渐复苏的融资（英文版）_176.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年世界发展报告：逐渐复苏的融资（英文版）",
+      "page": 177,
+      "output_filename": "2022年世界发展报告：逐渐复苏的融资（英文版）_177.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年世界发展报告：逐渐复苏的融资（英文版）",
+      "page": 184,
+      "output_filename": "2022年世界发展报告：逐渐复苏的融资（英文版）_184.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年世界发展报告：逐渐复苏的融资（英文版）",
+      "page": 185,
+      "output_filename": "2022年世界发展报告：逐渐复苏的融资（英文版）_185.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年世界发展报告：逐渐复苏的融资（英文版）",
+      "page": 196,
+      "output_filename": "2022年世界发展报告：逐渐复苏的融资（英文版）_196.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年世界发展报告：逐渐复苏的融资（英文版）",
+      "page": 198,
+      "output_filename": "2022年世界发展报告：逐渐复苏的融资（英文版）_198.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "2022年世界发展报告：逐渐复苏的融资（英文版）",
+      "page": 199,
+      "output_filename": "2022年世界发展报告：逐渐复苏的融资（英文版）_199.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年世界发展报告：逐渐复苏的融资（英文版）",
+      "page": 208,
+      "output_filename": "2022年世界发展报告：逐渐复苏的融资（英文版）_208.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年世界发展报告：逐渐复苏的融资（英文版）",
+      "page": 213,
+      "output_filename": "2022年世界发展报告：逐渐复苏的融资（英文版）_213.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年世界发展报告：逐渐复苏的融资（英文版）",
+      "page": 215,
+      "output_filename": "2022年世界发展报告：逐渐复苏的融资（英文版）_215.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年世界发展报告：逐渐复苏的融资（英文版）",
+      "page": 217,
+      "output_filename": "2022年世界发展报告：逐渐复苏的融资（英文版）_217.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年世界发展报告：逐渐复苏的融资（英文版）",
+      "page": 218,
+      "output_filename": "2022年世界发展报告：逐渐复苏的融资（英文版）_218.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年世界发展报告：逐渐复苏的融资（英文版）",
+      "page": 22,
+      "output_filename": "2022年世界发展报告：逐渐复苏的融资（英文版）_22.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年世界发展报告：逐渐复苏的融资（英文版）",
+      "page": 220,
+      "output_filename": "2022年世界发展报告：逐渐复苏的融资（英文版）_220.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年世界发展报告：逐渐复苏的融资（英文版）",
+      "page": 221,
+      "output_filename": "2022年世界发展报告：逐渐复苏的融资（英文版）_221.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "2022年世界发展报告：逐渐复苏的融资（英文版）",
+      "page": 227,
+      "output_filename": "2022年世界发展报告：逐渐复苏的融资（英文版）_227.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年世界发展报告：逐渐复苏的融资（英文版）",
+      "page": 228,
+      "output_filename": "2022年世界发展报告：逐渐复苏的融资（英文版）_228.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年世界发展报告：逐渐复苏的融资（英文版）",
+      "page": 230,
+      "output_filename": "2022年世界发展报告：逐渐复苏的融资（英文版）_230.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年世界发展报告：逐渐复苏的融资（英文版）",
+      "page": 235,
+      "output_filename": "2022年世界发展报告：逐渐复苏的融资（英文版）_235.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年世界发展报告：逐渐复苏的融资（英文版）",
+      "page": 238,
+      "output_filename": "2022年世界发展报告：逐渐复苏的融资（英文版）_238.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年世界发展报告：逐渐复苏的融资（英文版）",
+      "page": 246,
+      "output_filename": "2022年世界发展报告：逐渐复苏的融资（英文版）_246.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年世界发展报告：逐渐复苏的融资（英文版）",
+      "page": 260,
+      "output_filename": "2022年世界发展报告：逐渐复苏的融资（英文版）_260.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年世界发展报告：逐渐复苏的融资（英文版）",
+      "page": 264,
+      "output_filename": "2022年世界发展报告：逐渐复苏的融资（英文版）_264.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年世界发展报告：逐渐复苏的融资（英文版）",
+      "page": 266,
+      "output_filename": "2022年世界发展报告：逐渐复苏的融资（英文版）_266.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年世界发展报告：逐渐复苏的融资（英文版）",
+      "page": 273,
+      "output_filename": "2022年世界发展报告：逐渐复苏的融资（英文版）_273.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年世界发展报告：逐渐复苏的融资（英文版）",
+      "page": 38,
+      "output_filename": "2022年世界发展报告：逐渐复苏的融资（英文版）_38.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年世界发展报告：逐渐复苏的融资（英文版）",
+      "page": 44,
+      "output_filename": "2022年世界发展报告：逐渐复苏的融资（英文版）_44.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年世界发展报告：逐渐复苏的融资（英文版）",
+      "page": 58,
+      "output_filename": "2022年世界发展报告：逐渐复苏的融资（英文版）_58.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年世界发展报告：逐渐复苏的融资（英文版）",
+      "page": 64,
+      "output_filename": "2022年世界发展报告：逐渐复苏的融资（英文版）_64.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年世界发展报告：逐渐复苏的融资（英文版）",
+      "page": 66,
+      "output_filename": "2022年世界发展报告：逐渐复苏的融资（英文版）_66.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年世界发展报告：逐渐复苏的融资（英文版）",
+      "page": 67,
+      "output_filename": "2022年世界发展报告：逐渐复苏的融资（英文版）_67.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年世界发展报告：逐渐复苏的融资（英文版）",
+      "page": 98,
+      "output_filename": "2022年世界发展报告：逐渐复苏的融资（英文版）_98.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年促进有效的能源转型（英文版）",
+      "page": 13,
+      "output_filename": "2022年促进有效的能源转型（英文版）_13.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "2022年促进有效的能源转型（英文版）",
+      "page": 22,
+      "output_filename": "2022年促进有效的能源转型（英文版）_22.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年促进有效的能源转型（英文版）",
+      "page": 30,
+      "output_filename": "2022年促进有效的能源转型（英文版）_30.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年促进有效的能源转型（英文版）",
+      "page": 37,
+      "output_filename": "2022年促进有效的能源转型（英文版）_37.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年促进有效的能源转型（英文版）",
+      "page": 40,
+      "output_filename": "2022年促进有效的能源转型（英文版）_40.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年促进有效的能源转型（英文版）",
+      "page": 41,
+      "output_filename": "2022年促进有效的能源转型（英文版）_41.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年促进有效的能源转型（英文版）",
+      "page": 44,
+      "output_filename": "2022年促进有效的能源转型（英文版）_44.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年促进有效的能源转型（英文版）",
+      "page": 54,
+      "output_filename": "2022年促进有效的能源转型（英文版）_54.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年促进有效的能源转型（英文版）",
+      "page": 55,
+      "output_filename": "2022年促进有效的能源转型（英文版）_55.png"
+    },
+    {
+      "type": "distractor",
+      "document": "2022年促进有效的能源转型（英文版）",
+      "page": 7,
+      "output_filename": "2022年促进有效的能源转型（英文版）_7.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2020",
+      "page": 10,
+      "output_filename": "AIM_CRW_2020_10.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2020",
+      "page": 14,
+      "output_filename": "AIM_CRW_2020_14.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2020",
+      "page": 19,
+      "output_filename": "AIM_CRW_2020_19.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2020",
+      "page": 2,
+      "output_filename": "AIM_CRW_2020_2.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2020",
+      "page": 20,
+      "output_filename": "AIM_CRW_2020_20.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2020",
+      "page": 25,
+      "output_filename": "AIM_CRW_2020_25.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2020",
+      "page": 36,
+      "output_filename": "AIM_CRW_2020_36.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2020",
+      "page": 39,
+      "output_filename": "AIM_CRW_2020_39.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2020",
+      "page": 4,
+      "output_filename": "AIM_CRW_2020_4.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2020",
+      "page": 48,
+      "output_filename": "AIM_CRW_2020_48.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2020",
+      "page": 50,
+      "output_filename": "AIM_CRW_2020_50.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2020",
+      "page": 57,
+      "output_filename": "AIM_CRW_2020_57.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2020",
+      "page": 59,
+      "output_filename": "AIM_CRW_2020_59.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2020",
+      "page": 70,
+      "output_filename": "AIM_CRW_2020_70.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "AIM_CRW_2020",
+      "page": 71,
+      "output_filename": "AIM_CRW_2020_71.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2020",
+      "page": 74,
+      "output_filename": "AIM_CRW_2020_74.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "AIM_CRW_2020",
+      "page": 78,
+      "output_filename": "AIM_CRW_2020_78.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "AIM_CRW_2021",
+      "page": 16,
+      "output_filename": "AIM_CRW_2021_16.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2021",
+      "page": 2,
+      "output_filename": "AIM_CRW_2021_2.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2021",
+      "page": 23,
+      "output_filename": "AIM_CRW_2021_23.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2021",
+      "page": 27,
+      "output_filename": "AIM_CRW_2021_27.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2021",
+      "page": 37,
+      "output_filename": "AIM_CRW_2021_37.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2021",
+      "page": 48,
+      "output_filename": "AIM_CRW_2021_48.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2021",
+      "page": 53,
+      "output_filename": "AIM_CRW_2021_53.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2021",
+      "page": 54,
+      "output_filename": "AIM_CRW_2021_54.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2021",
+      "page": 6,
+      "output_filename": "AIM_CRW_2021_6.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2021",
+      "page": 62,
+      "output_filename": "AIM_CRW_2021_62.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2021",
+      "page": 78,
+      "output_filename": "AIM_CRW_2021_78.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2021",
+      "page": 83,
+      "output_filename": "AIM_CRW_2021_83.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2021",
+      "page": 86,
+      "output_filename": "AIM_CRW_2021_86.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2021",
+      "page": 97,
+      "output_filename": "AIM_CRW_2021_97.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2022",
+      "page": 110,
+      "output_filename": "AIM_CRW_2022_110.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "AIM_CRW_2022",
+      "page": 121,
+      "output_filename": "AIM_CRW_2022_121.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "AIM_CRW_2022",
+      "page": 123,
+      "output_filename": "AIM_CRW_2022_123.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2022",
+      "page": 143,
+      "output_filename": "AIM_CRW_2022_143.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2022",
+      "page": 34,
+      "output_filename": "AIM_CRW_2022_34.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2022",
+      "page": 42,
+      "output_filename": "AIM_CRW_2022_42.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2022",
+      "page": 44,
+      "output_filename": "AIM_CRW_2022_44.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2022",
+      "page": 52,
+      "output_filename": "AIM_CRW_2022_52.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2022",
+      "page": 54,
+      "output_filename": "AIM_CRW_2022_54.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2022",
+      "page": 55,
+      "output_filename": "AIM_CRW_2022_55.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "AIM_CRW_2022",
+      "page": 57,
+      "output_filename": "AIM_CRW_2022_57.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "AIM_CRW_2022",
+      "page": 58,
+      "output_filename": "AIM_CRW_2022_58.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2022",
+      "page": 63,
+      "output_filename": "AIM_CRW_2022_63.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2022",
+      "page": 65,
+      "output_filename": "AIM_CRW_2022_65.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2022",
+      "page": 71,
+      "output_filename": "AIM_CRW_2022_71.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2022",
+      "page": 76,
+      "output_filename": "AIM_CRW_2022_76.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2022",
+      "page": 79,
+      "output_filename": "AIM_CRW_2022_79.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2022",
+      "page": 84,
+      "output_filename": "AIM_CRW_2022_84.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2022",
+      "page": 86,
+      "output_filename": "AIM_CRW_2022_86.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2022",
+      "page": 91,
+      "output_filename": "AIM_CRW_2022_91.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2023",
+      "page": 106,
+      "output_filename": "AIM_CRW_2023_106.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2023",
+      "page": 128,
+      "output_filename": "AIM_CRW_2023_128.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2023",
+      "page": 134,
+      "output_filename": "AIM_CRW_2023_134.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2023",
+      "page": 137,
+      "output_filename": "AIM_CRW_2023_137.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2023",
+      "page": 140,
+      "output_filename": "AIM_CRW_2023_140.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2023",
+      "page": 143,
+      "output_filename": "AIM_CRW_2023_143.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2023",
+      "page": 145,
+      "output_filename": "AIM_CRW_2023_145.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2023",
+      "page": 147,
+      "output_filename": "AIM_CRW_2023_147.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2023",
+      "page": 151,
+      "output_filename": "AIM_CRW_2023_151.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2023",
+      "page": 19,
+      "output_filename": "AIM_CRW_2023_19.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2023",
+      "page": 29,
+      "output_filename": "AIM_CRW_2023_29.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2023",
+      "page": 45,
+      "output_filename": "AIM_CRW_2023_45.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2023",
+      "page": 47,
+      "output_filename": "AIM_CRW_2023_47.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "AIM_CRW_2023",
+      "page": 52,
+      "output_filename": "AIM_CRW_2023_52.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "AIM_CRW_2023",
+      "page": 53,
+      "output_filename": "AIM_CRW_2023_53.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2023",
+      "page": 54,
+      "output_filename": "AIM_CRW_2023_54.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2023",
+      "page": 57,
+      "output_filename": "AIM_CRW_2023_57.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2023",
+      "page": 84,
+      "output_filename": "AIM_CRW_2023_84.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AIM_CRW_2023",
+      "page": 93,
+      "output_filename": "AIM_CRW_2023_93.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AR COVER _ PRINT PDF FINAL (cov22-13582-1_460047_client)",
+      "page": 13,
+      "output_filename": "AR COVER _ PRINT PDF FINAL (cov22-13582-1_460047_client)_13.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "AR COVER _ PRINT PDF FINAL (cov22-13582-1_460047_client)",
+      "page": 15,
+      "output_filename": "AR COVER _ PRINT PDF FINAL (cov22-13582-1_460047_client)_15.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AR COVER _ PRINT PDF FINAL (cov22-13582-1_460047_client)",
+      "page": 17,
+      "output_filename": "AR COVER _ PRINT PDF FINAL (cov22-13582-1_460047_client)_17.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AR COVER _ PRINT PDF FINAL (cov22-13582-1_460047_client)",
+      "page": 18,
+      "output_filename": "AR COVER _ PRINT PDF FINAL (cov22-13582-1_460047_client)_18.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AR COVER _ PRINT PDF FINAL (cov22-13582-1_460047_client)",
+      "page": 21,
+      "output_filename": "AR COVER _ PRINT PDF FINAL (cov22-13582-1_460047_client)_21.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AR COVER _ PRINT PDF FINAL (cov22-13582-1_460047_client)",
+      "page": 33,
+      "output_filename": "AR COVER _ PRINT PDF FINAL (cov22-13582-1_460047_client)_33.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AR COVER _ PRINT PDF FINAL (cov22-13582-1_460047_client)",
+      "page": 39,
+      "output_filename": "AR COVER _ PRINT PDF FINAL (cov22-13582-1_460047_client)_39.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AR COVER _ PRINT PDF FINAL (cov22-13582-1_460047_client)",
+      "page": 52,
+      "output_filename": "AR COVER _ PRINT PDF FINAL (cov22-13582-1_460047_client)_52.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AR COVER _ PRINT PDF FINAL (cov22-13582-1_460047_client)",
+      "page": 56,
+      "output_filename": "AR COVER _ PRINT PDF FINAL (cov22-13582-1_460047_client)_56.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AR COVER _ PRINT PDF FINAL (cov22-13582-1_460047_client)",
+      "page": 57,
+      "output_filename": "AR COVER _ PRINT PDF FINAL (cov22-13582-1_460047_client)_57.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AR COVER _ PRINT PDF FINAL (cov22-13582-1_460047_client)",
+      "page": 61,
+      "output_filename": "AR COVER _ PRINT PDF FINAL (cov22-13582-1_460047_client)_61.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AR COVER _ PRINT PDF FINAL (cov22-13582-1_460047_client)",
+      "page": 71,
+      "output_filename": "AR COVER _ PRINT PDF FINAL (cov22-13582-1_460047_client)_71.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AR COVER _ PRINT PDF FINAL (cov22-13582-1_460047_client)",
+      "page": 72,
+      "output_filename": "AR COVER _ PRINT PDF FINAL (cov22-13582-1_460047_client)_72.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AR COVER _ PRINT PDF FINAL (cov22-13582-1_460047_client)",
+      "page": 82,
+      "output_filename": "AR COVER _ PRINT PDF FINAL (cov22-13582-1_460047_client)_82.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AR COVER _ PRINT PDF FINAL (cov22-13582-1_460047_client)",
+      "page": 87,
+      "output_filename": "AR COVER _ PRINT PDF FINAL (cov22-13582-1_460047_client)_87.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AR COVER _ PRINT PDF FINAL (cov22-13582-1_460047_client)",
+      "page": 9,
+      "output_filename": "AR COVER _ PRINT PDF FINAL (cov22-13582-1_460047_client)_9.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AR COVER _ PRINT PDF FINAL (cov22-13582-1_460047_client)",
+      "page": 93,
+      "output_filename": "AR COVER _ PRINT PDF FINAL (cov22-13582-1_460047_client)_93.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AR COVER _ PRINT PDF FINAL (cov22-13582-1_460047_client)",
+      "page": 96,
+      "output_filename": "AR COVER _ PRINT PDF FINAL (cov22-13582-1_460047_client)_96.png"
+    },
+    {
+      "type": "distractor",
+      "document": "AR COVER _ PRINT PDF FINAL (cov22-13582-1_460047_client)",
+      "page": 99,
+      "output_filename": "AR COVER _ PRINT PDF FINAL (cov22-13582-1_460047_client)_99.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "Bias-in-the-effective-bid-ask-spread_2021_Journal-of-Financial-Economics",
+      "page": 11,
+      "output_filename": "Bias-in-the-effective-bid-ask-spread_2021_Journal-of-Financial-Economics_11.png"
+    },
+    {
+      "type": "distractor",
+      "document": "Bias-in-the-effective-bid-ask-spread_2021_Journal-of-Financial-Economics",
+      "page": 15,
+      "output_filename": "Bias-in-the-effective-bid-ask-spread_2021_Journal-of-Financial-Economics_15.png"
+    },
+    {
+      "type": "distractor",
+      "document": "Bias-in-the-effective-bid-ask-spread_2021_Journal-of-Financial-Economics",
+      "page": 20,
+      "output_filename": "Bias-in-the-effective-bid-ask-spread_2021_Journal-of-Financial-Economics_20.png"
+    },
+    {
+      "type": "distractor",
+      "document": "Bias-in-the-effective-bid-ask-spread_2021_Journal-of-Financial-Economics",
+      "page": 22,
+      "output_filename": "Bias-in-the-effective-bid-ask-spread_2021_Journal-of-Financial-Economics_22.png"
+    },
+    {
+      "type": "distractor",
+      "document": "Bias-in-the-effective-bid-ask-spread_2021_Journal-of-Financial-Economics",
+      "page": 23,
+      "output_filename": "Bias-in-the-effective-bid-ask-spread_2021_Journal-of-Financial-Economics_23.png"
+    },
+    {
+      "type": "distractor",
+      "document": "Bias-in-the-effective-bid-ask-spread_2021_Journal-of-Financial-Economics",
+      "page": 5,
+      "output_filename": "Bias-in-the-effective-bid-ask-spread_2021_Journal-of-Financial-Economics_5.png"
+    },
+    {
+      "type": "distractor",
+      "document": "Competition--Product-differentiation-and-Crises--Evid_2024_Journal-of-Financ",
+      "page": 12,
+      "output_filename": "Competition--Product-differentiation-and-Crises--Evid_2024_Journal-of-Financ_12.png"
+    },
+    {
+      "type": "distractor",
+      "document": "Competition--Product-differentiation-and-Crises--Evid_2024_Journal-of-Financ",
+      "page": 15,
+      "output_filename": "Competition--Product-differentiation-and-Crises--Evid_2024_Journal-of-Financ_15.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "Competition--Product-differentiation-and-Crises--Evid_2024_Journal-of-Financ",
+      "page": 4,
+      "output_filename": "Competition--Product-differentiation-and-Crises--Evid_2024_Journal-of-Financ_4.png"
+    },
+    {
+      "type": "distractor",
+      "document": "Competition--Product-differentiation-and-Crises--Evid_2024_Journal-of-Financ",
+      "page": 5,
+      "output_filename": "Competition--Product-differentiation-and-Crises--Evid_2024_Journal-of-Financ_5.png"
+    },
+    {
+      "type": "distractor",
+      "document": "Competition--Product-differentiation-and-Crises--Evid_2024_Journal-of-Financ",
+      "page": 7,
+      "output_filename": "Competition--Product-differentiation-and-Crises--Evid_2024_Journal-of-Financ_7.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）",
+      "page": 1,
+      "output_filename": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）_1.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）",
+      "page": 104,
+      "output_filename": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）_104.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）",
+      "page": 116,
+      "output_filename": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）_116.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）",
+      "page": 117,
+      "output_filename": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）_117.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）",
+      "page": 118,
+      "output_filename": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）_118.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）",
+      "page": 145,
+      "output_filename": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）_145.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）",
+      "page": 146,
+      "output_filename": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）_146.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）",
+      "page": 163,
+      "output_filename": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）_163.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）",
+      "page": 178,
+      "output_filename": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）_178.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）",
+      "page": 180,
+      "output_filename": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）_180.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）",
+      "page": 184,
+      "output_filename": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）_184.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）",
+      "page": 185,
+      "output_filename": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）_185.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）",
+      "page": 195,
+      "output_filename": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）_195.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）",
+      "page": 202,
+      "output_filename": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）_202.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）",
+      "page": 206,
+      "output_filename": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）_206.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）",
+      "page": 208,
+      "output_filename": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）_208.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）",
+      "page": 219,
+      "output_filename": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）_219.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）",
+      "page": 239,
+      "output_filename": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）_239.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）",
+      "page": 256,
+      "output_filename": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）_256.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）",
+      "page": 264,
+      "output_filename": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）_264.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）",
+      "page": 266,
+      "output_filename": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）_266.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）",
+      "page": 268,
+      "output_filename": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）_268.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）",
+      "page": 272,
+      "output_filename": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）_272.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）",
+      "page": 275,
+      "output_filename": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）_275.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）",
+      "page": 46,
+      "output_filename": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）_46.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）",
+      "page": 54,
+      "output_filename": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）_54.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）",
+      "page": 56,
+      "output_filename": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）_56.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）",
+      "page": 61,
+      "output_filename": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）_61.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）",
+      "page": 62,
+      "output_filename": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）_62.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）",
+      "page": 63,
+      "output_filename": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）_63.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）",
+      "page": 64,
+      "output_filename": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）_64.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）",
+      "page": 65,
+      "output_filename": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）_65.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）",
+      "page": 7,
+      "output_filename": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）_7.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）",
+      "page": 70,
+      "output_filename": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）_70.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）",
+      "page": 71,
+      "output_filename": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）_71.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）",
+      "page": 74,
+      "output_filename": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）_74.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）",
+      "page": 83,
+      "output_filename": "FATF：2024年萨尔瓦多打击洗钱和恐怖主义融资的措施报告（英文版）_83.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FINAL PROOF for Online Posting PDFS_2024ProxyStatement No blank pages",
+      "page": 10,
+      "output_filename": "FINAL PROOF for Online Posting PDFS_2024ProxyStatement No blank pages_10.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FINAL PROOF for Online Posting PDFS_2024ProxyStatement No blank pages",
+      "page": 11,
+      "output_filename": "FINAL PROOF for Online Posting PDFS_2024ProxyStatement No blank pages_11.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FINAL PROOF for Online Posting PDFS_2024ProxyStatement No blank pages",
+      "page": 36,
+      "output_filename": "FINAL PROOF for Online Posting PDFS_2024ProxyStatement No blank pages_36.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FINAL PROOF for Online Posting PDFS_2024ProxyStatement No blank pages",
+      "page": 61,
+      "output_filename": "FINAL PROOF for Online Posting PDFS_2024ProxyStatement No blank pages_61.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FINAL PROOF for Online Posting PDFS_2024ProxyStatement No blank pages",
+      "page": 67,
+      "output_filename": "FINAL PROOF for Online Posting PDFS_2024ProxyStatement No blank pages_67.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FINAL PROOF for Online Posting PDFS_2024ProxyStatement No blank pages",
+      "page": 72,
+      "output_filename": "FINAL PROOF for Online Posting PDFS_2024ProxyStatement No blank pages_72.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FINAL PROOF for Online Posting PDFS_2024ProxyStatement No blank pages",
+      "page": 76,
+      "output_filename": "FINAL PROOF for Online Posting PDFS_2024ProxyStatement No blank pages_76.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "FINAL PROOF for Online Posting PDFS_2024ProxyStatement No blank pages",
+      "page": 77,
+      "output_filename": "FINAL PROOF for Online Posting PDFS_2024ProxyStatement No blank pages_77.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FINAL PROOF for Online Posting PDFS_2024ProxyStatement No blank pages",
+      "page": 92,
+      "output_filename": "FINAL PROOF for Online Posting PDFS_2024ProxyStatement No blank pages_92.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FT Partners：2024年第三季度金融科技洞察报告（英文版）",
+      "page": 105,
+      "output_filename": "FT Partners：2024年第三季度金融科技洞察报告（英文版）_105.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FT Partners：2024年第三季度金融科技洞察报告（英文版）",
+      "page": 107,
+      "output_filename": "FT Partners：2024年第三季度金融科技洞察报告（英文版）_107.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "FT Partners：2024年第三季度金融科技洞察报告（英文版）",
+      "page": 12,
+      "output_filename": "FT Partners：2024年第三季度金融科技洞察报告（英文版）_12.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "FT Partners：2024年第三季度金融科技洞察报告（英文版）",
+      "page": 13,
+      "output_filename": "FT Partners：2024年第三季度金融科技洞察报告（英文版）_13.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FT Partners：2024年第三季度金融科技洞察报告（英文版）",
+      "page": 27,
+      "output_filename": "FT Partners：2024年第三季度金融科技洞察报告（英文版）_27.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FT Partners：2024年第三季度金融科技洞察报告（英文版）",
+      "page": 3,
+      "output_filename": "FT Partners：2024年第三季度金融科技洞察报告（英文版）_3.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FT Partners：2024年第三季度金融科技洞察报告（英文版）",
+      "page": 31,
+      "output_filename": "FT Partners：2024年第三季度金融科技洞察报告（英文版）_31.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FT Partners：2024年第三季度金融科技洞察报告（英文版）",
+      "page": 46,
+      "output_filename": "FT Partners：2024年第三季度金融科技洞察报告（英文版）_46.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FT Partners：2024年第三季度金融科技洞察报告（英文版）",
+      "page": 57,
+      "output_filename": "FT Partners：2024年第三季度金融科技洞察报告（英文版）_57.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FT Partners：2024年第三季度金融科技洞察报告（英文版）",
+      "page": 58,
+      "output_filename": "FT Partners：2024年第三季度金融科技洞察报告（英文版）_58.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FT Partners：2024年第三季度金融科技洞察报告（英文版）",
+      "page": 62,
+      "output_filename": "FT Partners：2024年第三季度金融科技洞察报告（英文版）_62.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FT Partners：2024年第三季度金融科技洞察报告（英文版）",
+      "page": 70,
+      "output_filename": "FT Partners：2024年第三季度金融科技洞察报告（英文版）_70.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FT Partners：2024年第三季度金融科技洞察报告（英文版）",
+      "page": 89,
+      "output_filename": "FT Partners：2024年第三季度金融科技洞察报告（英文版）_89.png"
+    },
+    {
+      "type": "distractor",
+      "document": "FT Partners：2024年第三季度金融科技洞察报告（英文版）",
+      "page": 92,
+      "output_filename": "FT Partners：2024年第三季度金融科技洞察报告（英文版）_92.png"
+    },
+    {
+      "type": "distractor",
+      "document": "Financial Times Europe - 26 June 2024",
+      "page": 11,
+      "output_filename": "Financial Times Europe - 26 June 2024_11.png"
+    },
+    {
+      "type": "distractor",
+      "document": "Financial Times Europe - 26 June 2024",
+      "page": 13,
+      "output_filename": "Financial Times Europe - 26 June 2024_13.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "Financial Times Europe - 26 June 2024",
+      "page": 19,
+      "output_filename": "Financial Times Europe - 26 June 2024_19.png"
+    },
+    {
+      "type": "distractor",
+      "document": "Financial Times Europe - 26 June 2024",
+      "page": 7,
+      "output_filename": "Financial Times Europe - 26 June 2024_7.png"
+    },
+    {
+      "type": "distractor",
+      "document": "Financial Times Europe - 26 June 2024",
+      "page": 9,
+      "output_filename": "Financial Times Europe - 26 June 2024_9.png"
+    },
+    {
+      "type": "distractor",
+      "document": "Financial Times Europe - 28 June 2024",
+      "page": 16,
+      "output_filename": "Financial Times Europe - 28 June 2024_16.png"
+    },
+    {
+      "type": "distractor",
+      "document": "Financial Times Europe - 28 June 2024",
+      "page": 2,
+      "output_filename": "Financial Times Europe - 28 June 2024_2.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "Financial Times Europe - 28 June 2024",
+      "page": 6,
+      "output_filename": "Financial Times Europe - 28 June 2024_6.png"
+    },
+    {
+      "type": "distractor",
+      "document": "Financial Times Europe - 29 June 2024",
+      "page": 16,
+      "output_filename": "Financial Times Europe - 29 June 2024_16.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "Financial Times Europe - 29 June 2024",
+      "page": 19,
+      "output_filename": "Financial Times Europe - 29 June 2024_19.png"
+    },
+    {
+      "type": "distractor",
+      "document": "Financial Times Europe - 29 June 2024",
+      "page": 38,
+      "output_filename": "Financial Times Europe - 29 June 2024_38.png"
+    },
+    {
+      "type": "distractor",
+      "document": "Financial Times Europe - 29 June 2024",
+      "page": 39,
+      "output_filename": "Financial Times Europe - 29 June 2024_39.png"
+    },
+    {
+      "type": "distractor",
+      "document": "Financial Times Europe - 29 June 2024",
+      "page": 52,
+      "output_filename": "Financial Times Europe - 29 June 2024_52.png"
+    },
+    {
+      "type": "distractor",
+      "document": "Financial Times Europe - 29 June 2024",
+      "page": 53,
+      "output_filename": "Financial Times Europe - 29 June 2024_53.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "Financial Times Europe - 30 May 2024",
+      "page": 11,
+      "output_filename": "Financial Times Europe - 30 May 2024_11.png"
+    },
+    {
+      "type": "distractor",
+      "document": "Financial Times Europe - 30 May 2024",
+      "page": 15,
+      "output_filename": "Financial Times Europe - 30 May 2024_15.png"
+    },
+    {
+      "type": "distractor",
+      "document": "Financial Times Europe - 30 May 2024",
+      "page": 19,
+      "output_filename": "Financial Times Europe - 30 May 2024_19.png"
+    },
+    {
+      "type": "distractor",
+      "document": "Financial Times Europe - 30 May 2024",
+      "page": 7,
+      "output_filename": "Financial Times Europe - 30 May 2024_7.png"
+    },
+    {
+      "type": "distractor",
+      "document": "Financial Times Europe - 30 May 2024",
+      "page": 8,
+      "output_filename": "Financial Times Europe - 30 May 2024_8.png"
+    },
+    {
+      "type": "distractor",
+      "document": "Financial Times UK - 13 January 2024",
+      "page": 12,
+      "output_filename": "Financial Times UK - 13 January 2024_12.png"
+    },
+    {
+      "type": "distractor",
+      "document": "Financial Times UK - 13 January 2024",
+      "page": 15,
+      "output_filename": "Financial Times UK - 13 January 2024_15.png"
+    },
+    {
+      "type": "distractor",
+      "document": "Financial Times UK - 13 January 2024",
+      "page": 31,
+      "output_filename": "Financial Times UK - 13 January 2024_31.png"
+    },
+    {
+      "type": "distractor",
+      "document": "Financial Times UK - 13 January 2024",
+      "page": 65,
+      "output_filename": "Financial Times UK - 13 January 2024_65.png"
+    },
+    {
+      "type": "distractor",
+      "document": "Financial Times UK - 13 January 2024",
+      "page": 66,
+      "output_filename": "Financial Times UK - 13 January 2024_66.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "Financial Times UK - 13 January 2024",
+      "page": 9,
+      "output_filename": "Financial Times UK - 13 January 2024_9.png"
+    },
+    {
+      "type": "distractor",
+      "document": "Financial Times UK - 15.08.2024",
+      "page": 10,
+      "output_filename": "Financial Times UK - 15.08.2024_10.png"
+    },
+    {
+      "type": "distractor",
+      "document": "Financial Times UK - 15.08.2024",
+      "page": 11,
+      "output_filename": "Financial Times UK - 15.08.2024_11.png"
+    },
+    {
+      "type": "distractor",
+      "document": "Financial Times UK - 15.08.2024",
+      "page": 12,
+      "output_filename": "Financial Times UK - 15.08.2024_12.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "Financial Times UK - 15.08.2024",
+      "page": 13,
+      "output_filename": "Financial Times UK - 15.08.2024_13.png"
+    },
+    {
+      "type": "distractor",
+      "document": "Financial Times UK - 15.08.2024",
+      "page": 14,
+      "output_filename": "Financial Times UK - 15.08.2024_14.png"
+    },
+    {
+      "type": "distractor",
+      "document": "Financial Times UK - 15.08.2024",
+      "page": 7,
+      "output_filename": "Financial Times UK - 15.08.2024_7.png"
+    },
+    {
+      "type": "distractor",
+      "document": "Financial Times UK - 15.08.2024",
+      "page": 8,
+      "output_filename": "Financial Times UK - 15.08.2024_8.png"
+    },
+    {
+      "type": "distractor",
+      "document": "GSMA：2024年全球移动货币行业状况深度研究报告（英文版）",
+      "page": 11,
+      "output_filename": "GSMA：2024年全球移动货币行业状况深度研究报告（英文版）_11.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "GSMA：2024年全球移动货币行业状况深度研究报告（英文版）",
+      "page": 20,
+      "output_filename": "GSMA：2024年全球移动货币行业状况深度研究报告（英文版）_20.png"
+    },
+    {
+      "type": "distractor",
+      "document": "GSMA：2024年全球移动货币行业状况深度研究报告（英文版）",
+      "page": 23,
+      "output_filename": "GSMA：2024年全球移动货币行业状况深度研究报告（英文版）_23.png"
+    },
+    {
+      "type": "distractor",
+      "document": "GSMA：2024年全球移动货币行业状况深度研究报告（英文版）",
+      "page": 38,
+      "output_filename": "GSMA：2024年全球移动货币行业状况深度研究报告（英文版）_38.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "GSMA：2024年全球移动货币行业状况深度研究报告（英文版）",
+      "page": 43,
+      "output_filename": "GSMA：2024年全球移动货币行业状况深度研究报告（英文版）_43.png"
+    },
+    {
+      "type": "distractor",
+      "document": "GSMA：2024年全球移动货币行业状况深度研究报告（英文版）",
+      "page": 53,
+      "output_filename": "GSMA：2024年全球移动货币行业状况深度研究报告（英文版）_53.png"
+    },
+    {
+      "type": "distractor",
+      "document": "GSMA：2024年全球移动货币行业状况深度研究报告（英文版）",
+      "page": 74,
+      "output_filename": "GSMA：2024年全球移动货币行业状况深度研究报告（英文版）_74.png"
+    },
+    {
+      "type": "distractor",
+      "document": "GSMA：2024年全球移动货币行业状况深度研究报告（英文版）",
+      "page": 96,
+      "output_filename": "GSMA：2024年全球移动货币行业状况深度研究报告（英文版）_96.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "Incrementum：2024年12月月度黄金指南报告（英文版）",
+      "page": 10,
+      "output_filename": "Incrementum：2024年12月月度黄金指南报告（英文版）_10.png"
+    },
+    {
+      "type": "distractor",
+      "document": "Incrementum：2024年12月月度黄金指南报告（英文版）",
+      "page": 13,
+      "output_filename": "Incrementum：2024年12月月度黄金指南报告（英文版）_13.png"
+    },
+    {
+      "type": "distractor",
+      "document": "Incrementum：2024年12月月度黄金指南报告（英文版）",
+      "page": 2,
+      "output_filename": "Incrementum：2024年12月月度黄金指南报告（英文版）_2.png"
+    },
+    {
+      "type": "distractor",
+      "document": "Incrementum：2024年12月月度黄金指南报告（英文版）",
+      "page": 21,
+      "output_filename": "Incrementum：2024年12月月度黄金指南报告（英文版）_21.png"
+    },
+    {
+      "type": "distractor",
+      "document": "Incrementum：2024年12月月度黄金指南报告（英文版）",
+      "page": 22,
+      "output_filename": "Incrementum：2024年12月月度黄金指南报告（英文版）_22.png"
+    },
+    {
+      "type": "distractor",
+      "document": "Incrementum：2024年12月月度黄金指南报告（英文版）",
+      "page": 27,
+      "output_filename": "Incrementum：2024年12月月度黄金指南报告（英文版）_27.png"
+    },
+    {
+      "type": "distractor",
+      "document": "Incrementum：2024年12月月度黄金指南报告（英文版）",
+      "page": 36,
+      "output_filename": "Incrementum：2024年12月月度黄金指南报告（英文版）_36.png"
+    },
+    {
+      "type": "distractor",
+      "document": "Incrementum：2024年12月月度黄金指南报告（英文版）",
+      "page": 41,
+      "output_filename": "Incrementum：2024年12月月度黄金指南报告（英文版）_41.png"
+    },
+    {
+      "type": "distractor",
+      "document": "Incrementum：2024年12月月度黄金指南报告（英文版）",
+      "page": 43,
+      "output_filename": "Incrementum：2024年12月月度黄金指南报告（英文版）_43.png"
+    },
+    {
+      "type": "distractor",
+      "document": "Incrementum：2024年12月月度黄金指南报告（英文版）",
+      "page": 45,
+      "output_filename": "Incrementum：2024年12月月度黄金指南报告（英文版）_45.png"
+    },
+    {
+      "type": "distractor",
+      "document": "Incrementum：2024年12月月度黄金指南报告（英文版）",
+      "page": 57,
+      "output_filename": "Incrementum：2024年12月月度黄金指南报告（英文版）_57.png"
+    },
+    {
+      "type": "distractor",
+      "document": "Incrementum：2024年12月月度黄金指南报告（英文版）",
+      "page": 58,
+      "output_filename": "Incrementum：2024年12月月度黄金指南报告（英文版）_58.png"
+    },
+    {
+      "type": "distractor",
+      "document": "Incrementum：2024年12月月度黄金指南报告（英文版）",
+      "page": 76,
+      "output_filename": "Incrementum：2024年12月月度黄金指南报告（英文版）_76.png"
+    },
+    {
+      "type": "distractor",
+      "document": "Incrementum：2024年12月月度黄金指南报告（英文版）",
+      "page": 81,
+      "output_filename": "Incrementum：2024年12月月度黄金指南报告（英文版）_81.png"
+    },
+    {
+      "type": "distractor",
+      "document": "LSE_HWDN_2022",
+      "page": 104,
+      "output_filename": "LSE_HWDN_2022_104.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "LSE_HWDN_2022",
+      "page": 105,
+      "output_filename": "LSE_HWDN_2022_105.png"
+    },
+    {
+      "type": "distractor",
+      "document": "LSE_HWDN_2022",
+      "page": 18,
+      "output_filename": "LSE_HWDN_2022_18.png"
+    },
+    {
+      "type": "distractor",
+      "document": "LSE_HWDN_2022",
+      "page": 19,
+      "output_filename": "LSE_HWDN_2022_19.png"
+    },
+    {
+      "type": "distractor",
+      "document": "LSE_HWDN_2022",
+      "page": 28,
+      "output_filename": "LSE_HWDN_2022_28.png"
+    },
+    {
+      "type": "distractor",
+      "document": "LSE_HWDN_2022",
+      "page": 34,
+      "output_filename": "LSE_HWDN_2022_34.png"
+    },
+    {
+      "type": "distractor",
+      "document": "LSE_HWDN_2022",
+      "page": 53,
+      "output_filename": "LSE_HWDN_2022_53.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "LSE_HWDN_2022",
+      "page": 56,
+      "output_filename": "LSE_HWDN_2022_56.png"
+    },
+    {
+      "type": "distractor",
+      "document": "LSE_HWDN_2022",
+      "page": 71,
+      "output_filename": "LSE_HWDN_2022_71.png"
+    },
+    {
+      "type": "distractor",
+      "document": "LSE_HWDN_2022",
+      "page": 72,
+      "output_filename": "LSE_HWDN_2022_72.png"
+    },
+    {
+      "type": "distractor",
+      "document": "LSE_HWDN_2022",
+      "page": 73,
+      "output_filename": "LSE_HWDN_2022_73.png"
+    },
+    {
+      "type": "distractor",
+      "document": "LSE_HWDN_2022",
+      "page": 76,
+      "output_filename": "LSE_HWDN_2022_76.png"
+    },
+    {
+      "type": "distractor",
+      "document": "LSE_HWDN_2022",
+      "page": 84,
+      "output_filename": "LSE_HWDN_2022_84.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2020",
+      "page": 115,
+      "output_filename": "NASDAQ_AMBC_2020_115.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2020",
+      "page": 135,
+      "output_filename": "NASDAQ_AMBC_2020_135.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2020",
+      "page": 140,
+      "output_filename": "NASDAQ_AMBC_2020_140.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2020",
+      "page": 141,
+      "output_filename": "NASDAQ_AMBC_2020_141.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2020",
+      "page": 146,
+      "output_filename": "NASDAQ_AMBC_2020_146.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2020",
+      "page": 149,
+      "output_filename": "NASDAQ_AMBC_2020_149.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2020",
+      "page": 155,
+      "output_filename": "NASDAQ_AMBC_2020_155.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2020",
+      "page": 161,
+      "output_filename": "NASDAQ_AMBC_2020_161.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2020",
+      "page": 17,
+      "output_filename": "NASDAQ_AMBC_2020_17.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2020",
+      "page": 170,
+      "output_filename": "NASDAQ_AMBC_2020_170.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2020",
+      "page": 23,
+      "output_filename": "NASDAQ_AMBC_2020_23.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2020",
+      "page": 32,
+      "output_filename": "NASDAQ_AMBC_2020_32.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2020",
+      "page": 42,
+      "output_filename": "NASDAQ_AMBC_2020_42.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2020",
+      "page": 45,
+      "output_filename": "NASDAQ_AMBC_2020_45.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2020",
+      "page": 52,
+      "output_filename": "NASDAQ_AMBC_2020_52.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2020",
+      "page": 53,
+      "output_filename": "NASDAQ_AMBC_2020_53.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2020",
+      "page": 60,
+      "output_filename": "NASDAQ_AMBC_2020_60.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "NASDAQ_AMBC_2020",
+      "page": 67,
+      "output_filename": "NASDAQ_AMBC_2020_67.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2020",
+      "page": 79,
+      "output_filename": "NASDAQ_AMBC_2020_79.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2020",
+      "page": 93,
+      "output_filename": "NASDAQ_AMBC_2020_93.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2021",
+      "page": 103,
+      "output_filename": "NASDAQ_AMBC_2021_103.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2021",
+      "page": 104,
+      "output_filename": "NASDAQ_AMBC_2021_104.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2021",
+      "page": 11,
+      "output_filename": "NASDAQ_AMBC_2021_11.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2021",
+      "page": 111,
+      "output_filename": "NASDAQ_AMBC_2021_111.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2021",
+      "page": 12,
+      "output_filename": "NASDAQ_AMBC_2021_12.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2021",
+      "page": 120,
+      "output_filename": "NASDAQ_AMBC_2021_120.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "NASDAQ_AMBC_2021",
+      "page": 127,
+      "output_filename": "NASDAQ_AMBC_2021_127.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2021",
+      "page": 129,
+      "output_filename": "NASDAQ_AMBC_2021_129.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2021",
+      "page": 13,
+      "output_filename": "NASDAQ_AMBC_2021_13.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2021",
+      "page": 139,
+      "output_filename": "NASDAQ_AMBC_2021_139.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2021",
+      "page": 144,
+      "output_filename": "NASDAQ_AMBC_2021_144.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "NASDAQ_AMBC_2021",
+      "page": 15,
+      "output_filename": "NASDAQ_AMBC_2021_15.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2021",
+      "page": 166,
+      "output_filename": "NASDAQ_AMBC_2021_166.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2021",
+      "page": 19,
+      "output_filename": "NASDAQ_AMBC_2021_19.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2021",
+      "page": 25,
+      "output_filename": "NASDAQ_AMBC_2021_25.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2021",
+      "page": 3,
+      "output_filename": "NASDAQ_AMBC_2021_3.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2021",
+      "page": 30,
+      "output_filename": "NASDAQ_AMBC_2021_30.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2021",
+      "page": 37,
+      "output_filename": "NASDAQ_AMBC_2021_37.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2021",
+      "page": 38,
+      "output_filename": "NASDAQ_AMBC_2021_38.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2021",
+      "page": 56,
+      "output_filename": "NASDAQ_AMBC_2021_56.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2021",
+      "page": 59,
+      "output_filename": "NASDAQ_AMBC_2021_59.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2021",
+      "page": 6,
+      "output_filename": "NASDAQ_AMBC_2021_6.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2021",
+      "page": 66,
+      "output_filename": "NASDAQ_AMBC_2021_66.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2021",
+      "page": 71,
+      "output_filename": "NASDAQ_AMBC_2021_71.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2021",
+      "page": 73,
+      "output_filename": "NASDAQ_AMBC_2021_73.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2021",
+      "page": 76,
+      "output_filename": "NASDAQ_AMBC_2021_76.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2021",
+      "page": 81,
+      "output_filename": "NASDAQ_AMBC_2021_81.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2021",
+      "page": 86,
+      "output_filename": "NASDAQ_AMBC_2021_86.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2022",
+      "page": 108,
+      "output_filename": "NASDAQ_AMBC_2022_108.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2022",
+      "page": 11,
+      "output_filename": "NASDAQ_AMBC_2022_11.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2022",
+      "page": 115,
+      "output_filename": "NASDAQ_AMBC_2022_115.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2022",
+      "page": 12,
+      "output_filename": "NASDAQ_AMBC_2022_12.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2022",
+      "page": 127,
+      "output_filename": "NASDAQ_AMBC_2022_127.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2022",
+      "page": 137,
+      "output_filename": "NASDAQ_AMBC_2022_137.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2022",
+      "page": 138,
+      "output_filename": "NASDAQ_AMBC_2022_138.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2022",
+      "page": 148,
+      "output_filename": "NASDAQ_AMBC_2022_148.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "NASDAQ_AMBC_2022",
+      "page": 25,
+      "output_filename": "NASDAQ_AMBC_2022_25.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "NASDAQ_AMBC_2022",
+      "page": 26,
+      "output_filename": "NASDAQ_AMBC_2022_26.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2022",
+      "page": 32,
+      "output_filename": "NASDAQ_AMBC_2022_32.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2022",
+      "page": 34,
+      "output_filename": "NASDAQ_AMBC_2022_34.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2022",
+      "page": 36,
+      "output_filename": "NASDAQ_AMBC_2022_36.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2022",
+      "page": 4,
+      "output_filename": "NASDAQ_AMBC_2022_4.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2022",
+      "page": 51,
+      "output_filename": "NASDAQ_AMBC_2022_51.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2022",
+      "page": 52,
+      "output_filename": "NASDAQ_AMBC_2022_52.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2022",
+      "page": 55,
+      "output_filename": "NASDAQ_AMBC_2022_55.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2022",
+      "page": 60,
+      "output_filename": "NASDAQ_AMBC_2022_60.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "NASDAQ_AMBC_2022",
+      "page": 61,
+      "output_filename": "NASDAQ_AMBC_2022_61.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2022",
+      "page": 78,
+      "output_filename": "NASDAQ_AMBC_2022_78.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2022",
+      "page": 80,
+      "output_filename": "NASDAQ_AMBC_2022_80.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2022",
+      "page": 83,
+      "output_filename": "NASDAQ_AMBC_2022_83.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2022",
+      "page": 85,
+      "output_filename": "NASDAQ_AMBC_2022_85.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2022",
+      "page": 96,
+      "output_filename": "NASDAQ_AMBC_2022_96.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2023",
+      "page": 100,
+      "output_filename": "NASDAQ_AMBC_2023_100.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2023",
+      "page": 102,
+      "output_filename": "NASDAQ_AMBC_2023_102.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2023",
+      "page": 104,
+      "output_filename": "NASDAQ_AMBC_2023_104.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2023",
+      "page": 108,
+      "output_filename": "NASDAQ_AMBC_2023_108.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "NASDAQ_AMBC_2023",
+      "page": 110,
+      "output_filename": "NASDAQ_AMBC_2023_110.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2023",
+      "page": 117,
+      "output_filename": "NASDAQ_AMBC_2023_117.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2023",
+      "page": 127,
+      "output_filename": "NASDAQ_AMBC_2023_127.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2023",
+      "page": 130,
+      "output_filename": "NASDAQ_AMBC_2023_130.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2023",
+      "page": 138,
+      "output_filename": "NASDAQ_AMBC_2023_138.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2023",
+      "page": 14,
+      "output_filename": "NASDAQ_AMBC_2023_14.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2023",
+      "page": 145,
+      "output_filename": "NASDAQ_AMBC_2023_145.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2023",
+      "page": 17,
+      "output_filename": "NASDAQ_AMBC_2023_17.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2023",
+      "page": 25,
+      "output_filename": "NASDAQ_AMBC_2023_25.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2023",
+      "page": 42,
+      "output_filename": "NASDAQ_AMBC_2023_42.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2023",
+      "page": 51,
+      "output_filename": "NASDAQ_AMBC_2023_51.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2023",
+      "page": 55,
+      "output_filename": "NASDAQ_AMBC_2023_55.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2023",
+      "page": 65,
+      "output_filename": "NASDAQ_AMBC_2023_65.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2023",
+      "page": 81,
+      "output_filename": "NASDAQ_AMBC_2023_81.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_AMBC_2023",
+      "page": 84,
+      "output_filename": "NASDAQ_AMBC_2023_84.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "NASDAQ_AMBC_2023",
+      "page": 92,
+      "output_filename": "NASDAQ_AMBC_2023_92.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "NASDAQ_AMBC_2023",
+      "page": 93,
+      "output_filename": "NASDAQ_AMBC_2023_93.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_SRCE_2021",
+      "page": 104,
+      "output_filename": "NASDAQ_SRCE_2021_104.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_SRCE_2021",
+      "page": 110,
+      "output_filename": "NASDAQ_SRCE_2021_110.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_SRCE_2021",
+      "page": 14,
+      "output_filename": "NASDAQ_SRCE_2021_14.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_SRCE_2021",
+      "page": 16,
+      "output_filename": "NASDAQ_SRCE_2021_16.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_SRCE_2021",
+      "page": 22,
+      "output_filename": "NASDAQ_SRCE_2021_22.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_SRCE_2021",
+      "page": 30,
+      "output_filename": "NASDAQ_SRCE_2021_30.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_SRCE_2021",
+      "page": 37,
+      "output_filename": "NASDAQ_SRCE_2021_37.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_SRCE_2021",
+      "page": 40,
+      "output_filename": "NASDAQ_SRCE_2021_40.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_SRCE_2021",
+      "page": 46,
+      "output_filename": "NASDAQ_SRCE_2021_46.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_SRCE_2021",
+      "page": 49,
+      "output_filename": "NASDAQ_SRCE_2021_49.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_SRCE_2021",
+      "page": 55,
+      "output_filename": "NASDAQ_SRCE_2021_55.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_SRCE_2021",
+      "page": 73,
+      "output_filename": "NASDAQ_SRCE_2021_73.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "NASDAQ_SRCE_2021",
+      "page": 77,
+      "output_filename": "NASDAQ_SRCE_2021_77.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_SRCE_2021",
+      "page": 79,
+      "output_filename": "NASDAQ_SRCE_2021_79.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_SRCE_2021",
+      "page": 82,
+      "output_filename": "NASDAQ_SRCE_2021_82.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_SRCE_2021",
+      "page": 84,
+      "output_filename": "NASDAQ_SRCE_2021_84.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_SRCE_2021",
+      "page": 9,
+      "output_filename": "NASDAQ_SRCE_2021_9.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_SRCE_2021",
+      "page": 90,
+      "output_filename": "NASDAQ_SRCE_2021_90.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_SRCE_2021",
+      "page": 97,
+      "output_filename": "NASDAQ_SRCE_2021_97.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_SRCE_2023",
+      "page": 101,
+      "output_filename": "NASDAQ_SRCE_2023_101.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_SRCE_2023",
+      "page": 103,
+      "output_filename": "NASDAQ_SRCE_2023_103.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_SRCE_2023",
+      "page": 13,
+      "output_filename": "NASDAQ_SRCE_2023_13.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_SRCE_2023",
+      "page": 14,
+      "output_filename": "NASDAQ_SRCE_2023_14.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "NASDAQ_SRCE_2023",
+      "page": 18,
+      "output_filename": "NASDAQ_SRCE_2023_18.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "NASDAQ_SRCE_2023",
+      "page": 19,
+      "output_filename": "NASDAQ_SRCE_2023_19.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_SRCE_2023",
+      "page": 21,
+      "output_filename": "NASDAQ_SRCE_2023_21.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_SRCE_2023",
+      "page": 28,
+      "output_filename": "NASDAQ_SRCE_2023_28.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_SRCE_2023",
+      "page": 33,
+      "output_filename": "NASDAQ_SRCE_2023_33.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_SRCE_2023",
+      "page": 47,
+      "output_filename": "NASDAQ_SRCE_2023_47.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_SRCE_2023",
+      "page": 54,
+      "output_filename": "NASDAQ_SRCE_2023_54.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_SRCE_2023",
+      "page": 82,
+      "output_filename": "NASDAQ_SRCE_2023_82.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_SRCE_2023",
+      "page": 88,
+      "output_filename": "NASDAQ_SRCE_2023_88.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_TLF_2021",
+      "page": 2,
+      "output_filename": "NASDAQ_TLF_2021_2.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_TLF_2021",
+      "page": 20,
+      "output_filename": "NASDAQ_TLF_2021_20.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "NASDAQ_TLF_2021",
+      "page": 32,
+      "output_filename": "NASDAQ_TLF_2021_32.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_TLF_2021",
+      "page": 42,
+      "output_filename": "NASDAQ_TLF_2021_42.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_TLF_2021",
+      "page": 54,
+      "output_filename": "NASDAQ_TLF_2021_54.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_TLF_2021",
+      "page": 55,
+      "output_filename": "NASDAQ_TLF_2021_55.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_TLF_2021",
+      "page": 6,
+      "output_filename": "NASDAQ_TLF_2021_6.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_TLF_2021",
+      "page": 62,
+      "output_filename": "NASDAQ_TLF_2021_62.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_TLF_2021",
+      "page": 64,
+      "output_filename": "NASDAQ_TLF_2021_64.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_TLF_2021",
+      "page": 69,
+      "output_filename": "NASDAQ_TLF_2021_69.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_TLF_2021",
+      "page": 74,
+      "output_filename": "NASDAQ_TLF_2021_74.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_TSBK_2022",
+      "page": 106,
+      "output_filename": "NASDAQ_TSBK_2022_106.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_TSBK_2022",
+      "page": 110,
+      "output_filename": "NASDAQ_TSBK_2022_110.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_TSBK_2022",
+      "page": 113,
+      "output_filename": "NASDAQ_TSBK_2022_113.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_TSBK_2022",
+      "page": 122,
+      "output_filename": "NASDAQ_TSBK_2022_122.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_TSBK_2022",
+      "page": 133,
+      "output_filename": "NASDAQ_TSBK_2022_133.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_TSBK_2022",
+      "page": 140,
+      "output_filename": "NASDAQ_TSBK_2022_140.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_TSBK_2022",
+      "page": 142,
+      "output_filename": "NASDAQ_TSBK_2022_142.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_TSBK_2022",
+      "page": 2,
+      "output_filename": "NASDAQ_TSBK_2022_2.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_TSBK_2022",
+      "page": 27,
+      "output_filename": "NASDAQ_TSBK_2022_27.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_TSBK_2022",
+      "page": 31,
+      "output_filename": "NASDAQ_TSBK_2022_31.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_TSBK_2022",
+      "page": 33,
+      "output_filename": "NASDAQ_TSBK_2022_33.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_TSBK_2022",
+      "page": 34,
+      "output_filename": "NASDAQ_TSBK_2022_34.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_TSBK_2022",
+      "page": 37,
+      "output_filename": "NASDAQ_TSBK_2022_37.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_TSBK_2022",
+      "page": 42,
+      "output_filename": "NASDAQ_TSBK_2022_42.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_TSBK_2022",
+      "page": 58,
+      "output_filename": "NASDAQ_TSBK_2022_58.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_TSBK_2022",
+      "page": 61,
+      "output_filename": "NASDAQ_TSBK_2022_61.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_TSBK_2022",
+      "page": 7,
+      "output_filename": "NASDAQ_TSBK_2022_7.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "NASDAQ_TSBK_2022",
+      "page": 78,
+      "output_filename": "NASDAQ_TSBK_2022_78.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_TSBK_2022",
+      "page": 79,
+      "output_filename": "NASDAQ_TSBK_2022_79.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_TSBK_2022",
+      "page": 83,
+      "output_filename": "NASDAQ_TSBK_2022_83.png"
+    },
+    {
+      "type": "distractor",
+      "document": "NASDAQ_TSBK_2022",
+      "page": 97,
+      "output_filename": "NASDAQ_TSBK_2022_97.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "NASDAQ_TSBK_2022",
+      "page": 99,
+      "output_filename": "NASDAQ_TSBK_2022_99.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "Report_ China's SMEs gain vitality, resilience - Chinadaily.com.cn",
+      "page": 5,
+      "output_filename": "Report_ China's SMEs gain vitality, resilience - Chinadaily.com.cn_5.png"
+    },
+    {
+      "type": "distractor",
+      "document": "世界银行：2024年印尼政府对个人支付体系中受益人选择的早期经验报告（英文版）",
+      "page": 11,
+      "output_filename": "世界银行：2024年印尼政府对个人支付体系中受益人选择的早期经验报告（英文版）_11.png"
+    },
+    {
+      "type": "distractor",
+      "document": "世界银行：2024年印尼政府对个人支付体系中受益人选择的早期经验报告（英文版）",
+      "page": 13,
+      "output_filename": "世界银行：2024年印尼政府对个人支付体系中受益人选择的早期经验报告（英文版）_13.png"
+    },
+    {
+      "type": "distractor",
+      "document": "世界银行：2024年印尼政府对个人支付体系中受益人选择的早期经验报告（英文版）",
+      "page": 16,
+      "output_filename": "世界银行：2024年印尼政府对个人支付体系中受益人选择的早期经验报告（英文版）_16.png"
+    },
+    {
+      "type": "distractor",
+      "document": "世界银行：2024年印尼政府对个人支付体系中受益人选择的早期经验报告（英文版）",
+      "page": 19,
+      "output_filename": "世界银行：2024年印尼政府对个人支付体系中受益人选择的早期经验报告（英文版）_19.png"
+    },
+    {
+      "type": "distractor",
+      "document": "世界银行：2024年印尼政府对个人支付体系中受益人选择的早期经验报告（英文版）",
+      "page": 23,
+      "output_filename": "世界银行：2024年印尼政府对个人支付体系中受益人选择的早期经验报告（英文版）_23.png"
+    },
+    {
+      "type": "distractor",
+      "document": "世界银行：2024年印尼政府对个人支付体系中受益人选择的早期经验报告（英文版）",
+      "page": 32,
+      "output_filename": "世界银行：2024年印尼政府对个人支付体系中受益人选择的早期经验报告（英文版）_32.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "世界银行：2024年印尼政府对个人支付体系中受益人选择的早期经验报告（英文版）",
+      "page": 37,
+      "output_filename": "世界银行：2024年印尼政府对个人支付体系中受益人选择的早期经验报告（英文版）_37.png"
+    },
+    {
+      "type": "distractor",
+      "document": "世界银行：2024年印尼政府对个人支付体系中受益人选择的早期经验报告（英文版）",
+      "page": 4,
+      "output_filename": "世界银行：2024年印尼政府对个人支付体系中受益人选择的早期经验报告（英文版）_4.png"
+    },
+    {
+      "type": "distractor",
+      "document": "世界银行：2024年印尼政府对个人支付体系中受益人选择的早期经验报告（英文版）",
+      "page": 44,
+      "output_filename": "世界银行：2024年印尼政府对个人支付体系中受益人选择的早期经验报告（英文版）_44.png"
+    },
+    {
+      "type": "distractor",
+      "document": "世界银行：2024年印尼政府对个人支付体系中受益人选择的早期经验报告（英文版）",
+      "page": 45,
+      "output_filename": "世界银行：2024年印尼政府对个人支付体系中受益人选择的早期经验报告（英文版）_45.png"
+    },
+    {
+      "type": "distractor",
+      "document": "世界银行：2024年印尼政府对个人支付体系中受益人选择的早期经验报告（英文版）",
+      "page": 63,
+      "output_filename": "世界银行：2024年印尼政府对个人支付体系中受益人选择的早期经验报告（英文版）_63.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "世界银行：2024年印尼政府对个人支付体系中受益人选择的早期经验报告（英文版）",
+      "page": 64,
+      "output_filename": "世界银行：2024年印尼政府对个人支付体系中受益人选择的早期经验报告（英文版）_64.png"
+    },
+    {
+      "type": "distractor",
+      "document": "世界银行：2024年印尼政府对个人支付体系中受益人选择的早期经验报告（英文版）",
+      "page": 68,
+      "output_filename": "世界银行：2024年印尼政府对个人支付体系中受益人选择的早期经验报告（英文版）_68.png"
+    },
+    {
+      "type": "distractor",
+      "document": "世界银行：2024年印尼政府对个人支付体系中受益人选择的早期经验报告（英文版）",
+      "page": 76,
+      "output_filename": "世界银行：2024年印尼政府对个人支付体系中受益人选择的早期经验报告（英文版）_76.png"
+    },
+    {
+      "type": "distractor",
+      "document": "世界银行：2024年印尼政府对个人支付体系中受益人选择的早期经验报告（英文版）",
+      "page": 81,
+      "output_filename": "世界银行：2024年印尼政府对个人支付体系中受益人选择的早期经验报告（英文版）_81.png"
+    },
+    {
+      "type": "distractor",
+      "document": "世界银行：2024年印尼政府对个人支付体系中受益人选择的早期经验报告（英文版）",
+      "page": 87,
+      "output_filename": "世界银行：2024年印尼政府对个人支付体系中受益人选择的早期经验报告（英文版）_87.png"
+    },
+    {
+      "type": "distractor",
+      "document": "世界银行：2024年印尼政府对个人支付体系中受益人选择的早期经验报告（英文版）",
+      "page": 92,
+      "output_filename": "世界银行：2024年印尼政府对个人支付体系中受益人选择的早期经验报告（英文版）_92.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国医疗器械行业：如何在竞争日益激烈的市场中蓬勃发展？（英文版）",
+      "page": 10,
+      "output_filename": "中国医疗器械行业：如何在竞争日益激烈的市场中蓬勃发展？（英文版）_10.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国医疗器械行业：如何在竞争日益激烈的市场中蓬勃发展？（英文版）",
+      "page": 18,
+      "output_filename": "中国医疗器械行业：如何在竞争日益激烈的市场中蓬勃发展？（英文版）_18.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "中国医疗器械行业：如何在竞争日益激烈的市场中蓬勃发展？（英文版）",
+      "page": 6,
+      "output_filename": "中国医疗器械行业：如何在竞争日益激烈的市场中蓬勃发展？（英文版）_6.png"
+    },
+    {
+      "type": "distractor",
+      "document": "中国医疗器械行业：如何在竞争日益激烈的市场中蓬勃发展？（英文版）",
+      "page": 7,
+      "output_filename": "中国医疗器械行业：如何在竞争日益激烈的市场中蓬勃发展？（英文版）_7.png"
+    },
+    {
+      "type": "distractor",
+      "document": "加拿大中央银行：2024年10月币政策报告（英文版）",
+      "page": 18,
+      "output_filename": "加拿大中央银行：2024年10月币政策报告（英文版）_18.png"
+    },
+    {
+      "type": "distractor",
+      "document": "加拿大中央银行：2024年10月币政策报告（英文版）",
+      "page": 40,
+      "output_filename": "加拿大中央银行：2024年10月币政策报告（英文版）_40.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "加拿大中央银行：2024年10月币政策报告（英文版）",
+      "page": 53,
+      "output_filename": "加拿大中央银行：2024年10月币政策报告（英文版）_53.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "奥纬咨询：2024日本大型银行未来展望报告（英文版）",
+      "page": 11,
+      "output_filename": "奥纬咨询：2024日本大型银行未来展望报告（英文版）_11.png"
+    },
+    {
+      "type": "distractor",
+      "document": "奥纬咨询：2024日本大型银行未来展望报告（英文版）",
+      "page": 16,
+      "output_filename": "奥纬咨询：2024日本大型银行未来展望报告（英文版）_16.png"
+    },
+    {
+      "type": "distractor",
+      "document": "奥纬咨询：2024日本大型银行未来展望报告（英文版）",
+      "page": 19,
+      "output_filename": "奥纬咨询：2024日本大型银行未来展望报告（英文版）_19.png"
+    },
+    {
+      "type": "distractor",
+      "document": "奥纬咨询：2024日本大型银行未来展望报告（英文版）",
+      "page": 23,
+      "output_filename": "奥纬咨询：2024日本大型银行未来展望报告（英文版）_23.png"
+    },
+    {
+      "type": "distractor",
+      "document": "奥纬咨询：2024日本大型银行未来展望报告（英文版）",
+      "page": 24,
+      "output_filename": "奥纬咨询：2024日本大型银行未来展望报告（英文版）_24.png"
+    },
+    {
+      "type": "distractor",
+      "document": "奥纬咨询：2024日本大型银行未来展望报告（英文版）",
+      "page": 8,
+      "output_filename": "奥纬咨询：2024日本大型银行未来展望报告（英文版）_8.png"
+    },
+    {
+      "type": "distractor",
+      "document": "毕马威：2024年第三季度全球风险投资报告（英文版）",
+      "page": 10,
+      "output_filename": "毕马威：2024年第三季度全球风险投资报告（英文版）_10.png"
+    },
+    {
+      "type": "distractor",
+      "document": "毕马威：2024年第三季度全球风险投资报告（英文版）",
+      "page": 30,
+      "output_filename": "毕马威：2024年第三季度全球风险投资报告（英文版）_30.png"
+    },
+    {
+      "type": "distractor",
+      "document": "毕马威：2024年第三季度全球风险投资报告（英文版）",
+      "page": 53,
+      "output_filename": "毕马威：2024年第三季度全球风险投资报告（英文版）_53.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "single",
+      "document": "毕马威：2024年第三季度全球风险投资报告（英文版）",
+      "page": 67,
+      "output_filename": "毕马威：2024年第三季度全球风险投资报告（英文版）_67.png"
+    },
+    {
+      "type": "distractor",
+      "document": "毕马威：2024年第三季度全球风险投资报告（英文版）",
+      "page": 91,
+      "output_filename": "毕马威：2024年第三季度全球风险投资报告（英文版）_91.png"
+    },
+    {
+      "type": "distractor",
+      "document": "毕马威：2024年第三季度全球风险投资报告（英文版）",
+      "page": 94,
+      "output_filename": "毕马威：2024年第三季度全球风险投资报告（英文版）_94.png"
+    },
+    {
+      "type": "distractor",
+      "document": "气候政策倡议组织（CPI）：2024年欧洲养老基金净零转型状况欧洲养老基金净零转型状况报告（英文版）",
+      "page": 14,
+      "output_filename": "气候政策倡议组织（CPI）：2024年欧洲养老基金净零转型状况欧洲养老基金净零转型状况报告（英文版）_14.png"
+    },
+    {
+      "type": "distractor",
+      "document": "气候政策倡议组织（CPI）：2024年欧洲养老基金净零转型状况欧洲养老基金净零转型状况报告（英文版）",
+      "page": 15,
+      "output_filename": "气候政策倡议组织（CPI）：2024年欧洲养老基金净零转型状况欧洲养老基金净零转型状况报告（英文版）_15.png"
+    },
+    {
+      "type": "distractor",
+      "document": "气候政策倡议组织（CPI）：2024年欧洲养老基金净零转型状况欧洲养老基金净零转型状况报告（英文版）",
+      "page": 16,
+      "output_filename": "气候政策倡议组织（CPI）：2024年欧洲养老基金净零转型状况欧洲养老基金净零转型状况报告（英文版）_16.png"
+    },
+    {
+      "type": "distractor",
+      "document": "气候政策倡议组织（CPI）：2024年欧洲养老基金净零转型状况欧洲养老基金净零转型状况报告（英文版）",
+      "page": 23,
+      "output_filename": "气候政策倡议组织（CPI）：2024年欧洲养老基金净零转型状况欧洲养老基金净零转型状况报告（英文版）_23.png"
+    },
+    {
+      "type": "distractor",
+      "document": "气候政策倡议组织（CPI）：2024年欧洲养老基金净零转型状况欧洲养老基金净零转型状况报告（英文版）",
+      "page": 27,
+      "output_filename": "气候政策倡议组织（CPI）：2024年欧洲养老基金净零转型状况欧洲养老基金净零转型状况报告（英文版）_27.png"
+    },
+    {
+      "type": "distractor",
+      "document": "气候政策倡议组织（CPI）：2024年欧洲养老基金净零转型状况欧洲养老基金净零转型状况报告（英文版）",
+      "page": 3,
+      "output_filename": "气候政策倡议组织（CPI）：2024年欧洲养老基金净零转型状况欧洲养老基金净零转型状况报告（英文版）_3.png"
+    },
+    {
+      "type": "distractor",
+      "document": "气候政策倡议组织（CPI）：2024年欧洲养老基金净零转型状况欧洲养老基金净零转型状况报告（英文版）",
+      "page": 31,
+      "output_filename": "气候政策倡议组织（CPI）：2024年欧洲养老基金净零转型状况欧洲养老基金净零转型状况报告（英文版）_31.png"
+    },
+    {
+      "type": "distractor",
+      "document": "气候政策倡议组织（CPI）：2024年欧洲养老基金净零转型状况欧洲养老基金净零转型状况报告（英文版）",
+      "page": 33,
+      "output_filename": "气候政策倡议组织（CPI）：2024年欧洲养老基金净零转型状况欧洲养老基金净零转型状况报告（英文版）_33.png"
+    },
+    {
+      "type": "distractor",
+      "document": "气候政策倡议组织（CPI）：2024年欧洲养老基金净零转型状况欧洲养老基金净零转型状况报告（英文版）",
+      "page": 43,
+      "output_filename": "气候政策倡议组织（CPI）：2024年欧洲养老基金净零转型状况欧洲养老基金净零转型状况报告（英文版）_43.png"
+    },
+    {
+      "type": "distractor",
+      "document": "气候政策倡议组织（CPI）：2024年欧洲养老基金净零转型状况欧洲养老基金净零转型状况报告（英文版）",
+      "page": 53,
+      "output_filename": "气候政策倡议组织（CPI）：2024年欧洲养老基金净零转型状况欧洲养老基金净零转型状况报告（英文版）_53.png"
+    },
+    {
+      "type": "distractor",
+      "document": "气候政策倡议组织（CPI）：2024年欧洲养老基金净零转型状况欧洲养老基金净零转型状况报告（英文版）",
+      "page": 59,
+      "output_filename": "气候政策倡议组织（CPI）：2024年欧洲养老基金净零转型状况欧洲养老基金净零转型状况报告（英文版）_59.png"
+    },
+    {
+      "type": "distractor",
+      "document": "气候政策倡议组织（CPI）：2024年欧洲养老基金净零转型状况欧洲养老基金净零转型状况报告（英文版）",
+      "page": 8,
+      "output_filename": "气候政策倡议组织（CPI）：2024年欧洲养老基金净零转型状况欧洲养老基金净零转型状况报告（英文版）_8.png"
+    },
+    {
+      "type": "gold",
+      "gold_type": "multipage",
+      "document": "气候政策倡议组织（CPI）：2024年欧洲养老基金净零转型状况欧洲养老基金净零转型状况报告（英文版）",
+      "start_page": 44,
+      "end_page": 45,
+      "output_filename": "气候政策倡议组织（CPI）：2024年欧洲养老基金净零转型状况欧洲养老基金净零转型状况报告（英文版）_multipage_44-45.png"
+    }
+  ]
+}

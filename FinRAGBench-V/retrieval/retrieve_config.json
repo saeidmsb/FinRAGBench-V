@@ -1,8 +1,8 @@
 {
   "model_name_or_path": "./colqwen2-v1.0-merged",
-  "qrels_path":"./dataset/en/qrels/qrels_en.tsv",
+  "qrels_path": "../../subset_metadata/qrels_en_subset.tsv",
   "query_path": "./queries/queries_en.parquet",
-  "output_dir": "",
+  "output_dir": "./encode/colqwen_en/",
   "use_gpu": true,
   "phase": "retrieve",
   "retrieve_depth": 20,

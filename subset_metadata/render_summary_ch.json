@@ -1,0 +1,4014 @@
+{
+  "language": "ch",
+  "dpi": 150,
+  "selection_path": "subset_metadata/final_corpus_selection_ch.json",
+  "output_dir": "mini_corpus/ch",
+  "expected_item_count": 500,
+  "rendered_item_count": 500,
+  "error_count": 0,
+  "output_file_count": 500,
+  "total_output_size_bytes": 528238051,
+  "rendered": [
+    {
+      "output_filename": "2017-2018中国互联网金融行业舆情监测分析报告_18.png",
+      "document": "2017-2018中国互联网金融行业舆情监测分析报告",
+      "type": "distractor",
+      "width": 3957,
+      "height": 2363,
+      "file_size_bytes": 425143
+    },
+    {
+      "output_filename": "2017-2018中国互联网金融行业舆情监测分析报告_21.png",
+      "document": "2017-2018中国互联网金融行业舆情监测分析报告",
+      "type": "gold",
+      "width": 3957,
+      "height": 2363,
+      "file_size_bytes": 362866
+    },
+    {
+      "output_filename": "2017-2018中国互联网金融行业舆情监测分析报告_28.png",
+      "document": "2017-2018中国互联网金融行业舆情监测分析报告",
+      "type": "distractor",
+      "width": 3957,
+      "height": 2363,
+      "file_size_bytes": 766433
+    },
+    {
+      "output_filename": "2017-2018中国互联网金融行业舆情监测分析报告_31.png",
+      "document": "2017-2018中国互联网金融行业舆情监测分析报告",
+      "type": "distractor",
+      "width": 3957,
+      "height": 2363,
+      "file_size_bytes": 761484
+    },
+    {
+      "output_filename": "2017-2018中国互联网金融行业舆情监测分析报告_5.png",
+      "document": "2017-2018中国互联网金融行业舆情监测分析报告",
+      "type": "distractor",
+      "width": 3957,
+      "height": 2363,
+      "file_size_bytes": 801430
+    },
+    {
+      "output_filename": "2019年国民经济和社会发展统计公报_19.png",
+      "document": "2019年国民经济和社会发展统计公报",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 298396
+    },
+    {
+      "output_filename": "2019年国民经济和社会发展统计公报_2.png",
+      "document": "2019年国民经济和社会发展统计公报",
+      "type": "gold",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 120277
+    },
+    {
+      "output_filename": "2019年国民经济和社会发展统计公报_24.png",
+      "document": "2019年国民经济和社会发展统计公报",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 310260
+    },
+    {
+      "output_filename": "2019年国民经济和社会发展统计公报_30.png",
+      "document": "2019年国民经济和社会发展统计公报",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 374028
+    },
+    {
+      "output_filename": "2020年疫情下中国新经济产业投资研究报告_10.png",
+      "document": "2020年疫情下中国新经济产业投资研究报告",
+      "type": "gold",
+      "width": 1500,
+      "height": 1125,
+      "file_size_bytes": 253268
+    },
+    {
+      "output_filename": "2020年疫情下中国新经济产业投资研究报告_12.png",
+      "document": "2020年疫情下中国新经济产业投资研究报告",
+      "type": "distractor",
+      "width": 1500,
+      "height": 1125,
+      "file_size_bytes": 319135
+    },
+    {
+      "output_filename": "2020年疫情下中国新经济产业投资研究报告_27.png",
+      "document": "2020年疫情下中国新经济产业投资研究报告",
+      "type": "distractor",
+      "width": 1500,
+      "height": 1125,
+      "file_size_bytes": 242738
+    },
+    {
+      "output_filename": "2020年疫情下中国新经济产业投资研究报告_8.png",
+      "document": "2020年疫情下中国新经济产业投资研究报告",
+      "type": "distractor",
+      "width": 1500,
+      "height": 1125,
+      "file_size_bytes": 72562
+    },
+    {
+      "output_filename": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告_100.png",
+      "document": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 574864
+    },
+    {
+      "output_filename": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告_109.png",
+      "document": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 277471
+    },
+    {
+      "output_filename": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告_127.png",
+      "document": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 269534
+    },
+    {
+      "output_filename": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告_140.png",
+      "document": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 255362
+    },
+    {
+      "output_filename": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告_143.png",
+      "document": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 240696
+    },
+    {
+      "output_filename": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告_145.png",
+      "document": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 361535
+    },
+    {
+      "output_filename": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告_178.png",
+      "document": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告",
+      "type": "distractor",
+      "width": 1754,
+      "height": 1241,
+      "file_size_bytes": 209269
+    },
+    {
+      "output_filename": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告_2.png",
+      "document": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 348475
+    },
+    {
+      "output_filename": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告_41.png",
+      "document": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 259690
+    },
+    {
+      "output_filename": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告_54.png",
+      "document": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 166635
+    },
+    {
+      "output_filename": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告_61.png",
+      "document": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告",
+      "type": "gold",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 291146
+    },
+    {
+      "output_filename": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告_76.png",
+      "document": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 267964
+    },
+    {
+      "output_filename": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告_86.png",
+      "document": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告",
+      "type": "distractor",
+      "width": 1754,
+      "height": 1241,
+      "file_size_bytes": 209009
+    },
+    {
+      "output_filename": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告_87.png",
+      "document": "2021-03-23__苏州科达科技股份有限公司__603660__苏州科达__2020年__年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 326530
+    },
+    {
+      "output_filename": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告_111.png",
+      "document": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 428791
+    },
+    {
+      "output_filename": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告_115.png",
+      "document": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 382575
+    },
+    {
+      "output_filename": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告_117.png",
+      "document": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 167390
+    },
+    {
+      "output_filename": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告_13.png",
+      "document": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 459031
+    },
+    {
+      "output_filename": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告_144.png",
+      "document": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 195985
+    },
+    {
+      "output_filename": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告_159.png",
+      "document": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 202733
+    },
+    {
+      "output_filename": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告_166.png",
+      "document": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 203884
+    },
+    {
+      "output_filename": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告_169.png",
+      "document": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 155134
+    },
+    {
+      "output_filename": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告_17.png",
+      "document": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告",
+      "type": "distractor",
+      "width": 1754,
+      "height": 1241,
+      "file_size_bytes": 244044
+    },
+    {
+      "output_filename": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告_175.png",
+      "document": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 245313
+    },
+    {
+      "output_filename": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告_180.png",
+      "document": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 208575
+    },
+    {
+      "output_filename": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告_181.png",
+      "document": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 292771
+    },
+    {
+      "output_filename": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告_183.png",
+      "document": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 256692
+    },
+    {
+      "output_filename": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告_25.png",
+      "document": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 314993
+    },
+    {
+      "output_filename": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告_26.png",
+      "document": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 321044
+    },
+    {
+      "output_filename": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告_42.png",
+      "document": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 206744
+    },
+    {
+      "output_filename": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告_55.png",
+      "document": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告",
+      "type": "distractor",
+      "width": 1754,
+      "height": 1241,
+      "file_size_bytes": 202424
+    },
+    {
+      "output_filename": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告_61.png",
+      "document": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 324463
+    },
+    {
+      "output_filename": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告_75.png",
+      "document": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 269932
+    },
+    {
+      "output_filename": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告_79.png",
+      "document": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告",
+      "type": "gold",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 317522
+    },
+    {
+      "output_filename": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告_86.png",
+      "document": "2021-04-16__四川明星电力股份有限公司__600101__明星电力__2020年__年度报告",
+      "type": "distractor",
+      "width": 1754,
+      "height": 1241,
+      "file_size_bytes": 106168
+    },
+    {
+      "output_filename": "2021年的全球经济与中国经济_1.png",
+      "document": "2021年的全球经济与中国经济",
+      "type": "distractor",
+      "width": 1754,
+      "height": 1240,
+      "file_size_bytes": 3700465
+    },
+    {
+      "output_filename": "2021年的全球经济与中国经济_11.png",
+      "document": "2021年的全球经济与中国经济",
+      "type": "gold",
+      "width": 1754,
+      "height": 1240,
+      "file_size_bytes": 943598
+    },
+    {
+      "output_filename": "2021年的全球经济与中国经济_4.png",
+      "document": "2021年的全球经济与中国经济",
+      "type": "distractor",
+      "width": 1754,
+      "height": 1240,
+      "file_size_bytes": 1375156
+    },
+    {
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_102.png",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 278011
+    },
+    {
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_103.png",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 300801
+    },
+    {
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_131.png",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 450441
+    },
+    {
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_139.png",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 336976
+    },
+    {
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_142.png",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 295887
+    },
+    {
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_157.png",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 277542
+    },
+    {
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_172.png",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "type": "gold",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 252374
+    },
+    {
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_173.png",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "type": "gold",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 296139
+    },
+    {
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_189.png",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 326117
+    },
+    {
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_200.png",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 311266
+    },
+    {
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_232.png",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 326762
+    },
+    {
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_244.png",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 272822
+    },
+    {
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_247.png",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 237808
+    },
+    {
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_252.png",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 262728
+    },
+    {
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_255.png",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 303395
+    },
+    {
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_26.png",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 364417
+    },
+    {
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_260.png",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 264150
+    },
+    {
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_280.png",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 320779
+    },
+    {
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_282.png",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 299595
+    },
+    {
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_290.png",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 203103
+    },
+    {
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_294.png",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 389458
+    },
+    {
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_36.png",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 277557
+    },
+    {
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_4.png",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 317956
+    },
+    {
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_40.png",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 306042
+    },
+    {
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_45.png",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 56700
+    },
+    {
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_47.png",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "type": "distractor",
+      "width": 1755,
+      "height": 1241,
+      "file_size_bytes": 129018
+    },
+    {
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_50.png",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 261201
+    },
+    {
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_52.png",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 285311
+    },
+    {
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_53.png",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 228592
+    },
+    {
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_57.png",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "type": "gold",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 224244
+    },
+    {
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_65.png",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 345770
+    },
+    {
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_66.png",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 352520
+    },
+    {
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_69.png",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 322388
+    },
+    {
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_79.png",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 297941
+    },
+    {
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_8.png",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 234159
+    },
+    {
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_85.png",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 377760
+    },
+    {
+      "output_filename": "52fd4a323d97356a463959671794e900699baae5_99.png",
+      "document": "52fd4a323d97356a463959671794e900699baae5",
+      "type": "gold",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 355886
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_10.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 388981
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_103.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 232485
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_104.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 219175
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_107.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 333991
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_129.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 315272
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_135.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 294676
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_136.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 304999
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_138.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 422474
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_173.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 278052
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_18.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 327406
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_182.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 171441
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_213.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 288053
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_221.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 285850
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_235.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 346383
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_242.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 376051
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_262.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 273689
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_263.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 272741
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_274.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 268557
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_276.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 319515
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_28.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 367257
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_291.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 280834
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_30.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 136043
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_323.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "gold",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 307729
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_324.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "gold",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 301619
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_326.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 245119
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_33.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 236685
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_336.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 303812
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_341.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 316979
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_363.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 312879
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_39.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 149722
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_406.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 289954
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_414.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 238874
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_445.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 252675
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_459.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 261611
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_461.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 330043
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_466.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 261376
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_482.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 262433
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_485.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 285656
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_488.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 336172
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_497.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 295887
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_500.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 251946
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_503.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 309927
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_516.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 258174
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_524.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 308662
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_525.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 319706
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_531.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 274410
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_541.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 463189
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_545.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 339594
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_62.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 294081
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_67.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 324209
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_76.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 285709
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_79.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 307581
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_86.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 341103
+    },
+    {
+      "output_filename": "810d8681429537dbf20a437a6dbf08e34c1ece27_89.png",
+      "document": "810d8681429537dbf20a437a6dbf08e34c1ece27",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 142606
+    },
+    {
+      "output_filename": "【研报推荐】联博基金首只公募产品即将面世，工银瑞信沪深300ETF降费_8.png",
+      "document": "【研报推荐】联博基金首只公募产品即将面世，工银瑞信沪深300ETF降费",
+      "type": "gold",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 342005
+    },
+    {
+      "output_filename": "【研报推荐】联博基金首只公募产品即将面世，工银瑞信沪深300ETF降费_9.png",
+      "document": "【研报推荐】联博基金首只公募产品即将面世，工银瑞信沪深300ETF降费",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 274491
+    },
+    {
+      "output_filename": "【财经分析】日本央行按兵不动：市场寻找加息线索 日元面临新风险 - 中国金融信息网_1.png",
+      "document": "【财经分析】日本央行按兵不动：市场寻找加息线索 日元面临新风险 - 中国金融信息网",
+      "type": "gold",
+      "width": 1240,
+      "height": 1754,
+      "file_size_bytes": 532544
+    },
+    {
+      "output_filename": "【财经分析】日本央行按兵不动：市场寻找加息线索 日元面临新风险 - 中国金融信息网_2.png",
+      "document": "【财经分析】日本央行按兵不动：市场寻找加息线索 日元面临新风险 - 中国金融信息网",
+      "type": "gold",
+      "width": 1240,
+      "height": 1754,
+      "file_size_bytes": 291967
+    },
+    {
+      "output_filename": "中国人民大学国际货币研究所：中国财富管理行业趋势报告（2024上）_12.png",
+      "document": "中国人民大学国际货币研究所：中国财富管理行业趋势报告（2024上）",
+      "type": "gold",
+      "width": 1754,
+      "height": 1241,
+      "file_size_bytes": 347656
+    },
+    {
+      "output_filename": "中国人民大学国际货币研究所：中国财富管理行业趋势报告（2024上）_34.png",
+      "document": "中国人民大学国际货币研究所：中国财富管理行业趋势报告（2024上）",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 421813
+    },
+    {
+      "output_filename": "中国共享经济发展年度报告（2019）_21.png",
+      "document": "中国共享经济发展年度报告（2019）",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 360390
+    },
+    {
+      "output_filename": "中国共享经济发展年度报告（2019）_27.png",
+      "document": "中国共享经济发展年度报告（2019）",
+      "type": "gold",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 295557
+    },
+    {
+      "output_filename": "中国共享经济发展年度报告（2019）_34.png",
+      "document": "中国共享经济发展年度报告（2019）",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 471245
+    },
+    {
+      "output_filename": "中国共享经济发展年度报告（2019）_35.png",
+      "document": "中国共享经济发展年度报告（2019）",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 397445
+    },
+    {
+      "output_filename": "中国共享经济发展年度报告（2019）_41.png",
+      "document": "中国共享经济发展年度报告（2019）",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 399901
+    },
+    {
+      "output_filename": "中国工商银行股份有限公司2023年度报告_143.png",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 369873
+    },
+    {
+      "output_filename": "中国工商银行股份有限公司2023年度报告_144.png",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 351035
+    },
+    {
+      "output_filename": "中国工商银行股份有限公司2023年度报告_149.png",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 288753
+    },
+    {
+      "output_filename": "中国工商银行股份有限公司2023年度报告_162.png",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 313614
+    },
+    {
+      "output_filename": "中国工商银行股份有限公司2023年度报告_17.png",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 119322
+    },
+    {
+      "output_filename": "中国工商银行股份有限公司2023年度报告_182.png",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 237958
+    },
+    {
+      "output_filename": "中国工商银行股份有限公司2023年度报告_188.png",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 274478
+    },
+    {
+      "output_filename": "中国工商银行股份有限公司2023年度报告_231.png",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "type": "gold",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 451148
+    },
+    {
+      "output_filename": "中国工商银行股份有限公司2023年度报告_232.png",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "type": "gold",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 403688
+    },
+    {
+      "output_filename": "中国工商银行股份有限公司2023年度报告_233.png",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "type": "gold",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 459023
+    },
+    {
+      "output_filename": "中国工商银行股份有限公司2023年度报告_234.png",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 422358
+    },
+    {
+      "output_filename": "中国工商银行股份有限公司2023年度报告_238.png",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 428973
+    },
+    {
+      "output_filename": "中国工商银行股份有限公司2023年度报告_243.png",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 367214
+    },
+    {
+      "output_filename": "中国工商银行股份有限公司2023年度报告_246.png",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 253349
+    },
+    {
+      "output_filename": "中国工商银行股份有限公司2023年度报告_253.png",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 199393
+    },
+    {
+      "output_filename": "中国工商银行股份有限公司2023年度报告_259.png",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 315761
+    },
+    {
+      "output_filename": "中国工商银行股份有限公司2023年度报告_264.png",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 159093
+    },
+    {
+      "output_filename": "中国工商银行股份有限公司2023年度报告_269.png",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 177096
+    },
+    {
+      "output_filename": "中国工商银行股份有限公司2023年度报告_273.png",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 124578
+    },
+    {
+      "output_filename": "中国工商银行股份有限公司2023年度报告_281.png",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 215095
+    },
+    {
+      "output_filename": "中国工商银行股份有限公司2023年度报告_301.png",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 157908
+    },
+    {
+      "output_filename": "中国工商银行股份有限公司2023年度报告_309.png",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 194721
+    },
+    {
+      "output_filename": "中国工商银行股份有限公司2023年度报告_314.png",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "type": "distractor",
+      "width": 1754,
+      "height": 1241,
+      "file_size_bytes": 147806
+    },
+    {
+      "output_filename": "中国工商银行股份有限公司2023年度报告_317.png",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 287419
+    },
+    {
+      "output_filename": "中国工商银行股份有限公司2023年度报告_322.png",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 376627
+    },
+    {
+      "output_filename": "中国工商银行股份有限公司2023年度报告_323.png",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 228494
+    },
+    {
+      "output_filename": "中国工商银行股份有限公司2023年度报告_340.png",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 314231
+    },
+    {
+      "output_filename": "中国工商银行股份有限公司2023年度报告_344.png",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 215486
+    },
+    {
+      "output_filename": "中国工商银行股份有限公司2023年度报告_346.png",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 340573
+    },
+    {
+      "output_filename": "中国工商银行股份有限公司2023年度报告_358.png",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 153823
+    },
+    {
+      "output_filename": "中国工商银行股份有限公司2023年度报告_36.png",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 309955
+    },
+    {
+      "output_filename": "中国工商银行股份有限公司2023年度报告_382.png",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "type": "distractor",
+      "width": 1754,
+      "height": 1241,
+      "file_size_bytes": 308602
+    },
+    {
+      "output_filename": "中国工商银行股份有限公司2023年度报告_384.png",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "type": "distractor",
+      "width": 1754,
+      "height": 1241,
+      "file_size_bytes": 346909
+    },
+    {
+      "output_filename": "中国工商银行股份有限公司2023年度报告_393.png",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 340704
+    },
+    {
+      "output_filename": "中国工商银行股份有限公司2023年度报告_394.png",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 309294
+    },
+    {
+      "output_filename": "中国工商银行股份有限公司2023年度报告_69.png",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 456579
+    },
+    {
+      "output_filename": "中国工商银行股份有限公司2023年度报告_71.png",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 341150
+    },
+    {
+      "output_filename": "中国工商银行股份有限公司2023年度报告_72.png",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 346315
+    },
+    {
+      "output_filename": "中国工商银行股份有限公司2023年度报告_73.png",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 303216
+    },
+    {
+      "output_filename": "中国工商银行股份有限公司2023年度报告_82.png",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "type": "gold",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 277244
+    },
+    {
+      "output_filename": "中国工商银行股份有限公司2023年度报告_84.png",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 221832
+    },
+    {
+      "output_filename": "中国工商银行股份有限公司2023年度报告_90.png",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 327998
+    },
+    {
+      "output_filename": "中国工商银行股份有限公司2023年度报告_97.png",
+      "document": "中国工商银行股份有限公司2023年度报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 236708
+    },
+    {
+      "output_filename": "中国证券投资基金业协会：《声音》2024年第11期专题征文之十：基金投顾费率机制优化探讨（二）_10.png",
+      "document": "中国证券投资基金业协会：《声音》2024年第11期专题征文之十：基金投顾费率机制优化探讨（二）",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 333425
+    },
+    {
+      "output_filename": "中国证券投资基金业协会：《声音》2024年第11期专题征文之十：基金投顾费率机制优化探讨（二）_6.png",
+      "document": "中国证券投资基金业协会：《声音》2024年第11期专题征文之十：基金投顾费率机制优化探讨（二）",
+      "type": "gold",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 318338
+    },
+    {
+      "output_filename": "中国货币政策执行报告2022年第一季度_10.png",
+      "document": "中国货币政策执行报告2022年第一季度",
+      "type": "gold",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 376516
+    },
+    {
+      "output_filename": "中国货币政策执行报告2022年第一季度_11.png",
+      "document": "中国货币政策执行报告2022年第一季度",
+      "type": "gold",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 436526
+    },
+    {
+      "output_filename": "中国货币政策执行报告2022年第一季度_27.png",
+      "document": "中国货币政策执行报告2022年第一季度",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 383744
+    },
+    {
+      "output_filename": "中国货币政策执行报告2022年第一季度_36.png",
+      "document": "中国货币政策执行报告2022年第一季度",
+      "type": "gold",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 265915
+    },
+    {
+      "output_filename": "中国货币政策执行报告2022年第一季度_38.png",
+      "document": "中国货币政策执行报告2022年第一季度",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 271715
+    },
+    {
+      "output_filename": "中国货币政策执行报告2022年第一季度_4.png",
+      "document": "中国货币政策执行报告2022年第一季度",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 381000
+    },
+    {
+      "output_filename": "中国货币政策执行报告2022年第一季度_41.png",
+      "document": "中国货币政策执行报告2022年第一季度",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 321673
+    },
+    {
+      "output_filename": "中国货币政策执行报告2022年第一季度_51.png",
+      "document": "中国货币政策执行报告2022年第一季度",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 315111
+    },
+    {
+      "output_filename": "中国货币政策执行报告2022年第一季度_57.png",
+      "document": "中国货币政策执行报告2022年第一季度",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 391630
+    },
+    {
+      "output_filename": "中国货币政策执行报告2022年第一季度_6.png",
+      "document": "中国货币政策执行报告2022年第一季度",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 214306
+    },
+    {
+      "output_filename": "中国金融科技专题分析2020_18.png",
+      "document": "中国金融科技专题分析2020",
+      "type": "distractor",
+      "width": 2000,
+      "height": 1125,
+      "file_size_bytes": 537895
+    },
+    {
+      "output_filename": "中国金融科技专题分析2020_35.png",
+      "document": "中国金融科技专题分析2020",
+      "type": "distractor",
+      "width": 2000,
+      "height": 1125,
+      "file_size_bytes": 328937
+    },
+    {
+      "output_filename": "中国金融科技专题分析2020_46.png",
+      "document": "中国金融科技专题分析2020",
+      "type": "distractor",
+      "width": 2000,
+      "height": 1125,
+      "file_size_bytes": 452323
+    },
+    {
+      "output_filename": "中国金融科技专题分析2020_5.png",
+      "document": "中国金融科技专题分析2020",
+      "type": "distractor",
+      "width": 2000,
+      "height": 1125,
+      "file_size_bytes": 534677
+    },
+    {
+      "output_filename": "中国金融科技专题分析2020_50.png",
+      "document": "中国金融科技专题分析2020",
+      "type": "distractor",
+      "width": 2000,
+      "height": 1125,
+      "file_size_bytes": 383804
+    },
+    {
+      "output_filename": "中国金融科技专题分析2020_51.png",
+      "document": "中国金融科技专题分析2020",
+      "type": "distractor",
+      "width": 2000,
+      "height": 1125,
+      "file_size_bytes": 305706
+    },
+    {
+      "output_filename": "中国金融科技专题分析2020_8.png",
+      "document": "中国金融科技专题分析2020",
+      "type": "gold",
+      "width": 2000,
+      "height": 1125,
+      "file_size_bytes": 321074
+    },
+    {
+      "output_filename": "中国金融稳定报告2016_10.png",
+      "document": "中国金融稳定报告2016",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 9729
+    },
+    {
+      "output_filename": "中国金融稳定报告2016_130.png",
+      "document": "中国金融稳定报告2016",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 368900
+    },
+    {
+      "output_filename": "中国金融稳定报告2016_133.png",
+      "document": "中国金融稳定报告2016",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 462183
+    },
+    {
+      "output_filename": "中国金融稳定报告2016_139.png",
+      "document": "中国金融稳定报告2016",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 354590
+    },
+    {
+      "output_filename": "中国金融稳定报告2016_14.png",
+      "document": "中国金融稳定报告2016",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 247543
+    },
+    {
+      "output_filename": "中国金融稳定报告2016_146.png",
+      "document": "中国金融稳定报告2016",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 297480
+    },
+    {
+      "output_filename": "中国金融稳定报告2016_151.png",
+      "document": "中国金融稳定报告2016",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 428377
+    },
+    {
+      "output_filename": "中国金融稳定报告2016_156.png",
+      "document": "中国金融稳定报告2016",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 9729
+    },
+    {
+      "output_filename": "中国金融稳定报告2016_157.png",
+      "document": "中国金融稳定报告2016",
+      "type": "gold",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 371102
+    },
+    {
+      "output_filename": "中国金融稳定报告2016_158.png",
+      "document": "中国金融稳定报告2016",
+      "type": "gold",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 344274
+    },
+    {
+      "output_filename": "中国金融稳定报告2016_159.png",
+      "document": "中国金融稳定报告2016",
+      "type": "gold",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 330519
+    },
+    {
+      "output_filename": "中国金融稳定报告2016_160.png",
+      "document": "中国金融稳定报告2016",
+      "type": "gold",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 185756
+    },
+    {
+      "output_filename": "中国金融稳定报告2016_164.png",
+      "document": "中国金融稳定报告2016",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 136626
+    },
+    {
+      "output_filename": "中国金融稳定报告2016_167.png",
+      "document": "中国金融稳定报告2016",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 43240
+    },
+    {
+      "output_filename": "中国金融稳定报告2016_169.png",
+      "document": "中国金融稳定报告2016",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 395428
+    },
+    {
+      "output_filename": "中国金融稳定报告2016_170.png",
+      "document": "中国金融稳定报告2016",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 431983
+    },
+    {
+      "output_filename": "中国金融稳定报告2016_172.png",
+      "document": "中国金融稳定报告2016",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 182748
+    },
+    {
+      "output_filename": "中国金融稳定报告2016_173.png",
+      "document": "中国金融稳定报告2016",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 311531
+    },
+    {
+      "output_filename": "中国金融稳定报告2016_183.png",
+      "document": "中国金融稳定报告2016",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 197551
+    },
+    {
+      "output_filename": "中国金融稳定报告2016_185.png",
+      "document": "中国金融稳定报告2016",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 280406
+    },
+    {
+      "output_filename": "中国金融稳定报告2016_191.png",
+      "document": "中国金融稳定报告2016",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 246053
+    },
+    {
+      "output_filename": "中国金融稳定报告2016_24.png",
+      "document": "中国金融稳定报告2016",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 259914
+    },
+    {
+      "output_filename": "中国金融稳定报告2016_26.png",
+      "document": "中国金融稳定报告2016",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 288724
+    },
+    {
+      "output_filename": "中国金融稳定报告2016_30.png",
+      "document": "中国金融稳定报告2016",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 272054
+    },
+    {
+      "output_filename": "中国金融稳定报告2016_38.png",
+      "document": "中国金融稳定报告2016",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 9729
+    },
+    {
+      "output_filename": "中国金融稳定报告2016_40.png",
+      "document": "中国金融稳定报告2016",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 9729
+    },
+    {
+      "output_filename": "中国金融稳定报告2016_51.png",
+      "document": "中国金融稳定报告2016",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 323637
+    },
+    {
+      "output_filename": "中国金融稳定报告2016_53.png",
+      "document": "中国金融稳定报告2016",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 246371
+    },
+    {
+      "output_filename": "中国金融稳定报告2017_10.png",
+      "document": "中国金融稳定报告2017",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 9729
+    },
+    {
+      "output_filename": "中国金融稳定报告2017_107.png",
+      "document": "中国金融稳定报告2017",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 41758
+    },
+    {
+      "output_filename": "中国金融稳定报告2017_133.png",
+      "document": "中国金融稳定报告2017",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 70816
+    },
+    {
+      "output_filename": "中国金融稳定报告2017_135.png",
+      "document": "中国金融稳定报告2017",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 61924
+    },
+    {
+      "output_filename": "中国金融稳定报告2017_150.png",
+      "document": "中国金融稳定报告2017",
+      "type": "gold",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 279325
+    },
+    {
+      "output_filename": "中国金融稳定报告2017_30.png",
+      "document": "中国金融稳定报告2017",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 269867
+    },
+    {
+      "output_filename": "中国金融稳定报告2017_52.png",
+      "document": "中国金融稳定报告2017",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 9729
+    },
+    {
+      "output_filename": "中国金融稳定报告2017_65.png",
+      "document": "中国金融稳定报告2017",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 258187
+    },
+    {
+      "output_filename": "中国金融稳定报告2017_75.png",
+      "document": "中国金融稳定报告2017",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 37745
+    },
+    {
+      "output_filename": "中国金融稳定报告2017_76.png",
+      "document": "中国金融稳定报告2017",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 9729
+    },
+    {
+      "output_filename": "中国金融稳定报告2017_77.png",
+      "document": "中国金融稳定报告2017",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 308167
+    },
+    {
+      "output_filename": "中国金融稳定报告2017_80.png",
+      "document": "中国金融稳定报告2017",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 401150
+    },
+    {
+      "output_filename": "中国金融稳定报告2017_81.png",
+      "document": "中国金融稳定报告2017",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 352386
+    },
+    {
+      "output_filename": "中国金融稳定报告2017_85.png",
+      "document": "中国金融稳定报告2017",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 389486
+    },
+    {
+      "output_filename": "中国银行中国经济金融展望报告（2025年）：增量政策加力显效，推动经济“V”型反转_39.png",
+      "document": "中国银行中国经济金融展望报告（2025年）：增量政策加力显效，推动经济“V”型反转",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 509548
+    },
+    {
+      "output_filename": "中国银行中国经济金融展望报告（2025年）：增量政策加力显效，推动经济“V”型反转_42.png",
+      "document": "中国银行中国经济金融展望报告（2025年）：增量政策加力显效，推动经济“V”型反转",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 515246
+    },
+    {
+      "output_filename": "中国银行中国经济金融展望报告（2025年）：增量政策加力显效，推动经济“V”型反转_66.png",
+      "document": "中国银行中国经济金融展望报告（2025年）：增量政策加力显效，推动经济“V”型反转",
+      "type": "gold",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 465049
+    },
+    {
+      "output_filename": "中国银行中国经济金融展望报告（2025年）：增量政策加力显效，推动经济“V”型反转_69.png",
+      "document": "中国银行中国经济金融展望报告（2025年）：增量政策加力显效，推动经济“V”型反转",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 440272
+    },
+    {
+      "output_filename": "中国银行中国经济金融展望报告（2025年）：增量政策加力显效，推动经济“V”型反转_8.png",
+      "document": "中国银行中国经济金融展望报告（2025年）：增量政策加力显效，推动经济“V”型反转",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 483859
+    },
+    {
+      "output_filename": "中国银行股份有限公司2024年半年度报告_117.png",
+      "document": "中国银行股份有限公司2024年半年度报告",
+      "type": "distractor",
+      "width": 1754,
+      "height": 1241,
+      "file_size_bytes": 116825
+    },
+    {
+      "output_filename": "中国银行股份有限公司2024年半年度报告_133.png",
+      "document": "中国银行股份有限公司2024年半年度报告",
+      "type": "distractor",
+      "width": 1240,
+      "height": 1754,
+      "file_size_bytes": 233230
+    },
+    {
+      "output_filename": "中国银行股份有限公司2024年半年度报告_137.png",
+      "document": "中国银行股份有限公司2024年半年度报告",
+      "type": "distractor",
+      "width": 1240,
+      "height": 1754,
+      "file_size_bytes": 155898
+    },
+    {
+      "output_filename": "中国银行股份有限公司2024年半年度报告_14.png",
+      "document": "中国银行股份有限公司2024年半年度报告",
+      "type": "distractor",
+      "width": 1240,
+      "height": 1754,
+      "file_size_bytes": 339092
+    },
+    {
+      "output_filename": "中国银行股份有限公司2024年半年度报告_141.png",
+      "document": "中国银行股份有限公司2024年半年度报告",
+      "type": "distractor",
+      "width": 1240,
+      "height": 1754,
+      "file_size_bytes": 182612
+    },
+    {
+      "output_filename": "中国银行股份有限公司2024年半年度报告_148.png",
+      "document": "中国银行股份有限公司2024年半年度报告",
+      "type": "distractor",
+      "width": 1240,
+      "height": 1754,
+      "file_size_bytes": 328488
+    },
+    {
+      "output_filename": "中国银行股份有限公司2024年半年度报告_154.png",
+      "document": "中国银行股份有限公司2024年半年度报告",
+      "type": "distractor",
+      "width": 1754,
+      "height": 1240,
+      "file_size_bytes": 246861
+    },
+    {
+      "output_filename": "中国银行股份有限公司2024年半年度报告_155.png",
+      "document": "中国银行股份有限公司2024年半年度报告",
+      "type": "distractor",
+      "width": 1754,
+      "height": 1240,
+      "file_size_bytes": 223407
+    },
+    {
+      "output_filename": "中国银行股份有限公司2024年半年度报告_19.png",
+      "document": "中国银行股份有限公司2024年半年度报告",
+      "type": "distractor",
+      "width": 1240,
+      "height": 1754,
+      "file_size_bytes": 490839
+    },
+    {
+      "output_filename": "中国银行股份有限公司2024年半年度报告_40.png",
+      "document": "中国银行股份有限公司2024年半年度报告",
+      "type": "distractor",
+      "width": 1240,
+      "height": 1754,
+      "file_size_bytes": 399003
+    },
+    {
+      "output_filename": "中国银行股份有限公司2024年半年度报告_41.png",
+      "document": "中国银行股份有限公司2024年半年度报告",
+      "type": "gold",
+      "width": 1240,
+      "height": 1754,
+      "file_size_bytes": 322763
+    },
+    {
+      "output_filename": "中国银行股份有限公司2024年半年度报告_53.png",
+      "document": "中国银行股份有限公司2024年半年度报告",
+      "type": "gold",
+      "width": 1240,
+      "height": 1754,
+      "file_size_bytes": 393796
+    },
+    {
+      "output_filename": "中国银行股份有限公司2024年半年度报告_6.png",
+      "document": "中国银行股份有限公司2024年半年度报告",
+      "type": "distractor",
+      "width": 1240,
+      "height": 1754,
+      "file_size_bytes": 293707
+    },
+    {
+      "output_filename": "中国银行股份有限公司2024年半年度报告_64.png",
+      "document": "中国银行股份有限公司2024年半年度报告",
+      "type": "distractor",
+      "width": 1240,
+      "height": 1754,
+      "file_size_bytes": 227348
+    },
+    {
+      "output_filename": "中国银行股份有限公司2024年半年度报告_83.png",
+      "document": "中国银行股份有限公司2024年半年度报告",
+      "type": "distractor",
+      "width": 1240,
+      "height": 1754,
+      "file_size_bytes": 267556
+    },
+    {
+      "output_filename": "中国银行股份有限公司2024年半年度报告_89.png",
+      "document": "中国银行股份有限公司2024年半年度报告",
+      "type": "distractor",
+      "width": 1240,
+      "height": 1754,
+      "file_size_bytes": 157137
+    },
+    {
+      "output_filename": "周期、重构、起航-2018年中国新经济创投白皮书_100.png",
+      "document": "周期、重构、起航-2018年中国新经济创投白皮书",
+      "type": "distractor",
+      "width": 2000,
+      "height": 1125,
+      "file_size_bytes": 302026
+    },
+    {
+      "output_filename": "周期、重构、起航-2018年中国新经济创投白皮书_106.png",
+      "document": "周期、重构、起航-2018年中国新经济创投白皮书",
+      "type": "distractor",
+      "width": 2000,
+      "height": 1125,
+      "file_size_bytes": 690835
+    },
+    {
+      "output_filename": "周期、重构、起航-2018年中国新经济创投白皮书_115.png",
+      "document": "周期、重构、起航-2018年中国新经济创投白皮书",
+      "type": "distractor",
+      "width": 2000,
+      "height": 1125,
+      "file_size_bytes": 337703
+    },
+    {
+      "output_filename": "周期、重构、起航-2018年中国新经济创投白皮书_12.png",
+      "document": "周期、重构、起航-2018年中国新经济创投白皮书",
+      "type": "gold",
+      "width": 2000,
+      "height": 1125,
+      "file_size_bytes": 293269
+    },
+    {
+      "output_filename": "周期、重构、起航-2018年中国新经济创投白皮书_126.png",
+      "document": "周期、重构、起航-2018年中国新经济创投白皮书",
+      "type": "distractor",
+      "width": 2000,
+      "height": 1125,
+      "file_size_bytes": 336331
+    },
+    {
+      "output_filename": "周期、重构、起航-2018年中国新经济创投白皮书_151.png",
+      "document": "周期、重构、起航-2018年中国新经济创投白皮书",
+      "type": "distractor",
+      "width": 2000,
+      "height": 1125,
+      "file_size_bytes": 290244
+    },
+    {
+      "output_filename": "周期、重构、起航-2018年中国新经济创投白皮书_163.png",
+      "document": "周期、重构、起航-2018年中国新经济创投白皮书",
+      "type": "distractor",
+      "width": 2000,
+      "height": 1125,
+      "file_size_bytes": 166326
+    },
+    {
+      "output_filename": "周期、重构、起航-2018年中国新经济创投白皮书_173.png",
+      "document": "周期、重构、起航-2018年中国新经济创投白皮书",
+      "type": "distractor",
+      "width": 2000,
+      "height": 1125,
+      "file_size_bytes": 255459
+    },
+    {
+      "output_filename": "周期、重构、起航-2018年中国新经济创投白皮书_180.png",
+      "document": "周期、重构、起航-2018年中国新经济创投白皮书",
+      "type": "distractor",
+      "width": 2000,
+      "height": 1125,
+      "file_size_bytes": 178236
+    },
+    {
+      "output_filename": "周期、重构、起航-2018年中国新经济创投白皮书_181.png",
+      "document": "周期、重构、起航-2018年中国新经济创投白皮书",
+      "type": "distractor",
+      "width": 2000,
+      "height": 1125,
+      "file_size_bytes": 252237
+    },
+    {
+      "output_filename": "周期、重构、起航-2018年中国新经济创投白皮书_189.png",
+      "document": "周期、重构、起航-2018年中国新经济创投白皮书",
+      "type": "gold",
+      "width": 2000,
+      "height": 1125,
+      "file_size_bytes": 344077
+    },
+    {
+      "output_filename": "周期、重构、起航-2018年中国新经济创投白皮书_203.png",
+      "document": "周期、重构、起航-2018年中国新经济创投白皮书",
+      "type": "distractor",
+      "width": 2000,
+      "height": 1125,
+      "file_size_bytes": 306271
+    },
+    {
+      "output_filename": "周期、重构、起航-2018年中国新经济创投白皮书_212.png",
+      "document": "周期、重构、起航-2018年中国新经济创投白皮书",
+      "type": "distractor",
+      "width": 2000,
+      "height": 1125,
+      "file_size_bytes": 548815
+    },
+    {
+      "output_filename": "周期、重构、起航-2018年中国新经济创投白皮书_47.png",
+      "document": "周期、重构、起航-2018年中国新经济创投白皮书",
+      "type": "distractor",
+      "width": 2000,
+      "height": 1125,
+      "file_size_bytes": 490403
+    },
+    {
+      "output_filename": "周期、重构、起航-2018年中国新经济创投白皮书_48.png",
+      "document": "周期、重构、起航-2018年中国新经济创投白皮书",
+      "type": "distractor",
+      "width": 2000,
+      "height": 1125,
+      "file_size_bytes": 354132
+    },
+    {
+      "output_filename": "周期、重构、起航-2018年中国新经济创投白皮书_63.png",
+      "document": "周期、重构、起航-2018年中国新经济创投白皮书",
+      "type": "gold",
+      "width": 2000,
+      "height": 1125,
+      "file_size_bytes": 248576
+    },
+    {
+      "output_filename": "周期、重构、起航-2018年中国新经济创投白皮书_82.png",
+      "document": "周期、重构、起航-2018年中国新经济创投白皮书",
+      "type": "distractor",
+      "width": 2000,
+      "height": 1125,
+      "file_size_bytes": 109927
+    },
+    {
+      "output_filename": "周期、重构、起航-2018年中国新经济创投白皮书_89.png",
+      "document": "周期、重构、起航-2018年中国新经济创投白皮书",
+      "type": "gold",
+      "width": 2000,
+      "height": 1125,
+      "file_size_bytes": 234016
+    },
+    {
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_115.png",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 314049
+    },
+    {
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_124.png",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 180808
+    },
+    {
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_13.png",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 261502
+    },
+    {
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_146.png",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 264701
+    },
+    {
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_149.png",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 200487
+    },
+    {
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_157.png",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 327059
+    },
+    {
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_171.png",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 316567
+    },
+    {
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_172.png",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 285182
+    },
+    {
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_191.png",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "type": "gold",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 228767
+    },
+    {
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_195.png",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "type": "gold",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 230140
+    },
+    {
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_210.png",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 272304
+    },
+    {
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_213.png",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 264270
+    },
+    {
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_218.png",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 251505
+    },
+    {
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_245.png",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 285620
+    },
+    {
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_249.png",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 235319
+    },
+    {
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_28.png",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "type": "gold",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 359992
+    },
+    {
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_286.png",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 230161
+    },
+    {
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_29.png",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "type": "gold",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 323193
+    },
+    {
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_290.png",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 245102
+    },
+    {
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_294.png",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "type": "distractor",
+      "width": 1684,
+      "height": 1241,
+      "file_size_bytes": 216048
+    },
+    {
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_298.png",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "type": "distractor",
+      "width": 1684,
+      "height": 1241,
+      "file_size_bytes": 233510
+    },
+    {
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_299.png",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "type": "distractor",
+      "width": 1684,
+      "height": 1241,
+      "file_size_bytes": 235372
+    },
+    {
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_312.png",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "type": "distractor",
+      "width": 1684,
+      "height": 1241,
+      "file_size_bytes": 237664
+    },
+    {
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_43.png",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 265795
+    },
+    {
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_48.png",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 210524
+    },
+    {
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_60.png",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 258424
+    },
+    {
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_81.png",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 298079
+    },
+    {
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_86.png",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 325477
+    },
+    {
+      "output_filename": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）_94.png",
+      "document": "国家低空经济融创中心：中国上市及新三板挂牌公司低空经济发展报告（2024）",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1684,
+      "file_size_bytes": 359205
+    },
+    {
+      "output_filename": "天风证券：券商行业2025年年度策略：政策大利好不断，券商板块静待进攻_22.png",
+      "document": "天风证券：券商行业2025年年度策略：政策大利好不断，券商板块静待进攻",
+      "type": "distractor",
+      "width": 1596,
+      "height": 1063,
+      "file_size_bytes": 524802
+    },
+    {
+      "output_filename": "天风证券：券商行业2025年年度策略：政策大利好不断，券商板块静待进攻_25.png",
+      "document": "天风证券：券商行业2025年年度策略：政策大利好不断，券商板块静待进攻",
+      "type": "distractor",
+      "width": 1596,
+      "height": 1063,
+      "file_size_bytes": 391143
+    },
+    {
+      "output_filename": "天风证券：券商行业2025年年度策略：政策大利好不断，券商板块静待进攻_3.png",
+      "document": "天风证券：券商行业2025年年度策略：政策大利好不断，券商板块静待进攻",
+      "type": "distractor",
+      "width": 1596,
+      "height": 1063,
+      "file_size_bytes": 129692
+    },
+    {
+      "output_filename": "天风证券：券商行业2025年年度策略：政策大利好不断，券商板块静待进攻_33.png",
+      "document": "天风证券：券商行业2025年年度策略：政策大利好不断，券商板块静待进攻",
+      "type": "gold",
+      "width": 1596,
+      "height": 1063,
+      "file_size_bytes": 558232
+    },
+    {
+      "output_filename": "宠物经济发展趋势研究报告_8.png",
+      "document": "宠物经济发展趋势研究报告",
+      "type": "gold",
+      "width": 2000,
+      "height": 1125,
+      "file_size_bytes": 229834
+    },
+    {
+      "output_filename": "宠物经济发展趋势研究报告_9.png",
+      "document": "宠物经济发展趋势研究报告",
+      "type": "gold",
+      "width": 2000,
+      "height": 1125,
+      "file_size_bytes": 215568
+    },
+    {
+      "output_filename": "德勤：2025年全球保险行业展望报告_11.png",
+      "document": "德勤：2025年全球保险行业展望报告",
+      "type": "gold",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 218317
+    },
+    {
+      "output_filename": "德勤：2025年全球保险行业展望报告_5.png",
+      "document": "德勤：2025年全球保险行业展望报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 824063
+    },
+    {
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_114.png",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 387607
+    },
+    {
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_119.png",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 360620
+    },
+    {
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_152.png",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 385061
+    },
+    {
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_157.png",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 738856
+    },
+    {
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_162.png",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 409913
+    },
+    {
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_219.png",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 680695
+    },
+    {
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_221.png",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 259693
+    },
+    {
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_241.png",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 293556
+    },
+    {
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_243.png",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 289629
+    },
+    {
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_247.png",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 311968
+    },
+    {
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_25.png",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 331059
+    },
+    {
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_250.png",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 250720
+    },
+    {
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_251.png",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 333437
+    },
+    {
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_254.png",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 228640
+    },
+    {
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_26.png",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 332539
+    },
+    {
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_288.png",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 299353
+    },
+    {
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_294.png",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 292732
+    },
+    {
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_305.png",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 326916
+    },
+    {
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_316.png",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 319875
+    },
+    {
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_344.png",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 229263
+    },
+    {
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_346.png",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 245451
+    },
+    {
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_359.png",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 214927
+    },
+    {
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_373.png",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 292239
+    },
+    {
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_374.png",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 282419
+    },
+    {
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_404.png",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 352868
+    },
+    {
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_415.png",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 317704
+    },
+    {
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_48.png",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 276724
+    },
+    {
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_52.png",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 273178
+    },
+    {
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_55.png",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 235600
+    },
+    {
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_56.png",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "type": "gold",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 246706
+    },
+    {
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_59.png",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 221103
+    },
+    {
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_70.png",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 325509
+    },
+    {
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_71.png",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 201933
+    },
+    {
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_83.png",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 429827
+    },
+    {
+      "output_filename": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书_92.png",
+      "document": "思看科技(杭州)股份有限公司科创板IPO上市招股说明书",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1755,
+      "file_size_bytes": 337530
+    },
+    {
+      "output_filename": "海利尔：行业景气基本触底，期待新项目放量_3.png",
+      "document": "海利尔：行业景气基本触底，期待新项目放量",
+      "type": "gold",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 344926
+    },
+    {
+      "output_filename": "第一财经2023年11期_107.png",
+      "document": "第一财经2023年11期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2982,
+      "file_size_bytes": 4030758
+    },
+    {
+      "output_filename": "第一财经2023年11期_111.png",
+      "document": "第一财经2023年11期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2982,
+      "file_size_bytes": 969197
+    },
+    {
+      "output_filename": "第一财经2023年11期_116.png",
+      "document": "第一财经2023年11期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2982,
+      "file_size_bytes": 2883200
+    },
+    {
+      "output_filename": "第一财经2023年11期_123.png",
+      "document": "第一财经2023年11期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2982,
+      "file_size_bytes": 3867294
+    },
+    {
+      "output_filename": "第一财经2023年11期_139.png",
+      "document": "第一财经2023年11期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2982,
+      "file_size_bytes": 3761692
+    },
+    {
+      "output_filename": "第一财经2023年11期_142.png",
+      "document": "第一财经2023年11期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2982,
+      "file_size_bytes": 3294989
+    },
+    {
+      "output_filename": "第一财经2023年11期_27.png",
+      "document": "第一财经2023年11期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2982,
+      "file_size_bytes": 2507147
+    },
+    {
+      "output_filename": "第一财经2023年11期_31.png",
+      "document": "第一财经2023年11期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2982,
+      "file_size_bytes": 2989191
+    },
+    {
+      "output_filename": "第一财经2023年11期_50.png",
+      "document": "第一财经2023年11期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2982,
+      "file_size_bytes": 6131669
+    },
+    {
+      "output_filename": "第一财经2023年11期_66.png",
+      "document": "第一财经2023年11期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2982,
+      "file_size_bytes": 5100303
+    },
+    {
+      "output_filename": "第一财经2023年11期_68.png",
+      "document": "第一财经2023年11期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2982,
+      "file_size_bytes": 5847267
+    },
+    {
+      "output_filename": "第一财经2023年11期_79.png",
+      "document": "第一财经2023年11期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2982,
+      "file_size_bytes": 4284660
+    },
+    {
+      "output_filename": "第一财经2023年11期_94.png",
+      "document": "第一财经2023年11期",
+      "type": "gold",
+      "width": 2250,
+      "height": 2982,
+      "file_size_bytes": 4557565
+    },
+    {
+      "output_filename": "第一财经2023年11期_98.png",
+      "document": "第一财经2023年11期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2982,
+      "file_size_bytes": 3483473
+    },
+    {
+      "output_filename": "第一财经2023年8期_125.png",
+      "document": "第一财经2023年8期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2982,
+      "file_size_bytes": 861789
+    },
+    {
+      "output_filename": "第一财经2023年8期_15.png",
+      "document": "第一财经2023年8期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2982,
+      "file_size_bytes": 6067872
+    },
+    {
+      "output_filename": "第一财经2023年8期_36.png",
+      "document": "第一财经2023年8期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2982,
+      "file_size_bytes": 3843827
+    },
+    {
+      "output_filename": "第一财经2023年8期_53.png",
+      "document": "第一财经2023年8期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2982,
+      "file_size_bytes": 4739054
+    },
+    {
+      "output_filename": "第一财经2023年8期_55.png",
+      "document": "第一财经2023年8期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2982,
+      "file_size_bytes": 3653442
+    },
+    {
+      "output_filename": "第一财经2023年8期_6.png",
+      "document": "第一财经2023年8期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2982,
+      "file_size_bytes": 647192
+    },
+    {
+      "output_filename": "第一财经2023年8期_74.png",
+      "document": "第一财经2023年8期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2982,
+      "file_size_bytes": 1285098
+    },
+    {
+      "output_filename": "第一财经2023年8期_86.png",
+      "document": "第一财经2023年8期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2982,
+      "file_size_bytes": 2440094
+    },
+    {
+      "output_filename": "第一财经2023年8期_99.png",
+      "document": "第一财经2023年8期",
+      "type": "gold",
+      "width": 2250,
+      "height": 2982,
+      "file_size_bytes": 3293002
+    },
+    {
+      "output_filename": "第一财经2024年12期_11.png",
+      "document": "第一财经2024年12期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2982,
+      "file_size_bytes": 4777879
+    },
+    {
+      "output_filename": "第一财经2024年12期_120.png",
+      "document": "第一财经2024年12期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2982,
+      "file_size_bytes": 3247781
+    },
+    {
+      "output_filename": "第一财经2024年12期_131.png",
+      "document": "第一财经2024年12期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2982,
+      "file_size_bytes": 8793328
+    },
+    {
+      "output_filename": "第一财经2024年12期_150.png",
+      "document": "第一财经2024年12期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2982,
+      "file_size_bytes": 2416504
+    },
+    {
+      "output_filename": "第一财经2024年12期_16.png",
+      "document": "第一财经2024年12期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2982,
+      "file_size_bytes": 15668812
+    },
+    {
+      "output_filename": "第一财经2024年12期_170.png",
+      "document": "第一财经2024年12期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2982,
+      "file_size_bytes": 2819304
+    },
+    {
+      "output_filename": "第一财经2024年12期_171.png",
+      "document": "第一财经2024年12期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2982,
+      "file_size_bytes": 2380577
+    },
+    {
+      "output_filename": "第一财经2024年12期_175.png",
+      "document": "第一财经2024年12期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2982,
+      "file_size_bytes": 2089182
+    },
+    {
+      "output_filename": "第一财经2024年12期_189.png",
+      "document": "第一财经2024年12期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2982,
+      "file_size_bytes": 4756199
+    },
+    {
+      "output_filename": "第一财经2024年12期_191.png",
+      "document": "第一财经2024年12期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2982,
+      "file_size_bytes": 7473030
+    },
+    {
+      "output_filename": "第一财经2024年12期_32.png",
+      "document": "第一财经2024年12期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2982,
+      "file_size_bytes": 2027280
+    },
+    {
+      "output_filename": "第一财经2024年12期_6.png",
+      "document": "第一财经2024年12期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2982,
+      "file_size_bytes": 930108
+    },
+    {
+      "output_filename": "第一财经2024年12期_64.png",
+      "document": "第一财经2024年12期",
+      "type": "gold",
+      "width": 2250,
+      "height": 2982,
+      "file_size_bytes": 2355170
+    },
+    {
+      "output_filename": "第一财经2024年12期_73.png",
+      "document": "第一财经2024年12期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2982,
+      "file_size_bytes": 4121331
+    },
+    {
+      "output_filename": "第一财经2024年12期_8.png",
+      "document": "第一财经2024年12期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2982,
+      "file_size_bytes": 1995594
+    },
+    {
+      "output_filename": "第一财经2024年4期_117.png",
+      "document": "第一财经2024年4期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2982,
+      "file_size_bytes": 4849004
+    },
+    {
+      "output_filename": "第一财经2024年4期_23.png",
+      "document": "第一财经2024年4期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2982,
+      "file_size_bytes": 3566086
+    },
+    {
+      "output_filename": "第一财经2024年4期_45.png",
+      "document": "第一财经2024年4期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2982,
+      "file_size_bytes": 2912661
+    },
+    {
+      "output_filename": "第一财经2024年4期_7.png",
+      "document": "第一财经2024年4期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2982,
+      "file_size_bytes": 1792869
+    },
+    {
+      "output_filename": "第一财经2024年4期_73.png",
+      "document": "第一财经2024年4期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2982,
+      "file_size_bytes": 4369484
+    },
+    {
+      "output_filename": "第一财经2024年4期_8.png",
+      "document": "第一财经2024年4期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2982,
+      "file_size_bytes": 677303
+    },
+    {
+      "output_filename": "第一财经2024年4期_80.png",
+      "document": "第一财经2024年4期",
+      "type": "gold",
+      "width": 2250,
+      "height": 2982,
+      "file_size_bytes": 3858212
+    },
+    {
+      "output_filename": "财经2023第04期_104.png",
+      "document": "财经2023第04期",
+      "type": "distractor",
+      "width": 2494,
+      "height": 3532,
+      "file_size_bytes": 5951499
+    },
+    {
+      "output_filename": "财经2023第04期_106.png",
+      "document": "财经2023第04期",
+      "type": "distractor",
+      "width": 2494,
+      "height": 3532,
+      "file_size_bytes": 5755407
+    },
+    {
+      "output_filename": "财经2023第04期_107.png",
+      "document": "财经2023第04期",
+      "type": "distractor",
+      "width": 2494,
+      "height": 3532,
+      "file_size_bytes": 3876466
+    },
+    {
+      "output_filename": "财经2023第04期_117.png",
+      "document": "财经2023第04期",
+      "type": "distractor",
+      "width": 2494,
+      "height": 3532,
+      "file_size_bytes": 4396999
+    },
+    {
+      "output_filename": "财经2023第04期_20.png",
+      "document": "财经2023第04期",
+      "type": "distractor",
+      "width": 2494,
+      "height": 3532,
+      "file_size_bytes": 6606321
+    },
+    {
+      "output_filename": "财经2023第04期_21.png",
+      "document": "财经2023第04期",
+      "type": "distractor",
+      "width": 2494,
+      "height": 3532,
+      "file_size_bytes": 5975516
+    },
+    {
+      "output_filename": "财经2023第04期_31.png",
+      "document": "财经2023第04期",
+      "type": "distractor",
+      "width": 2494,
+      "height": 3532,
+      "file_size_bytes": 5847993
+    },
+    {
+      "output_filename": "财经2023第04期_37.png",
+      "document": "财经2023第04期",
+      "type": "distractor",
+      "width": 2494,
+      "height": 3532,
+      "file_size_bytes": 5545889
+    },
+    {
+      "output_filename": "财经2023第04期_50.png",
+      "document": "财经2023第04期",
+      "type": "distractor",
+      "width": 2494,
+      "height": 3532,
+      "file_size_bytes": 6045793
+    },
+    {
+      "output_filename": "财经2023第04期_62.png",
+      "document": "财经2023第04期",
+      "type": "distractor",
+      "width": 2494,
+      "height": 3532,
+      "file_size_bytes": 6043358
+    },
+    {
+      "output_filename": "财经2023第04期_76.png",
+      "document": "财经2023第04期",
+      "type": "gold",
+      "width": 2494,
+      "height": 3532,
+      "file_size_bytes": 4905441
+    },
+    {
+      "output_filename": "财经2023第04期_78.png",
+      "document": "财经2023第04期",
+      "type": "gold",
+      "width": 2494,
+      "height": 3532,
+      "file_size_bytes": 4350563
+    },
+    {
+      "output_filename": "财经2023第04期_81.png",
+      "document": "财经2023第04期",
+      "type": "distractor",
+      "width": 2494,
+      "height": 3532,
+      "file_size_bytes": 9123656
+    },
+    {
+      "output_filename": "财经2023第04期_82.png",
+      "document": "财经2023第04期",
+      "type": "distractor",
+      "width": 2494,
+      "height": 3532,
+      "file_size_bytes": 9296795
+    },
+    {
+      "output_filename": "财经2023第04期_87.png",
+      "document": "财经2023第04期",
+      "type": "distractor",
+      "width": 2494,
+      "height": 3532,
+      "file_size_bytes": 5656190
+    },
+    {
+      "output_filename": "财经2023第04期_9.png",
+      "document": "财经2023第04期",
+      "type": "distractor",
+      "width": 2494,
+      "height": 3532,
+      "file_size_bytes": 6165407
+    },
+    {
+      "output_filename": "财经2023第04期_93.png",
+      "document": "财经2023第04期",
+      "type": "distractor",
+      "width": 2494,
+      "height": 3532,
+      "file_size_bytes": 8521659
+    },
+    {
+      "output_filename": "财经2024年7期_100.png",
+      "document": "财经2024年7期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2909,
+      "file_size_bytes": 3282228
+    },
+    {
+      "output_filename": "财经2024年7期_17.png",
+      "document": "财经2024年7期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2909,
+      "file_size_bytes": 3330080
+    },
+    {
+      "output_filename": "财经2024年7期_31.png",
+      "document": "财经2024年7期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2909,
+      "file_size_bytes": 5078186
+    },
+    {
+      "output_filename": "财经2024年7期_32.png",
+      "document": "财经2024年7期",
+      "type": "gold",
+      "width": 2250,
+      "height": 2909,
+      "file_size_bytes": 2916216
+    },
+    {
+      "output_filename": "财经2024年7期_35.png",
+      "document": "财经2024年7期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2909,
+      "file_size_bytes": 2786494
+    },
+    {
+      "output_filename": "财经2024年7期_37.png",
+      "document": "财经2024年7期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2909,
+      "file_size_bytes": 2576818
+    },
+    {
+      "output_filename": "财经2024年7期_71.png",
+      "document": "财经2024年7期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2909,
+      "file_size_bytes": 4700775
+    },
+    {
+      "output_filename": "财经2024年7期_76.png",
+      "document": "财经2024年7期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2909,
+      "file_size_bytes": 3249630
+    },
+    {
+      "output_filename": "财经2024年7期_8.png",
+      "document": "财经2024年7期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2909,
+      "file_size_bytes": 2483740
+    },
+    {
+      "output_filename": "财经2024年7期_87.png",
+      "document": "财经2024年7期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2909,
+      "file_size_bytes": 3131512
+    },
+    {
+      "output_filename": "财经2024年7期_90.png",
+      "document": "财经2024年7期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2909,
+      "file_size_bytes": 3424581
+    },
+    {
+      "output_filename": "财经2024年7期_94.png",
+      "document": "财经2024年7期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2909,
+      "file_size_bytes": 2500701
+    },
+    {
+      "output_filename": "财经2024年8期_113.png",
+      "document": "财经2024年8期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2909,
+      "file_size_bytes": 3374947
+    },
+    {
+      "output_filename": "财经2024年8期_114.png",
+      "document": "财经2024年8期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2909,
+      "file_size_bytes": 3032455
+    },
+    {
+      "output_filename": "财经2024年8期_18.png",
+      "document": "财经2024年8期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2909,
+      "file_size_bytes": 2547134
+    },
+    {
+      "output_filename": "财经2024年8期_28.png",
+      "document": "财经2024年8期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2909,
+      "file_size_bytes": 3238941
+    },
+    {
+      "output_filename": "财经2024年8期_3.png",
+      "document": "财经2024年8期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2909,
+      "file_size_bytes": 3840745
+    },
+    {
+      "output_filename": "财经2024年8期_52.png",
+      "document": "财经2024年8期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2909,
+      "file_size_bytes": 3445592
+    },
+    {
+      "output_filename": "财经2024年8期_60.png",
+      "document": "财经2024年8期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2909,
+      "file_size_bytes": 4457877
+    },
+    {
+      "output_filename": "财经2024年8期_63.png",
+      "document": "财经2024年8期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2909,
+      "file_size_bytes": 2952636
+    },
+    {
+      "output_filename": "财经2024年8期_64.png",
+      "document": "财经2024年8期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2909,
+      "file_size_bytes": 3359715
+    },
+    {
+      "output_filename": "财经2024年8期_71.png",
+      "document": "财经2024年8期",
+      "type": "gold",
+      "width": 2250,
+      "height": 2909,
+      "file_size_bytes": 2440509
+    },
+    {
+      "output_filename": "财经2024年8期_79.png",
+      "document": "财经2024年8期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2909,
+      "file_size_bytes": 4032923
+    },
+    {
+      "output_filename": "财经2024年8期_9.png",
+      "document": "财经2024年8期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2909,
+      "file_size_bytes": 2407783
+    },
+    {
+      "output_filename": "财经2024年8期_97.png",
+      "document": "财经2024年8期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2909,
+      "file_size_bytes": 5916614
+    },
+    {
+      "output_filename": "财经2024年9期_102.png",
+      "document": "财经2024年9期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2909,
+      "file_size_bytes": 3237308
+    },
+    {
+      "output_filename": "财经2024年9期_11.png",
+      "document": "财经2024年9期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2909,
+      "file_size_bytes": 5492596
+    },
+    {
+      "output_filename": "财经2024年9期_117.png",
+      "document": "财经2024年9期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2909,
+      "file_size_bytes": 3515842
+    },
+    {
+      "output_filename": "财经2024年9期_22.png",
+      "document": "财经2024年9期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2909,
+      "file_size_bytes": 4698506
+    },
+    {
+      "output_filename": "财经2024年9期_37.png",
+      "document": "财经2024年9期",
+      "type": "gold",
+      "width": 2250,
+      "height": 2909,
+      "file_size_bytes": 2525611
+    },
+    {
+      "output_filename": "财经2024年9期_66.png",
+      "document": "财经2024年9期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2909,
+      "file_size_bytes": 3606534
+    },
+    {
+      "output_filename": "财经2024年9期_69.png",
+      "document": "财经2024年9期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2909,
+      "file_size_bytes": 2320709
+    },
+    {
+      "output_filename": "财经2024年9期_75.png",
+      "document": "财经2024年9期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2909,
+      "file_size_bytes": 4789016
+    },
+    {
+      "output_filename": "财经2024年9期_88.png",
+      "document": "财经2024年9期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2909,
+      "file_size_bytes": 3211062
+    },
+    {
+      "output_filename": "财经2024年9期_90.png",
+      "document": "财经2024年9期",
+      "type": "distractor",
+      "width": 2250,
+      "height": 2909,
+      "file_size_bytes": 4991085
+    },
+    {
+      "output_filename": "转型中的中东经济——中国与中东经贸合作前景广阔_13.png",
+      "document": "转型中的中东经济——中国与中东经贸合作前景广阔",
+      "type": "distractor",
+      "width": 1275,
+      "height": 1790,
+      "file_size_bytes": 1533895
+    },
+    {
+      "output_filename": "转型中的中东经济——中国与中东经贸合作前景广阔_16.png",
+      "document": "转型中的中东经济——中国与中东经贸合作前景广阔",
+      "type": "distractor",
+      "width": 1275,
+      "height": 1790,
+      "file_size_bytes": 2753627
+    },
+    {
+      "output_filename": "转型中的中东经济——中国与中东经贸合作前景广阔_31.png",
+      "document": "转型中的中东经济——中国与中东经贸合作前景广阔",
+      "type": "gold",
+      "width": 1275,
+      "height": 1790,
+      "file_size_bytes": 239193
+    },
+    {
+      "output_filename": "转型中的中东经济——中国与中东经贸合作前景广阔_48.png",
+      "document": "转型中的中东经济——中国与中东经贸合作前景广阔",
+      "type": "distractor",
+      "width": 1275,
+      "height": 1790,
+      "file_size_bytes": 119512
+    },
+    {
+      "output_filename": "转型中的中东经济——中国与中东经贸合作前景广阔_49.png",
+      "document": "转型中的中东经济——中国与中东经贸合作前景广阔",
+      "type": "distractor",
+      "width": 1275,
+      "height": 1790,
+      "file_size_bytes": 247104
+    },
+    {
+      "output_filename": "转型中的中东经济——中国与中东经贸合作前景广阔_56.png",
+      "document": "转型中的中东经济——中国与中东经贸合作前景广阔",
+      "type": "distractor",
+      "width": 1275,
+      "height": 1790,
+      "file_size_bytes": 337277
+    },
+    {
+      "output_filename": "转型中的中东经济——中国与中东经贸合作前景广阔_66.png",
+      "document": "转型中的中东经济——中国与中东经贸合作前景广阔",
+      "type": "distractor",
+      "width": 1275,
+      "height": 1790,
+      "file_size_bytes": 154688
+    },
+    {
+      "output_filename": "转型中的中东经济——中国与中东经贸合作前景广阔_8.png",
+      "document": "转型中的中东经济——中国与中东经贸合作前景广阔",
+      "type": "distractor",
+      "width": 1275,
+      "height": 1790,
+      "file_size_bytes": 2067047
+    },
+    {
+      "output_filename": "转型中的中东经济——中国与中东经贸合作前景广阔_9.png",
+      "document": "转型中的中东经济——中国与中东经贸合作前景广阔",
+      "type": "distractor",
+      "width": 1275,
+      "height": 1790,
+      "file_size_bytes": 1881134
+    },
+    {
+      "output_filename": "远东资信：《远东信用观察》2024年第2期_107.png",
+      "document": "远东资信：《远东信用观察》2024年第2期",
+      "type": "distractor",
+      "width": 1229,
+      "height": 1684,
+      "file_size_bytes": 357231
+    },
+    {
+      "output_filename": "远东资信：《远东信用观察》2024年第2期_116.png",
+      "document": "远东资信：《远东信用观察》2024年第2期",
+      "type": "distractor",
+      "width": 1229,
+      "height": 1684,
+      "file_size_bytes": 377254
+    },
+    {
+      "output_filename": "远东资信：《远东信用观察》2024年第2期_128.png",
+      "document": "远东资信：《远东信用观察》2024年第2期",
+      "type": "distractor",
+      "width": 1229,
+      "height": 1684,
+      "file_size_bytes": 291208
+    },
+    {
+      "output_filename": "远东资信：《远东信用观察》2024年第2期_131.png",
+      "document": "远东资信：《远东信用观察》2024年第2期",
+      "type": "distractor",
+      "width": 1229,
+      "height": 1684,
+      "file_size_bytes": 441378
+    },
+    {
+      "output_filename": "远东资信：《远东信用观察》2024年第2期_31.png",
+      "document": "远东资信：《远东信用观察》2024年第2期",
+      "type": "distractor",
+      "width": 1229,
+      "height": 1684,
+      "file_size_bytes": 287979
+    },
+    {
+      "output_filename": "远东资信：《远东信用观察》2024年第2期_35.png",
+      "document": "远东资信：《远东信用观察》2024年第2期",
+      "type": "distractor",
+      "width": 1229,
+      "height": 1684,
+      "file_size_bytes": 304133
+    },
+    {
+      "output_filename": "远东资信：《远东信用观察》2024年第2期_42.png",
+      "document": "远东资信：《远东信用观察》2024年第2期",
+      "type": "distractor",
+      "width": 1229,
+      "height": 1684,
+      "file_size_bytes": 129795
+    },
+    {
+      "output_filename": "远东资信：《远东信用观察》2024年第2期_46.png",
+      "document": "远东资信：《远东信用观察》2024年第2期",
+      "type": "distractor",
+      "width": 1229,
+      "height": 1684,
+      "file_size_bytes": 290261
+    },
+    {
+      "output_filename": "远东资信：《远东信用观察》2024年第2期_48.png",
+      "document": "远东资信：《远东信用观察》2024年第2期",
+      "type": "distractor",
+      "width": 1229,
+      "height": 1684,
+      "file_size_bytes": 330855
+    },
+    {
+      "output_filename": "远东资信：《远东信用观察》2024年第2期_62.png",
+      "document": "远东资信：《远东信用观察》2024年第2期",
+      "type": "gold",
+      "width": 1229,
+      "height": 1684,
+      "file_size_bytes": 414561
+    },
+    {
+      "output_filename": "远东资信：《远东信用观察》2024年第2期_68.png",
+      "document": "远东资信：《远东信用观察》2024年第2期",
+      "type": "distractor",
+      "width": 1229,
+      "height": 1684,
+      "file_size_bytes": 248688
+    },
+    {
+      "output_filename": "远东资信：《远东信用观察》2024年第2期_93.png",
+      "document": "远东资信：《远东信用观察》2024年第2期",
+      "type": "distractor",
+      "width": 1229,
+      "height": 1684,
+      "file_size_bytes": 409582
+    },
+    {
+      "output_filename": "金融数字化发展联盟：2024年消费金融数字化转型主题调研报告_110.png",
+      "document": "金融数字化发展联盟：2024年消费金融数字化转型主题调研报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 244724
+    },
+    {
+      "output_filename": "金融数字化发展联盟：2024年消费金融数字化转型主题调研报告_114.png",
+      "document": "金融数字化发展联盟：2024年消费金融数字化转型主题调研报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 298712
+    },
+    {
+      "output_filename": "金融数字化发展联盟：2024年消费金融数字化转型主题调研报告_130.png",
+      "document": "金融数字化发展联盟：2024年消费金融数字化转型主题调研报告",
+      "type": "gold",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 325127
+    },
+    {
+      "output_filename": "金融数字化发展联盟：2024年消费金融数字化转型主题调研报告_14.png",
+      "document": "金融数字化发展联盟：2024年消费金融数字化转型主题调研报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 511211
+    },
+    {
+      "output_filename": "金融数字化发展联盟：2024年消费金融数字化转型主题调研报告_149.png",
+      "document": "金融数字化发展联盟：2024年消费金融数字化转型主题调研报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 444339
+    },
+    {
+      "output_filename": "金融数字化发展联盟：2024年消费金融数字化转型主题调研报告_16.png",
+      "document": "金融数字化发展联盟：2024年消费金融数字化转型主题调研报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 434310
+    },
+    {
+      "output_filename": "金融数字化发展联盟：2024年消费金融数字化转型主题调研报告_36.png",
+      "document": "金融数字化发展联盟：2024年消费金融数字化转型主题调研报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 335889
+    },
+    {
+      "output_filename": "金融数字化发展联盟：2024年消费金融数字化转型主题调研报告_92.png",
+      "document": "金融数字化发展联盟：2024年消费金融数字化转型主题调研报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 296740
+    },
+    {
+      "output_filename": "金融数字化发展联盟：2024年消费金融数字化转型主题调研报告_99.png",
+      "document": "金融数字化发展联盟：2024年消费金融数字化转型主题调研报告",
+      "type": "distractor",
+      "width": 1241,
+      "height": 1754,
+      "file_size_bytes": 246401
+    },
+    {
+      "output_filename": "麦肯锡全球银行业年度报告_17.png",
+      "document": "麦肯锡全球银行业年度报告",
+      "type": "distractor",
+      "width": 1275,
+      "height": 1650,
+      "file_size_bytes": 410122
+    },
+    {
+      "output_filename": "麦肯锡全球银行业年度报告_37.png",
+      "document": "麦肯锡全球银行业年度报告",
+      "type": "distractor",
+      "width": 1275,
+      "height": 1650,
+      "file_size_bytes": 501405
+    },
+    {
+      "output_filename": "麦肯锡全球银行业年度报告_38.png",
+      "document": "麦肯锡全球银行业年度报告",
+      "type": "gold",
+      "width": 1275,
+      "height": 1650,
+      "file_size_bytes": 223562
+    },
+    {
+      "output_filename": "麦肯锡全球银行业年度报告_8.png",
+      "document": "麦肯锡全球银行业年度报告",
+      "type": "distractor",
+      "width": 1275,
+      "height": 1650,
+      "file_size_bytes": 188990
+    }
+  ],
+  "errors": []
+}
