@@ -1,3 +1,4 @@
+import argparse
 import logging
 import os
 import time
@@ -61,7 +62,18 @@ def load_config(config_path):
 
 def main():
     # 配置文件路径
-    config_path = "retrieve_config.json"
+    parser = argparse.ArgumentParser()
+
+    parser.add_argument(
+        "--config",
+        type=str,
+        required=True,
+        help="Path to config JSON file"
+    )
+
+    cli_args, _ = parser.parse_known_args()
+
+    config_path = cli_args.config
     config_data = load_config(config_path)
 
     # 初始化解析器
