@@ -16,7 +16,7 @@ ROOT = Path(__file__).resolve().parents[1]
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--topk", type=int, default=5)
+    parser.add_argument("--topk", type=int, default=10)
     parser.add_argument("--candidates", type=int, default=20)
     args = parser.parse_args()
     if args.topk < 1 or args.candidates < 1:

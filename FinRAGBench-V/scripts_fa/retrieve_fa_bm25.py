@@ -32,7 +32,7 @@ def tokenize(text):
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--topk", type=int, default=5)
+    parser.add_argument("--topk", type=int, default=10)
     args = parser.parse_args()
     if args.topk < 1:
         raise ValueError("topk must be positive")

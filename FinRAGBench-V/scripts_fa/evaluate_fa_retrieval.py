@@ -62,6 +62,22 @@ def main():
 
     corpus_ids = set(ids)
     for question in questions:
+        full = question.get("relevant_page_ids")
+        partial = question.setdefault("per_relevant_page_ids", [])
+        if not isinstance(full, list) or not full:
+            raise ValueError("Full references must be a nonempty list")
+        if not isinstance(partial, list):
+            raise ValueError("Partial references must be a list")
+        if not all(isinstance(p, str) and p for p in full + partial):
+            raise ValueError("Invalid reference page IDs")
+        if len(set(full)) != len(full) or len(set(partial)) != len(partial):
+            raise ValueError("Duplicate reference pages")
+        if set(full) & set(partial):
+            raise ValueError("Full and partial references must be disjoint")
+        missing = (set(full) | set(partial)) - corpus_ids
+        if missing:
+            raise ValueError(f"Reference pages missing: {missing}")
+    for question in questions:
         relevant = question["relevant_page_ids"]
         if not question["query"].strip() or not relevant:
             raise RuntimeError("Empty query or reference list")
@@ -110,14 +126,22 @@ def main():
             for page_id in sorted(relevant)
         }
         first_rank = min(reference_ranks.values())
+        accepted = relevant | set(question["per_relevant_page_ids"])
+        first_accepted_rank = min(positions[p] for p in accepted)
+        top10 = set(ranked_ids[:10])
 
         row = {
             **question,
             "reference_ranks": reference_ranks,
             "first_relevant_rank": first_rank,
-            "recall_at_5": len(relevant & set(ranked_ids[:5])) / len(relevant),
-            "recall_at_20": len(relevant & set(ranked_ids[:20])) / len(relevant),
-            "reciprocal_rank": 1.0 / first_rank,
+            "recall_at_10": len(relevant & top10) / len(relevant),
+            "recall_at_10_with_partial": len(accepted & top10) / len(accepted),
+            "first_accepted_rank": first_accepted_rank,
+            "retrieved_page_ids": ranked_ids[:10],
+            "reciprocal_rank_at_10_with_partial": (
+                1.0 / first_accepted_rank if first_accepted_rank <= 10 else 0.0
+            ),
+            "reciprocal_rank_at_10": 1.0 / first_rank if first_rank <= 10 else 0.0,
             "elapsed_seconds": elapsed,
             "query_token_count": int(inputs["input_ids"].shape[1]),
             "ranking": [
@@ -126,7 +150,7 @@ def main():
                     "page_id": ids[index],
                     "score": float(scores[index]),
                 }
-                for rank, index in enumerate(order, start=1)
+                for rank, index in enumerate(order[:10], start=1)
             ],
         }
         rows.append(row)
@@ -134,8 +158,9 @@ def main():
         print(
             f'{question["query_id"]}: '
             f'rank={first_rank}, '
-            f'Recall@5={row["recall_at_5"]:.2f}, '
-            f'Recall@20={row["recall_at_20"]:.2f}',
+            f'Recall@10={row["recall_at_10"]:.2f}, '
+            f'RR@10={row["reciprocal_rank_at_10"]:.3f}, '
+            f'Recall@10+partial={row["recall_at_10_with_partial"]:.2f}',
             flush=True,
         )
         del inputs, query_embedding, scores
@@ -147,9 +172,15 @@ def main():
             for question in questions
             for page_id in question["relevant_page_ids"]
         }),
-        "mean_recall_at_5": sum(r["recall_at_5"] for r in rows) / len(rows),
-        "mean_recall_at_20": sum(r["recall_at_20"] for r in rows) / len(rows),
-        "mrr": sum(r["reciprocal_rank"] for r in rows) / len(rows),
+        "k": 10,
+        "mean_recall_at_10": sum(r["recall_at_10"] for r in rows) / len(rows),
+        "mrr_at_10": sum(r["reciprocal_rank_at_10"] for r in rows) / len(rows),
+        "mean_recall_at_10_with_partial": sum(
+            r["recall_at_10_with_partial"] for r in rows
+        ) / len(rows),
+        "mrr_at_10_with_partial": sum(
+            r["reciprocal_rank_at_10_with_partial"] for r in rows
+        ) / len(rows),
     }
 
     output_dir = ROOT / "retrieval/results/fa_evaluation"

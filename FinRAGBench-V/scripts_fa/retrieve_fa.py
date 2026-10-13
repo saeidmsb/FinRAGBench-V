@@ -15,7 +15,7 @@ from openmatch.modeling.modeling_colqwen.modeling_colqwen_model import ColQwen2M
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--topk", type=int, default=5)
+    parser.add_argument("--topk", type=int, default=10)
     parser.add_argument(
         "--embedding-dir", default="retrieval/encode/colqwen_fa_2048"
     )

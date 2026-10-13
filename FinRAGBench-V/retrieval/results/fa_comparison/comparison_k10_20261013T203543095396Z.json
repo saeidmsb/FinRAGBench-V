@@ -1,0 +1,4547 @@
+{
+  "dataset": "data/fa/evaluation/questions_10.json",
+  "dataset_sha256": "00e5d5c900f56d8f1c2e7f09ceb7f9079a7b4f13e99306c1ae51cf6e3d26d915",
+  "k": 10,
+  "metric_policy": "binary full references; separately full plus partial union",
+  "tie_breaking": "score descending, page ID ascending",
+  "script_sha256": "70eda8e2bc22bc7f3fdfb5526f882a50357c672bab388139bc9306bd3bdff14a",
+  "unique_reference_pages": 2,
+  "methods": {
+    "bm25": {
+      "summary": {
+        "questions": 10,
+        "k": 10,
+        "recall_at_10": 0.9,
+        "mrr_at_10": 0.75,
+        "recall_at_10_with_partial": 0.9,
+        "mrr_at_10_with_partial": 0.75
+      },
+      "results": [
+        {
+          "query_id": "fa_001",
+          "query": "الگوی رفتار کاربران دیجی‌پی در پرداخت اقساط",
+          "relevant_page_ids": [
+            "fa_digipay-1401-fa_p0052.png"
+          ],
+          "per_relevant_page_ids": [],
+          "recall_at_10": 1.0,
+          "reciprocal_rank_at_10": 1.0,
+          "first_relevant_rank_at_10": 1,
+          "recall_at_10_with_partial": 1.0,
+          "reciprocal_rank_at_10_with_partial": 1.0,
+          "first_accepted_rank_at_10": 1,
+          "retrieved_page_ids": [
+            "fa_digipay-1401-fa_p0052.png",
+            "fa_digipay-1401-fa_p0003.png",
+            "fa_digipay-1401-fa_p0028.png",
+            "fa_digipay-1400-fa_p0014.png",
+            "fa_digipay-1401-fa_p0053.png",
+            "fa_digipay-1401-fa_p0050.png",
+            "fa_digipay-1401-fa_p0041.png",
+            "fa_digipay-1401-fa_p0027.png",
+            "fa_digipay-1401-fa_p0046.png",
+            "fa_digipay-1401-fa_p0045.png"
+          ],
+          "ranking": [
+            {
+              "rank": 1,
+              "page_id": "fa_digipay-1401-fa_p0052.png",
+              "score": 20.278604884277353,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 52,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0052.png"
+            },
+            {
+              "rank": 2,
+              "page_id": "fa_digipay-1401-fa_p0003.png",
+              "score": 11.679759561296498,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 3,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0003.png"
+            },
+            {
+              "rank": 3,
+              "page_id": "fa_digipay-1401-fa_p0028.png",
+              "score": 11.622724826533835,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 28,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0028.png"
+            },
+            {
+              "rank": 4,
+              "page_id": "fa_digipay-1400-fa_p0014.png",
+              "score": 10.783682081240604,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 14,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0014.png"
+            },
+            {
+              "rank": 5,
+              "page_id": "fa_digipay-1401-fa_p0053.png",
+              "score": 9.542165491253996,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 53,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0053.png"
+            },
+            {
+              "rank": 6,
+              "page_id": "fa_digipay-1401-fa_p0050.png",
+              "score": 9.413649656910028,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 50,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0050.png"
+            },
+            {
+              "rank": 7,
+              "page_id": "fa_digipay-1401-fa_p0041.png",
+              "score": 9.28586749280074,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 41,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0041.png"
+            },
+            {
+              "rank": 8,
+              "page_id": "fa_digipay-1401-fa_p0027.png",
+              "score": 9.12632691333145,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 27,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0027.png"
+            },
+            {
+              "rank": 9,
+              "page_id": "fa_digipay-1401-fa_p0046.png",
+              "score": 9.078046311834441,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 46,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0046.png"
+            },
+            {
+              "rank": 10,
+              "page_id": "fa_digipay-1401-fa_p0045.png",
+              "score": 8.983461564067731,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 45,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0045.png"
+            }
+          ]
+        },
+        {
+          "query_id": "fa_002",
+          "query": "نمودار رفتار کاربران دیجی‌پی در زمان پرداخت قسط‌ها در کدام صفحه آمده است؟",
+          "relevant_page_ids": [
+            "fa_digipay-1401-fa_p0052.png"
+          ],
+          "per_relevant_page_ids": [],
+          "recall_at_10": 0.0,
+          "reciprocal_rank_at_10": 0.0,
+          "first_relevant_rank_at_10": null,
+          "recall_at_10_with_partial": 0.0,
+          "reciprocal_rank_at_10_with_partial": 0.0,
+          "first_accepted_rank_at_10": null,
+          "retrieved_page_ids": [
+            "fa_digipay-1401-fa_p0032.png",
+            "fa_digipay-1401-fa_p0054.png",
+            "fa_digipay-1401-fa_p0055.png",
+            "fa_digipay-1400-fa_p0027.png",
+            "fa_digipay-1401-fa_p0003.png",
+            "fa_digipay-1401-fa_p0028.png",
+            "fa_digipay-1401-fa_p0041.png",
+            "fa_digipay-1400-fa_p0030.png",
+            "fa_digipay-1400-fa_p0033.png",
+            "fa_digipay-1400-fa_p0006.png"
+          ],
+          "ranking": [
+            {
+              "rank": 1,
+              "page_id": "fa_digipay-1401-fa_p0032.png",
+              "score": 19.499031513722525,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 32,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0032.png"
+            },
+            {
+              "rank": 2,
+              "page_id": "fa_digipay-1401-fa_p0054.png",
+              "score": 15.051812688512056,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 54,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0054.png"
+            },
+            {
+              "rank": 3,
+              "page_id": "fa_digipay-1401-fa_p0055.png",
+              "score": 15.051812688512056,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 55,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0055.png"
+            },
+            {
+              "rank": 4,
+              "page_id": "fa_digipay-1400-fa_p0027.png",
+              "score": 14.998599623206271,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 27,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0027.png"
+            },
+            {
+              "rank": 5,
+              "page_id": "fa_digipay-1401-fa_p0003.png",
+              "score": 13.665073319027668,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 3,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0003.png"
+            },
+            {
+              "rank": 6,
+              "page_id": "fa_digipay-1401-fa_p0028.png",
+              "score": 13.636528061586633,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 28,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0028.png"
+            },
+            {
+              "rank": 7,
+              "page_id": "fa_digipay-1401-fa_p0041.png",
+              "score": 12.612693182232597,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 41,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0041.png"
+            },
+            {
+              "rank": 8,
+              "page_id": "fa_digipay-1400-fa_p0030.png",
+              "score": 11.59227852046539,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 30,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0030.png"
+            },
+            {
+              "rank": 9,
+              "page_id": "fa_digipay-1400-fa_p0033.png",
+              "score": 11.554719579584487,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 33,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0033.png"
+            },
+            {
+              "rank": 10,
+              "page_id": "fa_digipay-1400-fa_p0006.png",
+              "score": 11.398039899721946,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 6,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0006.png"
+            }
+          ]
+        },
+        {
+          "query_id": "fa_003",
+          "query": "نمودار الگوی تسویه صورت‌حساب در BNPL در کدام صفحه گزارش قرار دارد؟",
+          "relevant_page_ids": [
+            "fa_digipay-1401-fa_p0052.png"
+          ],
+          "per_relevant_page_ids": [],
+          "recall_at_10": 1.0,
+          "reciprocal_rank_at_10": 0.5,
+          "first_relevant_rank_at_10": 2,
+          "recall_at_10_with_partial": 1.0,
+          "reciprocal_rank_at_10_with_partial": 0.5,
+          "first_accepted_rank_at_10": 2,
+          "retrieved_page_ids": [
+            "fa_digipay-1401-fa_p0050.png",
+            "fa_digipay-1401-fa_p0052.png",
+            "fa_digipay-1401-fa_p0041.png",
+            "fa_digipay-1401-fa_p0032.png",
+            "fa_digipay-1401-fa_p0045.png",
+            "fa_digipay-1400-fa_p0043.png",
+            "fa_digipay-1401-fa_p0049.png",
+            "fa_digipay-1401-fa_p0069.png",
+            "fa_digipay-1401-fa_p0058.png",
+            "fa_digipay-1401-fa_p0054.png"
+          ],
+          "ranking": [
+            {
+              "rank": 1,
+              "page_id": "fa_digipay-1401-fa_p0050.png",
+              "score": 18.167408629844363,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 50,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0050.png"
+            },
+            {
+              "rank": 2,
+              "page_id": "fa_digipay-1401-fa_p0052.png",
+              "score": 16.917561954704773,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 52,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0052.png"
+            },
+            {
+              "rank": 3,
+              "page_id": "fa_digipay-1401-fa_p0041.png",
+              "score": 16.392194654900756,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 41,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0041.png"
+            },
+            {
+              "rank": 4,
+              "page_id": "fa_digipay-1401-fa_p0032.png",
+              "score": 12.850503413449841,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 32,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0032.png"
+            },
+            {
+              "rank": 5,
+              "page_id": "fa_digipay-1401-fa_p0045.png",
+              "score": 12.23207296060485,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 45,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0045.png"
+            },
+            {
+              "rank": 6,
+              "page_id": "fa_digipay-1400-fa_p0043.png",
+              "score": 10.998785603762432,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 43,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0043.png"
+            },
+            {
+              "rank": 7,
+              "page_id": "fa_digipay-1401-fa_p0049.png",
+              "score": 9.310668610139144,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 49,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0049.png"
+            },
+            {
+              "rank": 8,
+              "page_id": "fa_digipay-1401-fa_p0069.png",
+              "score": 8.840137201644083,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 69,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0069.png"
+            },
+            {
+              "rank": 9,
+              "page_id": "fa_digipay-1401-fa_p0058.png",
+              "score": 8.600080800784164,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 58,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0058.png"
+            },
+            {
+              "rank": 10,
+              "page_id": "fa_digipay-1401-fa_p0054.png",
+              "score": 8.511890922472002,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 54,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0054.png"
+            }
+          ]
+        },
+        {
+          "query_id": "fa_004",
+          "query": "کدام صفحه نمودار الگوی پرداخت اقساط کاربران خرید اقساطی را نشان می‌دهد؟",
+          "relevant_page_ids": [
+            "fa_digipay-1401-fa_p0052.png"
+          ],
+          "per_relevant_page_ids": [],
+          "recall_at_10": 1.0,
+          "reciprocal_rank_at_10": 0.5,
+          "first_relevant_rank_at_10": 2,
+          "recall_at_10_with_partial": 1.0,
+          "reciprocal_rank_at_10_with_partial": 0.5,
+          "first_accepted_rank_at_10": 2,
+          "retrieved_page_ids": [
+            "fa_digipay-1401-fa_p0050.png",
+            "fa_digipay-1401-fa_p0052.png",
+            "fa_digipay-1401-fa_p0032.png",
+            "fa_digipay-1401-fa_p0053.png",
+            "fa_digipay-1401-fa_p0054.png",
+            "fa_digipay-1401-fa_p0047.png",
+            "fa_digipay-1401-fa_p0055.png",
+            "fa_digipay-1400-fa_p0023.png",
+            "fa_digipay-1401-fa_p0045.png",
+            "fa_digipay-1400-fa_p0014.png"
+          ],
+          "ranking": [
+            {
+              "rank": 1,
+              "page_id": "fa_digipay-1401-fa_p0050.png",
+              "score": 21.69440357782174,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 50,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0050.png"
+            },
+            {
+              "rank": 2,
+              "page_id": "fa_digipay-1401-fa_p0052.png",
+              "score": 14.139392717517094,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 52,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0052.png"
+            },
+            {
+              "rank": 3,
+              "page_id": "fa_digipay-1401-fa_p0032.png",
+              "score": 10.625314121507532,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 32,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0032.png"
+            },
+            {
+              "rank": 4,
+              "page_id": "fa_digipay-1401-fa_p0053.png",
+              "score": 9.804220810394163,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 53,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0053.png"
+            },
+            {
+              "rank": 5,
+              "page_id": "fa_digipay-1401-fa_p0054.png",
+              "score": 9.536882979015239,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 54,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0054.png"
+            },
+            {
+              "rank": 6,
+              "page_id": "fa_digipay-1401-fa_p0047.png",
+              "score": 8.32386922441171,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 47,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0047.png"
+            },
+            {
+              "rank": 7,
+              "page_id": "fa_digipay-1401-fa_p0055.png",
+              "score": 8.143226635247421,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 55,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0055.png"
+            },
+            {
+              "rank": 8,
+              "page_id": "fa_digipay-1400-fa_p0023.png",
+              "score": 7.867963775860132,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 23,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0023.png"
+            },
+            {
+              "rank": 9,
+              "page_id": "fa_digipay-1401-fa_p0045.png",
+              "score": 7.823631370925122,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 45,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0045.png"
+            },
+            {
+              "rank": 10,
+              "page_id": "fa_digipay-1400-fa_p0014.png",
+              "score": 6.537568357952843,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 14,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0014.png"
+            }
+          ]
+        },
+        {
+          "query_id": "fa_005",
+          "query": "مرکز عملیات دیجی‌پی در سال ۱۴۰۱ بیش از چند هزار تماس ورودی دریافت کرده است؟",
+          "reference_answer": "بیش از ۵۰۰ هزار تماس",
+          "relevant_page_ids": [
+            "fa_digipay-1401-fa_p0065.png"
+          ],
+          "per_relevant_page_ids": [],
+          "recall_at_10": 1.0,
+          "reciprocal_rank_at_10": 1.0,
+          "first_relevant_rank_at_10": 1,
+          "recall_at_10_with_partial": 1.0,
+          "reciprocal_rank_at_10_with_partial": 1.0,
+          "first_accepted_rank_at_10": 1,
+          "retrieved_page_ids": [
+            "fa_digipay-1401-fa_p0065.png",
+            "fa_digipay-1400-fa_p0036.png",
+            "fa_digipay-1401-fa_p0032.png",
+            "fa_digipay-1401-fa_p0035.png",
+            "fa_digipay-1400-fa_p0021.png",
+            "fa_digipay-1401-fa_p0064.png",
+            "fa_digipay-1401-fa_p0041.png",
+            "fa_digipay-1401-fa_p0003.png",
+            "fa_digipay-1401-fa_p0005.png",
+            "fa_digipay-1400-fa_p0043.png"
+          ],
+          "ranking": [
+            {
+              "rank": 1,
+              "page_id": "fa_digipay-1401-fa_p0065.png",
+              "score": 24.411694321082347,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 65,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0065.png"
+            },
+            {
+              "rank": 2,
+              "page_id": "fa_digipay-1400-fa_p0036.png",
+              "score": 24.331044644159835,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 36,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0036.png"
+            },
+            {
+              "rank": 3,
+              "page_id": "fa_digipay-1401-fa_p0032.png",
+              "score": 13.950582755376661,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 32,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0032.png"
+            },
+            {
+              "rank": 4,
+              "page_id": "fa_digipay-1401-fa_p0035.png",
+              "score": 13.618905421049753,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 35,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0035.png"
+            },
+            {
+              "rank": 5,
+              "page_id": "fa_digipay-1400-fa_p0021.png",
+              "score": 13.291382831935106,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 21,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0021.png"
+            },
+            {
+              "rank": 6,
+              "page_id": "fa_digipay-1401-fa_p0064.png",
+              "score": 13.214897512070333,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 64,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0064.png"
+            },
+            {
+              "rank": 7,
+              "page_id": "fa_digipay-1401-fa_p0041.png",
+              "score": 12.628242316951173,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 41,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0041.png"
+            },
+            {
+              "rank": 8,
+              "page_id": "fa_digipay-1401-fa_p0003.png",
+              "score": 12.287501567905286,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 3,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0003.png"
+            },
+            {
+              "rank": 9,
+              "page_id": "fa_digipay-1401-fa_p0005.png",
+              "score": 11.807796787538194,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 5,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0005.png"
+            },
+            {
+              "rank": 10,
+              "page_id": "fa_digipay-1400-fa_p0043.png",
+              "score": 10.981108476343277,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 43,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0043.png"
+            }
+          ]
+        },
+        {
+          "query_id": "fa_006",
+          "query": "تعداد کل تماس‌های ورودی گزارش‌شده برای مرکز عملیات دیجی‌پی در سال ۱۴۰۱ چقدر است؟",
+          "reference_answer": "بیش از ۵۰۰ هزار تماس",
+          "relevant_page_ids": [
+            "fa_digipay-1401-fa_p0065.png"
+          ],
+          "per_relevant_page_ids": [],
+          "recall_at_10": 1.0,
+          "reciprocal_rank_at_10": 0.5,
+          "first_relevant_rank_at_10": 2,
+          "recall_at_10_with_partial": 1.0,
+          "reciprocal_rank_at_10_with_partial": 0.5,
+          "first_accepted_rank_at_10": 2,
+          "retrieved_page_ids": [
+            "fa_digipay-1400-fa_p0036.png",
+            "fa_digipay-1401-fa_p0065.png",
+            "fa_digipay-1401-fa_p0064.png",
+            "fa_digipay-1401-fa_p0003.png",
+            "fa_digipay-1400-fa_p0004.png",
+            "fa_digipay-1401-fa_p0011.png",
+            "fa_digipay-1400-fa_p0031.png",
+            "fa_digipay-1401-fa_p0005.png",
+            "fa_digipay-1401-fa_p0029.png",
+            "fa_digipay-1400-fa_p0015.png"
+          ],
+          "ranking": [
+            {
+              "rank": 1,
+              "page_id": "fa_digipay-1400-fa_p0036.png",
+              "score": 25.596547120604452,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 36,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0036.png"
+            },
+            {
+              "rank": 2,
+              "page_id": "fa_digipay-1401-fa_p0065.png",
+              "score": 25.5802079813814,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 65,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0065.png"
+            },
+            {
+              "rank": 3,
+              "page_id": "fa_digipay-1401-fa_p0064.png",
+              "score": 14.70350328317971,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 64,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0064.png"
+            },
+            {
+              "rank": 4,
+              "page_id": "fa_digipay-1401-fa_p0003.png",
+              "score": 13.90545325498991,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 3,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0003.png"
+            },
+            {
+              "rank": 5,
+              "page_id": "fa_digipay-1400-fa_p0004.png",
+              "score": 13.260468871793769,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 4,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0004.png"
+            },
+            {
+              "rank": 6,
+              "page_id": "fa_digipay-1401-fa_p0011.png",
+              "score": 13.15232557957968,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 11,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0011.png"
+            },
+            {
+              "rank": 7,
+              "page_id": "fa_digipay-1400-fa_p0031.png",
+              "score": 13.133432375431719,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 31,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0031.png"
+            },
+            {
+              "rank": 8,
+              "page_id": "fa_digipay-1401-fa_p0005.png",
+              "score": 12.878973385211124,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 5,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0005.png"
+            },
+            {
+              "rank": 9,
+              "page_id": "fa_digipay-1401-fa_p0029.png",
+              "score": 12.525953955664715,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 29,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0029.png"
+            },
+            {
+              "rank": 10,
+              "page_id": "fa_digipay-1400-fa_p0015.png",
+              "score": 12.511979753392541,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 15,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0015.png"
+            }
+          ]
+        },
+        {
+          "query_id": "fa_007",
+          "query": "میانگین زمان انتظار کاربران برای پاسخ‌گویی مرکز عملیات دیجی‌پی در سال ۱۴۰۱ چند ثانیه بوده است؟",
+          "reference_answer": "۴٫۲ ثانیه",
+          "relevant_page_ids": [
+            "fa_digipay-1401-fa_p0065.png"
+          ],
+          "per_relevant_page_ids": [],
+          "recall_at_10": 1.0,
+          "reciprocal_rank_at_10": 1.0,
+          "first_relevant_rank_at_10": 1,
+          "recall_at_10_with_partial": 1.0,
+          "reciprocal_rank_at_10_with_partial": 1.0,
+          "first_accepted_rank_at_10": 1,
+          "retrieved_page_ids": [
+            "fa_digipay-1401-fa_p0065.png",
+            "fa_digipay-1400-fa_p0036.png",
+            "fa_digipay-1401-fa_p0005.png",
+            "fa_digipay-1400-fa_p0039.png",
+            "fa_digipay-1400-fa_p0043.png",
+            "fa_digipay-1401-fa_p0003.png",
+            "fa_digipay-1401-fa_p0064.png",
+            "fa_digipay-1400-fa_p0030.png",
+            "fa_digipay-1400-fa_p0004.png",
+            "fa_digipay-1401-fa_p0035.png"
+          ],
+          "ranking": [
+            {
+              "rank": 1,
+              "page_id": "fa_digipay-1401-fa_p0065.png",
+              "score": 29.079882739864935,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 65,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0065.png"
+            },
+            {
+              "rank": 2,
+              "page_id": "fa_digipay-1400-fa_p0036.png",
+              "score": 23.927881999701345,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 36,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0036.png"
+            },
+            {
+              "rank": 3,
+              "page_id": "fa_digipay-1401-fa_p0005.png",
+              "score": 16.949646531513697,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 5,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0005.png"
+            },
+            {
+              "rank": 4,
+              "page_id": "fa_digipay-1400-fa_p0039.png",
+              "score": 14.59284042994447,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 39,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0039.png"
+            },
+            {
+              "rank": 5,
+              "page_id": "fa_digipay-1400-fa_p0043.png",
+              "score": 14.55549198942001,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 43,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0043.png"
+            },
+            {
+              "rank": 6,
+              "page_id": "fa_digipay-1401-fa_p0003.png",
+              "score": 14.09848792078402,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 3,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0003.png"
+            },
+            {
+              "rank": 7,
+              "page_id": "fa_digipay-1401-fa_p0064.png",
+              "score": 13.214897512070333,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 64,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0064.png"
+            },
+            {
+              "rank": 8,
+              "page_id": "fa_digipay-1400-fa_p0030.png",
+              "score": 11.763990311880386,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 30,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0030.png"
+            },
+            {
+              "rank": 9,
+              "page_id": "fa_digipay-1400-fa_p0004.png",
+              "score": 11.521234710104272,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 4,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0004.png"
+            },
+            {
+              "rank": 10,
+              "page_id": "fa_digipay-1401-fa_p0035.png",
+              "score": 11.508645515633932,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 35,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0035.png"
+            }
+          ]
+        },
+        {
+          "query_id": "fa_008",
+          "query": "کاربران در سال ۱۴۰۱ به طور متوسط چقدر در صف پاسخ‌گویی دیجی‌پی منتظر مانده‌اند؟",
+          "reference_answer": "۴٫۲ ثانیه",
+          "relevant_page_ids": [
+            "fa_digipay-1401-fa_p0065.png"
+          ],
+          "per_relevant_page_ids": [],
+          "recall_at_10": 1.0,
+          "reciprocal_rank_at_10": 1.0,
+          "first_relevant_rank_at_10": 1,
+          "recall_at_10_with_partial": 1.0,
+          "reciprocal_rank_at_10_with_partial": 1.0,
+          "first_accepted_rank_at_10": 1,
+          "retrieved_page_ids": [
+            "fa_digipay-1401-fa_p0065.png",
+            "fa_digipay-1400-fa_p0036.png",
+            "fa_digipay-1400-fa_p0039.png",
+            "fa_digipay-1401-fa_p0005.png",
+            "fa_digipay-1401-fa_p0032.png",
+            "fa_digipay-1400-fa_p0044.png",
+            "fa_digipay-1400-fa_p0007.png",
+            "fa_digipay-1401-fa_p0011.png",
+            "fa_digipay-1401-fa_p0058.png",
+            "fa_digipay-1400-fa_p0030.png"
+          ],
+          "ranking": [
+            {
+              "rank": 1,
+              "page_id": "fa_digipay-1401-fa_p0065.png",
+              "score": 18.63926882674751,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 65,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0065.png"
+            },
+            {
+              "rank": 2,
+              "page_id": "fa_digipay-1400-fa_p0036.png",
+              "score": 18.146193722424286,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 36,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0036.png"
+            },
+            {
+              "rank": 3,
+              "page_id": "fa_digipay-1400-fa_p0039.png",
+              "score": 16.695649030052195,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 39,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0039.png"
+            },
+            {
+              "rank": 4,
+              "page_id": "fa_digipay-1401-fa_p0005.png",
+              "score": 15.410948495872429,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 5,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0005.png"
+            },
+            {
+              "rank": 5,
+              "page_id": "fa_digipay-1401-fa_p0032.png",
+              "score": 13.593820264944585,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 32,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0032.png"
+            },
+            {
+              "rank": 6,
+              "page_id": "fa_digipay-1400-fa_p0044.png",
+              "score": 13.401001580906557,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 44,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0044.png"
+            },
+            {
+              "rank": 7,
+              "page_id": "fa_digipay-1400-fa_p0007.png",
+              "score": 13.322278939682999,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 7,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0007.png"
+            },
+            {
+              "rank": 8,
+              "page_id": "fa_digipay-1401-fa_p0011.png",
+              "score": 13.138762457042306,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 11,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0011.png"
+            },
+            {
+              "rank": 9,
+              "page_id": "fa_digipay-1401-fa_p0058.png",
+              "score": 12.935248268336405,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 58,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0058.png"
+            },
+            {
+              "rank": 10,
+              "page_id": "fa_digipay-1400-fa_p0030.png",
+              "score": 12.892499333688342,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 30,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0030.png"
+            }
+          ]
+        },
+        {
+          "query_id": "fa_009",
+          "query": "میانگین مدت زمان پاسخ‌گویی به کاربران مرکز عملیات دیجی‌پی در سال ۱۴۰۱ چقدر بوده است؟",
+          "reference_answer": "۲ دقیقه و ۱۴ ثانیه",
+          "relevant_page_ids": [
+            "fa_digipay-1401-fa_p0065.png"
+          ],
+          "per_relevant_page_ids": [],
+          "recall_at_10": 1.0,
+          "reciprocal_rank_at_10": 1.0,
+          "first_relevant_rank_at_10": 1,
+          "recall_at_10_with_partial": 1.0,
+          "reciprocal_rank_at_10_with_partial": 1.0,
+          "first_accepted_rank_at_10": 1,
+          "retrieved_page_ids": [
+            "fa_digipay-1401-fa_p0065.png",
+            "fa_digipay-1400-fa_p0036.png",
+            "fa_digipay-1401-fa_p0005.png",
+            "fa_digipay-1400-fa_p0039.png",
+            "fa_digipay-1401-fa_p0003.png",
+            "fa_digipay-1400-fa_p0006.png",
+            "fa_digipay-1401-fa_p0064.png",
+            "fa_digipay-1401-fa_p0032.png",
+            "fa_digipay-1400-fa_p0030.png",
+            "fa_digipay-1401-fa_p0041.png"
+          ],
+          "ranking": [
+            {
+              "rank": 1,
+              "page_id": "fa_digipay-1401-fa_p0065.png",
+              "score": 31.445867652229985,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 65,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0065.png"
+            },
+            {
+              "rank": 2,
+              "page_id": "fa_digipay-1400-fa_p0036.png",
+              "score": 27.215373089611376,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 36,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0036.png"
+            },
+            {
+              "rank": 3,
+              "page_id": "fa_digipay-1401-fa_p0005.png",
+              "score": 18.91239843553004,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 5,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0005.png"
+            },
+            {
+              "rank": 4,
+              "page_id": "fa_digipay-1400-fa_p0039.png",
+              "score": 17.457495971070806,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 39,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0039.png"
+            },
+            {
+              "rank": 5,
+              "page_id": "fa_digipay-1401-fa_p0003.png",
+              "score": 14.09848792078402,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 3,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0003.png"
+            },
+            {
+              "rank": 6,
+              "page_id": "fa_digipay-1400-fa_p0006.png",
+              "score": 13.24913666247526,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 6,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0006.png"
+            },
+            {
+              "rank": 7,
+              "page_id": "fa_digipay-1401-fa_p0064.png",
+              "score": 13.214897512070333,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 64,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0064.png"
+            },
+            {
+              "rank": 8,
+              "page_id": "fa_digipay-1401-fa_p0032.png",
+              "score": 13.131472705750046,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 32,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0032.png"
+            },
+            {
+              "rank": 9,
+              "page_id": "fa_digipay-1400-fa_p0030.png",
+              "score": 13.119443465608853,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 30,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0030.png"
+            },
+            {
+              "rank": 10,
+              "page_id": "fa_digipay-1401-fa_p0041.png",
+              "score": 12.9524500468944,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 41,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0041.png"
+            }
+          ]
+        },
+        {
+          "query_id": "fa_010",
+          "query": "در گزارش سال ۱۴۰۱ دیجی‌پی، متوسط زمان پاسخ‌گویی چند دقیقه و چند ثانیه اعلام شده است؟",
+          "reference_answer": "۲ دقیقه و ۱۴ ثانیه",
+          "relevant_page_ids": [
+            "fa_digipay-1401-fa_p0065.png"
+          ],
+          "per_relevant_page_ids": [],
+          "recall_at_10": 1.0,
+          "reciprocal_rank_at_10": 1.0,
+          "first_relevant_rank_at_10": 1,
+          "recall_at_10_with_partial": 1.0,
+          "reciprocal_rank_at_10_with_partial": 1.0,
+          "first_accepted_rank_at_10": 1,
+          "retrieved_page_ids": [
+            "fa_digipay-1401-fa_p0065.png",
+            "fa_digipay-1400-fa_p0036.png",
+            "fa_digipay-1400-fa_p0008.png",
+            "fa_digipay-1400-fa_p0043.png",
+            "fa_digipay-1400-fa_p0039.png",
+            "fa_digipay-1401-fa_p0005.png",
+            "fa_digipay-1401-fa_p0035.png",
+            "fa_digipay-1401-fa_p0058.png",
+            "fa_digipay-1400-fa_p0027.png",
+            "fa_digipay-1400-fa_p0004.png"
+          ],
+          "ranking": [
+            {
+              "rank": 1,
+              "page_id": "fa_digipay-1401-fa_p0065.png",
+              "score": 19.136239315037546,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 65,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0065.png"
+            },
+            {
+              "rank": 2,
+              "page_id": "fa_digipay-1400-fa_p0036.png",
+              "score": 17.604676613312204,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 36,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0036.png"
+            },
+            {
+              "rank": 3,
+              "page_id": "fa_digipay-1400-fa_p0008.png",
+              "score": 17.270545212494852,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 8,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0008.png"
+            },
+            {
+              "rank": 4,
+              "page_id": "fa_digipay-1400-fa_p0043.png",
+              "score": 16.32618115680299,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 43,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0043.png"
+            },
+            {
+              "rank": 5,
+              "page_id": "fa_digipay-1400-fa_p0039.png",
+              "score": 15.092117505325582,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 39,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0039.png"
+            },
+            {
+              "rank": 6,
+              "page_id": "fa_digipay-1401-fa_p0005.png",
+              "score": 14.963887771704727,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 5,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0005.png"
+            },
+            {
+              "rank": 7,
+              "page_id": "fa_digipay-1401-fa_p0035.png",
+              "score": 13.887755925109419,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 35,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0035.png"
+            },
+            {
+              "rank": 8,
+              "page_id": "fa_digipay-1401-fa_p0058.png",
+              "score": 13.400849800871228,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 58,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0058.png"
+            },
+            {
+              "rank": 9,
+              "page_id": "fa_digipay-1400-fa_p0027.png",
+              "score": 12.844509409279542,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 27,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0027.png"
+            },
+            {
+              "rank": 10,
+              "page_id": "fa_digipay-1400-fa_p0004.png",
+              "score": 12.527382409407812,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 4,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0004.png"
+            }
+          ]
+        }
+      ]
+    },
+    "colqwen2": {
+      "summary": {
+        "questions": 10,
+        "k": 10,
+        "recall_at_10": 0.9,
+        "mrr_at_10": 0.6144444444444443,
+        "recall_at_10_with_partial": 0.9,
+        "mrr_at_10_with_partial": 0.6144444444444443
+      },
+      "results": [
+        {
+          "query_id": "fa_001",
+          "query": "الگوی رفتار کاربران دیجی‌پی در پرداخت اقساط",
+          "relevant_page_ids": [
+            "fa_digipay-1401-fa_p0052.png"
+          ],
+          "per_relevant_page_ids": [],
+          "recall_at_10": 1.0,
+          "reciprocal_rank_at_10": 0.2,
+          "first_relevant_rank_at_10": 5,
+          "recall_at_10_with_partial": 1.0,
+          "reciprocal_rank_at_10_with_partial": 0.2,
+          "first_accepted_rank_at_10": 5,
+          "retrieved_page_ids": [
+            "fa_digipay-1401-fa_p0046.png",
+            "fa_digipay-1401-fa_p0058.png",
+            "fa_digipay-1401-fa_p0069.png",
+            "fa_digipay-1401-fa_p0067.png",
+            "fa_digipay-1401-fa_p0052.png",
+            "fa_digipay-1400-fa_p0033.png",
+            "fa_digipay-1400-fa_p0018.png",
+            "fa_digipay-1401-fa_p0035.png",
+            "fa_digipay-1400-fa_p0014.png",
+            "fa_digipay-1400-fa_p0043.png"
+          ],
+          "ranking": [
+            {
+              "rank": 1,
+              "page_id": "fa_digipay-1401-fa_p0046.png",
+              "score": 21.5625,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 46,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0046.png"
+            },
+            {
+              "rank": 2,
+              "page_id": "fa_digipay-1401-fa_p0058.png",
+              "score": 21.546875,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 58,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0058.png"
+            },
+            {
+              "rank": 3,
+              "page_id": "fa_digipay-1401-fa_p0069.png",
+              "score": 21.234375,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 69,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0069.png"
+            },
+            {
+              "rank": 4,
+              "page_id": "fa_digipay-1401-fa_p0067.png",
+              "score": 21.03125,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 67,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0067.png"
+            },
+            {
+              "rank": 5,
+              "page_id": "fa_digipay-1401-fa_p0052.png",
+              "score": 21.015625,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 52,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0052.png"
+            },
+            {
+              "rank": 6,
+              "page_id": "fa_digipay-1400-fa_p0033.png",
+              "score": 20.8125,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 33,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0033.png"
+            },
+            {
+              "rank": 7,
+              "page_id": "fa_digipay-1400-fa_p0018.png",
+              "score": 20.734375,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 18,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0018.png"
+            },
+            {
+              "rank": 8,
+              "page_id": "fa_digipay-1401-fa_p0035.png",
+              "score": 20.703125,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 35,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0035.png"
+            },
+            {
+              "rank": 9,
+              "page_id": "fa_digipay-1400-fa_p0014.png",
+              "score": 20.65625,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 14,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0014.png"
+            },
+            {
+              "rank": 10,
+              "page_id": "fa_digipay-1400-fa_p0043.png",
+              "score": 20.484375,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 43,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0043.png"
+            }
+          ]
+        },
+        {
+          "query_id": "fa_002",
+          "query": "نمودار رفتار کاربران دیجی‌پی در زمان پرداخت قسط‌ها در کدام صفحه آمده است؟",
+          "relevant_page_ids": [
+            "fa_digipay-1401-fa_p0052.png"
+          ],
+          "per_relevant_page_ids": [],
+          "recall_at_10": 0.0,
+          "reciprocal_rank_at_10": 0.0,
+          "first_relevant_rank_at_10": null,
+          "recall_at_10_with_partial": 0.0,
+          "reciprocal_rank_at_10_with_partial": 0.0,
+          "first_accepted_rank_at_10": null,
+          "retrieved_page_ids": [
+            "fa_digipay-1401-fa_p0058.png",
+            "fa_digipay-1400-fa_p0018.png",
+            "fa_digipay-1400-fa_p0030.png",
+            "fa_digipay-1401-fa_p0046.png",
+            "fa_digipay-1401-fa_p0069.png",
+            "fa_digipay-1401-fa_p0063.png",
+            "fa_digipay-1401-fa_p0067.png",
+            "fa_digipay-1400-fa_p0033.png",
+            "fa_digipay-1401-fa_p0003.png",
+            "fa_digipay-1400-fa_p0014.png"
+          ],
+          "ranking": [
+            {
+              "rank": 1,
+              "page_id": "fa_digipay-1401-fa_p0058.png",
+              "score": 27.453125,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 58,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0058.png"
+            },
+            {
+              "rank": 2,
+              "page_id": "fa_digipay-1400-fa_p0018.png",
+              "score": 27.203125,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 18,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0018.png"
+            },
+            {
+              "rank": 3,
+              "page_id": "fa_digipay-1400-fa_p0030.png",
+              "score": 26.8125,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 30,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0030.png"
+            },
+            {
+              "rank": 4,
+              "page_id": "fa_digipay-1401-fa_p0046.png",
+              "score": 26.796875,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 46,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0046.png"
+            },
+            {
+              "rank": 5,
+              "page_id": "fa_digipay-1401-fa_p0069.png",
+              "score": 26.71875,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 69,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0069.png"
+            },
+            {
+              "rank": 6,
+              "page_id": "fa_digipay-1401-fa_p0063.png",
+              "score": 26.703125,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 63,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0063.png"
+            },
+            {
+              "rank": 7,
+              "page_id": "fa_digipay-1401-fa_p0067.png",
+              "score": 26.6875,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 67,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0067.png"
+            },
+            {
+              "rank": 8,
+              "page_id": "fa_digipay-1400-fa_p0033.png",
+              "score": 26.65625,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 33,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0033.png"
+            },
+            {
+              "rank": 9,
+              "page_id": "fa_digipay-1401-fa_p0003.png",
+              "score": 26.640625,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 3,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0003.png"
+            },
+            {
+              "rank": 10,
+              "page_id": "fa_digipay-1400-fa_p0014.png",
+              "score": 26.578125,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 14,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0014.png"
+            }
+          ]
+        },
+        {
+          "query_id": "fa_003",
+          "query": "نمودار الگوی تسویه صورت‌حساب در BNPL در کدام صفحه گزارش قرار دارد؟",
+          "relevant_page_ids": [
+            "fa_digipay-1401-fa_p0052.png"
+          ],
+          "per_relevant_page_ids": [],
+          "recall_at_10": 1.0,
+          "reciprocal_rank_at_10": 1.0,
+          "first_relevant_rank_at_10": 1,
+          "recall_at_10_with_partial": 1.0,
+          "reciprocal_rank_at_10_with_partial": 1.0,
+          "first_accepted_rank_at_10": 1,
+          "retrieved_page_ids": [
+            "fa_digipay-1401-fa_p0052.png",
+            "fa_digipay-1401-fa_p0050.png",
+            "fa_digipay-1401-fa_p0041.png",
+            "fa_digipay-1401-fa_p0053.png",
+            "fa_digipay-1401-fa_p0044.png",
+            "fa_digipay-1401-fa_p0045.png",
+            "fa_digipay-1401-fa_p0069.png",
+            "fa_digipay-1401-fa_p0010.png",
+            "fa_digipay-1401-fa_p0019.png",
+            "fa_digipay-1401-fa_p0011.png"
+          ],
+          "ranking": [
+            {
+              "rank": 1,
+              "page_id": "fa_digipay-1401-fa_p0052.png",
+              "score": 29.46875,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 52,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0052.png"
+            },
+            {
+              "rank": 2,
+              "page_id": "fa_digipay-1401-fa_p0050.png",
+              "score": 28.1875,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 50,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0050.png"
+            },
+            {
+              "rank": 3,
+              "page_id": "fa_digipay-1401-fa_p0041.png",
+              "score": 27.34375,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 41,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0041.png"
+            },
+            {
+              "rank": 4,
+              "page_id": "fa_digipay-1401-fa_p0053.png",
+              "score": 26.96875,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 53,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0053.png"
+            },
+            {
+              "rank": 5,
+              "page_id": "fa_digipay-1401-fa_p0044.png",
+              "score": 26.78125,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 44,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0044.png"
+            },
+            {
+              "rank": 6,
+              "page_id": "fa_digipay-1401-fa_p0045.png",
+              "score": 26.765625,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 45,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0045.png"
+            },
+            {
+              "rank": 7,
+              "page_id": "fa_digipay-1401-fa_p0069.png",
+              "score": 26.765625,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 69,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0069.png"
+            },
+            {
+              "rank": 8,
+              "page_id": "fa_digipay-1401-fa_p0010.png",
+              "score": 26.671875,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 10,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0010.png"
+            },
+            {
+              "rank": 9,
+              "page_id": "fa_digipay-1401-fa_p0019.png",
+              "score": 26.640625,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 19,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0019.png"
+            },
+            {
+              "rank": 10,
+              "page_id": "fa_digipay-1401-fa_p0011.png",
+              "score": 26.5,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 11,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0011.png"
+            }
+          ]
+        },
+        {
+          "query_id": "fa_004",
+          "query": "کدام صفحه نمودار الگوی پرداخت اقساط کاربران خرید اقساطی را نشان می‌دهد؟",
+          "relevant_page_ids": [
+            "fa_digipay-1401-fa_p0052.png"
+          ],
+          "per_relevant_page_ids": [],
+          "recall_at_10": 1.0,
+          "reciprocal_rank_at_10": 1.0,
+          "first_relevant_rank_at_10": 1,
+          "recall_at_10_with_partial": 1.0,
+          "reciprocal_rank_at_10_with_partial": 1.0,
+          "first_accepted_rank_at_10": 1,
+          "retrieved_page_ids": [
+            "fa_digipay-1401-fa_p0052.png",
+            "fa_digipay-1401-fa_p0050.png",
+            "fa_digipay-1401-fa_p0054.png",
+            "fa_digipay-1401-fa_p0053.png",
+            "fa_digipay-1401-fa_p0047.png",
+            "fa_digipay-1401-fa_p0010.png",
+            "fa_digipay-1401-fa_p0037.png",
+            "fa_digipay-1401-fa_p0024.png",
+            "fa_digipay-1400-fa_p0007.png",
+            "fa_digipay-1401-fa_p0036.png"
+          ],
+          "ranking": [
+            {
+              "rank": 1,
+              "page_id": "fa_digipay-1401-fa_p0052.png",
+              "score": 29.046875,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 52,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0052.png"
+            },
+            {
+              "rank": 2,
+              "page_id": "fa_digipay-1401-fa_p0050.png",
+              "score": 27.734375,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 50,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0050.png"
+            },
+            {
+              "rank": 3,
+              "page_id": "fa_digipay-1401-fa_p0054.png",
+              "score": 27.671875,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 54,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0054.png"
+            },
+            {
+              "rank": 4,
+              "page_id": "fa_digipay-1401-fa_p0053.png",
+              "score": 27.390625,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 53,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0053.png"
+            },
+            {
+              "rank": 5,
+              "page_id": "fa_digipay-1401-fa_p0047.png",
+              "score": 27.265625,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 47,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0047.png"
+            },
+            {
+              "rank": 6,
+              "page_id": "fa_digipay-1401-fa_p0010.png",
+              "score": 27.1875,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 10,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0010.png"
+            },
+            {
+              "rank": 7,
+              "page_id": "fa_digipay-1401-fa_p0037.png",
+              "score": 27.171875,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 37,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0037.png"
+            },
+            {
+              "rank": 8,
+              "page_id": "fa_digipay-1401-fa_p0024.png",
+              "score": 26.859375,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 24,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0024.png"
+            },
+            {
+              "rank": 9,
+              "page_id": "fa_digipay-1400-fa_p0007.png",
+              "score": 26.421875,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 7,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0007.png"
+            },
+            {
+              "rank": 10,
+              "page_id": "fa_digipay-1401-fa_p0036.png",
+              "score": 26.296875,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 36,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0036.png"
+            }
+          ]
+        },
+        {
+          "query_id": "fa_005",
+          "query": "مرکز عملیات دیجی‌پی در سال ۱۴۰۱ بیش از چند هزار تماس ورودی دریافت کرده است؟",
+          "reference_answer": "بیش از ۵۰۰ هزار تماس",
+          "relevant_page_ids": [
+            "fa_digipay-1401-fa_p0065.png"
+          ],
+          "per_relevant_page_ids": [],
+          "recall_at_10": 1.0,
+          "reciprocal_rank_at_10": 1.0,
+          "first_relevant_rank_at_10": 1,
+          "recall_at_10_with_partial": 1.0,
+          "reciprocal_rank_at_10_with_partial": 1.0,
+          "first_accepted_rank_at_10": 1,
+          "retrieved_page_ids": [
+            "fa_digipay-1401-fa_p0065.png",
+            "fa_digipay-1400-fa_p0036.png",
+            "fa_digipay-1401-fa_p0067.png",
+            "fa_digipay-1400-fa_p0042.png",
+            "fa_digipay-1400-fa_p0047.png",
+            "fa_digipay-1401-fa_p0070.png",
+            "fa_digipay-1401-fa_p0057.png",
+            "fa_digipay-1400-fa_p0002.png",
+            "fa_digipay-1401-fa_p0063.png",
+            "fa_digipay-1401-fa_p0011.png"
+          ],
+          "ranking": [
+            {
+              "rank": 1,
+              "page_id": "fa_digipay-1401-fa_p0065.png",
+              "score": 32.53125,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 65,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0065.png"
+            },
+            {
+              "rank": 2,
+              "page_id": "fa_digipay-1400-fa_p0036.png",
+              "score": 32.3125,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 36,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0036.png"
+            },
+            {
+              "rank": 3,
+              "page_id": "fa_digipay-1401-fa_p0067.png",
+              "score": 32.125,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 67,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0067.png"
+            },
+            {
+              "rank": 4,
+              "page_id": "fa_digipay-1400-fa_p0042.png",
+              "score": 31.828125,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 42,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0042.png"
+            },
+            {
+              "rank": 5,
+              "page_id": "fa_digipay-1400-fa_p0047.png",
+              "score": 31.484375,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 47,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0047.png"
+            },
+            {
+              "rank": 6,
+              "page_id": "fa_digipay-1401-fa_p0070.png",
+              "score": 31.34375,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 70,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0070.png"
+            },
+            {
+              "rank": 7,
+              "page_id": "fa_digipay-1401-fa_p0057.png",
+              "score": 31.296875,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 57,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0057.png"
+            },
+            {
+              "rank": 8,
+              "page_id": "fa_digipay-1400-fa_p0002.png",
+              "score": 31.0625,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 2,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0002.png"
+            },
+            {
+              "rank": 9,
+              "page_id": "fa_digipay-1401-fa_p0063.png",
+              "score": 31.03125,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 63,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0063.png"
+            },
+            {
+              "rank": 10,
+              "page_id": "fa_digipay-1401-fa_p0011.png",
+              "score": 30.984375,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 11,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0011.png"
+            }
+          ]
+        },
+        {
+          "query_id": "fa_006",
+          "query": "تعداد کل تماس‌های ورودی گزارش‌شده برای مرکز عملیات دیجی‌پی در سال ۱۴۰۱ چقدر است؟",
+          "reference_answer": "بیش از ۵۰۰ هزار تماس",
+          "relevant_page_ids": [
+            "fa_digipay-1401-fa_p0065.png"
+          ],
+          "per_relevant_page_ids": [],
+          "recall_at_10": 1.0,
+          "reciprocal_rank_at_10": 1.0,
+          "first_relevant_rank_at_10": 1,
+          "recall_at_10_with_partial": 1.0,
+          "reciprocal_rank_at_10_with_partial": 1.0,
+          "first_accepted_rank_at_10": 1,
+          "retrieved_page_ids": [
+            "fa_digipay-1401-fa_p0065.png",
+            "fa_digipay-1400-fa_p0036.png",
+            "fa_digipay-1401-fa_p0067.png",
+            "fa_digipay-1401-fa_p0057.png",
+            "fa_digipay-1400-fa_p0047.png",
+            "fa_digipay-1401-fa_p0063.png",
+            "fa_digipay-1400-fa_p0002.png",
+            "fa_digipay-1400-fa_p0004.png",
+            "fa_digipay-1401-fa_p0070.png",
+            "fa_digipay-1400-fa_p0042.png"
+          ],
+          "ranking": [
+            {
+              "rank": 1,
+              "page_id": "fa_digipay-1401-fa_p0065.png",
+              "score": 32.34375,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 65,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0065.png"
+            },
+            {
+              "rank": 2,
+              "page_id": "fa_digipay-1400-fa_p0036.png",
+              "score": 31.59375,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 36,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0036.png"
+            },
+            {
+              "rank": 3,
+              "page_id": "fa_digipay-1401-fa_p0067.png",
+              "score": 31.53125,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 67,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0067.png"
+            },
+            {
+              "rank": 4,
+              "page_id": "fa_digipay-1401-fa_p0057.png",
+              "score": 31.453125,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 57,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0057.png"
+            },
+            {
+              "rank": 5,
+              "page_id": "fa_digipay-1400-fa_p0047.png",
+              "score": 31.390625,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 47,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0047.png"
+            },
+            {
+              "rank": 6,
+              "page_id": "fa_digipay-1401-fa_p0063.png",
+              "score": 31.203125,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 63,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0063.png"
+            },
+            {
+              "rank": 7,
+              "page_id": "fa_digipay-1400-fa_p0002.png",
+              "score": 30.953125,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 2,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0002.png"
+            },
+            {
+              "rank": 8,
+              "page_id": "fa_digipay-1400-fa_p0004.png",
+              "score": 30.703125,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 4,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0004.png"
+            },
+            {
+              "rank": 9,
+              "page_id": "fa_digipay-1401-fa_p0070.png",
+              "score": 30.546875,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 70,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0070.png"
+            },
+            {
+              "rank": 10,
+              "page_id": "fa_digipay-1400-fa_p0042.png",
+              "score": 30.46875,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 42,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0042.png"
+            }
+          ]
+        },
+        {
+          "query_id": "fa_007",
+          "query": "میانگین زمان انتظار کاربران برای پاسخ‌گویی مرکز عملیات دیجی‌پی در سال ۱۴۰۱ چند ثانیه بوده است؟",
+          "reference_answer": "۴٫۲ ثانیه",
+          "relevant_page_ids": [
+            "fa_digipay-1401-fa_p0065.png"
+          ],
+          "per_relevant_page_ids": [],
+          "recall_at_10": 1.0,
+          "reciprocal_rank_at_10": 0.5,
+          "first_relevant_rank_at_10": 2,
+          "recall_at_10_with_partial": 1.0,
+          "reciprocal_rank_at_10_with_partial": 0.5,
+          "first_accepted_rank_at_10": 2,
+          "retrieved_page_ids": [
+            "fa_digipay-1400-fa_p0036.png",
+            "fa_digipay-1401-fa_p0065.png",
+            "fa_digipay-1401-fa_p0067.png",
+            "fa_digipay-1400-fa_p0047.png",
+            "fa_digipay-1401-fa_p0063.png",
+            "fa_digipay-1400-fa_p0004.png",
+            "fa_digipay-1401-fa_p0032.png",
+            "fa_digipay-1401-fa_p0005.png",
+            "fa_digipay-1400-fa_p0027.png",
+            "fa_digipay-1401-fa_p0026.png"
+          ],
+          "ranking": [
+            {
+              "rank": 1,
+              "page_id": "fa_digipay-1400-fa_p0036.png",
+              "score": 38.15625,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 36,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0036.png"
+            },
+            {
+              "rank": 2,
+              "page_id": "fa_digipay-1401-fa_p0065.png",
+              "score": 36.8125,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 65,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0065.png"
+            },
+            {
+              "rank": 3,
+              "page_id": "fa_digipay-1401-fa_p0067.png",
+              "score": 36.8125,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 67,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0067.png"
+            },
+            {
+              "rank": 4,
+              "page_id": "fa_digipay-1400-fa_p0047.png",
+              "score": 36.4375,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 47,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0047.png"
+            },
+            {
+              "rank": 5,
+              "page_id": "fa_digipay-1401-fa_p0063.png",
+              "score": 36.25,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 63,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0063.png"
+            },
+            {
+              "rank": 6,
+              "page_id": "fa_digipay-1400-fa_p0004.png",
+              "score": 35.8125,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 4,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0004.png"
+            },
+            {
+              "rank": 7,
+              "page_id": "fa_digipay-1401-fa_p0032.png",
+              "score": 35.78125,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 32,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0032.png"
+            },
+            {
+              "rank": 8,
+              "page_id": "fa_digipay-1401-fa_p0005.png",
+              "score": 35.75,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 5,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0005.png"
+            },
+            {
+              "rank": 9,
+              "page_id": "fa_digipay-1400-fa_p0027.png",
+              "score": 35.71875,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 27,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0027.png"
+            },
+            {
+              "rank": 10,
+              "page_id": "fa_digipay-1401-fa_p0026.png",
+              "score": 35.6875,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 26,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0026.png"
+            }
+          ]
+        },
+        {
+          "query_id": "fa_008",
+          "query": "کاربران در سال ۱۴۰۱ به طور متوسط چقدر در صف پاسخ‌گویی دیجی‌پی منتظر مانده‌اند؟",
+          "reference_answer": "۴٫۲ ثانیه",
+          "relevant_page_ids": [
+            "fa_digipay-1401-fa_p0065.png"
+          ],
+          "per_relevant_page_ids": [],
+          "recall_at_10": 1.0,
+          "reciprocal_rank_at_10": 0.1111111111111111,
+          "first_relevant_rank_at_10": 9,
+          "recall_at_10_with_partial": 1.0,
+          "reciprocal_rank_at_10_with_partial": 0.1111111111111111,
+          "first_accepted_rank_at_10": 9,
+          "retrieved_page_ids": [
+            "fa_digipay-1400-fa_p0036.png",
+            "fa_digipay-1401-fa_p0067.png",
+            "fa_digipay-1401-fa_p0052.png",
+            "fa_digipay-1401-fa_p0026.png",
+            "fa_digipay-1400-fa_p0023.png",
+            "fa_digipay-1401-fa_p0047.png",
+            "fa_digipay-1400-fa_p0047.png",
+            "fa_digipay-1400-fa_p0018.png",
+            "fa_digipay-1401-fa_p0065.png",
+            "fa_digipay-1401-fa_p0058.png"
+          ],
+          "ranking": [
+            {
+              "rank": 1,
+              "page_id": "fa_digipay-1400-fa_p0036.png",
+              "score": 31.734375,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 36,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0036.png"
+            },
+            {
+              "rank": 2,
+              "page_id": "fa_digipay-1401-fa_p0067.png",
+              "score": 31.71875,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 67,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0067.png"
+            },
+            {
+              "rank": 3,
+              "page_id": "fa_digipay-1401-fa_p0052.png",
+              "score": 31.4375,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 52,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0052.png"
+            },
+            {
+              "rank": 4,
+              "page_id": "fa_digipay-1401-fa_p0026.png",
+              "score": 31.28125,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 26,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0026.png"
+            },
+            {
+              "rank": 5,
+              "page_id": "fa_digipay-1400-fa_p0023.png",
+              "score": 31.21875,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 23,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0023.png"
+            },
+            {
+              "rank": 6,
+              "page_id": "fa_digipay-1401-fa_p0047.png",
+              "score": 31.15625,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 47,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0047.png"
+            },
+            {
+              "rank": 7,
+              "page_id": "fa_digipay-1400-fa_p0047.png",
+              "score": 31.09375,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 47,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0047.png"
+            },
+            {
+              "rank": 8,
+              "page_id": "fa_digipay-1400-fa_p0018.png",
+              "score": 30.84375,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 18,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0018.png"
+            },
+            {
+              "rank": 9,
+              "page_id": "fa_digipay-1401-fa_p0065.png",
+              "score": 30.828125,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 65,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0065.png"
+            },
+            {
+              "rank": 10,
+              "page_id": "fa_digipay-1401-fa_p0058.png",
+              "score": 30.78125,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 58,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0058.png"
+            }
+          ]
+        },
+        {
+          "query_id": "fa_009",
+          "query": "میانگین مدت زمان پاسخ‌گویی به کاربران مرکز عملیات دیجی‌پی در سال ۱۴۰۱ چقدر بوده است؟",
+          "reference_answer": "۲ دقیقه و ۱۴ ثانیه",
+          "relevant_page_ids": [
+            "fa_digipay-1401-fa_p0065.png"
+          ],
+          "per_relevant_page_ids": [],
+          "recall_at_10": 1.0,
+          "reciprocal_rank_at_10": 0.3333333333333333,
+          "first_relevant_rank_at_10": 3,
+          "recall_at_10_with_partial": 1.0,
+          "reciprocal_rank_at_10_with_partial": 0.3333333333333333,
+          "first_accepted_rank_at_10": 3,
+          "retrieved_page_ids": [
+            "fa_digipay-1400-fa_p0036.png",
+            "fa_digipay-1401-fa_p0067.png",
+            "fa_digipay-1401-fa_p0065.png",
+            "fa_digipay-1400-fa_p0047.png",
+            "fa_digipay-1401-fa_p0063.png",
+            "fa_digipay-1400-fa_p0004.png",
+            "fa_digipay-1400-fa_p0042.png",
+            "fa_digipay-1401-fa_p0005.png",
+            "fa_digipay-1400-fa_p0027.png",
+            "fa_digipay-1401-fa_p0026.png"
+          ],
+          "ranking": [
+            {
+              "rank": 1,
+              "page_id": "fa_digipay-1400-fa_p0036.png",
+              "score": 36.15625,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 36,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0036.png"
+            },
+            {
+              "rank": 2,
+              "page_id": "fa_digipay-1401-fa_p0067.png",
+              "score": 35.0,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 67,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0067.png"
+            },
+            {
+              "rank": 3,
+              "page_id": "fa_digipay-1401-fa_p0065.png",
+              "score": 34.8125,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 65,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0065.png"
+            },
+            {
+              "rank": 4,
+              "page_id": "fa_digipay-1400-fa_p0047.png",
+              "score": 34.375,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 47,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0047.png"
+            },
+            {
+              "rank": 5,
+              "page_id": "fa_digipay-1401-fa_p0063.png",
+              "score": 33.96875,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 63,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0063.png"
+            },
+            {
+              "rank": 6,
+              "page_id": "fa_digipay-1400-fa_p0004.png",
+              "score": 33.90625,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 4,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0004.png"
+            },
+            {
+              "rank": 7,
+              "page_id": "fa_digipay-1400-fa_p0042.png",
+              "score": 33.84375,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 42,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0042.png"
+            },
+            {
+              "rank": 8,
+              "page_id": "fa_digipay-1401-fa_p0005.png",
+              "score": 33.71875,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 5,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0005.png"
+            },
+            {
+              "rank": 9,
+              "page_id": "fa_digipay-1400-fa_p0027.png",
+              "score": 33.53125,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 27,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0027.png"
+            },
+            {
+              "rank": 10,
+              "page_id": "fa_digipay-1401-fa_p0026.png",
+              "score": 33.53125,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 26,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0026.png"
+            }
+          ]
+        },
+        {
+          "query_id": "fa_010",
+          "query": "در گزارش سال ۱۴۰۱ دیجی‌پی، متوسط زمان پاسخ‌گویی چند دقیقه و چند ثانیه اعلام شده است؟",
+          "reference_answer": "۲ دقیقه و ۱۴ ثانیه",
+          "relevant_page_ids": [
+            "fa_digipay-1401-fa_p0065.png"
+          ],
+          "per_relevant_page_ids": [],
+          "recall_at_10": 1.0,
+          "reciprocal_rank_at_10": 1.0,
+          "first_relevant_rank_at_10": 1,
+          "recall_at_10_with_partial": 1.0,
+          "reciprocal_rank_at_10_with_partial": 1.0,
+          "first_accepted_rank_at_10": 1,
+          "retrieved_page_ids": [
+            "fa_digipay-1401-fa_p0065.png",
+            "fa_digipay-1401-fa_p0052.png",
+            "fa_digipay-1400-fa_p0034.png",
+            "fa_digipay-1400-fa_p0008.png",
+            "fa_digipay-1400-fa_p0023.png",
+            "fa_digipay-1400-fa_p0032.png",
+            "fa_digipay-1400-fa_p0036.png",
+            "fa_digipay-1401-fa_p0032.png",
+            "fa_digipay-1401-fa_p0050.png",
+            "fa_digipay-1401-fa_p0017.png"
+          ],
+          "ranking": [
+            {
+              "rank": 1,
+              "page_id": "fa_digipay-1401-fa_p0065.png",
+              "score": 33.59375,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 65,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0065.png"
+            },
+            {
+              "rank": 2,
+              "page_id": "fa_digipay-1401-fa_p0052.png",
+              "score": 32.84375,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 52,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0052.png"
+            },
+            {
+              "rank": 3,
+              "page_id": "fa_digipay-1400-fa_p0034.png",
+              "score": 32.8125,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 34,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0034.png"
+            },
+            {
+              "rank": 4,
+              "page_id": "fa_digipay-1400-fa_p0008.png",
+              "score": 32.78125,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 8,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0008.png"
+            },
+            {
+              "rank": 5,
+              "page_id": "fa_digipay-1400-fa_p0023.png",
+              "score": 32.59375,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 23,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0023.png"
+            },
+            {
+              "rank": 6,
+              "page_id": "fa_digipay-1400-fa_p0032.png",
+              "score": 32.5,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 32,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0032.png"
+            },
+            {
+              "rank": 7,
+              "page_id": "fa_digipay-1400-fa_p0036.png",
+              "score": 32.25,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 36,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0036.png"
+            },
+            {
+              "rank": 8,
+              "page_id": "fa_digipay-1401-fa_p0032.png",
+              "score": 32.25,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 32,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0032.png"
+            },
+            {
+              "rank": 9,
+              "page_id": "fa_digipay-1401-fa_p0050.png",
+              "score": 32.1875,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 50,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0050.png"
+            },
+            {
+              "rank": 10,
+              "page_id": "fa_digipay-1401-fa_p0017.png",
+              "score": 32.0625,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 17,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0017.png"
+            }
+          ]
+        }
+      ]
+    },
+    "hybrid": {
+      "summary": {
+        "questions": 10,
+        "k": 10,
+        "recall_at_10": 1.0,
+        "mrr_at_10": 0.95,
+        "recall_at_10_with_partial": 1.0,
+        "mrr_at_10_with_partial": 0.95
+      },
+      "results": [
+        {
+          "query_id": "fa_001",
+          "query": "الگوی رفتار کاربران دیجی‌پی در پرداخت اقساط",
+          "relevant_page_ids": [
+            "fa_digipay-1401-fa_p0052.png"
+          ],
+          "per_relevant_page_ids": [],
+          "recall_at_10": 1.0,
+          "reciprocal_rank_at_10": 1.0,
+          "first_relevant_rank_at_10": 1,
+          "recall_at_10_with_partial": 1.0,
+          "reciprocal_rank_at_10_with_partial": 1.0,
+          "first_accepted_rank_at_10": 1,
+          "retrieved_page_ids": [
+            "fa_digipay-1401-fa_p0052.png",
+            "fa_digipay-1401-fa_p0005.png",
+            "fa_digipay-1401-fa_p0046.png",
+            "fa_digipay-1401-fa_p0035.png",
+            "fa_digipay-1401-fa_p0032.png",
+            "fa_digipay-1400-fa_p0027.png",
+            "fa_digipay-1400-fa_p0006.png",
+            "fa_digipay-1400-fa_p0043.png",
+            "fa_digipay-1400-fa_p0014.png",
+            "fa_digipay-1401-fa_p0054.png"
+          ],
+          "ranking": [
+            {
+              "rank": 1,
+              "page_id": "fa_digipay-1401-fa_p0052.png",
+              "reranker_score": 6.14453125,
+              "visual_rank": 5,
+              "bm25_rank": 1,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 52,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0052.png"
+            },
+            {
+              "rank": 2,
+              "page_id": "fa_digipay-1401-fa_p0005.png",
+              "reranker_score": 2.228515625,
+              "visual_rank": 17,
+              "bm25_rank": 17,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 5,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0005.png"
+            },
+            {
+              "rank": 3,
+              "page_id": "fa_digipay-1401-fa_p0046.png",
+              "reranker_score": 1.66015625,
+              "visual_rank": 1,
+              "bm25_rank": 9,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 46,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0046.png"
+            },
+            {
+              "rank": 4,
+              "page_id": "fa_digipay-1401-fa_p0035.png",
+              "reranker_score": 0.65234375,
+              "visual_rank": 8,
+              "bm25_rank": 18,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 35,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0035.png"
+            },
+            {
+              "rank": 5,
+              "page_id": "fa_digipay-1401-fa_p0032.png",
+              "reranker_score": 0.2379150390625,
+              "visual_rank": 12,
+              "bm25_rank": 16,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 32,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0032.png"
+            },
+            {
+              "rank": 6,
+              "page_id": "fa_digipay-1400-fa_p0027.png",
+              "reranker_score": -0.1368408203125,
+              "visual_rank": 14,
+              "bm25_rank": 13,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 27,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0027.png"
+            },
+            {
+              "rank": 7,
+              "page_id": "fa_digipay-1400-fa_p0006.png",
+              "reranker_score": -0.2130126953125,
+              "visual_rank": null,
+              "bm25_rank": 15,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 6,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0006.png"
+            },
+            {
+              "rank": 8,
+              "page_id": "fa_digipay-1400-fa_p0043.png",
+              "reranker_score": -0.32080078125,
+              "visual_rank": 10,
+              "bm25_rank": null,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 43,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0043.png"
+            },
+            {
+              "rank": 9,
+              "page_id": "fa_digipay-1400-fa_p0014.png",
+              "reranker_score": -0.50439453125,
+              "visual_rank": 9,
+              "bm25_rank": 4,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 14,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0014.png"
+            },
+            {
+              "rank": 10,
+              "page_id": "fa_digipay-1401-fa_p0054.png",
+              "reranker_score": -0.6337890625,
+              "visual_rank": null,
+              "bm25_rank": 11,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 54,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0054.png"
+            }
+          ],
+          "candidate_count": 28,
+          "candidate_page_ids": [
+            "fa_digipay-1400-fa_p0006.png",
+            "fa_digipay-1400-fa_p0007.png",
+            "fa_digipay-1400-fa_p0014.png",
+            "fa_digipay-1400-fa_p0018.png",
+            "fa_digipay-1400-fa_p0027.png",
+            "fa_digipay-1400-fa_p0030.png",
+            "fa_digipay-1400-fa_p0033.png",
+            "fa_digipay-1400-fa_p0040.png",
+            "fa_digipay-1400-fa_p0043.png",
+            "fa_digipay-1401-fa_p0003.png",
+            "fa_digipay-1401-fa_p0005.png",
+            "fa_digipay-1401-fa_p0026.png",
+            "fa_digipay-1401-fa_p0027.png",
+            "fa_digipay-1401-fa_p0028.png",
+            "fa_digipay-1401-fa_p0032.png",
+            "fa_digipay-1401-fa_p0035.png",
+            "fa_digipay-1401-fa_p0041.png",
+            "fa_digipay-1401-fa_p0045.png",
+            "fa_digipay-1401-fa_p0046.png",
+            "fa_digipay-1401-fa_p0050.png",
+            "fa_digipay-1401-fa_p0052.png",
+            "fa_digipay-1401-fa_p0053.png",
+            "fa_digipay-1401-fa_p0054.png",
+            "fa_digipay-1401-fa_p0055.png",
+            "fa_digipay-1401-fa_p0058.png",
+            "fa_digipay-1401-fa_p0067.png",
+            "fa_digipay-1401-fa_p0068.png",
+            "fa_digipay-1401-fa_p0069.png"
+          ],
+          "textless_pages": [],
+          "truncated_pages": [
+            "fa_digipay-1400-fa_p0006.png",
+            "fa_digipay-1401-fa_p0005.png",
+            "fa_digipay-1401-fa_p0026.png",
+            "fa_digipay-1401-fa_p0035.png",
+            "fa_digipay-1401-fa_p0041.png",
+            "fa_digipay-1401-fa_p0058.png",
+            "fa_digipay-1401-fa_p0067.png",
+            "fa_digipay-1401-fa_p0068.png",
+            "fa_digipay-1401-fa_p0069.png"
+          ]
+        },
+        {
+          "query_id": "fa_002",
+          "query": "نمودار رفتار کاربران دیجی‌پی در زمان پرداخت قسط‌ها در کدام صفحه آمده است؟",
+          "relevant_page_ids": [
+            "fa_digipay-1401-fa_p0052.png"
+          ],
+          "per_relevant_page_ids": [],
+          "recall_at_10": 1.0,
+          "reciprocal_rank_at_10": 1.0,
+          "first_relevant_rank_at_10": 1,
+          "recall_at_10_with_partial": 1.0,
+          "reciprocal_rank_at_10_with_partial": 1.0,
+          "first_accepted_rank_at_10": 1,
+          "retrieved_page_ids": [
+            "fa_digipay-1401-fa_p0052.png",
+            "fa_digipay-1401-fa_p0032.png",
+            "fa_digipay-1401-fa_p0046.png",
+            "fa_digipay-1401-fa_p0054.png",
+            "fa_digipay-1401-fa_p0005.png",
+            "fa_digipay-1400-fa_p0027.png",
+            "fa_digipay-1400-fa_p0006.png",
+            "fa_digipay-1401-fa_p0055.png",
+            "fa_digipay-1401-fa_p0003.png",
+            "fa_digipay-1401-fa_p0065.png"
+          ],
+          "ranking": [
+            {
+              "rank": 1,
+              "page_id": "fa_digipay-1401-fa_p0052.png",
+              "reranker_score": -0.3388671875,
+              "visual_rank": 19,
+              "bm25_rank": 17,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 52,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0052.png"
+            },
+            {
+              "rank": 2,
+              "page_id": "fa_digipay-1401-fa_p0032.png",
+              "reranker_score": -1.8056640625,
+              "visual_rank": 11,
+              "bm25_rank": 1,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 32,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0032.png"
+            },
+            {
+              "rank": 3,
+              "page_id": "fa_digipay-1401-fa_p0046.png",
+              "reranker_score": -2.19921875,
+              "visual_rank": 4,
+              "bm25_rank": null,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 46,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0046.png"
+            },
+            {
+              "rank": 4,
+              "page_id": "fa_digipay-1401-fa_p0054.png",
+              "reranker_score": -2.224609375,
+              "visual_rank": 15,
+              "bm25_rank": 2,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 54,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0054.png"
+            },
+            {
+              "rank": 5,
+              "page_id": "fa_digipay-1401-fa_p0005.png",
+              "reranker_score": -2.236328125,
+              "visual_rank": null,
+              "bm25_rank": 11,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 5,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0005.png"
+            },
+            {
+              "rank": 6,
+              "page_id": "fa_digipay-1400-fa_p0027.png",
+              "reranker_score": -2.32421875,
+              "visual_rank": 16,
+              "bm25_rank": 4,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 27,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0027.png"
+            },
+            {
+              "rank": 7,
+              "page_id": "fa_digipay-1400-fa_p0006.png",
+              "reranker_score": -2.333984375,
+              "visual_rank": null,
+              "bm25_rank": 10,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 6,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0006.png"
+            },
+            {
+              "rank": 8,
+              "page_id": "fa_digipay-1401-fa_p0055.png",
+              "reranker_score": -2.87890625,
+              "visual_rank": null,
+              "bm25_rank": 3,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 55,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0055.png"
+            },
+            {
+              "rank": 9,
+              "page_id": "fa_digipay-1401-fa_p0003.png",
+              "reranker_score": -2.880859375,
+              "visual_rank": 9,
+              "bm25_rank": 5,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 3,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0003.png"
+            },
+            {
+              "rank": 10,
+              "page_id": "fa_digipay-1401-fa_p0065.png",
+              "reranker_score": -2.9765625,
+              "visual_rank": null,
+              "bm25_rank": 12,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 65,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0065.png"
+            }
+          ],
+          "candidate_count": 29,
+          "candidate_page_ids": [
+            "fa_digipay-1400-fa_p0004.png",
+            "fa_digipay-1400-fa_p0006.png",
+            "fa_digipay-1400-fa_p0008.png",
+            "fa_digipay-1400-fa_p0014.png",
+            "fa_digipay-1400-fa_p0018.png",
+            "fa_digipay-1400-fa_p0027.png",
+            "fa_digipay-1400-fa_p0030.png",
+            "fa_digipay-1400-fa_p0033.png",
+            "fa_digipay-1400-fa_p0034.png",
+            "fa_digipay-1400-fa_p0036.png",
+            "fa_digipay-1400-fa_p0040.png",
+            "fa_digipay-1400-fa_p0043.png",
+            "fa_digipay-1400-fa_p0048.png",
+            "fa_digipay-1401-fa_p0003.png",
+            "fa_digipay-1401-fa_p0005.png",
+            "fa_digipay-1401-fa_p0028.png",
+            "fa_digipay-1401-fa_p0032.png",
+            "fa_digipay-1401-fa_p0035.png",
+            "fa_digipay-1401-fa_p0041.png",
+            "fa_digipay-1401-fa_p0046.png",
+            "fa_digipay-1401-fa_p0050.png",
+            "fa_digipay-1401-fa_p0052.png",
+            "fa_digipay-1401-fa_p0054.png",
+            "fa_digipay-1401-fa_p0055.png",
+            "fa_digipay-1401-fa_p0058.png",
+            "fa_digipay-1401-fa_p0063.png",
+            "fa_digipay-1401-fa_p0065.png",
+            "fa_digipay-1401-fa_p0067.png",
+            "fa_digipay-1401-fa_p0069.png"
+          ],
+          "textless_pages": [],
+          "truncated_pages": [
+            "fa_digipay-1400-fa_p0006.png",
+            "fa_digipay-1400-fa_p0030.png",
+            "fa_digipay-1401-fa_p0005.png",
+            "fa_digipay-1401-fa_p0035.png",
+            "fa_digipay-1401-fa_p0041.png",
+            "fa_digipay-1401-fa_p0058.png",
+            "fa_digipay-1401-fa_p0063.png",
+            "fa_digipay-1401-fa_p0065.png",
+            "fa_digipay-1401-fa_p0067.png",
+            "fa_digipay-1401-fa_p0069.png"
+          ]
+        },
+        {
+          "query_id": "fa_003",
+          "query": "نمودار الگوی تسویه صورت‌حساب در BNPL در کدام صفحه گزارش قرار دارد؟",
+          "relevant_page_ids": [
+            "fa_digipay-1401-fa_p0052.png"
+          ],
+          "per_relevant_page_ids": [],
+          "recall_at_10": 1.0,
+          "reciprocal_rank_at_10": 1.0,
+          "first_relevant_rank_at_10": 1,
+          "recall_at_10_with_partial": 1.0,
+          "reciprocal_rank_at_10_with_partial": 1.0,
+          "first_accepted_rank_at_10": 1,
+          "retrieved_page_ids": [
+            "fa_digipay-1401-fa_p0052.png",
+            "fa_digipay-1401-fa_p0050.png",
+            "fa_digipay-1401-fa_p0055.png",
+            "fa_digipay-1400-fa_p0043.png",
+            "fa_digipay-1401-fa_p0069.png",
+            "fa_digipay-1401-fa_p0011.png",
+            "fa_digipay-1401-fa_p0041.png",
+            "fa_digipay-1401-fa_p0016.png",
+            "fa_digipay-1401-fa_p0010.png",
+            "fa_digipay-1400-fa_p0021.png"
+          ],
+          "ranking": [
+            {
+              "rank": 1,
+              "page_id": "fa_digipay-1401-fa_p0052.png",
+              "reranker_score": -1.0791015625,
+              "visual_rank": 1,
+              "bm25_rank": 2,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 52,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0052.png"
+            },
+            {
+              "rank": 2,
+              "page_id": "fa_digipay-1401-fa_p0050.png",
+              "reranker_score": -1.7509765625,
+              "visual_rank": 2,
+              "bm25_rank": 1,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 50,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0050.png"
+            },
+            {
+              "rank": 3,
+              "page_id": "fa_digipay-1401-fa_p0055.png",
+              "reranker_score": -1.8876953125,
+              "visual_rank": 13,
+              "bm25_rank": 11,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 55,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0055.png"
+            },
+            {
+              "rank": 4,
+              "page_id": "fa_digipay-1400-fa_p0043.png",
+              "reranker_score": -3.421875,
+              "visual_rank": 18,
+              "bm25_rank": 6,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 43,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0043.png"
+            },
+            {
+              "rank": 5,
+              "page_id": "fa_digipay-1401-fa_p0069.png",
+              "reranker_score": -3.849609375,
+              "visual_rank": 7,
+              "bm25_rank": 8,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 69,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0069.png"
+            },
+            {
+              "rank": 6,
+              "page_id": "fa_digipay-1401-fa_p0011.png",
+              "reranker_score": -4.3359375,
+              "visual_rank": 10,
+              "bm25_rank": null,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 11,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0011.png"
+            },
+            {
+              "rank": 7,
+              "page_id": "fa_digipay-1401-fa_p0041.png",
+              "reranker_score": -4.75390625,
+              "visual_rank": 3,
+              "bm25_rank": 3,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 41,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0041.png"
+            },
+            {
+              "rank": 8,
+              "page_id": "fa_digipay-1401-fa_p0016.png",
+              "reranker_score": -5.015625,
+              "visual_rank": 12,
+              "bm25_rank": 19,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 16,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0016.png"
+            },
+            {
+              "rank": 9,
+              "page_id": "fa_digipay-1401-fa_p0010.png",
+              "reranker_score": -5.0703125,
+              "visual_rank": 8,
+              "bm25_rank": null,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 10,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0010.png"
+            },
+            {
+              "rank": 10,
+              "page_id": "fa_digipay-1400-fa_p0021.png",
+              "reranker_score": -5.38671875,
+              "visual_rank": 20,
+              "bm25_rank": 17,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 21,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0021.png"
+            }
+          ],
+          "candidate_count": 30,
+          "candidate_page_ids": [
+            "fa_digipay-1400-fa_p0007.png",
+            "fa_digipay-1400-fa_p0014.png",
+            "fa_digipay-1400-fa_p0021.png",
+            "fa_digipay-1400-fa_p0028.png",
+            "fa_digipay-1400-fa_p0033.png",
+            "fa_digipay-1400-fa_p0042.png",
+            "fa_digipay-1400-fa_p0043.png",
+            "fa_digipay-1401-fa_p0009.png",
+            "fa_digipay-1401-fa_p0010.png",
+            "fa_digipay-1401-fa_p0011.png",
+            "fa_digipay-1401-fa_p0016.png",
+            "fa_digipay-1401-fa_p0019.png",
+            "fa_digipay-1401-fa_p0020.png",
+            "fa_digipay-1401-fa_p0024.png",
+            "fa_digipay-1401-fa_p0028.png",
+            "fa_digipay-1401-fa_p0032.png",
+            "fa_digipay-1401-fa_p0041.png",
+            "fa_digipay-1401-fa_p0042.png",
+            "fa_digipay-1401-fa_p0043.png",
+            "fa_digipay-1401-fa_p0044.png",
+            "fa_digipay-1401-fa_p0045.png",
+            "fa_digipay-1401-fa_p0049.png",
+            "fa_digipay-1401-fa_p0050.png",
+            "fa_digipay-1401-fa_p0052.png",
+            "fa_digipay-1401-fa_p0053.png",
+            "fa_digipay-1401-fa_p0054.png",
+            "fa_digipay-1401-fa_p0055.png",
+            "fa_digipay-1401-fa_p0058.png",
+            "fa_digipay-1401-fa_p0061.png",
+            "fa_digipay-1401-fa_p0069.png"
+          ],
+          "textless_pages": [],
+          "truncated_pages": [
+            "fa_digipay-1401-fa_p0009.png",
+            "fa_digipay-1401-fa_p0016.png",
+            "fa_digipay-1401-fa_p0020.png",
+            "fa_digipay-1401-fa_p0024.png",
+            "fa_digipay-1401-fa_p0041.png",
+            "fa_digipay-1401-fa_p0058.png",
+            "fa_digipay-1401-fa_p0069.png"
+          ]
+        },
+        {
+          "query_id": "fa_004",
+          "query": "کدام صفحه نمودار الگوی پرداخت اقساط کاربران خرید اقساطی را نشان می‌دهد؟",
+          "relevant_page_ids": [
+            "fa_digipay-1401-fa_p0052.png"
+          ],
+          "per_relevant_page_ids": [],
+          "recall_at_10": 1.0,
+          "reciprocal_rank_at_10": 1.0,
+          "first_relevant_rank_at_10": 1,
+          "recall_at_10_with_partial": 1.0,
+          "reciprocal_rank_at_10_with_partial": 1.0,
+          "first_accepted_rank_at_10": 1,
+          "retrieved_page_ids": [
+            "fa_digipay-1401-fa_p0052.png",
+            "fa_digipay-1401-fa_p0054.png",
+            "fa_digipay-1401-fa_p0050.png",
+            "fa_digipay-1401-fa_p0055.png",
+            "fa_digipay-1401-fa_p0048.png",
+            "fa_digipay-1401-fa_p0053.png",
+            "fa_digipay-1401-fa_p0047.png",
+            "fa_digipay-1401-fa_p0035.png",
+            "fa_digipay-1400-fa_p0023.png",
+            "fa_digipay-1401-fa_p0032.png"
+          ],
+          "ranking": [
+            {
+              "rank": 1,
+              "page_id": "fa_digipay-1401-fa_p0052.png",
+              "reranker_score": 0.383544921875,
+              "visual_rank": 1,
+              "bm25_rank": 2,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 52,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0052.png"
+            },
+            {
+              "rank": 2,
+              "page_id": "fa_digipay-1401-fa_p0054.png",
+              "reranker_score": 0.30859375,
+              "visual_rank": 3,
+              "bm25_rank": 5,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 54,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0054.png"
+            },
+            {
+              "rank": 3,
+              "page_id": "fa_digipay-1401-fa_p0050.png",
+              "reranker_score": -0.1951904296875,
+              "visual_rank": 2,
+              "bm25_rank": 1,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 50,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0050.png"
+            },
+            {
+              "rank": 4,
+              "page_id": "fa_digipay-1401-fa_p0055.png",
+              "reranker_score": -1.9228515625,
+              "visual_rank": null,
+              "bm25_rank": 7,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 55,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0055.png"
+            },
+            {
+              "rank": 5,
+              "page_id": "fa_digipay-1401-fa_p0048.png",
+              "reranker_score": -3.091796875,
+              "visual_rank": null,
+              "bm25_rank": 13,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 48,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0048.png"
+            },
+            {
+              "rank": 6,
+              "page_id": "fa_digipay-1401-fa_p0053.png",
+              "reranker_score": -3.62109375,
+              "visual_rank": 4,
+              "bm25_rank": 4,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 53,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0053.png"
+            },
+            {
+              "rank": 7,
+              "page_id": "fa_digipay-1401-fa_p0047.png",
+              "reranker_score": -3.685546875,
+              "visual_rank": 5,
+              "bm25_rank": 6,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 47,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0047.png"
+            },
+            {
+              "rank": 8,
+              "page_id": "fa_digipay-1401-fa_p0035.png",
+              "reranker_score": -3.78515625,
+              "visual_rank": 18,
+              "bm25_rank": 20,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 35,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0035.png"
+            },
+            {
+              "rank": 9,
+              "page_id": "fa_digipay-1400-fa_p0023.png",
+              "reranker_score": -4.5703125,
+              "visual_rank": null,
+              "bm25_rank": 8,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 23,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0023.png"
+            },
+            {
+              "rank": 10,
+              "page_id": "fa_digipay-1401-fa_p0032.png",
+              "reranker_score": -4.62109375,
+              "visual_rank": null,
+              "bm25_rank": 3,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 32,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0032.png"
+            }
+          ],
+          "candidate_count": 32,
+          "candidate_page_ids": [
+            "fa_digipay-1400-fa_p0007.png",
+            "fa_digipay-1400-fa_p0014.png",
+            "fa_digipay-1400-fa_p0022.png",
+            "fa_digipay-1400-fa_p0023.png",
+            "fa_digipay-1400-fa_p0024.png",
+            "fa_digipay-1400-fa_p0025.png",
+            "fa_digipay-1400-fa_p0030.png",
+            "fa_digipay-1400-fa_p0033.png",
+            "fa_digipay-1400-fa_p0043.png",
+            "fa_digipay-1401-fa_p0003.png",
+            "fa_digipay-1401-fa_p0006.png",
+            "fa_digipay-1401-fa_p0008.png",
+            "fa_digipay-1401-fa_p0010.png",
+            "fa_digipay-1401-fa_p0017.png",
+            "fa_digipay-1401-fa_p0024.png",
+            "fa_digipay-1401-fa_p0028.png",
+            "fa_digipay-1401-fa_p0029.png",
+            "fa_digipay-1401-fa_p0032.png",
+            "fa_digipay-1401-fa_p0033.png",
+            "fa_digipay-1401-fa_p0035.png",
+            "fa_digipay-1401-fa_p0036.png",
+            "fa_digipay-1401-fa_p0037.png",
+            "fa_digipay-1401-fa_p0042.png",
+            "fa_digipay-1401-fa_p0045.png",
+            "fa_digipay-1401-fa_p0047.png",
+            "fa_digipay-1401-fa_p0048.png",
+            "fa_digipay-1401-fa_p0050.png",
+            "fa_digipay-1401-fa_p0052.png",
+            "fa_digipay-1401-fa_p0053.png",
+            "fa_digipay-1401-fa_p0054.png",
+            "fa_digipay-1401-fa_p0055.png",
+            "fa_digipay-1401-fa_p0058.png"
+          ],
+          "textless_pages": [],
+          "truncated_pages": [
+            "fa_digipay-1400-fa_p0030.png",
+            "fa_digipay-1401-fa_p0006.png",
+            "fa_digipay-1401-fa_p0008.png",
+            "fa_digipay-1401-fa_p0024.png",
+            "fa_digipay-1401-fa_p0035.png",
+            "fa_digipay-1401-fa_p0048.png",
+            "fa_digipay-1401-fa_p0058.png"
+          ]
+        },
+        {
+          "query_id": "fa_005",
+          "query": "مرکز عملیات دیجی‌پی در سال ۱۴۰۱ بیش از چند هزار تماس ورودی دریافت کرده است؟",
+          "reference_answer": "بیش از ۵۰۰ هزار تماس",
+          "relevant_page_ids": [
+            "fa_digipay-1401-fa_p0065.png"
+          ],
+          "per_relevant_page_ids": [],
+          "recall_at_10": 1.0,
+          "reciprocal_rank_at_10": 1.0,
+          "first_relevant_rank_at_10": 1,
+          "recall_at_10_with_partial": 1.0,
+          "reciprocal_rank_at_10_with_partial": 1.0,
+          "first_accepted_rank_at_10": 1,
+          "retrieved_page_ids": [
+            "fa_digipay-1401-fa_p0065.png",
+            "fa_digipay-1400-fa_p0036.png",
+            "fa_digipay-1400-fa_p0004.png",
+            "fa_digipay-1401-fa_p0032.png",
+            "fa_digipay-1401-fa_p0070.png",
+            "fa_digipay-1400-fa_p0042.png",
+            "fa_digipay-1400-fa_p0007.png",
+            "fa_digipay-1400-fa_p0045.png",
+            "fa_digipay-1400-fa_p0046.png",
+            "fa_digipay-1401-fa_p0068.png"
+          ],
+          "ranking": [
+            {
+              "rank": 1,
+              "page_id": "fa_digipay-1401-fa_p0065.png",
+              "reranker_score": 2.228515625,
+              "visual_rank": 1,
+              "bm25_rank": 1,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 65,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0065.png"
+            },
+            {
+              "rank": 2,
+              "page_id": "fa_digipay-1400-fa_p0036.png",
+              "reranker_score": 1.6884765625,
+              "visual_rank": 2,
+              "bm25_rank": 2,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 36,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0036.png"
+            },
+            {
+              "rank": 3,
+              "page_id": "fa_digipay-1400-fa_p0004.png",
+              "reranker_score": 0.6318359375,
+              "visual_rank": 18,
+              "bm25_rank": 14,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 4,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0004.png"
+            },
+            {
+              "rank": 4,
+              "page_id": "fa_digipay-1401-fa_p0032.png",
+              "reranker_score": -0.268798828125,
+              "visual_rank": null,
+              "bm25_rank": 3,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 32,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0032.png"
+            },
+            {
+              "rank": 5,
+              "page_id": "fa_digipay-1401-fa_p0070.png",
+              "reranker_score": -0.755859375,
+              "visual_rank": 6,
+              "bm25_rank": null,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 70,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0070.png"
+            },
+            {
+              "rank": 6,
+              "page_id": "fa_digipay-1400-fa_p0042.png",
+              "reranker_score": -1.1875,
+              "visual_rank": 4,
+              "bm25_rank": null,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 42,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0042.png"
+            },
+            {
+              "rank": 7,
+              "page_id": "fa_digipay-1400-fa_p0007.png",
+              "reranker_score": -1.1923828125,
+              "visual_rank": 13,
+              "bm25_rank": 20,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 7,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0007.png"
+            },
+            {
+              "rank": 8,
+              "page_id": "fa_digipay-1400-fa_p0045.png",
+              "reranker_score": -1.208984375,
+              "visual_rank": null,
+              "bm25_rank": 18,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 45,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0045.png"
+            },
+            {
+              "rank": 9,
+              "page_id": "fa_digipay-1400-fa_p0046.png",
+              "reranker_score": -1.333984375,
+              "visual_rank": null,
+              "bm25_rank": 11,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 46,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0046.png"
+            },
+            {
+              "rank": 10,
+              "page_id": "fa_digipay-1401-fa_p0068.png",
+              "reranker_score": -1.5380859375,
+              "visual_rank": 19,
+              "bm25_rank": null,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 68,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0068.png"
+            }
+          ],
+          "candidate_count": 32,
+          "candidate_page_ids": [
+            "fa_digipay-1400-fa_p0002.png",
+            "fa_digipay-1400-fa_p0004.png",
+            "fa_digipay-1400-fa_p0007.png",
+            "fa_digipay-1400-fa_p0015.png",
+            "fa_digipay-1400-fa_p0021.png",
+            "fa_digipay-1400-fa_p0027.png",
+            "fa_digipay-1400-fa_p0033.png",
+            "fa_digipay-1400-fa_p0036.png",
+            "fa_digipay-1400-fa_p0042.png",
+            "fa_digipay-1400-fa_p0043.png",
+            "fa_digipay-1400-fa_p0045.png",
+            "fa_digipay-1400-fa_p0046.png",
+            "fa_digipay-1400-fa_p0047.png",
+            "fa_digipay-1401-fa_p0003.png",
+            "fa_digipay-1401-fa_p0005.png",
+            "fa_digipay-1401-fa_p0006.png",
+            "fa_digipay-1401-fa_p0011.png",
+            "fa_digipay-1401-fa_p0020.png",
+            "fa_digipay-1401-fa_p0021.png",
+            "fa_digipay-1401-fa_p0026.png",
+            "fa_digipay-1401-fa_p0029.png",
+            "fa_digipay-1401-fa_p0032.png",
+            "fa_digipay-1401-fa_p0035.png",
+            "fa_digipay-1401-fa_p0041.png",
+            "fa_digipay-1401-fa_p0057.png",
+            "fa_digipay-1401-fa_p0063.png",
+            "fa_digipay-1401-fa_p0064.png",
+            "fa_digipay-1401-fa_p0065.png",
+            "fa_digipay-1401-fa_p0067.png",
+            "fa_digipay-1401-fa_p0068.png",
+            "fa_digipay-1401-fa_p0069.png",
+            "fa_digipay-1401-fa_p0070.png"
+          ],
+          "textless_pages": [],
+          "truncated_pages": [
+            "fa_digipay-1401-fa_p0005.png",
+            "fa_digipay-1401-fa_p0006.png",
+            "fa_digipay-1401-fa_p0020.png",
+            "fa_digipay-1401-fa_p0026.png",
+            "fa_digipay-1401-fa_p0035.png",
+            "fa_digipay-1401-fa_p0041.png",
+            "fa_digipay-1401-fa_p0063.png",
+            "fa_digipay-1401-fa_p0065.png",
+            "fa_digipay-1401-fa_p0067.png",
+            "fa_digipay-1401-fa_p0068.png",
+            "fa_digipay-1401-fa_p0069.png",
+            "fa_digipay-1401-fa_p0070.png"
+          ]
+        },
+        {
+          "query_id": "fa_006",
+          "query": "تعداد کل تماس‌های ورودی گزارش‌شده برای مرکز عملیات دیجی‌پی در سال ۱۴۰۱ چقدر است؟",
+          "reference_answer": "بیش از ۵۰۰ هزار تماس",
+          "relevant_page_ids": [
+            "fa_digipay-1401-fa_p0065.png"
+          ],
+          "per_relevant_page_ids": [],
+          "recall_at_10": 1.0,
+          "reciprocal_rank_at_10": 0.5,
+          "first_relevant_rank_at_10": 2,
+          "recall_at_10_with_partial": 1.0,
+          "reciprocal_rank_at_10_with_partial": 0.5,
+          "first_accepted_rank_at_10": 2,
+          "retrieved_page_ids": [
+            "fa_digipay-1400-fa_p0036.png",
+            "fa_digipay-1401-fa_p0065.png",
+            "fa_digipay-1400-fa_p0004.png",
+            "fa_digipay-1401-fa_p0032.png",
+            "fa_digipay-1400-fa_p0007.png",
+            "fa_digipay-1401-fa_p0070.png",
+            "fa_digipay-1401-fa_p0005.png",
+            "fa_digipay-1401-fa_p0011.png",
+            "fa_digipay-1401-fa_p0057.png",
+            "fa_digipay-1400-fa_p0042.png"
+          ],
+          "ranking": [
+            {
+              "rank": 1,
+              "page_id": "fa_digipay-1400-fa_p0036.png",
+              "reranker_score": 2.7890625,
+              "visual_rank": 2,
+              "bm25_rank": 1,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 36,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0036.png"
+            },
+            {
+              "rank": 2,
+              "page_id": "fa_digipay-1401-fa_p0065.png",
+              "reranker_score": 1.857421875,
+              "visual_rank": 1,
+              "bm25_rank": 2,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 65,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0065.png"
+            },
+            {
+              "rank": 3,
+              "page_id": "fa_digipay-1400-fa_p0004.png",
+              "reranker_score": 0.26611328125,
+              "visual_rank": 8,
+              "bm25_rank": 5,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 4,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0004.png"
+            },
+            {
+              "rank": 4,
+              "page_id": "fa_digipay-1401-fa_p0032.png",
+              "reranker_score": -0.54638671875,
+              "visual_rank": null,
+              "bm25_rank": 16,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 32,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0032.png"
+            },
+            {
+              "rank": 5,
+              "page_id": "fa_digipay-1400-fa_p0007.png",
+              "reranker_score": -1.3193359375,
+              "visual_rank": null,
+              "bm25_rank": 11,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 7,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0007.png"
+            },
+            {
+              "rank": 6,
+              "page_id": "fa_digipay-1401-fa_p0070.png",
+              "reranker_score": -1.421875,
+              "visual_rank": 9,
+              "bm25_rank": 19,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 70,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0070.png"
+            },
+            {
+              "rank": 7,
+              "page_id": "fa_digipay-1401-fa_p0005.png",
+              "reranker_score": -1.94921875,
+              "visual_rank": null,
+              "bm25_rank": 8,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 5,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0005.png"
+            },
+            {
+              "rank": 8,
+              "page_id": "fa_digipay-1401-fa_p0011.png",
+              "reranker_score": -2.021484375,
+              "visual_rank": 18,
+              "bm25_rank": 6,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 11,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0011.png"
+            },
+            {
+              "rank": 9,
+              "page_id": "fa_digipay-1401-fa_p0057.png",
+              "reranker_score": -2.111328125,
+              "visual_rank": 4,
+              "bm25_rank": 17,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 57,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0057.png"
+            },
+            {
+              "rank": 10,
+              "page_id": "fa_digipay-1400-fa_p0042.png",
+              "reranker_score": -2.205078125,
+              "visual_rank": 10,
+              "bm25_rank": 15,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 42,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0042.png"
+            }
+          ],
+          "candidate_count": 30,
+          "candidate_page_ids": [
+            "fa_digipay-1400-fa_p0002.png",
+            "fa_digipay-1400-fa_p0004.png",
+            "fa_digipay-1400-fa_p0007.png",
+            "fa_digipay-1400-fa_p0010.png",
+            "fa_digipay-1400-fa_p0015.png",
+            "fa_digipay-1400-fa_p0023.png",
+            "fa_digipay-1400-fa_p0027.png",
+            "fa_digipay-1400-fa_p0031.png",
+            "fa_digipay-1400-fa_p0036.png",
+            "fa_digipay-1400-fa_p0037.png",
+            "fa_digipay-1400-fa_p0042.png",
+            "fa_digipay-1400-fa_p0047.png",
+            "fa_digipay-1401-fa_p0003.png",
+            "fa_digipay-1401-fa_p0005.png",
+            "fa_digipay-1401-fa_p0011.png",
+            "fa_digipay-1401-fa_p0017.png",
+            "fa_digipay-1401-fa_p0021.png",
+            "fa_digipay-1401-fa_p0024.png",
+            "fa_digipay-1401-fa_p0026.png",
+            "fa_digipay-1401-fa_p0029.png",
+            "fa_digipay-1401-fa_p0032.png",
+            "fa_digipay-1401-fa_p0035.png",
+            "fa_digipay-1401-fa_p0057.png",
+            "fa_digipay-1401-fa_p0059.png",
+            "fa_digipay-1401-fa_p0063.png",
+            "fa_digipay-1401-fa_p0064.png",
+            "fa_digipay-1401-fa_p0065.png",
+            "fa_digipay-1401-fa_p0067.png",
+            "fa_digipay-1401-fa_p0069.png",
+            "fa_digipay-1401-fa_p0070.png"
+          ],
+          "textless_pages": [],
+          "truncated_pages": [
+            "fa_digipay-1401-fa_p0005.png",
+            "fa_digipay-1401-fa_p0024.png",
+            "fa_digipay-1401-fa_p0026.png",
+            "fa_digipay-1401-fa_p0035.png",
+            "fa_digipay-1401-fa_p0063.png",
+            "fa_digipay-1401-fa_p0065.png",
+            "fa_digipay-1401-fa_p0067.png",
+            "fa_digipay-1401-fa_p0069.png",
+            "fa_digipay-1401-fa_p0070.png"
+          ]
+        },
+        {
+          "query_id": "fa_007",
+          "query": "میانگین زمان انتظار کاربران برای پاسخ‌گویی مرکز عملیات دیجی‌پی در سال ۱۴۰۱ چند ثانیه بوده است؟",
+          "reference_answer": "۴٫۲ ثانیه",
+          "relevant_page_ids": [
+            "fa_digipay-1401-fa_p0065.png"
+          ],
+          "per_relevant_page_ids": [],
+          "recall_at_10": 1.0,
+          "reciprocal_rank_at_10": 1.0,
+          "first_relevant_rank_at_10": 1,
+          "recall_at_10_with_partial": 1.0,
+          "reciprocal_rank_at_10_with_partial": 1.0,
+          "first_accepted_rank_at_10": 1,
+          "retrieved_page_ids": [
+            "fa_digipay-1401-fa_p0065.png",
+            "fa_digipay-1400-fa_p0036.png",
+            "fa_digipay-1401-fa_p0070.png",
+            "fa_digipay-1401-fa_p0032.png",
+            "fa_digipay-1401-fa_p0005.png",
+            "fa_digipay-1400-fa_p0004.png",
+            "fa_digipay-1401-fa_p0003.png",
+            "fa_digipay-1401-fa_p0058.png",
+            "fa_digipay-1400-fa_p0043.png",
+            "fa_digipay-1400-fa_p0046.png"
+          ],
+          "ranking": [
+            {
+              "rank": 1,
+              "page_id": "fa_digipay-1401-fa_p0065.png",
+              "reranker_score": 3.935546875,
+              "visual_rank": 2,
+              "bm25_rank": 1,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 65,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0065.png"
+            },
+            {
+              "rank": 2,
+              "page_id": "fa_digipay-1400-fa_p0036.png",
+              "reranker_score": 2.9609375,
+              "visual_rank": 1,
+              "bm25_rank": 2,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 36,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0036.png"
+            },
+            {
+              "rank": 3,
+              "page_id": "fa_digipay-1401-fa_p0070.png",
+              "reranker_score": -0.25048828125,
+              "visual_rank": 16,
+              "bm25_rank": null,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 70,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0070.png"
+            },
+            {
+              "rank": 4,
+              "page_id": "fa_digipay-1401-fa_p0032.png",
+              "reranker_score": -0.330810546875,
+              "visual_rank": 7,
+              "bm25_rank": 11,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 32,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0032.png"
+            },
+            {
+              "rank": 5,
+              "page_id": "fa_digipay-1401-fa_p0005.png",
+              "reranker_score": -0.5908203125,
+              "visual_rank": 8,
+              "bm25_rank": 3,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 5,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0005.png"
+            },
+            {
+              "rank": 6,
+              "page_id": "fa_digipay-1400-fa_p0004.png",
+              "reranker_score": -1.208984375,
+              "visual_rank": 6,
+              "bm25_rank": 9,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 4,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0004.png"
+            },
+            {
+              "rank": 7,
+              "page_id": "fa_digipay-1401-fa_p0003.png",
+              "reranker_score": -1.4951171875,
+              "visual_rank": null,
+              "bm25_rank": 6,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 3,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0003.png"
+            },
+            {
+              "rank": 8,
+              "page_id": "fa_digipay-1401-fa_p0058.png",
+              "reranker_score": -1.7314453125,
+              "visual_rank": null,
+              "bm25_rank": 13,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 58,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0058.png"
+            },
+            {
+              "rank": 9,
+              "page_id": "fa_digipay-1400-fa_p0043.png",
+              "reranker_score": -1.849609375,
+              "visual_rank": null,
+              "bm25_rank": 5,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 43,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0043.png"
+            },
+            {
+              "rank": 10,
+              "page_id": "fa_digipay-1400-fa_p0046.png",
+              "reranker_score": -2.380859375,
+              "visual_rank": null,
+              "bm25_rank": 15,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 46,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0046.png"
+            }
+          ],
+          "candidate_count": 32,
+          "candidate_page_ids": [
+            "fa_digipay-1400-fa_p0002.png",
+            "fa_digipay-1400-fa_p0004.png",
+            "fa_digipay-1400-fa_p0006.png",
+            "fa_digipay-1400-fa_p0018.png",
+            "fa_digipay-1400-fa_p0027.png",
+            "fa_digipay-1400-fa_p0030.png",
+            "fa_digipay-1400-fa_p0032.png",
+            "fa_digipay-1400-fa_p0033.png",
+            "fa_digipay-1400-fa_p0036.png",
+            "fa_digipay-1400-fa_p0039.png",
+            "fa_digipay-1400-fa_p0042.png",
+            "fa_digipay-1400-fa_p0043.png",
+            "fa_digipay-1400-fa_p0046.png",
+            "fa_digipay-1400-fa_p0047.png",
+            "fa_digipay-1401-fa_p0003.png",
+            "fa_digipay-1401-fa_p0005.png",
+            "fa_digipay-1401-fa_p0006.png",
+            "fa_digipay-1401-fa_p0011.png",
+            "fa_digipay-1401-fa_p0025.png",
+            "fa_digipay-1401-fa_p0026.png",
+            "fa_digipay-1401-fa_p0032.png",
+            "fa_digipay-1401-fa_p0035.png",
+            "fa_digipay-1401-fa_p0041.png",
+            "fa_digipay-1401-fa_p0046.png",
+            "fa_digipay-1401-fa_p0057.png",
+            "fa_digipay-1401-fa_p0058.png",
+            "fa_digipay-1401-fa_p0063.png",
+            "fa_digipay-1401-fa_p0064.png",
+            "fa_digipay-1401-fa_p0065.png",
+            "fa_digipay-1401-fa_p0067.png",
+            "fa_digipay-1401-fa_p0069.png",
+            "fa_digipay-1401-fa_p0070.png"
+          ],
+          "textless_pages": [],
+          "truncated_pages": [
+            "fa_digipay-1400-fa_p0006.png",
+            "fa_digipay-1400-fa_p0030.png",
+            "fa_digipay-1401-fa_p0005.png",
+            "fa_digipay-1401-fa_p0006.png",
+            "fa_digipay-1401-fa_p0025.png",
+            "fa_digipay-1401-fa_p0026.png",
+            "fa_digipay-1401-fa_p0035.png",
+            "fa_digipay-1401-fa_p0041.png",
+            "fa_digipay-1401-fa_p0058.png",
+            "fa_digipay-1401-fa_p0063.png",
+            "fa_digipay-1401-fa_p0065.png",
+            "fa_digipay-1401-fa_p0067.png",
+            "fa_digipay-1401-fa_p0069.png",
+            "fa_digipay-1401-fa_p0070.png"
+          ]
+        },
+        {
+          "query_id": "fa_008",
+          "query": "کاربران در سال ۱۴۰۱ به طور متوسط چقدر در صف پاسخ‌گویی دیجی‌پی منتظر مانده‌اند؟",
+          "reference_answer": "۴٫۲ ثانیه",
+          "relevant_page_ids": [
+            "fa_digipay-1401-fa_p0065.png"
+          ],
+          "per_relevant_page_ids": [],
+          "recall_at_10": 1.0,
+          "reciprocal_rank_at_10": 1.0,
+          "first_relevant_rank_at_10": 1,
+          "recall_at_10_with_partial": 1.0,
+          "reciprocal_rank_at_10_with_partial": 1.0,
+          "first_accepted_rank_at_10": 1,
+          "retrieved_page_ids": [
+            "fa_digipay-1401-fa_p0065.png",
+            "fa_digipay-1401-fa_p0032.png",
+            "fa_digipay-1400-fa_p0036.png",
+            "fa_digipay-1400-fa_p0004.png",
+            "fa_digipay-1400-fa_p0007.png",
+            "fa_digipay-1401-fa_p0028.png",
+            "fa_digipay-1401-fa_p0011.png",
+            "fa_digipay-1401-fa_p0005.png",
+            "fa_digipay-1400-fa_p0030.png",
+            "fa_digipay-1401-fa_p0058.png"
+          ],
+          "ranking": [
+            {
+              "rank": 1,
+              "page_id": "fa_digipay-1401-fa_p0065.png",
+              "reranker_score": 2.533203125,
+              "visual_rank": 9,
+              "bm25_rank": 1,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 65,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0065.png"
+            },
+            {
+              "rank": 2,
+              "page_id": "fa_digipay-1401-fa_p0032.png",
+              "reranker_score": 0.68115234375,
+              "visual_rank": null,
+              "bm25_rank": 5,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 32,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0032.png"
+            },
+            {
+              "rank": 3,
+              "page_id": "fa_digipay-1400-fa_p0036.png",
+              "reranker_score": 0.376220703125,
+              "visual_rank": 1,
+              "bm25_rank": 2,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 36,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0036.png"
+            },
+            {
+              "rank": 4,
+              "page_id": "fa_digipay-1400-fa_p0004.png",
+              "reranker_score": -1.6435546875,
+              "visual_rank": 20,
+              "bm25_rank": 14,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 4,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0004.png"
+            },
+            {
+              "rank": 5,
+              "page_id": "fa_digipay-1400-fa_p0007.png",
+              "reranker_score": -1.650390625,
+              "visual_rank": 15,
+              "bm25_rank": 7,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 7,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0007.png"
+            },
+            {
+              "rank": 6,
+              "page_id": "fa_digipay-1401-fa_p0028.png",
+              "reranker_score": -1.994140625,
+              "visual_rank": null,
+              "bm25_rank": 15,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 28,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0028.png"
+            },
+            {
+              "rank": 7,
+              "page_id": "fa_digipay-1401-fa_p0011.png",
+              "reranker_score": -2.244140625,
+              "visual_rank": 16,
+              "bm25_rank": 8,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 11,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0011.png"
+            },
+            {
+              "rank": 8,
+              "page_id": "fa_digipay-1401-fa_p0005.png",
+              "reranker_score": -2.265625,
+              "visual_rank": null,
+              "bm25_rank": 4,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 5,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0005.png"
+            },
+            {
+              "rank": 9,
+              "page_id": "fa_digipay-1400-fa_p0030.png",
+              "reranker_score": -2.44140625,
+              "visual_rank": null,
+              "bm25_rank": 10,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 30,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0030.png"
+            },
+            {
+              "rank": 10,
+              "page_id": "fa_digipay-1401-fa_p0058.png",
+              "reranker_score": -2.701171875,
+              "visual_rank": 10,
+              "bm25_rank": 9,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 58,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0058.png"
+            }
+          ],
+          "candidate_count": 32,
+          "candidate_page_ids": [
+            "fa_digipay-1400-fa_p0004.png",
+            "fa_digipay-1400-fa_p0007.png",
+            "fa_digipay-1400-fa_p0014.png",
+            "fa_digipay-1400-fa_p0018.png",
+            "fa_digipay-1400-fa_p0023.png",
+            "fa_digipay-1400-fa_p0030.png",
+            "fa_digipay-1400-fa_p0034.png",
+            "fa_digipay-1400-fa_p0036.png",
+            "fa_digipay-1400-fa_p0037.png",
+            "fa_digipay-1400-fa_p0039.png",
+            "fa_digipay-1400-fa_p0040.png",
+            "fa_digipay-1400-fa_p0042.png",
+            "fa_digipay-1400-fa_p0044.png",
+            "fa_digipay-1400-fa_p0045.png",
+            "fa_digipay-1400-fa_p0047.png",
+            "fa_digipay-1401-fa_p0005.png",
+            "fa_digipay-1401-fa_p0011.png",
+            "fa_digipay-1401-fa_p0021.png",
+            "fa_digipay-1401-fa_p0026.png",
+            "fa_digipay-1401-fa_p0028.png",
+            "fa_digipay-1401-fa_p0032.png",
+            "fa_digipay-1401-fa_p0035.png",
+            "fa_digipay-1401-fa_p0041.png",
+            "fa_digipay-1401-fa_p0046.png",
+            "fa_digipay-1401-fa_p0047.png",
+            "fa_digipay-1401-fa_p0052.png",
+            "fa_digipay-1401-fa_p0057.png",
+            "fa_digipay-1401-fa_p0058.png",
+            "fa_digipay-1401-fa_p0063.png",
+            "fa_digipay-1401-fa_p0065.png",
+            "fa_digipay-1401-fa_p0067.png",
+            "fa_digipay-1401-fa_p0069.png"
+          ],
+          "textless_pages": [],
+          "truncated_pages": [
+            "fa_digipay-1400-fa_p0030.png",
+            "fa_digipay-1401-fa_p0005.png",
+            "fa_digipay-1401-fa_p0026.png",
+            "fa_digipay-1401-fa_p0035.png",
+            "fa_digipay-1401-fa_p0041.png",
+            "fa_digipay-1401-fa_p0058.png",
+            "fa_digipay-1401-fa_p0063.png",
+            "fa_digipay-1401-fa_p0065.png",
+            "fa_digipay-1401-fa_p0067.png",
+            "fa_digipay-1401-fa_p0069.png"
+          ]
+        },
+        {
+          "query_id": "fa_009",
+          "query": "میانگین مدت زمان پاسخ‌گویی به کاربران مرکز عملیات دیجی‌پی در سال ۱۴۰۱ چقدر بوده است؟",
+          "reference_answer": "۲ دقیقه و ۱۴ ثانیه",
+          "relevant_page_ids": [
+            "fa_digipay-1401-fa_p0065.png"
+          ],
+          "per_relevant_page_ids": [],
+          "recall_at_10": 1.0,
+          "reciprocal_rank_at_10": 1.0,
+          "first_relevant_rank_at_10": 1,
+          "recall_at_10_with_partial": 1.0,
+          "reciprocal_rank_at_10_with_partial": 1.0,
+          "first_accepted_rank_at_10": 1,
+          "retrieved_page_ids": [
+            "fa_digipay-1401-fa_p0065.png",
+            "fa_digipay-1400-fa_p0036.png",
+            "fa_digipay-1401-fa_p0032.png",
+            "fa_digipay-1401-fa_p0005.png",
+            "fa_digipay-1400-fa_p0004.png",
+            "fa_digipay-1401-fa_p0028.png",
+            "fa_digipay-1401-fa_p0003.png",
+            "fa_digipay-1400-fa_p0039.png",
+            "fa_digipay-1401-fa_p0058.png",
+            "fa_digipay-1400-fa_p0042.png"
+          ],
+          "ranking": [
+            {
+              "rank": 1,
+              "page_id": "fa_digipay-1401-fa_p0065.png",
+              "reranker_score": 4.703125,
+              "visual_rank": 3,
+              "bm25_rank": 1,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 65,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0065.png"
+            },
+            {
+              "rank": 2,
+              "page_id": "fa_digipay-1400-fa_p0036.png",
+              "reranker_score": 3.2734375,
+              "visual_rank": 1,
+              "bm25_rank": 2,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 36,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0036.png"
+            },
+            {
+              "rank": 3,
+              "page_id": "fa_digipay-1401-fa_p0032.png",
+              "reranker_score": 0.86083984375,
+              "visual_rank": 15,
+              "bm25_rank": 8,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 32,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0032.png"
+            },
+            {
+              "rank": 4,
+              "page_id": "fa_digipay-1401-fa_p0005.png",
+              "reranker_score": -0.5595703125,
+              "visual_rank": 8,
+              "bm25_rank": 3,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 5,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0005.png"
+            },
+            {
+              "rank": 5,
+              "page_id": "fa_digipay-1400-fa_p0004.png",
+              "reranker_score": -0.6455078125,
+              "visual_rank": 6,
+              "bm25_rank": 11,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 4,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0004.png"
+            },
+            {
+              "rank": 6,
+              "page_id": "fa_digipay-1401-fa_p0028.png",
+              "reranker_score": -1.1240234375,
+              "visual_rank": null,
+              "bm25_rank": 18,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 28,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0028.png"
+            },
+            {
+              "rank": 7,
+              "page_id": "fa_digipay-1401-fa_p0003.png",
+              "reranker_score": -1.615234375,
+              "visual_rank": null,
+              "bm25_rank": 5,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 3,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0003.png"
+            },
+            {
+              "rank": 8,
+              "page_id": "fa_digipay-1400-fa_p0039.png",
+              "reranker_score": -1.86328125,
+              "visual_rank": null,
+              "bm25_rank": 4,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 39,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0039.png"
+            },
+            {
+              "rank": 9,
+              "page_id": "fa_digipay-1401-fa_p0058.png",
+              "reranker_score": -2.01171875,
+              "visual_rank": 20,
+              "bm25_rank": 17,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 58,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0058.png"
+            },
+            {
+              "rank": 10,
+              "page_id": "fa_digipay-1400-fa_p0042.png",
+              "reranker_score": -2.046875,
+              "visual_rank": 7,
+              "bm25_rank": null,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 42,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0042.png"
+            }
+          ],
+          "candidate_count": 30,
+          "candidate_page_ids": [
+            "fa_digipay-1400-fa_p0002.png",
+            "fa_digipay-1400-fa_p0004.png",
+            "fa_digipay-1400-fa_p0006.png",
+            "fa_digipay-1400-fa_p0023.png",
+            "fa_digipay-1400-fa_p0027.png",
+            "fa_digipay-1400-fa_p0030.png",
+            "fa_digipay-1400-fa_p0033.png",
+            "fa_digipay-1400-fa_p0034.png",
+            "fa_digipay-1400-fa_p0036.png",
+            "fa_digipay-1400-fa_p0039.png",
+            "fa_digipay-1400-fa_p0040.png",
+            "fa_digipay-1400-fa_p0042.png",
+            "fa_digipay-1400-fa_p0043.png",
+            "fa_digipay-1400-fa_p0047.png",
+            "fa_digipay-1401-fa_p0003.png",
+            "fa_digipay-1401-fa_p0005.png",
+            "fa_digipay-1401-fa_p0006.png",
+            "fa_digipay-1401-fa_p0021.png",
+            "fa_digipay-1401-fa_p0026.png",
+            "fa_digipay-1401-fa_p0028.png",
+            "fa_digipay-1401-fa_p0032.png",
+            "fa_digipay-1401-fa_p0035.png",
+            "fa_digipay-1401-fa_p0041.png",
+            "fa_digipay-1401-fa_p0058.png",
+            "fa_digipay-1401-fa_p0063.png",
+            "fa_digipay-1401-fa_p0064.png",
+            "fa_digipay-1401-fa_p0065.png",
+            "fa_digipay-1401-fa_p0067.png",
+            "fa_digipay-1401-fa_p0068.png",
+            "fa_digipay-1401-fa_p0069.png"
+          ],
+          "textless_pages": [],
+          "truncated_pages": [
+            "fa_digipay-1400-fa_p0006.png",
+            "fa_digipay-1400-fa_p0030.png",
+            "fa_digipay-1401-fa_p0005.png",
+            "fa_digipay-1401-fa_p0006.png",
+            "fa_digipay-1401-fa_p0026.png",
+            "fa_digipay-1401-fa_p0035.png",
+            "fa_digipay-1401-fa_p0041.png",
+            "fa_digipay-1401-fa_p0058.png",
+            "fa_digipay-1401-fa_p0063.png",
+            "fa_digipay-1401-fa_p0065.png",
+            "fa_digipay-1401-fa_p0067.png",
+            "fa_digipay-1401-fa_p0068.png",
+            "fa_digipay-1401-fa_p0069.png"
+          ]
+        },
+        {
+          "query_id": "fa_010",
+          "query": "در گزارش سال ۱۴۰۱ دیجی‌پی، متوسط زمان پاسخ‌گویی چند دقیقه و چند ثانیه اعلام شده است؟",
+          "reference_answer": "۲ دقیقه و ۱۴ ثانیه",
+          "relevant_page_ids": [
+            "fa_digipay-1401-fa_p0065.png"
+          ],
+          "per_relevant_page_ids": [],
+          "recall_at_10": 1.0,
+          "reciprocal_rank_at_10": 1.0,
+          "first_relevant_rank_at_10": 1,
+          "recall_at_10_with_partial": 1.0,
+          "reciprocal_rank_at_10_with_partial": 1.0,
+          "first_accepted_rank_at_10": 1,
+          "retrieved_page_ids": [
+            "fa_digipay-1401-fa_p0065.png",
+            "fa_digipay-1400-fa_p0036.png",
+            "fa_digipay-1400-fa_p0004.png",
+            "fa_digipay-1401-fa_p0005.png",
+            "fa_digipay-1400-fa_p0008.png",
+            "fa_digipay-1401-fa_p0032.png",
+            "fa_digipay-1401-fa_p0058.png",
+            "fa_digipay-1400-fa_p0039.png",
+            "fa_digipay-1400-fa_p0030.png",
+            "fa_digipay-1400-fa_p0046.png"
+          ],
+          "ranking": [
+            {
+              "rank": 1,
+              "page_id": "fa_digipay-1401-fa_p0065.png",
+              "reranker_score": 2.130859375,
+              "visual_rank": 1,
+              "bm25_rank": 1,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 65,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0065.png"
+            },
+            {
+              "rank": 2,
+              "page_id": "fa_digipay-1400-fa_p0036.png",
+              "reranker_score": 0.9677734375,
+              "visual_rank": 7,
+              "bm25_rank": 2,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 36,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0036.png"
+            },
+            {
+              "rank": 3,
+              "page_id": "fa_digipay-1400-fa_p0004.png",
+              "reranker_score": 0.014984130859375,
+              "visual_rank": null,
+              "bm25_rank": 10,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 4,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0004.png"
+            },
+            {
+              "rank": 4,
+              "page_id": "fa_digipay-1401-fa_p0005.png",
+              "reranker_score": -1.4873046875,
+              "visual_rank": null,
+              "bm25_rank": 6,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 5,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0005.png"
+            },
+            {
+              "rank": 5,
+              "page_id": "fa_digipay-1400-fa_p0008.png",
+              "reranker_score": -1.849609375,
+              "visual_rank": 4,
+              "bm25_rank": 3,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 8,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0008.png"
+            },
+            {
+              "rank": 6,
+              "page_id": "fa_digipay-1401-fa_p0032.png",
+              "reranker_score": -1.9345703125,
+              "visual_rank": 8,
+              "bm25_rank": null,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 32,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0032.png"
+            },
+            {
+              "rank": 7,
+              "page_id": "fa_digipay-1401-fa_p0058.png",
+              "reranker_score": -1.94140625,
+              "visual_rank": 18,
+              "bm25_rank": 8,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1401-fa.pdf",
+              "pdf_page_number": 58,
+              "image_path": "data/fa/images/fa_digipay-1401-fa_p0058.png"
+            },
+            {
+              "rank": 8,
+              "page_id": "fa_digipay-1400-fa_p0039.png",
+              "reranker_score": -2.109375,
+              "visual_rank": null,
+              "bm25_rank": 5,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 39,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0039.png"
+            },
+            {
+              "rank": 9,
+              "page_id": "fa_digipay-1400-fa_p0030.png",
+              "reranker_score": -2.638671875,
+              "visual_rank": null,
+              "bm25_rank": 11,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 30,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0030.png"
+            },
+            {
+              "rank": 10,
+              "page_id": "fa_digipay-1400-fa_p0046.png",
+              "reranker_score": -2.80859375,
+              "visual_rank": null,
+              "bm25_rank": 13,
+              "source_pdf": "data/fa/pdfs/fa-data/digipay-1400-fa.pdf",
+              "pdf_page_number": 46,
+              "image_path": "data/fa/images/fa_digipay-1400-fa_p0046.png"
+            }
+          ],
+          "candidate_count": 34,
+          "candidate_page_ids": [
+            "fa_digipay-1400-fa_p0004.png",
+            "fa_digipay-1400-fa_p0008.png",
+            "fa_digipay-1400-fa_p0021.png",
+            "fa_digipay-1400-fa_p0023.png",
+            "fa_digipay-1400-fa_p0024.png",
+            "fa_digipay-1400-fa_p0027.png",
+            "fa_digipay-1400-fa_p0030.png",
+            "fa_digipay-1400-fa_p0032.png",
+            "fa_digipay-1400-fa_p0034.png",
+            "fa_digipay-1400-fa_p0036.png",
+            "fa_digipay-1400-fa_p0037.png",
+            "fa_digipay-1400-fa_p0039.png",
+            "fa_digipay-1400-fa_p0043.png",
+            "fa_digipay-1400-fa_p0044.png",
+            "fa_digipay-1400-fa_p0045.png",
+            "fa_digipay-1400-fa_p0046.png",
+            "fa_digipay-1401-fa_p0005.png",
+            "fa_digipay-1401-fa_p0011.png",
+            "fa_digipay-1401-fa_p0017.png",
+            "fa_digipay-1401-fa_p0021.png",
+            "fa_digipay-1401-fa_p0024.png",
+            "fa_digipay-1401-fa_p0032.png",
+            "fa_digipay-1401-fa_p0035.png",
+            "fa_digipay-1401-fa_p0037.png",
+            "fa_digipay-1401-fa_p0041.png",
+            "fa_digipay-1401-fa_p0046.png",
+            "fa_digipay-1401-fa_p0047.png",
+            "fa_digipay-1401-fa_p0048.png",
+            "fa_digipay-1401-fa_p0050.png",
+            "fa_digipay-1401-fa_p0052.png",
+            "fa_digipay-1401-fa_p0053.png",
+            "fa_digipay-1401-fa_p0058.png",
+            "fa_digipay-1401-fa_p0065.png",
+            "fa_digipay-1401-fa_p0069.png"
+          ],
+          "textless_pages": [],
+          "truncated_pages": [
+            "fa_digipay-1400-fa_p0030.png",
+            "fa_digipay-1401-fa_p0005.png",
+            "fa_digipay-1401-fa_p0024.png",
+            "fa_digipay-1401-fa_p0035.png",
+            "fa_digipay-1401-fa_p0041.png",
+            "fa_digipay-1401-fa_p0048.png",
+            "fa_digipay-1401-fa_p0058.png",
+            "fa_digipay-1401-fa_p0065.png",
+            "fa_digipay-1401-fa_p0069.png"
+          ]
+        }
+      ]
+    }
+  },
+  "provenance": {
+    "bm25_index_sha256": "b9f998d6a08f2ad21192cb9be15f11f76a9bf2313ffca1163941cfc641ea9980",
+    "text_corpus_sha256": "2f99761c322c29e344183440d37b354ce9d80b1e783afea7ca903a545d508e62",
+    "bm25_searchable_pages": 112,
+    "embedding_files": [
+      "retrieval/encode/colqwen_fa_2048/embeddings.corpus.rank.0.0-122"
+    ],
+    "embedding_manifest": {
+      "corpus_sha256": "fbc78f122e2d026f46f09d59cb75367a7d6bc7093e7d1ea0bc148caeaacc57e9",
+      "image_token_budget": 2048,
+      "max_pixels": 1605632,
+      "batch_size": 1,
+      "dtype": "float16",
+      "attention": "sdpa",
+      "model_files": {
+        "config.json": {
+          "size": 1114,
+          "mtime_ns": 1791375433948238108
+        },
+        "config_sentence_transformers.json": {
+          "size": 245,
+          "mtime_ns": 1791375434180238826
+        },
+        "generation_config.json": {
+          "size": 215,
+          "mtime_ns": 1791375434036238381
+        },
+        "model.safetensors": {
+          "size": 4418444496,
+          "mtime_ns": 1791375464296333691
+        },
+        "modules.json": {
+          "size": 580,
+          "mtime_ns": 1791375434164238777
+        },
+        "preprocessor_config.json": {
+          "size": 618,
+          "mtime_ns": 1791375434156238753
+        },
+        "sentence_bert_config.json": {
+          "size": 750,
+          "mtime_ns": 1791375434204238901
+        },
+        "special_tokens_map.json": {
+          "size": 613,
+          "mtime_ns": 1791375434516239868
+        },
+        "tokenizer.json": {
+          "size": 11420371,
+          "mtime_ns": 1791375435712243578
+        },
+        "tokenizer_config.json": {
+          "size": 4297,
+          "mtime_ns": 1791375434648240278
+        },
+        "vocab.json": {
+          "size": 2776833,
+          "mtime_ns": 1791375435072241592
+        }
+      },
+      "pages": 122,
+      "embedding_file": "embeddings.corpus.rank.0.0-122",
+      "shapes": [
+        [
+          2036,
+          128
+        ],
+        [
+          2036,
+          128
+        ],
+        [
+          2036,
+          128
+        ],
+        [
+          2036,
+          128
+        ],
+        [
+          2036,
+          128
+        ],
+        [
+          2036,
+          128
+        ],
+        [
+          2036,
+          128
+        ],
+        [
+          2036,
+          128
+        ],
+        [
+          2036,
+          128
+        ],
+        [
+          2036,
+          128
+        ],
+        [
+          2036,
+          128
+        ],
+        [
+          2036,
+          128
+        ],
+        [
+          2036,
+          128
+        ],
+        [
+          2036,
+          128
+        ],
+        [
+          2036,
+          128
+        ],
+        [
+          2036,
+          128
+        ],
+        [
+          2036,
+          128
+        ],
+        [
+          2036,
+          128
+        ],
+        [
+          2036,
+          128
+        ],
+        [
+          2036,
+          128
+        ],
+        [
+          2036,
+          128
+        ],
+        [
+          2036,
+          128
+        ],
+        [
+          2036,
+          128
+        ],
+        [
+          2036,
+          128
+        ],
+        [
+          2036,
+          128
+        ],
+        [
+          2036,
+          128
+        ],
+        [
+          2036,
+          128
+        ],
+        [
+          2036,
+          128
+        ],
+        [
+          2036,
+          128
+        ],
+        [
+          2036,
+          128
+        ],
+        [
+          2036,
+          128
+        ],
+        [
+          2036,
+          128
+        ],
+        [
+          2036,
+          128
+        ],
+        [
+          2036,
+          128
+        ],
+        [
+          2036,
+          128
+        ],
+        [
+          2036,
+          128
+        ],
+        [
+          2036,
+          128
+        ],
+        [
+          2036,
+          128
+        ],
+        [
+          2036,
+          128
+        ],
+        [
+          2036,
+          128
+        ],
+        [
+          2036,
+          128
+        ],
+        [
+          2036,
+          128
+        ],
+        [
+          2036,
+          128
+        ],
+        [
+          2036,
+          128
+        ],
+        [
+          2036,
+          128
+        ],
+        [
+          2036,
+          128
+        ],
+        [
+          2036,
+          128
+        ],
+        [
+          2036,
+          128
+        ],
+        [
+          2011,
+          128
+        ],
+        [
+          2036,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ],
+        [
+          2025,
+          128
+        ]
+      ]
+    },
+    "embedding_manifest_sha256": "99428f29f44a8afc2af3eaca89dc523229e5f18f914d3497347e3b28cb064374",
+    "model_path": "retrieval/colqwen2-v1.0-merged",
+    "visual_backend": "OpenMatch; same query processing and scoring as visual evaluator",
+    "reranker_manifest": {
+      "model_id": "BAAI/bge-reranker-v2-m3",
+      "revision": null,
+      "cache_dir": "/home/baseri/FinRAGBench-V-git/FinRAGBench-V/models/hf-cache",
+      "test_score": 6.05859375
+    },
+    "reranker_manifest_sha256": "7cf266850efd2314c4cfbdf9b59c76e945f615442d234b4f89e60f72665d13b9",
+    "reranker_max_tokens": 512,
+    "candidates_per_source": 20,
+    "textless_policy": "after all text-scored candidates; page ID ascending"
+  },
+  "package_versions": {
+    "torch": "2.8.0+cu128",
+    "transformers": "4.45.2",
+    "rank-bm25": "0.2.2"
+  },
+  "total_batch_seconds": 12.74696370899619
+}
