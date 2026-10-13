@@ -1,0 +1,6306 @@
+{
+  "dataset": "data/fa/evaluation/questions_10.json",
+  "dataset_sha256": "8ec7ac0f91801675988a9bfcfaee0e1aed1b695ea97415f06d2bf0abd14f7db9",
+  "model_path": "retrieval/colqwen2-v1.0-merged",
+  "embedding_files": [
+    "retrieval/encode/colqwen_fa_1536/embeddings.corpus.rank.0.0-122"
+  ],
+  "torch_version": "2.8.0+cu128",
+  "transformers_version": "4.45.2",
+  "tie_breaking": "score descending, page ID ascending",
+  "summary": {
+    "questions": 10,
+    "unique_reference_pages": 2,
+    "mean_recall_at_5": 0.5,
+    "mean_recall_at_20": 0.8,
+    "mrr": 0.3866002461590696
+  },
+  "results": [
+    {
+      "query_id": "fa_001",
+      "query": "الگوی رفتار کاربران دیجی‌پی در پرداخت اقساط",
+      "relevant_page_ids": [
+        "fa_digipay-1401-fa_p0052.png"
+      ],
+      "reference_ranks": {
+        "fa_digipay-1401-fa_p0052.png": 1
+      },
+      "first_relevant_rank": 1,
+      "recall_at_5": 1.0,
+      "recall_at_20": 1.0,
+      "reciprocal_rank": 1.0,
+      "elapsed_seconds": 0.3026924050063826,
+      "query_token_count": 38,
+      "ranking": [
+        {
+          "rank": 1,
+          "page_id": "fa_digipay-1401-fa_p0052.png",
+          "score": 21.203125
+        },
+        {
+          "rank": 2,
+          "page_id": "fa_digipay-1401-fa_p0046.png",
+          "score": 21.140625
+        },
+        {
+          "rank": 3,
+          "page_id": "fa_digipay-1401-fa_p0003.png",
+          "score": 20.703125
+        },
+        {
+          "rank": 4,
+          "page_id": "fa_digipay-1401-fa_p0041.png",
+          "score": 20.546875
+        },
+        {
+          "rank": 5,
+          "page_id": "fa_digipay-1401-fa_p0011.png",
+          "score": 20.4375
+        },
+        {
+          "rank": 6,
+          "page_id": "fa_digipay-1400-fa_p0018.png",
+          "score": 20.40625
+        },
+        {
+          "rank": 7,
+          "page_id": "fa_digipay-1401-fa_p0010.png",
+          "score": 20.375
+        },
+        {
+          "rank": 8,
+          "page_id": "fa_digipay-1401-fa_p0058.png",
+          "score": 20.375
+        },
+        {
+          "rank": 9,
+          "page_id": "fa_digipay-1400-fa_p0040.png",
+          "score": 20.34375
+        },
+        {
+          "rank": 10,
+          "page_id": "fa_digipay-1400-fa_p0006.png",
+          "score": 20.296875
+        },
+        {
+          "rank": 11,
+          "page_id": "fa_digipay-1400-fa_p0011.png",
+          "score": 20.21875
+        },
+        {
+          "rank": 12,
+          "page_id": "fa_digipay-1401-fa_p0068.png",
+          "score": 20.21875
+        },
+        {
+          "rank": 13,
+          "page_id": "fa_digipay-1400-fa_p0033.png",
+          "score": 20.1875
+        },
+        {
+          "rank": 14,
+          "page_id": "fa_digipay-1401-fa_p0035.png",
+          "score": 20.1875
+        },
+        {
+          "rank": 15,
+          "page_id": "fa_digipay-1400-fa_p0007.png",
+          "score": 20.09375
+        },
+        {
+          "rank": 16,
+          "page_id": "fa_digipay-1400-fa_p0023.png",
+          "score": 20.078125
+        },
+        {
+          "rank": 17,
+          "page_id": "fa_digipay-1401-fa_p0027.png",
+          "score": 20.0625
+        },
+        {
+          "rank": 18,
+          "page_id": "fa_digipay-1401-fa_p0057.png",
+          "score": 20.046875
+        },
+        {
+          "rank": 19,
+          "page_id": "fa_digipay-1400-fa_p0003.png",
+          "score": 20.03125
+        },
+        {
+          "rank": 20,
+          "page_id": "fa_digipay-1400-fa_p0043.png",
+          "score": 19.9375
+        },
+        {
+          "rank": 21,
+          "page_id": "fa_digipay-1400-fa_p0014.png",
+          "score": 19.90625
+        },
+        {
+          "rank": 22,
+          "page_id": "fa_digipay-1400-fa_p0002.png",
+          "score": 19.828125
+        },
+        {
+          "rank": 23,
+          "page_id": "fa_digipay-1401-fa_p0032.png",
+          "score": 19.796875
+        },
+        {
+          "rank": 24,
+          "page_id": "fa_digipay-1400-fa_p0017.png",
+          "score": 19.765625
+        },
+        {
+          "rank": 25,
+          "page_id": "fa_digipay-1401-fa_p0065.png",
+          "score": 19.765625
+        },
+        {
+          "rank": 26,
+          "page_id": "fa_digipay-1401-fa_p0067.png",
+          "score": 19.734375
+        },
+        {
+          "rank": 27,
+          "page_id": "fa_digipay-1400-fa_p0047.png",
+          "score": 19.71875
+        },
+        {
+          "rank": 28,
+          "page_id": "fa_digipay-1400-fa_p0013.png",
+          "score": 19.625
+        },
+        {
+          "rank": 29,
+          "page_id": "fa_digipay-1400-fa_p0021.png",
+          "score": 19.625
+        },
+        {
+          "rank": 30,
+          "page_id": "fa_digipay-1400-fa_p0037.png",
+          "score": 19.609375
+        },
+        {
+          "rank": 31,
+          "page_id": "fa_digipay-1400-fa_p0046.png",
+          "score": 19.53125
+        },
+        {
+          "rank": 32,
+          "page_id": "fa_digipay-1400-fa_p0031.png",
+          "score": 19.515625
+        },
+        {
+          "rank": 33,
+          "page_id": "fa_digipay-1400-fa_p0036.png",
+          "score": 19.484375
+        },
+        {
+          "rank": 34,
+          "page_id": "fa_digipay-1401-fa_p0047.png",
+          "score": 19.484375
+        },
+        {
+          "rank": 35,
+          "page_id": "fa_digipay-1400-fa_p0034.png",
+          "score": 19.453125
+        },
+        {
+          "rank": 36,
+          "page_id": "fa_digipay-1400-fa_p0004.png",
+          "score": 19.4375
+        },
+        {
+          "rank": 37,
+          "page_id": "fa_digipay-1401-fa_p0008.png",
+          "score": 19.40625
+        },
+        {
+          "rank": 38,
+          "page_id": "fa_digipay-1401-fa_p0025.png",
+          "score": 19.40625
+        },
+        {
+          "rank": 39,
+          "page_id": "fa_digipay-1401-fa_p0021.png",
+          "score": 19.375
+        },
+        {
+          "rank": 40,
+          "page_id": "fa_digipay-1400-fa_p0008.png",
+          "score": 19.328125
+        },
+        {
+          "rank": 41,
+          "page_id": "fa_digipay-1400-fa_p0045.png",
+          "score": 19.328125
+        },
+        {
+          "rank": 42,
+          "page_id": "fa_digipay-1400-fa_p0030.png",
+          "score": 19.3125
+        },
+        {
+          "rank": 43,
+          "page_id": "fa_digipay-1400-fa_p0027.png",
+          "score": 19.296875
+        },
+        {
+          "rank": 44,
+          "page_id": "fa_digipay-1401-fa_p0069.png",
+          "score": 19.265625
+        },
+        {
+          "rank": 45,
+          "page_id": "fa_digipay-1400-fa_p0019.png",
+          "score": 19.1875
+        },
+        {
+          "rank": 46,
+          "page_id": "fa_digipay-1401-fa_p0033.png",
+          "score": 19.1875
+        },
+        {
+          "rank": 47,
+          "page_id": "fa_digipay-1401-fa_p0060.png",
+          "score": 19.1875
+        },
+        {
+          "rank": 48,
+          "page_id": "fa_digipay-1401-fa_p0063.png",
+          "score": 19.171875
+        },
+        {
+          "rank": 49,
+          "page_id": "fa_digipay-1400-fa_p0044.png",
+          "score": 19.125
+        },
+        {
+          "rank": 50,
+          "page_id": "fa_digipay-1401-fa_p0061.png",
+          "score": 19.0625
+        },
+        {
+          "rank": 51,
+          "page_id": "fa_digipay-1400-fa_p0039.png",
+          "score": 19.046875
+        },
+        {
+          "rank": 52,
+          "page_id": "fa_digipay-1400-fa_p0042.png",
+          "score": 19.046875
+        },
+        {
+          "rank": 53,
+          "page_id": "fa_digipay-1401-fa_p0005.png",
+          "score": 18.984375
+        },
+        {
+          "rank": 54,
+          "page_id": "fa_digipay-1401-fa_p0034.png",
+          "score": 18.96875
+        },
+        {
+          "rank": 55,
+          "page_id": "fa_digipay-1401-fa_p0019.png",
+          "score": 18.90625
+        },
+        {
+          "rank": 56,
+          "page_id": "fa_digipay-1400-fa_p0025.png",
+          "score": 18.796875
+        },
+        {
+          "rank": 57,
+          "page_id": "fa_digipay-1400-fa_p0010.png",
+          "score": 18.765625
+        },
+        {
+          "rank": 58,
+          "page_id": "fa_digipay-1401-fa_p0059.png",
+          "score": 18.765625
+        },
+        {
+          "rank": 59,
+          "page_id": "fa_digipay-1401-fa_p0066.png",
+          "score": 18.703125
+        },
+        {
+          "rank": 60,
+          "page_id": "fa_digipay-1401-fa_p0050.png",
+          "score": 18.609375
+        },
+        {
+          "rank": 61,
+          "page_id": "fa_digipay-1401-fa_p0012.png",
+          "score": 18.578125
+        },
+        {
+          "rank": 62,
+          "page_id": "fa_digipay-1400-fa_p0015.png",
+          "score": 18.5625
+        },
+        {
+          "rank": 63,
+          "page_id": "fa_digipay-1400-fa_p0048.png",
+          "score": 18.546875
+        },
+        {
+          "rank": 64,
+          "page_id": "fa_digipay-1401-fa_p0039.png",
+          "score": 18.53125
+        },
+        {
+          "rank": 65,
+          "page_id": "fa_digipay-1401-fa_p0072.png",
+          "score": 18.484375
+        },
+        {
+          "rank": 66,
+          "page_id": "fa_digipay-1401-fa_p0020.png",
+          "score": 18.46875
+        },
+        {
+          "rank": 67,
+          "page_id": "fa_digipay-1400-fa_p0032.png",
+          "score": 18.4375
+        },
+        {
+          "rank": 68,
+          "page_id": "fa_digipay-1400-fa_p0022.png",
+          "score": 18.421875
+        },
+        {
+          "rank": 69,
+          "page_id": "fa_digipay-1401-fa_p0024.png",
+          "score": 18.421875
+        },
+        {
+          "rank": 70,
+          "page_id": "fa_digipay-1401-fa_p0026.png",
+          "score": 18.40625
+        },
+        {
+          "rank": 71,
+          "page_id": "fa_digipay-1401-fa_p0054.png",
+          "score": 18.359375
+        },
+        {
+          "rank": 72,
+          "page_id": "fa_digipay-1401-fa_p0053.png",
+          "score": 18.28125
+        },
+        {
+          "rank": 73,
+          "page_id": "fa_digipay-1401-fa_p0064.png",
+          "score": 18.265625
+        },
+        {
+          "rank": 74,
+          "page_id": "fa_digipay-1401-fa_p0013.png",
+          "score": 18.125
+        },
+        {
+          "rank": 75,
+          "page_id": "fa_digipay-1401-fa_p0049.png",
+          "score": 18.125
+        },
+        {
+          "rank": 76,
+          "page_id": "fa_digipay-1401-fa_p0055.png",
+          "score": 18.125
+        },
+        {
+          "rank": 77,
+          "page_id": "fa_digipay-1401-fa_p0029.png",
+          "score": 18.109375
+        },
+        {
+          "rank": 78,
+          "page_id": "fa_digipay-1400-fa_p0009.png",
+          "score": 18.09375
+        },
+        {
+          "rank": 79,
+          "page_id": "fa_digipay-1400-fa_p0024.png",
+          "score": 18.09375
+        },
+        {
+          "rank": 80,
+          "page_id": "fa_digipay-1401-fa_p0028.png",
+          "score": 18.0625
+        },
+        {
+          "rank": 81,
+          "page_id": "fa_digipay-1401-fa_p0062.png",
+          "score": 18.0625
+        },
+        {
+          "rank": 82,
+          "page_id": "fa_digipay-1400-fa_p0001.png",
+          "score": 18.046875
+        },
+        {
+          "rank": 83,
+          "page_id": "fa_digipay-1401-fa_p0016.png",
+          "score": 18.015625
+        },
+        {
+          "rank": 84,
+          "page_id": "fa_digipay-1401-fa_p0056.png",
+          "score": 18.0
+        },
+        {
+          "rank": 85,
+          "page_id": "fa_digipay-1401-fa_p0017.png",
+          "score": 17.96875
+        },
+        {
+          "rank": 86,
+          "page_id": "fa_digipay-1401-fa_p0070.png",
+          "score": 17.953125
+        },
+        {
+          "rank": 87,
+          "page_id": "fa_digipay-1401-fa_p0014.png",
+          "score": 17.921875
+        },
+        {
+          "rank": 88,
+          "page_id": "fa_digipay-1400-fa_p0016.png",
+          "score": 17.890625
+        },
+        {
+          "rank": 89,
+          "page_id": "fa_digipay-1400-fa_p0050.png",
+          "score": 17.875
+        },
+        {
+          "rank": 90,
+          "page_id": "fa_digipay-1401-fa_p0038.png",
+          "score": 17.796875
+        },
+        {
+          "rank": 91,
+          "page_id": "fa_digipay-1401-fa_p0037.png",
+          "score": 17.765625
+        },
+        {
+          "rank": 92,
+          "page_id": "fa_digipay-1400-fa_p0026.png",
+          "score": 17.65625
+        },
+        {
+          "rank": 93,
+          "page_id": "fa_digipay-1400-fa_p0028.png",
+          "score": 17.609375
+        },
+        {
+          "rank": 94,
+          "page_id": "fa_digipay-1401-fa_p0018.png",
+          "score": 17.5625
+        },
+        {
+          "rank": 95,
+          "page_id": "fa_digipay-1401-fa_p0006.png",
+          "score": 17.515625
+        },
+        {
+          "rank": 96,
+          "page_id": "fa_digipay-1401-fa_p0045.png",
+          "score": 17.421875
+        },
+        {
+          "rank": 97,
+          "page_id": "fa_digipay-1400-fa_p0049.png",
+          "score": 17.40625
+        },
+        {
+          "rank": 98,
+          "page_id": "fa_digipay-1401-fa_p0036.png",
+          "score": 17.3125
+        },
+        {
+          "rank": 99,
+          "page_id": "fa_digipay-1401-fa_p0040.png",
+          "score": 17.28125
+        },
+        {
+          "rank": 100,
+          "page_id": "fa_digipay-1401-fa_p0048.png",
+          "score": 17.28125
+        },
+        {
+          "rank": 101,
+          "page_id": "fa_digipay-1401-fa_p0044.png",
+          "score": 17.265625
+        },
+        {
+          "rank": 102,
+          "page_id": "fa_digipay-1401-fa_p0001.png",
+          "score": 17.25
+        },
+        {
+          "rank": 103,
+          "page_id": "fa_digipay-1401-fa_p0042.png",
+          "score": 17.21875
+        },
+        {
+          "rank": 104,
+          "page_id": "fa_digipay-1401-fa_p0002.png",
+          "score": 17.15625
+        },
+        {
+          "rank": 105,
+          "page_id": "fa_digipay-1401-fa_p0022.png",
+          "score": 17.140625
+        },
+        {
+          "rank": 106,
+          "page_id": "fa_digipay-1401-fa_p0043.png",
+          "score": 17.140625
+        },
+        {
+          "rank": 107,
+          "page_id": "fa_digipay-1401-fa_p0009.png",
+          "score": 16.421875
+        },
+        {
+          "rank": 108,
+          "page_id": "fa_digipay-1401-fa_p0031.png",
+          "score": 16.015625
+        },
+        {
+          "rank": 109,
+          "page_id": "fa_digipay-1401-fa_p0030.png",
+          "score": 15.859375
+        },
+        {
+          "rank": 110,
+          "page_id": "fa_digipay-1401-fa_p0004.png",
+          "score": 15.796875
+        },
+        {
+          "rank": 111,
+          "page_id": "fa_digipay-1401-fa_p0023.png",
+          "score": 15.4609375
+        },
+        {
+          "rank": 112,
+          "page_id": "fa_digipay-1401-fa_p0007.png",
+          "score": 15.4296875
+        },
+        {
+          "rank": 113,
+          "page_id": "fa_digipay-1401-fa_p0015.png",
+          "score": 14.9296875
+        },
+        {
+          "rank": 114,
+          "page_id": "fa_digipay-1401-fa_p0071.png",
+          "score": 14.8203125
+        },
+        {
+          "rank": 115,
+          "page_id": "fa_digipay-1401-fa_p0051.png",
+          "score": 13.59375
+        },
+        {
+          "rank": 116,
+          "page_id": "fa_digipay-1400-fa_p0041.png",
+          "score": 10.3359375
+        },
+        {
+          "rank": 117,
+          "page_id": "fa_digipay-1400-fa_p0005.png",
+          "score": 10.2578125
+        },
+        {
+          "rank": 118,
+          "page_id": "fa_digipay-1400-fa_p0012.png",
+          "score": 10.203125
+        },
+        {
+          "rank": 119,
+          "page_id": "fa_digipay-1400-fa_p0020.png",
+          "score": 10.1640625
+        },
+        {
+          "rank": 120,
+          "page_id": "fa_digipay-1400-fa_p0035.png",
+          "score": 10.15625
+        },
+        {
+          "rank": 121,
+          "page_id": "fa_digipay-1400-fa_p0038.png",
+          "score": 10.15625
+        },
+        {
+          "rank": 122,
+          "page_id": "fa_digipay-1400-fa_p0029.png",
+          "score": 10.0390625
+        }
+      ]
+    },
+    {
+      "query_id": "fa_002",
+      "query": "نمودار رفتار کاربران دیجی‌پی در زمان پرداخت قسط‌ها در کدام صفحه آمده است؟",
+      "relevant_page_ids": [
+        "fa_digipay-1401-fa_p0052.png"
+      ],
+      "reference_ranks": {
+        "fa_digipay-1401-fa_p0052.png": 4
+      },
+      "first_relevant_rank": 4,
+      "recall_at_5": 1.0,
+      "recall_at_20": 1.0,
+      "reciprocal_rank": 0.25,
+      "elapsed_seconds": 0.3134197790059261,
+      "query_token_count": 52,
+      "ranking": [
+        {
+          "rank": 1,
+          "page_id": "fa_digipay-1401-fa_p0003.png",
+          "score": 27.109375
+        },
+        {
+          "rank": 2,
+          "page_id": "fa_digipay-1401-fa_p0011.png",
+          "score": 26.6875
+        },
+        {
+          "rank": 3,
+          "page_id": "fa_digipay-1400-fa_p0006.png",
+          "score": 26.5625
+        },
+        {
+          "rank": 4,
+          "page_id": "fa_digipay-1401-fa_p0052.png",
+          "score": 26.546875
+        },
+        {
+          "rank": 5,
+          "page_id": "fa_digipay-1401-fa_p0058.png",
+          "score": 26.375
+        },
+        {
+          "rank": 6,
+          "page_id": "fa_digipay-1400-fa_p0018.png",
+          "score": 26.328125
+        },
+        {
+          "rank": 7,
+          "page_id": "fa_digipay-1401-fa_p0057.png",
+          "score": 26.28125
+        },
+        {
+          "rank": 8,
+          "page_id": "fa_digipay-1401-fa_p0035.png",
+          "score": 26.21875
+        },
+        {
+          "rank": 9,
+          "page_id": "fa_digipay-1400-fa_p0011.png",
+          "score": 26.15625
+        },
+        {
+          "rank": 10,
+          "page_id": "fa_digipay-1400-fa_p0043.png",
+          "score": 26.15625
+        },
+        {
+          "rank": 11,
+          "page_id": "fa_digipay-1400-fa_p0023.png",
+          "score": 26.0625
+        },
+        {
+          "rank": 12,
+          "page_id": "fa_digipay-1400-fa_p0007.png",
+          "score": 26.03125
+        },
+        {
+          "rank": 13,
+          "page_id": "fa_digipay-1400-fa_p0014.png",
+          "score": 26.015625
+        },
+        {
+          "rank": 14,
+          "page_id": "fa_digipay-1400-fa_p0034.png",
+          "score": 26.015625
+        },
+        {
+          "rank": 15,
+          "page_id": "fa_digipay-1401-fa_p0067.png",
+          "score": 26.015625
+        },
+        {
+          "rank": 16,
+          "page_id": "fa_digipay-1401-fa_p0046.png",
+          "score": 26.0
+        },
+        {
+          "rank": 17,
+          "page_id": "fa_digipay-1400-fa_p0027.png",
+          "score": 25.9375
+        },
+        {
+          "rank": 18,
+          "page_id": "fa_digipay-1400-fa_p0021.png",
+          "score": 25.921875
+        },
+        {
+          "rank": 19,
+          "page_id": "fa_digipay-1401-fa_p0041.png",
+          "score": 25.921875
+        },
+        {
+          "rank": 20,
+          "page_id": "fa_digipay-1400-fa_p0036.png",
+          "score": 25.875
+        },
+        {
+          "rank": 21,
+          "page_id": "fa_digipay-1400-fa_p0004.png",
+          "score": 25.84375
+        },
+        {
+          "rank": 22,
+          "page_id": "fa_digipay-1400-fa_p0017.png",
+          "score": 25.84375
+        },
+        {
+          "rank": 23,
+          "page_id": "fa_digipay-1400-fa_p0045.png",
+          "score": 25.84375
+        },
+        {
+          "rank": 24,
+          "page_id": "fa_digipay-1400-fa_p0047.png",
+          "score": 25.84375
+        },
+        {
+          "rank": 25,
+          "page_id": "fa_digipay-1400-fa_p0033.png",
+          "score": 25.78125
+        },
+        {
+          "rank": 26,
+          "page_id": "fa_digipay-1401-fa_p0047.png",
+          "score": 25.78125
+        },
+        {
+          "rank": 27,
+          "page_id": "fa_digipay-1400-fa_p0003.png",
+          "score": 25.765625
+        },
+        {
+          "rank": 28,
+          "page_id": "fa_digipay-1400-fa_p0030.png",
+          "score": 25.671875
+        },
+        {
+          "rank": 29,
+          "page_id": "fa_digipay-1400-fa_p0042.png",
+          "score": 25.671875
+        },
+        {
+          "rank": 30,
+          "page_id": "fa_digipay-1401-fa_p0068.png",
+          "score": 25.671875
+        },
+        {
+          "rank": 31,
+          "page_id": "fa_digipay-1400-fa_p0013.png",
+          "score": 25.65625
+        },
+        {
+          "rank": 32,
+          "page_id": "fa_digipay-1400-fa_p0031.png",
+          "score": 25.65625
+        },
+        {
+          "rank": 33,
+          "page_id": "fa_digipay-1401-fa_p0010.png",
+          "score": 25.609375
+        },
+        {
+          "rank": 34,
+          "page_id": "fa_digipay-1401-fa_p0032.png",
+          "score": 25.5625
+        },
+        {
+          "rank": 35,
+          "page_id": "fa_digipay-1400-fa_p0008.png",
+          "score": 25.546875
+        },
+        {
+          "rank": 36,
+          "page_id": "fa_digipay-1401-fa_p0063.png",
+          "score": 25.546875
+        },
+        {
+          "rank": 37,
+          "page_id": "fa_digipay-1400-fa_p0002.png",
+          "score": 25.5
+        },
+        {
+          "rank": 38,
+          "page_id": "fa_digipay-1401-fa_p0055.png",
+          "score": 25.453125
+        },
+        {
+          "rank": 39,
+          "page_id": "fa_digipay-1400-fa_p0037.png",
+          "score": 25.421875
+        },
+        {
+          "rank": 40,
+          "page_id": "fa_digipay-1401-fa_p0021.png",
+          "score": 25.390625
+        },
+        {
+          "rank": 41,
+          "page_id": "fa_digipay-1401-fa_p0069.png",
+          "score": 25.359375
+        },
+        {
+          "rank": 42,
+          "page_id": "fa_digipay-1401-fa_p0050.png",
+          "score": 25.296875
+        },
+        {
+          "rank": 43,
+          "page_id": "fa_digipay-1400-fa_p0040.png",
+          "score": 25.265625
+        },
+        {
+          "rank": 44,
+          "page_id": "fa_digipay-1401-fa_p0014.png",
+          "score": 25.203125
+        },
+        {
+          "rank": 45,
+          "page_id": "fa_digipay-1401-fa_p0065.png",
+          "score": 25.1875
+        },
+        {
+          "rank": 46,
+          "page_id": "fa_digipay-1400-fa_p0039.png",
+          "score": 25.171875
+        },
+        {
+          "rank": 47,
+          "page_id": "fa_digipay-1401-fa_p0054.png",
+          "score": 25.171875
+        },
+        {
+          "rank": 48,
+          "page_id": "fa_digipay-1400-fa_p0019.png",
+          "score": 25.15625
+        },
+        {
+          "rank": 49,
+          "page_id": "fa_digipay-1401-fa_p0027.png",
+          "score": 25.125
+        },
+        {
+          "rank": 50,
+          "page_id": "fa_digipay-1401-fa_p0024.png",
+          "score": 25.109375
+        },
+        {
+          "rank": 51,
+          "page_id": "fa_digipay-1400-fa_p0046.png",
+          "score": 25.0625
+        },
+        {
+          "rank": 52,
+          "page_id": "fa_digipay-1401-fa_p0017.png",
+          "score": 25.0625
+        },
+        {
+          "rank": 53,
+          "page_id": "fa_digipay-1401-fa_p0025.png",
+          "score": 24.96875
+        },
+        {
+          "rank": 54,
+          "page_id": "fa_digipay-1400-fa_p0032.png",
+          "score": 24.953125
+        },
+        {
+          "rank": 55,
+          "page_id": "fa_digipay-1401-fa_p0020.png",
+          "score": 24.953125
+        },
+        {
+          "rank": 56,
+          "page_id": "fa_digipay-1401-fa_p0059.png",
+          "score": 24.921875
+        },
+        {
+          "rank": 57,
+          "page_id": "fa_digipay-1401-fa_p0061.png",
+          "score": 24.90625
+        },
+        {
+          "rank": 58,
+          "page_id": "fa_digipay-1401-fa_p0033.png",
+          "score": 24.859375
+        },
+        {
+          "rank": 59,
+          "page_id": "fa_digipay-1401-fa_p0008.png",
+          "score": 24.8125
+        },
+        {
+          "rank": 60,
+          "page_id": "fa_digipay-1400-fa_p0015.png",
+          "score": 24.765625
+        },
+        {
+          "rank": 61,
+          "page_id": "fa_digipay-1400-fa_p0016.png",
+          "score": 24.609375
+        },
+        {
+          "rank": 62,
+          "page_id": "fa_digipay-1400-fa_p0025.png",
+          "score": 24.5625
+        },
+        {
+          "rank": 63,
+          "page_id": "fa_digipay-1401-fa_p0005.png",
+          "score": 24.453125
+        },
+        {
+          "rank": 64,
+          "page_id": "fa_digipay-1400-fa_p0010.png",
+          "score": 24.421875
+        },
+        {
+          "rank": 65,
+          "page_id": "fa_digipay-1401-fa_p0053.png",
+          "score": 24.34375
+        },
+        {
+          "rank": 66,
+          "page_id": "fa_digipay-1401-fa_p0039.png",
+          "score": 24.328125
+        },
+        {
+          "rank": 67,
+          "page_id": "fa_digipay-1401-fa_p0029.png",
+          "score": 24.3125
+        },
+        {
+          "rank": 68,
+          "page_id": "fa_digipay-1401-fa_p0019.png",
+          "score": 24.296875
+        },
+        {
+          "rank": 69,
+          "page_id": "fa_digipay-1401-fa_p0026.png",
+          "score": 24.265625
+        },
+        {
+          "rank": 70,
+          "page_id": "fa_digipay-1400-fa_p0048.png",
+          "score": 24.234375
+        },
+        {
+          "rank": 71,
+          "page_id": "fa_digipay-1400-fa_p0024.png",
+          "score": 24.203125
+        },
+        {
+          "rank": 72,
+          "page_id": "fa_digipay-1400-fa_p0028.png",
+          "score": 24.140625
+        },
+        {
+          "rank": 73,
+          "page_id": "fa_digipay-1401-fa_p0013.png",
+          "score": 24.140625
+        },
+        {
+          "rank": 74,
+          "page_id": "fa_digipay-1401-fa_p0045.png",
+          "score": 24.125
+        },
+        {
+          "rank": 75,
+          "page_id": "fa_digipay-1400-fa_p0044.png",
+          "score": 24.109375
+        },
+        {
+          "rank": 76,
+          "page_id": "fa_digipay-1401-fa_p0070.png",
+          "score": 23.953125
+        },
+        {
+          "rank": 77,
+          "page_id": "fa_digipay-1400-fa_p0022.png",
+          "score": 23.9375
+        },
+        {
+          "rank": 78,
+          "page_id": "fa_digipay-1400-fa_p0009.png",
+          "score": 23.90625
+        },
+        {
+          "rank": 79,
+          "page_id": "fa_digipay-1401-fa_p0012.png",
+          "score": 23.90625
+        },
+        {
+          "rank": 80,
+          "page_id": "fa_digipay-1401-fa_p0038.png",
+          "score": 23.890625
+        },
+        {
+          "rank": 81,
+          "page_id": "fa_digipay-1401-fa_p0028.png",
+          "score": 23.875
+        },
+        {
+          "rank": 82,
+          "page_id": "fa_digipay-1401-fa_p0056.png",
+          "score": 23.859375
+        },
+        {
+          "rank": 83,
+          "page_id": "fa_digipay-1401-fa_p0060.png",
+          "score": 23.859375
+        },
+        {
+          "rank": 84,
+          "page_id": "fa_digipay-1401-fa_p0016.png",
+          "score": 23.75
+        },
+        {
+          "rank": 85,
+          "page_id": "fa_digipay-1400-fa_p0026.png",
+          "score": 23.734375
+        },
+        {
+          "rank": 86,
+          "page_id": "fa_digipay-1401-fa_p0006.png",
+          "score": 23.71875
+        },
+        {
+          "rank": 87,
+          "page_id": "fa_digipay-1401-fa_p0066.png",
+          "score": 23.71875
+        },
+        {
+          "rank": 88,
+          "page_id": "fa_digipay-1401-fa_p0044.png",
+          "score": 23.65625
+        },
+        {
+          "rank": 89,
+          "page_id": "fa_digipay-1401-fa_p0049.png",
+          "score": 23.65625
+        },
+        {
+          "rank": 90,
+          "page_id": "fa_digipay-1401-fa_p0072.png",
+          "score": 23.5625
+        },
+        {
+          "rank": 91,
+          "page_id": "fa_digipay-1401-fa_p0037.png",
+          "score": 23.515625
+        },
+        {
+          "rank": 92,
+          "page_id": "fa_digipay-1401-fa_p0022.png",
+          "score": 23.5
+        },
+        {
+          "rank": 93,
+          "page_id": "fa_digipay-1401-fa_p0018.png",
+          "score": 23.453125
+        },
+        {
+          "rank": 94,
+          "page_id": "fa_digipay-1401-fa_p0043.png",
+          "score": 23.4375
+        },
+        {
+          "rank": 95,
+          "page_id": "fa_digipay-1401-fa_p0034.png",
+          "score": 23.34375
+        },
+        {
+          "rank": 96,
+          "page_id": "fa_digipay-1401-fa_p0048.png",
+          "score": 23.296875
+        },
+        {
+          "rank": 97,
+          "page_id": "fa_digipay-1401-fa_p0064.png",
+          "score": 23.015625
+        },
+        {
+          "rank": 98,
+          "page_id": "fa_digipay-1400-fa_p0049.png",
+          "score": 23.0
+        },
+        {
+          "rank": 99,
+          "page_id": "fa_digipay-1401-fa_p0040.png",
+          "score": 23.0
+        },
+        {
+          "rank": 100,
+          "page_id": "fa_digipay-1401-fa_p0036.png",
+          "score": 22.8125
+        },
+        {
+          "rank": 101,
+          "page_id": "fa_digipay-1400-fa_p0001.png",
+          "score": 22.6875
+        },
+        {
+          "rank": 102,
+          "page_id": "fa_digipay-1401-fa_p0042.png",
+          "score": 22.640625
+        },
+        {
+          "rank": 103,
+          "page_id": "fa_digipay-1401-fa_p0062.png",
+          "score": 22.609375
+        },
+        {
+          "rank": 104,
+          "page_id": "fa_digipay-1401-fa_p0002.png",
+          "score": 22.59375
+        },
+        {
+          "rank": 105,
+          "page_id": "fa_digipay-1401-fa_p0031.png",
+          "score": 22.484375
+        },
+        {
+          "rank": 106,
+          "page_id": "fa_digipay-1401-fa_p0001.png",
+          "score": 22.390625
+        },
+        {
+          "rank": 107,
+          "page_id": "fa_digipay-1401-fa_p0030.png",
+          "score": 22.390625
+        },
+        {
+          "rank": 108,
+          "page_id": "fa_digipay-1401-fa_p0009.png",
+          "score": 22.296875
+        },
+        {
+          "rank": 109,
+          "page_id": "fa_digipay-1400-fa_p0050.png",
+          "score": 22.0
+        },
+        {
+          "rank": 110,
+          "page_id": "fa_digipay-1401-fa_p0023.png",
+          "score": 20.90625
+        },
+        {
+          "rank": 111,
+          "page_id": "fa_digipay-1401-fa_p0007.png",
+          "score": 20.375
+        },
+        {
+          "rank": 112,
+          "page_id": "fa_digipay-1401-fa_p0004.png",
+          "score": 20.15625
+        },
+        {
+          "rank": 113,
+          "page_id": "fa_digipay-1401-fa_p0071.png",
+          "score": 19.609375
+        },
+        {
+          "rank": 114,
+          "page_id": "fa_digipay-1401-fa_p0015.png",
+          "score": 19.4375
+        },
+        {
+          "rank": 115,
+          "page_id": "fa_digipay-1401-fa_p0051.png",
+          "score": 17.78125
+        },
+        {
+          "rank": 116,
+          "page_id": "fa_digipay-1400-fa_p0005.png",
+          "score": 14.703125
+        },
+        {
+          "rank": 117,
+          "page_id": "fa_digipay-1400-fa_p0035.png",
+          "score": 14.6171875
+        },
+        {
+          "rank": 118,
+          "page_id": "fa_digipay-1400-fa_p0029.png",
+          "score": 14.390625
+        },
+        {
+          "rank": 119,
+          "page_id": "fa_digipay-1400-fa_p0020.png",
+          "score": 14.3828125
+        },
+        {
+          "rank": 120,
+          "page_id": "fa_digipay-1400-fa_p0012.png",
+          "score": 14.3046875
+        },
+        {
+          "rank": 121,
+          "page_id": "fa_digipay-1400-fa_p0038.png",
+          "score": 14.296875
+        },
+        {
+          "rank": 122,
+          "page_id": "fa_digipay-1400-fa_p0041.png",
+          "score": 13.7890625
+        }
+      ]
+    },
+    {
+      "query_id": "fa_003",
+      "query": "نمودار الگوی تسویه صورت‌حساب در BNPL در کدام صفحه گزارش قرار دارد؟",
+      "relevant_page_ids": [
+        "fa_digipay-1401-fa_p0052.png"
+      ],
+      "reference_ranks": {
+        "fa_digipay-1401-fa_p0052.png": 1
+      },
+      "first_relevant_rank": 1,
+      "recall_at_5": 1.0,
+      "recall_at_20": 1.0,
+      "reciprocal_rank": 1.0,
+      "elapsed_seconds": 0.11541359100374393,
+      "query_token_count": 47,
+      "ranking": [
+        {
+          "rank": 1,
+          "page_id": "fa_digipay-1401-fa_p0052.png",
+          "score": 28.6875
+        },
+        {
+          "rank": 2,
+          "page_id": "fa_digipay-1401-fa_p0050.png",
+          "score": 28.40625
+        },
+        {
+          "rank": 3,
+          "page_id": "fa_digipay-1401-fa_p0041.png",
+          "score": 26.828125
+        },
+        {
+          "rank": 4,
+          "page_id": "fa_digipay-1401-fa_p0010.png",
+          "score": 26.796875
+        },
+        {
+          "rank": 5,
+          "page_id": "fa_digipay-1401-fa_p0011.png",
+          "score": 26.734375
+        },
+        {
+          "rank": 6,
+          "page_id": "fa_digipay-1401-fa_p0061.png",
+          "score": 26.734375
+        },
+        {
+          "rank": 7,
+          "page_id": "fa_digipay-1401-fa_p0044.png",
+          "score": 26.6875
+        },
+        {
+          "rank": 8,
+          "page_id": "fa_digipay-1401-fa_p0019.png",
+          "score": 26.65625
+        },
+        {
+          "rank": 9,
+          "page_id": "fa_digipay-1401-fa_p0043.png",
+          "score": 26.53125
+        },
+        {
+          "rank": 10,
+          "page_id": "fa_digipay-1401-fa_p0042.png",
+          "score": 26.515625
+        },
+        {
+          "rank": 11,
+          "page_id": "fa_digipay-1400-fa_p0007.png",
+          "score": 26.5
+        },
+        {
+          "rank": 12,
+          "page_id": "fa_digipay-1401-fa_p0055.png",
+          "score": 26.484375
+        },
+        {
+          "rank": 13,
+          "page_id": "fa_digipay-1400-fa_p0028.png",
+          "score": 26.375
+        },
+        {
+          "rank": 14,
+          "page_id": "fa_digipay-1401-fa_p0045.png",
+          "score": 26.328125
+        },
+        {
+          "rank": 15,
+          "page_id": "fa_digipay-1401-fa_p0053.png",
+          "score": 25.984375
+        },
+        {
+          "rank": 16,
+          "page_id": "fa_digipay-1401-fa_p0069.png",
+          "score": 25.96875
+        },
+        {
+          "rank": 17,
+          "page_id": "fa_digipay-1401-fa_p0016.png",
+          "score": 25.71875
+        },
+        {
+          "rank": 18,
+          "page_id": "fa_digipay-1400-fa_p0043.png",
+          "score": 25.53125
+        },
+        {
+          "rank": 19,
+          "page_id": "fa_digipay-1400-fa_p0042.png",
+          "score": 25.328125
+        },
+        {
+          "rank": 20,
+          "page_id": "fa_digipay-1400-fa_p0027.png",
+          "score": 24.875
+        },
+        {
+          "rank": 21,
+          "page_id": "fa_digipay-1400-fa_p0021.png",
+          "score": 24.484375
+        },
+        {
+          "rank": 22,
+          "page_id": "fa_digipay-1401-fa_p0035.png",
+          "score": 24.40625
+        },
+        {
+          "rank": 23,
+          "page_id": "fa_digipay-1401-fa_p0026.png",
+          "score": 24.1875
+        },
+        {
+          "rank": 24,
+          "page_id": "fa_digipay-1401-fa_p0006.png",
+          "score": 24.09375
+        },
+        {
+          "rank": 25,
+          "page_id": "fa_digipay-1401-fa_p0058.png",
+          "score": 21.859375
+        },
+        {
+          "rank": 26,
+          "page_id": "fa_digipay-1401-fa_p0049.png",
+          "score": 21.671875
+        },
+        {
+          "rank": 27,
+          "page_id": "fa_digipay-1400-fa_p0014.png",
+          "score": 21.65625
+        },
+        {
+          "rank": 28,
+          "page_id": "fa_digipay-1401-fa_p0057.png",
+          "score": 21.4375
+        },
+        {
+          "rank": 29,
+          "page_id": "fa_digipay-1401-fa_p0024.png",
+          "score": 21.421875
+        },
+        {
+          "rank": 30,
+          "page_id": "fa_digipay-1401-fa_p0068.png",
+          "score": 21.390625
+        },
+        {
+          "rank": 31,
+          "page_id": "fa_digipay-1401-fa_p0025.png",
+          "score": 21.359375
+        },
+        {
+          "rank": 32,
+          "page_id": "fa_digipay-1401-fa_p0070.png",
+          "score": 21.359375
+        },
+        {
+          "rank": 33,
+          "page_id": "fa_digipay-1400-fa_p0040.png",
+          "score": 21.328125
+        },
+        {
+          "rank": 34,
+          "page_id": "fa_digipay-1401-fa_p0040.png",
+          "score": 21.3125
+        },
+        {
+          "rank": 35,
+          "page_id": "fa_digipay-1401-fa_p0063.png",
+          "score": 21.234375
+        },
+        {
+          "rank": 36,
+          "page_id": "fa_digipay-1401-fa_p0017.png",
+          "score": 21.21875
+        },
+        {
+          "rank": 37,
+          "page_id": "fa_digipay-1401-fa_p0067.png",
+          "score": 21.15625
+        },
+        {
+          "rank": 38,
+          "page_id": "fa_digipay-1401-fa_p0032.png",
+          "score": 20.984375
+        },
+        {
+          "rank": 39,
+          "page_id": "fa_digipay-1401-fa_p0005.png",
+          "score": 20.890625
+        },
+        {
+          "rank": 40,
+          "page_id": "fa_digipay-1401-fa_p0013.png",
+          "score": 20.78125
+        },
+        {
+          "rank": 41,
+          "page_id": "fa_digipay-1401-fa_p0036.png",
+          "score": 20.75
+        },
+        {
+          "rank": 42,
+          "page_id": "fa_digipay-1401-fa_p0030.png",
+          "score": 20.71875
+        },
+        {
+          "rank": 43,
+          "page_id": "fa_digipay-1401-fa_p0065.png",
+          "score": 20.546875
+        },
+        {
+          "rank": 44,
+          "page_id": "fa_digipay-1400-fa_p0046.png",
+          "score": 20.46875
+        },
+        {
+          "rank": 45,
+          "page_id": "fa_digipay-1401-fa_p0009.png",
+          "score": 20.421875
+        },
+        {
+          "rank": 46,
+          "page_id": "fa_digipay-1401-fa_p0048.png",
+          "score": 20.40625
+        },
+        {
+          "rank": 47,
+          "page_id": "fa_digipay-1400-fa_p0023.png",
+          "score": 20.390625
+        },
+        {
+          "rank": 48,
+          "page_id": "fa_digipay-1401-fa_p0039.png",
+          "score": 20.375
+        },
+        {
+          "rank": 49,
+          "page_id": "fa_digipay-1400-fa_p0011.png",
+          "score": 20.3125
+        },
+        {
+          "rank": 50,
+          "page_id": "fa_digipay-1401-fa_p0047.png",
+          "score": 20.3125
+        },
+        {
+          "rank": 51,
+          "page_id": "fa_digipay-1400-fa_p0049.png",
+          "score": 20.296875
+        },
+        {
+          "rank": 52,
+          "page_id": "fa_digipay-1401-fa_p0021.png",
+          "score": 20.296875
+        },
+        {
+          "rank": 53,
+          "page_id": "fa_digipay-1400-fa_p0019.png",
+          "score": 20.265625
+        },
+        {
+          "rank": 54,
+          "page_id": "fa_digipay-1401-fa_p0008.png",
+          "score": 20.25
+        },
+        {
+          "rank": 55,
+          "page_id": "fa_digipay-1400-fa_p0045.png",
+          "score": 20.1875
+        },
+        {
+          "rank": 56,
+          "page_id": "fa_digipay-1401-fa_p0014.png",
+          "score": 20.140625
+        },
+        {
+          "rank": 57,
+          "page_id": "fa_digipay-1400-fa_p0006.png",
+          "score": 20.125
+        },
+        {
+          "rank": 58,
+          "page_id": "fa_digipay-1401-fa_p0038.png",
+          "score": 20.125
+        },
+        {
+          "rank": 59,
+          "page_id": "fa_digipay-1401-fa_p0054.png",
+          "score": 20.09375
+        },
+        {
+          "rank": 60,
+          "page_id": "fa_digipay-1400-fa_p0002.png",
+          "score": 20.0625
+        },
+        {
+          "rank": 61,
+          "page_id": "fa_digipay-1400-fa_p0017.png",
+          "score": 20.0625
+        },
+        {
+          "rank": 62,
+          "page_id": "fa_digipay-1400-fa_p0030.png",
+          "score": 20.03125
+        },
+        {
+          "rank": 63,
+          "page_id": "fa_digipay-1401-fa_p0029.png",
+          "score": 20.03125
+        },
+        {
+          "rank": 64,
+          "page_id": "fa_digipay-1400-fa_p0033.png",
+          "score": 20.015625
+        },
+        {
+          "rank": 65,
+          "page_id": "fa_digipay-1401-fa_p0020.png",
+          "score": 19.984375
+        },
+        {
+          "rank": 66,
+          "page_id": "fa_digipay-1400-fa_p0009.png",
+          "score": 19.921875
+        },
+        {
+          "rank": 67,
+          "page_id": "fa_digipay-1400-fa_p0004.png",
+          "score": 19.90625
+        },
+        {
+          "rank": 68,
+          "page_id": "fa_digipay-1400-fa_p0048.png",
+          "score": 19.84375
+        },
+        {
+          "rank": 69,
+          "page_id": "fa_digipay-1400-fa_p0032.png",
+          "score": 19.8125
+        },
+        {
+          "rank": 70,
+          "page_id": "fa_digipay-1401-fa_p0059.png",
+          "score": 19.8125
+        },
+        {
+          "rank": 71,
+          "page_id": "fa_digipay-1400-fa_p0036.png",
+          "score": 19.796875
+        },
+        {
+          "rank": 72,
+          "page_id": "fa_digipay-1400-fa_p0039.png",
+          "score": 19.796875
+        },
+        {
+          "rank": 73,
+          "page_id": "fa_digipay-1401-fa_p0072.png",
+          "score": 19.78125
+        },
+        {
+          "rank": 74,
+          "page_id": "fa_digipay-1400-fa_p0025.png",
+          "score": 19.6875
+        },
+        {
+          "rank": 75,
+          "page_id": "fa_digipay-1400-fa_p0047.png",
+          "score": 19.671875
+        },
+        {
+          "rank": 76,
+          "page_id": "fa_digipay-1401-fa_p0003.png",
+          "score": 19.671875
+        },
+        {
+          "rank": 77,
+          "page_id": "fa_digipay-1401-fa_p0037.png",
+          "score": 19.625
+        },
+        {
+          "rank": 78,
+          "page_id": "fa_digipay-1400-fa_p0010.png",
+          "score": 19.546875
+        },
+        {
+          "rank": 79,
+          "page_id": "fa_digipay-1401-fa_p0033.png",
+          "score": 19.5
+        },
+        {
+          "rank": 80,
+          "page_id": "fa_digipay-1400-fa_p0034.png",
+          "score": 19.484375
+        },
+        {
+          "rank": 81,
+          "page_id": "fa_digipay-1400-fa_p0022.png",
+          "score": 19.46875
+        },
+        {
+          "rank": 82,
+          "page_id": "fa_digipay-1400-fa_p0044.png",
+          "score": 19.453125
+        },
+        {
+          "rank": 83,
+          "page_id": "fa_digipay-1400-fa_p0024.png",
+          "score": 19.4375
+        },
+        {
+          "rank": 84,
+          "page_id": "fa_digipay-1400-fa_p0003.png",
+          "score": 19.390625
+        },
+        {
+          "rank": 85,
+          "page_id": "fa_digipay-1400-fa_p0018.png",
+          "score": 19.375
+        },
+        {
+          "rank": 86,
+          "page_id": "fa_digipay-1401-fa_p0002.png",
+          "score": 19.375
+        },
+        {
+          "rank": 87,
+          "page_id": "fa_digipay-1401-fa_p0028.png",
+          "score": 19.359375
+        },
+        {
+          "rank": 88,
+          "page_id": "fa_digipay-1400-fa_p0037.png",
+          "score": 19.265625
+        },
+        {
+          "rank": 89,
+          "page_id": "fa_digipay-1401-fa_p0018.png",
+          "score": 19.1875
+        },
+        {
+          "rank": 90,
+          "page_id": "fa_digipay-1401-fa_p0031.png",
+          "score": 19.1875
+        },
+        {
+          "rank": 91,
+          "page_id": "fa_digipay-1400-fa_p0013.png",
+          "score": 19.140625
+        },
+        {
+          "rank": 92,
+          "page_id": "fa_digipay-1401-fa_p0022.png",
+          "score": 19.125
+        },
+        {
+          "rank": 93,
+          "page_id": "fa_digipay-1400-fa_p0031.png",
+          "score": 18.859375
+        },
+        {
+          "rank": 94,
+          "page_id": "fa_digipay-1400-fa_p0008.png",
+          "score": 18.84375
+        },
+        {
+          "rank": 95,
+          "page_id": "fa_digipay-1401-fa_p0056.png",
+          "score": 18.828125
+        },
+        {
+          "rank": 96,
+          "page_id": "fa_digipay-1401-fa_p0015.png",
+          "score": 18.4375
+        },
+        {
+          "rank": 97,
+          "page_id": "fa_digipay-1401-fa_p0034.png",
+          "score": 18.375
+        },
+        {
+          "rank": 98,
+          "page_id": "fa_digipay-1401-fa_p0027.png",
+          "score": 18.3125
+        },
+        {
+          "rank": 99,
+          "page_id": "fa_digipay-1400-fa_p0026.png",
+          "score": 18.125
+        },
+        {
+          "rank": 100,
+          "page_id": "fa_digipay-1401-fa_p0062.png",
+          "score": 18.125
+        },
+        {
+          "rank": 101,
+          "page_id": "fa_digipay-1401-fa_p0001.png",
+          "score": 18.09375
+        },
+        {
+          "rank": 102,
+          "page_id": "fa_digipay-1400-fa_p0016.png",
+          "score": 18.03125
+        },
+        {
+          "rank": 103,
+          "page_id": "fa_digipay-1401-fa_p0012.png",
+          "score": 18.0
+        },
+        {
+          "rank": 104,
+          "page_id": "fa_digipay-1401-fa_p0007.png",
+          "score": 17.875
+        },
+        {
+          "rank": 105,
+          "page_id": "fa_digipay-1401-fa_p0071.png",
+          "score": 17.6875
+        },
+        {
+          "rank": 106,
+          "page_id": "fa_digipay-1401-fa_p0066.png",
+          "score": 17.671875
+        },
+        {
+          "rank": 107,
+          "page_id": "fa_digipay-1400-fa_p0015.png",
+          "score": 17.65625
+        },
+        {
+          "rank": 108,
+          "page_id": "fa_digipay-1401-fa_p0060.png",
+          "score": 17.5625
+        },
+        {
+          "rank": 109,
+          "page_id": "fa_digipay-1401-fa_p0046.png",
+          "score": 17.453125
+        },
+        {
+          "rank": 110,
+          "page_id": "fa_digipay-1401-fa_p0064.png",
+          "score": 17.375
+        },
+        {
+          "rank": 111,
+          "page_id": "fa_digipay-1400-fa_p0001.png",
+          "score": 17.25
+        },
+        {
+          "rank": 112,
+          "page_id": "fa_digipay-1400-fa_p0050.png",
+          "score": 17.203125
+        },
+        {
+          "rank": 113,
+          "page_id": "fa_digipay-1401-fa_p0051.png",
+          "score": 16.703125
+        },
+        {
+          "rank": 114,
+          "page_id": "fa_digipay-1401-fa_p0004.png",
+          "score": 16.671875
+        },
+        {
+          "rank": 115,
+          "page_id": "fa_digipay-1401-fa_p0023.png",
+          "score": 16.046875
+        },
+        {
+          "rank": 116,
+          "page_id": "fa_digipay-1400-fa_p0005.png",
+          "score": 13.65625
+        },
+        {
+          "rank": 117,
+          "page_id": "fa_digipay-1400-fa_p0012.png",
+          "score": 13.6328125
+        },
+        {
+          "rank": 118,
+          "page_id": "fa_digipay-1400-fa_p0029.png",
+          "score": 13.6015625
+        },
+        {
+          "rank": 119,
+          "page_id": "fa_digipay-1400-fa_p0020.png",
+          "score": 13.578125
+        },
+        {
+          "rank": 120,
+          "page_id": "fa_digipay-1400-fa_p0041.png",
+          "score": 13.2734375
+        },
+        {
+          "rank": 121,
+          "page_id": "fa_digipay-1400-fa_p0038.png",
+          "score": 12.8671875
+        },
+        {
+          "rank": 122,
+          "page_id": "fa_digipay-1400-fa_p0035.png",
+          "score": 12.8359375
+        }
+      ]
+    },
+    {
+      "query_id": "fa_004",
+      "query": "کدام صفحه نمودار الگوی پرداخت اقساط کاربران خرید اقساطی را نشان می‌دهد؟",
+      "relevant_page_ids": [
+        "fa_digipay-1401-fa_p0052.png"
+      ],
+      "reference_ranks": {
+        "fa_digipay-1401-fa_p0052.png": 1
+      },
+      "first_relevant_rank": 1,
+      "recall_at_5": 1.0,
+      "recall_at_20": 1.0,
+      "reciprocal_rank": 1.0,
+      "elapsed_seconds": 0.1311544289928861,
+      "query_token_count": 54,
+      "ranking": [
+        {
+          "rank": 1,
+          "page_id": "fa_digipay-1401-fa_p0052.png",
+          "score": 28.453125
+        },
+        {
+          "rank": 2,
+          "page_id": "fa_digipay-1401-fa_p0050.png",
+          "score": 27.828125
+        },
+        {
+          "rank": 3,
+          "page_id": "fa_digipay-1401-fa_p0054.png",
+          "score": 27.546875
+        },
+        {
+          "rank": 4,
+          "page_id": "fa_digipay-1401-fa_p0037.png",
+          "score": 27.28125
+        },
+        {
+          "rank": 5,
+          "page_id": "fa_digipay-1401-fa_p0033.png",
+          "score": 27.21875
+        },
+        {
+          "rank": 6,
+          "page_id": "fa_digipay-1401-fa_p0047.png",
+          "score": 27.15625
+        },
+        {
+          "rank": 7,
+          "page_id": "fa_digipay-1401-fa_p0010.png",
+          "score": 27.140625
+        },
+        {
+          "rank": 8,
+          "page_id": "fa_digipay-1401-fa_p0053.png",
+          "score": 27.078125
+        },
+        {
+          "rank": 9,
+          "page_id": "fa_digipay-1400-fa_p0022.png",
+          "score": 27.03125
+        },
+        {
+          "rank": 10,
+          "page_id": "fa_digipay-1401-fa_p0038.png",
+          "score": 26.9375
+        },
+        {
+          "rank": 11,
+          "page_id": "fa_digipay-1400-fa_p0024.png",
+          "score": 26.859375
+        },
+        {
+          "rank": 12,
+          "page_id": "fa_digipay-1401-fa_p0061.png",
+          "score": 26.625
+        },
+        {
+          "rank": 13,
+          "page_id": "fa_digipay-1401-fa_p0036.png",
+          "score": 26.546875
+        },
+        {
+          "rank": 14,
+          "page_id": "fa_digipay-1401-fa_p0011.png",
+          "score": 26.328125
+        },
+        {
+          "rank": 15,
+          "page_id": "fa_digipay-1400-fa_p0017.png",
+          "score": 25.859375
+        },
+        {
+          "rank": 16,
+          "page_id": "fa_digipay-1400-fa_p0007.png",
+          "score": 25.8125
+        },
+        {
+          "rank": 17,
+          "page_id": "fa_digipay-1401-fa_p0055.png",
+          "score": 25.796875
+        },
+        {
+          "rank": 18,
+          "page_id": "fa_digipay-1401-fa_p0003.png",
+          "score": 25.71875
+        },
+        {
+          "rank": 19,
+          "page_id": "fa_digipay-1400-fa_p0014.png",
+          "score": 25.640625
+        },
+        {
+          "rank": 20,
+          "page_id": "fa_digipay-1401-fa_p0046.png",
+          "score": 25.640625
+        },
+        {
+          "rank": 21,
+          "page_id": "fa_digipay-1401-fa_p0024.png",
+          "score": 25.609375
+        },
+        {
+          "rank": 22,
+          "page_id": "fa_digipay-1400-fa_p0023.png",
+          "score": 25.515625
+        },
+        {
+          "rank": 23,
+          "page_id": "fa_digipay-1401-fa_p0032.png",
+          "score": 25.515625
+        },
+        {
+          "rank": 24,
+          "page_id": "fa_digipay-1400-fa_p0026.png",
+          "score": 25.46875
+        },
+        {
+          "rank": 25,
+          "page_id": "fa_digipay-1401-fa_p0035.png",
+          "score": 25.375
+        },
+        {
+          "rank": 26,
+          "page_id": "fa_digipay-1401-fa_p0059.png",
+          "score": 25.359375
+        },
+        {
+          "rank": 27,
+          "page_id": "fa_digipay-1401-fa_p0039.png",
+          "score": 25.34375
+        },
+        {
+          "rank": 28,
+          "page_id": "fa_digipay-1400-fa_p0021.png",
+          "score": 25.265625
+        },
+        {
+          "rank": 29,
+          "page_id": "fa_digipay-1400-fa_p0031.png",
+          "score": 25.203125
+        },
+        {
+          "rank": 30,
+          "page_id": "fa_digipay-1400-fa_p0015.png",
+          "score": 25.15625
+        },
+        {
+          "rank": 31,
+          "page_id": "fa_digipay-1400-fa_p0034.png",
+          "score": 25.15625
+        },
+        {
+          "rank": 32,
+          "page_id": "fa_digipay-1401-fa_p0058.png",
+          "score": 25.140625
+        },
+        {
+          "rank": 33,
+          "page_id": "fa_digipay-1401-fa_p0069.png",
+          "score": 25.0625
+        },
+        {
+          "rank": 34,
+          "page_id": "fa_digipay-1400-fa_p0025.png",
+          "score": 25.03125
+        },
+        {
+          "rank": 35,
+          "page_id": "fa_digipay-1400-fa_p0028.png",
+          "score": 25.03125
+        },
+        {
+          "rank": 36,
+          "page_id": "fa_digipay-1401-fa_p0019.png",
+          "score": 24.875
+        },
+        {
+          "rank": 37,
+          "page_id": "fa_digipay-1401-fa_p0029.png",
+          "score": 24.859375
+        },
+        {
+          "rank": 38,
+          "page_id": "fa_digipay-1401-fa_p0042.png",
+          "score": 24.734375
+        },
+        {
+          "rank": 39,
+          "page_id": "fa_digipay-1400-fa_p0016.png",
+          "score": 24.6875
+        },
+        {
+          "rank": 40,
+          "page_id": "fa_digipay-1401-fa_p0049.png",
+          "score": 24.671875
+        },
+        {
+          "rank": 41,
+          "page_id": "fa_digipay-1401-fa_p0025.png",
+          "score": 24.625
+        },
+        {
+          "rank": 42,
+          "page_id": "fa_digipay-1401-fa_p0017.png",
+          "score": 24.578125
+        },
+        {
+          "rank": 43,
+          "page_id": "fa_digipay-1400-fa_p0019.png",
+          "score": 24.5
+        },
+        {
+          "rank": 44,
+          "page_id": "fa_digipay-1401-fa_p0065.png",
+          "score": 24.5
+        },
+        {
+          "rank": 45,
+          "page_id": "fa_digipay-1401-fa_p0041.png",
+          "score": 24.484375
+        },
+        {
+          "rank": 46,
+          "page_id": "fa_digipay-1400-fa_p0037.png",
+          "score": 24.328125
+        },
+        {
+          "rank": 47,
+          "page_id": "fa_digipay-1400-fa_p0032.png",
+          "score": 24.28125
+        },
+        {
+          "rank": 48,
+          "page_id": "fa_digipay-1401-fa_p0018.png",
+          "score": 24.28125
+        },
+        {
+          "rank": 49,
+          "page_id": "fa_digipay-1400-fa_p0006.png",
+          "score": 24.265625
+        },
+        {
+          "rank": 50,
+          "page_id": "fa_digipay-1400-fa_p0040.png",
+          "score": 24.265625
+        },
+        {
+          "rank": 51,
+          "page_id": "fa_digipay-1401-fa_p0021.png",
+          "score": 24.234375
+        },
+        {
+          "rank": 52,
+          "page_id": "fa_digipay-1401-fa_p0063.png",
+          "score": 24.125
+        },
+        {
+          "rank": 53,
+          "page_id": "fa_digipay-1400-fa_p0010.png",
+          "score": 24.046875
+        },
+        {
+          "rank": 54,
+          "page_id": "fa_digipay-1400-fa_p0036.png",
+          "score": 24.0
+        },
+        {
+          "rank": 55,
+          "page_id": "fa_digipay-1400-fa_p0033.png",
+          "score": 23.984375
+        },
+        {
+          "rank": 56,
+          "page_id": "fa_digipay-1401-fa_p0016.png",
+          "score": 23.984375
+        },
+        {
+          "rank": 57,
+          "page_id": "fa_digipay-1400-fa_p0002.png",
+          "score": 23.96875
+        },
+        {
+          "rank": 58,
+          "page_id": "fa_digipay-1401-fa_p0057.png",
+          "score": 23.953125
+        },
+        {
+          "rank": 59,
+          "page_id": "fa_digipay-1400-fa_p0018.png",
+          "score": 23.890625
+        },
+        {
+          "rank": 60,
+          "page_id": "fa_digipay-1400-fa_p0030.png",
+          "score": 23.859375
+        },
+        {
+          "rank": 61,
+          "page_id": "fa_digipay-1400-fa_p0013.png",
+          "score": 23.828125
+        },
+        {
+          "rank": 62,
+          "page_id": "fa_digipay-1401-fa_p0068.png",
+          "score": 23.734375
+        },
+        {
+          "rank": 63,
+          "page_id": "fa_digipay-1401-fa_p0045.png",
+          "score": 23.703125
+        },
+        {
+          "rank": 64,
+          "page_id": "fa_digipay-1401-fa_p0040.png",
+          "score": 23.640625
+        },
+        {
+          "rank": 65,
+          "page_id": "fa_digipay-1401-fa_p0067.png",
+          "score": 23.609375
+        },
+        {
+          "rank": 66,
+          "page_id": "fa_digipay-1401-fa_p0008.png",
+          "score": 23.5625
+        },
+        {
+          "rank": 67,
+          "page_id": "fa_digipay-1400-fa_p0027.png",
+          "score": 23.546875
+        },
+        {
+          "rank": 68,
+          "page_id": "fa_digipay-1401-fa_p0013.png",
+          "score": 23.53125
+        },
+        {
+          "rank": 69,
+          "page_id": "fa_digipay-1400-fa_p0008.png",
+          "score": 23.453125
+        },
+        {
+          "rank": 70,
+          "page_id": "fa_digipay-1400-fa_p0003.png",
+          "score": 23.328125
+        },
+        {
+          "rank": 71,
+          "page_id": "fa_digipay-1401-fa_p0028.png",
+          "score": 23.328125
+        },
+        {
+          "rank": 72,
+          "page_id": "fa_digipay-1400-fa_p0048.png",
+          "score": 23.3125
+        },
+        {
+          "rank": 73,
+          "page_id": "fa_digipay-1401-fa_p0048.png",
+          "score": 23.296875
+        },
+        {
+          "rank": 74,
+          "page_id": "fa_digipay-1400-fa_p0043.png",
+          "score": 23.25
+        },
+        {
+          "rank": 75,
+          "page_id": "fa_digipay-1401-fa_p0020.png",
+          "score": 23.234375
+        },
+        {
+          "rank": 76,
+          "page_id": "fa_digipay-1401-fa_p0043.png",
+          "score": 23.125
+        },
+        {
+          "rank": 77,
+          "page_id": "fa_digipay-1401-fa_p0072.png",
+          "score": 23.125
+        },
+        {
+          "rank": 78,
+          "page_id": "fa_digipay-1400-fa_p0009.png",
+          "score": 23.078125
+        },
+        {
+          "rank": 79,
+          "page_id": "fa_digipay-1401-fa_p0005.png",
+          "score": 23.078125
+        },
+        {
+          "rank": 80,
+          "page_id": "fa_digipay-1401-fa_p0044.png",
+          "score": 23.015625
+        },
+        {
+          "rank": 81,
+          "page_id": "fa_digipay-1400-fa_p0011.png",
+          "score": 22.984375
+        },
+        {
+          "rank": 82,
+          "page_id": "fa_digipay-1401-fa_p0014.png",
+          "score": 22.96875
+        },
+        {
+          "rank": 83,
+          "page_id": "fa_digipay-1400-fa_p0049.png",
+          "score": 22.890625
+        },
+        {
+          "rank": 84,
+          "page_id": "fa_digipay-1400-fa_p0004.png",
+          "score": 22.8125
+        },
+        {
+          "rank": 85,
+          "page_id": "fa_digipay-1401-fa_p0070.png",
+          "score": 22.78125
+        },
+        {
+          "rank": 86,
+          "page_id": "fa_digipay-1401-fa_p0022.png",
+          "score": 22.6875
+        },
+        {
+          "rank": 87,
+          "page_id": "fa_digipay-1400-fa_p0039.png",
+          "score": 22.640625
+        },
+        {
+          "rank": 88,
+          "page_id": "fa_digipay-1400-fa_p0047.png",
+          "score": 22.625
+        },
+        {
+          "rank": 89,
+          "page_id": "fa_digipay-1401-fa_p0006.png",
+          "score": 22.59375
+        },
+        {
+          "rank": 90,
+          "page_id": "fa_digipay-1401-fa_p0030.png",
+          "score": 22.53125
+        },
+        {
+          "rank": 91,
+          "page_id": "fa_digipay-1400-fa_p0046.png",
+          "score": 22.484375
+        },
+        {
+          "rank": 92,
+          "page_id": "fa_digipay-1401-fa_p0066.png",
+          "score": 22.453125
+        },
+        {
+          "rank": 93,
+          "page_id": "fa_digipay-1400-fa_p0045.png",
+          "score": 22.421875
+        },
+        {
+          "rank": 94,
+          "page_id": "fa_digipay-1401-fa_p0060.png",
+          "score": 22.40625
+        },
+        {
+          "rank": 95,
+          "page_id": "fa_digipay-1401-fa_p0027.png",
+          "score": 22.34375
+        },
+        {
+          "rank": 96,
+          "page_id": "fa_digipay-1400-fa_p0044.png",
+          "score": 22.203125
+        },
+        {
+          "rank": 97,
+          "page_id": "fa_digipay-1401-fa_p0034.png",
+          "score": 22.03125
+        },
+        {
+          "rank": 98,
+          "page_id": "fa_digipay-1401-fa_p0009.png",
+          "score": 22.0
+        },
+        {
+          "rank": 99,
+          "page_id": "fa_digipay-1401-fa_p0026.png",
+          "score": 21.953125
+        },
+        {
+          "rank": 100,
+          "page_id": "fa_digipay-1400-fa_p0042.png",
+          "score": 21.796875
+        },
+        {
+          "rank": 101,
+          "page_id": "fa_digipay-1401-fa_p0002.png",
+          "score": 21.796875
+        },
+        {
+          "rank": 102,
+          "page_id": "fa_digipay-1401-fa_p0056.png",
+          "score": 21.734375
+        },
+        {
+          "rank": 103,
+          "page_id": "fa_digipay-1401-fa_p0064.png",
+          "score": 21.6875
+        },
+        {
+          "rank": 104,
+          "page_id": "fa_digipay-1401-fa_p0062.png",
+          "score": 21.65625
+        },
+        {
+          "rank": 105,
+          "page_id": "fa_digipay-1401-fa_p0012.png",
+          "score": 21.421875
+        },
+        {
+          "rank": 106,
+          "page_id": "fa_digipay-1401-fa_p0031.png",
+          "score": 21.390625
+        },
+        {
+          "rank": 107,
+          "page_id": "fa_digipay-1401-fa_p0023.png",
+          "score": 21.15625
+        },
+        {
+          "rank": 108,
+          "page_id": "fa_digipay-1401-fa_p0001.png",
+          "score": 20.609375
+        },
+        {
+          "rank": 109,
+          "page_id": "fa_digipay-1401-fa_p0007.png",
+          "score": 19.90625
+        },
+        {
+          "rank": 110,
+          "page_id": "fa_digipay-1401-fa_p0004.png",
+          "score": 19.4375
+        },
+        {
+          "rank": 111,
+          "page_id": "fa_digipay-1400-fa_p0001.png",
+          "score": 19.34375
+        },
+        {
+          "rank": 112,
+          "page_id": "fa_digipay-1401-fa_p0015.png",
+          "score": 18.84375
+        },
+        {
+          "rank": 113,
+          "page_id": "fa_digipay-1400-fa_p0050.png",
+          "score": 18.609375
+        },
+        {
+          "rank": 114,
+          "page_id": "fa_digipay-1401-fa_p0071.png",
+          "score": 18.453125
+        },
+        {
+          "rank": 115,
+          "page_id": "fa_digipay-1401-fa_p0051.png",
+          "score": 17.40625
+        },
+        {
+          "rank": 116,
+          "page_id": "fa_digipay-1400-fa_p0005.png",
+          "score": 16.5625
+        },
+        {
+          "rank": 117,
+          "page_id": "fa_digipay-1400-fa_p0012.png",
+          "score": 16.28125
+        },
+        {
+          "rank": 118,
+          "page_id": "fa_digipay-1400-fa_p0038.png",
+          "score": 16.234375
+        },
+        {
+          "rank": 119,
+          "page_id": "fa_digipay-1400-fa_p0035.png",
+          "score": 16.140625
+        },
+        {
+          "rank": 120,
+          "page_id": "fa_digipay-1400-fa_p0029.png",
+          "score": 16.109375
+        },
+        {
+          "rank": 121,
+          "page_id": "fa_digipay-1400-fa_p0020.png",
+          "score": 15.84375
+        },
+        {
+          "rank": 122,
+          "page_id": "fa_digipay-1400-fa_p0041.png",
+          "score": 15.359375
+        }
+      ]
+    },
+    {
+      "query_id": "fa_005",
+      "query": "مرکز عملیات دیجی‌پی در سال ۱۴۰۱ بیش از چند هزار تماس ورودی دریافت کرده است؟",
+      "reference_answer": "بیش از ۵۰۰ هزار تماس",
+      "relevant_page_ids": [
+        "fa_digipay-1401-fa_p0065.png"
+      ],
+      "reference_ranks": {
+        "fa_digipay-1401-fa_p0065.png": 11
+      },
+      "first_relevant_rank": 11,
+      "recall_at_5": 0.0,
+      "recall_at_20": 1.0,
+      "reciprocal_rank": 0.09090909090909091,
+      "elapsed_seconds": 0.9585135290108155,
+      "query_token_count": 61,
+      "ranking": [
+        {
+          "rank": 1,
+          "page_id": "fa_digipay-1400-fa_p0036.png",
+          "score": 31.90625
+        },
+        {
+          "rank": 2,
+          "page_id": "fa_digipay-1400-fa_p0008.png",
+          "score": 31.515625
+        },
+        {
+          "rank": 3,
+          "page_id": "fa_digipay-1400-fa_p0018.png",
+          "score": 31.25
+        },
+        {
+          "rank": 4,
+          "page_id": "fa_digipay-1400-fa_p0004.png",
+          "score": 31.078125
+        },
+        {
+          "rank": 5,
+          "page_id": "fa_digipay-1400-fa_p0007.png",
+          "score": 31.078125
+        },
+        {
+          "rank": 6,
+          "page_id": "fa_digipay-1401-fa_p0057.png",
+          "score": 31.078125
+        },
+        {
+          "rank": 7,
+          "page_id": "fa_digipay-1401-fa_p0064.png",
+          "score": 31.015625
+        },
+        {
+          "rank": 8,
+          "page_id": "fa_digipay-1400-fa_p0042.png",
+          "score": 30.953125
+        },
+        {
+          "rank": 9,
+          "page_id": "fa_digipay-1400-fa_p0023.png",
+          "score": 30.90625
+        },
+        {
+          "rank": 10,
+          "page_id": "fa_digipay-1400-fa_p0047.png",
+          "score": 30.84375
+        },
+        {
+          "rank": 11,
+          "page_id": "fa_digipay-1401-fa_p0065.png",
+          "score": 30.828125
+        },
+        {
+          "rank": 12,
+          "page_id": "fa_digipay-1400-fa_p0002.png",
+          "score": 30.75
+        },
+        {
+          "rank": 13,
+          "page_id": "fa_digipay-1401-fa_p0003.png",
+          "score": 30.71875
+        },
+        {
+          "rank": 14,
+          "page_id": "fa_digipay-1401-fa_p0011.png",
+          "score": 30.578125
+        },
+        {
+          "rank": 15,
+          "page_id": "fa_digipay-1400-fa_p0037.png",
+          "score": 30.15625
+        },
+        {
+          "rank": 16,
+          "page_id": "fa_digipay-1400-fa_p0031.png",
+          "score": 30.125
+        },
+        {
+          "rank": 17,
+          "page_id": "fa_digipay-1401-fa_p0067.png",
+          "score": 30.125
+        },
+        {
+          "rank": 18,
+          "page_id": "fa_digipay-1401-fa_p0021.png",
+          "score": 30.09375
+        },
+        {
+          "rank": 19,
+          "page_id": "fa_digipay-1401-fa_p0041.png",
+          "score": 29.921875
+        },
+        {
+          "rank": 20,
+          "page_id": "fa_digipay-1400-fa_p0006.png",
+          "score": 29.859375
+        },
+        {
+          "rank": 21,
+          "page_id": "fa_digipay-1401-fa_p0026.png",
+          "score": 29.796875
+        },
+        {
+          "rank": 22,
+          "page_id": "fa_digipay-1400-fa_p0046.png",
+          "score": 29.75
+        },
+        {
+          "rank": 23,
+          "page_id": "fa_digipay-1400-fa_p0010.png",
+          "score": 29.734375
+        },
+        {
+          "rank": 24,
+          "page_id": "fa_digipay-1400-fa_p0044.png",
+          "score": 29.71875
+        },
+        {
+          "rank": 25,
+          "page_id": "fa_digipay-1401-fa_p0010.png",
+          "score": 29.703125
+        },
+        {
+          "rank": 26,
+          "page_id": "fa_digipay-1400-fa_p0043.png",
+          "score": 29.625
+        },
+        {
+          "rank": 27,
+          "page_id": "fa_digipay-1400-fa_p0033.png",
+          "score": 29.5625
+        },
+        {
+          "rank": 28,
+          "page_id": "fa_digipay-1400-fa_p0017.png",
+          "score": 29.5
+        },
+        {
+          "rank": 29,
+          "page_id": "fa_digipay-1400-fa_p0040.png",
+          "score": 29.484375
+        },
+        {
+          "rank": 30,
+          "page_id": "fa_digipay-1400-fa_p0013.png",
+          "score": 29.4375
+        },
+        {
+          "rank": 31,
+          "page_id": "fa_digipay-1401-fa_p0035.png",
+          "score": 29.359375
+        },
+        {
+          "rank": 32,
+          "page_id": "fa_digipay-1400-fa_p0032.png",
+          "score": 29.25
+        },
+        {
+          "rank": 33,
+          "page_id": "fa_digipay-1400-fa_p0030.png",
+          "score": 29.171875
+        },
+        {
+          "rank": 34,
+          "page_id": "fa_digipay-1401-fa_p0005.png",
+          "score": 29.140625
+        },
+        {
+          "rank": 35,
+          "page_id": "fa_digipay-1401-fa_p0069.png",
+          "score": 29.09375
+        },
+        {
+          "rank": 36,
+          "page_id": "fa_digipay-1400-fa_p0021.png",
+          "score": 29.015625
+        },
+        {
+          "rank": 37,
+          "page_id": "fa_digipay-1401-fa_p0063.png",
+          "score": 29.015625
+        },
+        {
+          "rank": 38,
+          "page_id": "fa_digipay-1401-fa_p0029.png",
+          "score": 29.0
+        },
+        {
+          "rank": 39,
+          "page_id": "fa_digipay-1400-fa_p0039.png",
+          "score": 28.96875
+        },
+        {
+          "rank": 40,
+          "page_id": "fa_digipay-1401-fa_p0058.png",
+          "score": 28.96875
+        },
+        {
+          "rank": 41,
+          "page_id": "fa_digipay-1400-fa_p0003.png",
+          "score": 28.953125
+        },
+        {
+          "rank": 42,
+          "page_id": "fa_digipay-1400-fa_p0011.png",
+          "score": 28.953125
+        },
+        {
+          "rank": 43,
+          "page_id": "fa_digipay-1400-fa_p0014.png",
+          "score": 28.921875
+        },
+        {
+          "rank": 44,
+          "page_id": "fa_digipay-1401-fa_p0034.png",
+          "score": 28.921875
+        },
+        {
+          "rank": 45,
+          "page_id": "fa_digipay-1401-fa_p0068.png",
+          "score": 28.875
+        },
+        {
+          "rank": 46,
+          "page_id": "fa_digipay-1400-fa_p0045.png",
+          "score": 28.84375
+        },
+        {
+          "rank": 47,
+          "page_id": "fa_digipay-1401-fa_p0032.png",
+          "score": 28.84375
+        },
+        {
+          "rank": 48,
+          "page_id": "fa_digipay-1401-fa_p0017.png",
+          "score": 28.765625
+        },
+        {
+          "rank": 49,
+          "page_id": "fa_digipay-1400-fa_p0019.png",
+          "score": 28.71875
+        },
+        {
+          "rank": 50,
+          "page_id": "fa_digipay-1401-fa_p0060.png",
+          "score": 28.71875
+        },
+        {
+          "rank": 51,
+          "page_id": "fa_digipay-1400-fa_p0034.png",
+          "score": 28.6875
+        },
+        {
+          "rank": 52,
+          "page_id": "fa_digipay-1401-fa_p0008.png",
+          "score": 28.6875
+        },
+        {
+          "rank": 53,
+          "page_id": "fa_digipay-1400-fa_p0027.png",
+          "score": 28.609375
+        },
+        {
+          "rank": 54,
+          "page_id": "fa_digipay-1401-fa_p0025.png",
+          "score": 28.59375
+        },
+        {
+          "rank": 55,
+          "page_id": "fa_digipay-1400-fa_p0009.png",
+          "score": 28.546875
+        },
+        {
+          "rank": 56,
+          "page_id": "fa_digipay-1400-fa_p0015.png",
+          "score": 28.546875
+        },
+        {
+          "rank": 57,
+          "page_id": "fa_digipay-1401-fa_p0024.png",
+          "score": 28.421875
+        },
+        {
+          "rank": 58,
+          "page_id": "fa_digipay-1401-fa_p0070.png",
+          "score": 28.34375
+        },
+        {
+          "rank": 59,
+          "page_id": "fa_digipay-1401-fa_p0062.png",
+          "score": 28.328125
+        },
+        {
+          "rank": 60,
+          "page_id": "fa_digipay-1401-fa_p0066.png",
+          "score": 28.25
+        },
+        {
+          "rank": 61,
+          "page_id": "fa_digipay-1401-fa_p0059.png",
+          "score": 28.234375
+        },
+        {
+          "rank": 62,
+          "page_id": "fa_digipay-1401-fa_p0046.png",
+          "score": 28.171875
+        },
+        {
+          "rank": 63,
+          "page_id": "fa_digipay-1401-fa_p0020.png",
+          "score": 28.140625
+        },
+        {
+          "rank": 64,
+          "page_id": "fa_digipay-1401-fa_p0052.png",
+          "score": 28.078125
+        },
+        {
+          "rank": 65,
+          "page_id": "fa_digipay-1400-fa_p0048.png",
+          "score": 27.984375
+        },
+        {
+          "rank": 66,
+          "page_id": "fa_digipay-1401-fa_p0028.png",
+          "score": 27.953125
+        },
+        {
+          "rank": 67,
+          "page_id": "fa_digipay-1401-fa_p0050.png",
+          "score": 27.78125
+        },
+        {
+          "rank": 68,
+          "page_id": "fa_digipay-1401-fa_p0056.png",
+          "score": 27.765625
+        },
+        {
+          "rank": 69,
+          "page_id": "fa_digipay-1401-fa_p0027.png",
+          "score": 27.75
+        },
+        {
+          "rank": 70,
+          "page_id": "fa_digipay-1401-fa_p0049.png",
+          "score": 27.75
+        },
+        {
+          "rank": 71,
+          "page_id": "fa_digipay-1401-fa_p0061.png",
+          "score": 27.734375
+        },
+        {
+          "rank": 72,
+          "page_id": "fa_digipay-1401-fa_p0014.png",
+          "score": 27.6875
+        },
+        {
+          "rank": 73,
+          "page_id": "fa_digipay-1401-fa_p0012.png",
+          "score": 27.671875
+        },
+        {
+          "rank": 74,
+          "page_id": "fa_digipay-1400-fa_p0016.png",
+          "score": 27.59375
+        },
+        {
+          "rank": 75,
+          "page_id": "fa_digipay-1401-fa_p0039.png",
+          "score": 27.578125
+        },
+        {
+          "rank": 76,
+          "page_id": "fa_digipay-1401-fa_p0047.png",
+          "score": 27.5625
+        },
+        {
+          "rank": 77,
+          "page_id": "fa_digipay-1401-fa_p0006.png",
+          "score": 27.40625
+        },
+        {
+          "rank": 78,
+          "page_id": "fa_digipay-1401-fa_p0019.png",
+          "score": 27.40625
+        },
+        {
+          "rank": 79,
+          "page_id": "fa_digipay-1400-fa_p0022.png",
+          "score": 27.203125
+        },
+        {
+          "rank": 80,
+          "page_id": "fa_digipay-1400-fa_p0001.png",
+          "score": 27.109375
+        },
+        {
+          "rank": 81,
+          "page_id": "fa_digipay-1400-fa_p0024.png",
+          "score": 27.09375
+        },
+        {
+          "rank": 82,
+          "page_id": "fa_digipay-1400-fa_p0025.png",
+          "score": 27.09375
+        },
+        {
+          "rank": 83,
+          "page_id": "fa_digipay-1400-fa_p0049.png",
+          "score": 26.84375
+        },
+        {
+          "rank": 84,
+          "page_id": "fa_digipay-1401-fa_p0001.png",
+          "score": 26.84375
+        },
+        {
+          "rank": 85,
+          "page_id": "fa_digipay-1400-fa_p0028.png",
+          "score": 26.703125
+        },
+        {
+          "rank": 86,
+          "page_id": "fa_digipay-1401-fa_p0040.png",
+          "score": 26.703125
+        },
+        {
+          "rank": 87,
+          "page_id": "fa_digipay-1401-fa_p0013.png",
+          "score": 26.6875
+        },
+        {
+          "rank": 88,
+          "page_id": "fa_digipay-1401-fa_p0044.png",
+          "score": 26.625
+        },
+        {
+          "rank": 89,
+          "page_id": "fa_digipay-1401-fa_p0033.png",
+          "score": 26.546875
+        },
+        {
+          "rank": 90,
+          "page_id": "fa_digipay-1401-fa_p0036.png",
+          "score": 26.453125
+        },
+        {
+          "rank": 91,
+          "page_id": "fa_digipay-1401-fa_p0018.png",
+          "score": 26.4375
+        },
+        {
+          "rank": 92,
+          "page_id": "fa_digipay-1401-fa_p0055.png",
+          "score": 26.421875
+        },
+        {
+          "rank": 93,
+          "page_id": "fa_digipay-1401-fa_p0043.png",
+          "score": 26.34375
+        },
+        {
+          "rank": 94,
+          "page_id": "fa_digipay-1401-fa_p0009.png",
+          "score": 26.296875
+        },
+        {
+          "rank": 95,
+          "page_id": "fa_digipay-1401-fa_p0054.png",
+          "score": 26.296875
+        },
+        {
+          "rank": 96,
+          "page_id": "fa_digipay-1400-fa_p0026.png",
+          "score": 26.25
+        },
+        {
+          "rank": 97,
+          "page_id": "fa_digipay-1401-fa_p0016.png",
+          "score": 26.09375
+        },
+        {
+          "rank": 98,
+          "page_id": "fa_digipay-1401-fa_p0038.png",
+          "score": 26.09375
+        },
+        {
+          "rank": 99,
+          "page_id": "fa_digipay-1401-fa_p0022.png",
+          "score": 26.078125
+        },
+        {
+          "rank": 100,
+          "page_id": "fa_digipay-1401-fa_p0002.png",
+          "score": 26.03125
+        },
+        {
+          "rank": 101,
+          "page_id": "fa_digipay-1400-fa_p0050.png",
+          "score": 26.015625
+        },
+        {
+          "rank": 102,
+          "page_id": "fa_digipay-1401-fa_p0045.png",
+          "score": 25.9375
+        },
+        {
+          "rank": 103,
+          "page_id": "fa_digipay-1401-fa_p0037.png",
+          "score": 25.921875
+        },
+        {
+          "rank": 104,
+          "page_id": "fa_digipay-1401-fa_p0053.png",
+          "score": 25.71875
+        },
+        {
+          "rank": 105,
+          "page_id": "fa_digipay-1401-fa_p0048.png",
+          "score": 25.671875
+        },
+        {
+          "rank": 106,
+          "page_id": "fa_digipay-1401-fa_p0072.png",
+          "score": 25.59375
+        },
+        {
+          "rank": 107,
+          "page_id": "fa_digipay-1401-fa_p0031.png",
+          "score": 25.265625
+        },
+        {
+          "rank": 108,
+          "page_id": "fa_digipay-1401-fa_p0030.png",
+          "score": 24.78125
+        },
+        {
+          "rank": 109,
+          "page_id": "fa_digipay-1401-fa_p0042.png",
+          "score": 24.765625
+        },
+        {
+          "rank": 110,
+          "page_id": "fa_digipay-1401-fa_p0023.png",
+          "score": 24.53125
+        },
+        {
+          "rank": 111,
+          "page_id": "fa_digipay-1401-fa_p0071.png",
+          "score": 23.34375
+        },
+        {
+          "rank": 112,
+          "page_id": "fa_digipay-1401-fa_p0007.png",
+          "score": 23.3125
+        },
+        {
+          "rank": 113,
+          "page_id": "fa_digipay-1401-fa_p0004.png",
+          "score": 22.71875
+        },
+        {
+          "rank": 114,
+          "page_id": "fa_digipay-1401-fa_p0015.png",
+          "score": 22.09375
+        },
+        {
+          "rank": 115,
+          "page_id": "fa_digipay-1401-fa_p0051.png",
+          "score": 20.296875
+        },
+        {
+          "rank": 116,
+          "page_id": "fa_digipay-1400-fa_p0041.png",
+          "score": 15.7890625
+        },
+        {
+          "rank": 117,
+          "page_id": "fa_digipay-1400-fa_p0020.png",
+          "score": 15.75
+        },
+        {
+          "rank": 118,
+          "page_id": "fa_digipay-1400-fa_p0005.png",
+          "score": 15.6328125
+        },
+        {
+          "rank": 119,
+          "page_id": "fa_digipay-1400-fa_p0038.png",
+          "score": 15.578125
+        },
+        {
+          "rank": 120,
+          "page_id": "fa_digipay-1400-fa_p0035.png",
+          "score": 15.3671875
+        },
+        {
+          "rank": 121,
+          "page_id": "fa_digipay-1400-fa_p0029.png",
+          "score": 15.125
+        },
+        {
+          "rank": 122,
+          "page_id": "fa_digipay-1400-fa_p0012.png",
+          "score": 15.0
+        }
+      ]
+    },
+    {
+      "query_id": "fa_006",
+      "query": "تعداد کل تماس‌های ورودی گزارش‌شده برای مرکز عملیات دیجی‌پی در سال ۱۴۰۱ چقدر است؟",
+      "reference_answer": "بیش از ۵۰۰ هزار تماس",
+      "relevant_page_ids": [
+        "fa_digipay-1401-fa_p0065.png"
+      ],
+      "reference_ranks": {
+        "fa_digipay-1401-fa_p0065.png": 18
+      },
+      "first_relevant_rank": 18,
+      "recall_at_5": 0.0,
+      "recall_at_20": 1.0,
+      "reciprocal_rank": 0.05555555555555555,
+      "elapsed_seconds": 0.1880412879982032,
+      "query_token_count": 64,
+      "ranking": [
+        {
+          "rank": 1,
+          "page_id": "fa_digipay-1400-fa_p0036.png",
+          "score": 31.328125
+        },
+        {
+          "rank": 2,
+          "page_id": "fa_digipay-1401-fa_p0003.png",
+          "score": 30.9375
+        },
+        {
+          "rank": 3,
+          "page_id": "fa_digipay-1400-fa_p0002.png",
+          "score": 30.859375
+        },
+        {
+          "rank": 4,
+          "page_id": "fa_digipay-1400-fa_p0042.png",
+          "score": 30.84375
+        },
+        {
+          "rank": 5,
+          "page_id": "fa_digipay-1401-fa_p0057.png",
+          "score": 30.703125
+        },
+        {
+          "rank": 6,
+          "page_id": "fa_digipay-1400-fa_p0008.png",
+          "score": 30.671875
+        },
+        {
+          "rank": 7,
+          "page_id": "fa_digipay-1400-fa_p0004.png",
+          "score": 30.640625
+        },
+        {
+          "rank": 8,
+          "page_id": "fa_digipay-1400-fa_p0007.png",
+          "score": 30.421875
+        },
+        {
+          "rank": 9,
+          "page_id": "fa_digipay-1401-fa_p0021.png",
+          "score": 30.359375
+        },
+        {
+          "rank": 10,
+          "page_id": "fa_digipay-1400-fa_p0018.png",
+          "score": 30.25
+        },
+        {
+          "rank": 11,
+          "page_id": "fa_digipay-1400-fa_p0023.png",
+          "score": 30.1875
+        },
+        {
+          "rank": 12,
+          "page_id": "fa_digipay-1401-fa_p0011.png",
+          "score": 30.140625
+        },
+        {
+          "rank": 13,
+          "page_id": "fa_digipay-1401-fa_p0035.png",
+          "score": 30.03125
+        },
+        {
+          "rank": 14,
+          "page_id": "fa_digipay-1400-fa_p0010.png",
+          "score": 30.015625
+        },
+        {
+          "rank": 15,
+          "page_id": "fa_digipay-1400-fa_p0047.png",
+          "score": 30.0
+        },
+        {
+          "rank": 16,
+          "page_id": "fa_digipay-1401-fa_p0064.png",
+          "score": 29.9375
+        },
+        {
+          "rank": 17,
+          "page_id": "fa_digipay-1401-fa_p0017.png",
+          "score": 29.921875
+        },
+        {
+          "rank": 18,
+          "page_id": "fa_digipay-1401-fa_p0065.png",
+          "score": 29.90625
+        },
+        {
+          "rank": 19,
+          "page_id": "fa_digipay-1401-fa_p0010.png",
+          "score": 29.828125
+        },
+        {
+          "rank": 20,
+          "page_id": "fa_digipay-1400-fa_p0017.png",
+          "score": 29.765625
+        },
+        {
+          "rank": 21,
+          "page_id": "fa_digipay-1400-fa_p0044.png",
+          "score": 29.6875
+        },
+        {
+          "rank": 22,
+          "page_id": "fa_digipay-1401-fa_p0024.png",
+          "score": 29.609375
+        },
+        {
+          "rank": 23,
+          "page_id": "fa_digipay-1400-fa_p0037.png",
+          "score": 29.46875
+        },
+        {
+          "rank": 24,
+          "page_id": "fa_digipay-1400-fa_p0032.png",
+          "score": 29.453125
+        },
+        {
+          "rank": 25,
+          "page_id": "fa_digipay-1400-fa_p0043.png",
+          "score": 29.4375
+        },
+        {
+          "rank": 26,
+          "page_id": "fa_digipay-1400-fa_p0046.png",
+          "score": 29.4375
+        },
+        {
+          "rank": 27,
+          "page_id": "fa_digipay-1400-fa_p0031.png",
+          "score": 29.328125
+        },
+        {
+          "rank": 28,
+          "page_id": "fa_digipay-1401-fa_p0067.png",
+          "score": 29.234375
+        },
+        {
+          "rank": 29,
+          "page_id": "fa_digipay-1401-fa_p0068.png",
+          "score": 29.171875
+        },
+        {
+          "rank": 30,
+          "page_id": "fa_digipay-1401-fa_p0063.png",
+          "score": 29.09375
+        },
+        {
+          "rank": 31,
+          "page_id": "fa_digipay-1400-fa_p0006.png",
+          "score": 29.03125
+        },
+        {
+          "rank": 32,
+          "page_id": "fa_digipay-1401-fa_p0026.png",
+          "score": 29.03125
+        },
+        {
+          "rank": 33,
+          "page_id": "fa_digipay-1400-fa_p0015.png",
+          "score": 28.921875
+        },
+        {
+          "rank": 34,
+          "page_id": "fa_digipay-1400-fa_p0040.png",
+          "score": 28.859375
+        },
+        {
+          "rank": 35,
+          "page_id": "fa_digipay-1401-fa_p0050.png",
+          "score": 28.859375
+        },
+        {
+          "rank": 36,
+          "page_id": "fa_digipay-1401-fa_p0041.png",
+          "score": 28.75
+        },
+        {
+          "rank": 37,
+          "page_id": "fa_digipay-1401-fa_p0039.png",
+          "score": 28.734375
+        },
+        {
+          "rank": 38,
+          "page_id": "fa_digipay-1401-fa_p0059.png",
+          "score": 28.734375
+        },
+        {
+          "rank": 39,
+          "page_id": "fa_digipay-1401-fa_p0008.png",
+          "score": 28.703125
+        },
+        {
+          "rank": 40,
+          "page_id": "fa_digipay-1400-fa_p0009.png",
+          "score": 28.625
+        },
+        {
+          "rank": 41,
+          "page_id": "fa_digipay-1401-fa_p0005.png",
+          "score": 28.5625
+        },
+        {
+          "rank": 42,
+          "page_id": "fa_digipay-1401-fa_p0060.png",
+          "score": 28.53125
+        },
+        {
+          "rank": 43,
+          "page_id": "fa_digipay-1401-fa_p0029.png",
+          "score": 28.515625
+        },
+        {
+          "rank": 44,
+          "page_id": "fa_digipay-1401-fa_p0046.png",
+          "score": 28.515625
+        },
+        {
+          "rank": 45,
+          "page_id": "fa_digipay-1400-fa_p0013.png",
+          "score": 28.5
+        },
+        {
+          "rank": 46,
+          "page_id": "fa_digipay-1401-fa_p0034.png",
+          "score": 28.4375
+        },
+        {
+          "rank": 47,
+          "page_id": "fa_digipay-1400-fa_p0014.png",
+          "score": 28.421875
+        },
+        {
+          "rank": 48,
+          "page_id": "fa_digipay-1401-fa_p0019.png",
+          "score": 28.40625
+        },
+        {
+          "rank": 49,
+          "page_id": "fa_digipay-1400-fa_p0033.png",
+          "score": 28.359375
+        },
+        {
+          "rank": 50,
+          "page_id": "fa_digipay-1401-fa_p0032.png",
+          "score": 28.34375
+        },
+        {
+          "rank": 51,
+          "page_id": "fa_digipay-1401-fa_p0069.png",
+          "score": 28.28125
+        },
+        {
+          "rank": 52,
+          "page_id": "fa_digipay-1400-fa_p0048.png",
+          "score": 28.21875
+        },
+        {
+          "rank": 53,
+          "page_id": "fa_digipay-1401-fa_p0058.png",
+          "score": 28.21875
+        },
+        {
+          "rank": 54,
+          "page_id": "fa_digipay-1400-fa_p0011.png",
+          "score": 28.1875
+        },
+        {
+          "rank": 55,
+          "page_id": "fa_digipay-1401-fa_p0052.png",
+          "score": 28.171875
+        },
+        {
+          "rank": 56,
+          "page_id": "fa_digipay-1401-fa_p0061.png",
+          "score": 28.125
+        },
+        {
+          "rank": 57,
+          "page_id": "fa_digipay-1400-fa_p0021.png",
+          "score": 28.09375
+        },
+        {
+          "rank": 58,
+          "page_id": "fa_digipay-1400-fa_p0045.png",
+          "score": 28.046875
+        },
+        {
+          "rank": 59,
+          "page_id": "fa_digipay-1401-fa_p0020.png",
+          "score": 28.046875
+        },
+        {
+          "rank": 60,
+          "page_id": "fa_digipay-1400-fa_p0027.png",
+          "score": 27.96875
+        },
+        {
+          "rank": 61,
+          "page_id": "fa_digipay-1400-fa_p0034.png",
+          "score": 27.921875
+        },
+        {
+          "rank": 62,
+          "page_id": "fa_digipay-1401-fa_p0066.png",
+          "score": 27.875
+        },
+        {
+          "rank": 63,
+          "page_id": "fa_digipay-1401-fa_p0014.png",
+          "score": 27.84375
+        },
+        {
+          "rank": 64,
+          "page_id": "fa_digipay-1401-fa_p0056.png",
+          "score": 27.84375
+        },
+        {
+          "rank": 65,
+          "page_id": "fa_digipay-1401-fa_p0018.png",
+          "score": 27.8125
+        },
+        {
+          "rank": 66,
+          "page_id": "fa_digipay-1401-fa_p0070.png",
+          "score": 27.8125
+        },
+        {
+          "rank": 67,
+          "page_id": "fa_digipay-1400-fa_p0039.png",
+          "score": 27.78125
+        },
+        {
+          "rank": 68,
+          "page_id": "fa_digipay-1400-fa_p0003.png",
+          "score": 27.71875
+        },
+        {
+          "rank": 69,
+          "page_id": "fa_digipay-1400-fa_p0019.png",
+          "score": 27.71875
+        },
+        {
+          "rank": 70,
+          "page_id": "fa_digipay-1400-fa_p0030.png",
+          "score": 27.703125
+        },
+        {
+          "rank": 71,
+          "page_id": "fa_digipay-1400-fa_p0022.png",
+          "score": 27.640625
+        },
+        {
+          "rank": 72,
+          "page_id": "fa_digipay-1400-fa_p0024.png",
+          "score": 27.640625
+        },
+        {
+          "rank": 73,
+          "page_id": "fa_digipay-1401-fa_p0049.png",
+          "score": 27.546875
+        },
+        {
+          "rank": 74,
+          "page_id": "fa_digipay-1401-fa_p0028.png",
+          "score": 27.5
+        },
+        {
+          "rank": 75,
+          "page_id": "fa_digipay-1401-fa_p0025.png",
+          "score": 27.453125
+        },
+        {
+          "rank": 76,
+          "page_id": "fa_digipay-1401-fa_p0036.png",
+          "score": 27.453125
+        },
+        {
+          "rank": 77,
+          "page_id": "fa_digipay-1401-fa_p0040.png",
+          "score": 27.375
+        },
+        {
+          "rank": 78,
+          "page_id": "fa_digipay-1401-fa_p0062.png",
+          "score": 27.3125
+        },
+        {
+          "rank": 79,
+          "page_id": "fa_digipay-1401-fa_p0038.png",
+          "score": 27.296875
+        },
+        {
+          "rank": 80,
+          "page_id": "fa_digipay-1401-fa_p0054.png",
+          "score": 27.265625
+        },
+        {
+          "rank": 81,
+          "page_id": "fa_digipay-1400-fa_p0028.png",
+          "score": 27.1875
+        },
+        {
+          "rank": 82,
+          "page_id": "fa_digipay-1400-fa_p0016.png",
+          "score": 27.078125
+        },
+        {
+          "rank": 83,
+          "page_id": "fa_digipay-1401-fa_p0047.png",
+          "score": 27.078125
+        },
+        {
+          "rank": 84,
+          "page_id": "fa_digipay-1400-fa_p0025.png",
+          "score": 27.046875
+        },
+        {
+          "rank": 85,
+          "page_id": "fa_digipay-1401-fa_p0006.png",
+          "score": 27.046875
+        },
+        {
+          "rank": 86,
+          "page_id": "fa_digipay-1401-fa_p0044.png",
+          "score": 27.015625
+        },
+        {
+          "rank": 87,
+          "page_id": "fa_digipay-1401-fa_p0037.png",
+          "score": 26.90625
+        },
+        {
+          "rank": 88,
+          "page_id": "fa_digipay-1401-fa_p0027.png",
+          "score": 26.875
+        },
+        {
+          "rank": 89,
+          "page_id": "fa_digipay-1401-fa_p0033.png",
+          "score": 26.875
+        },
+        {
+          "rank": 90,
+          "page_id": "fa_digipay-1401-fa_p0012.png",
+          "score": 26.859375
+        },
+        {
+          "rank": 91,
+          "page_id": "fa_digipay-1401-fa_p0016.png",
+          "score": 26.796875
+        },
+        {
+          "rank": 92,
+          "page_id": "fa_digipay-1400-fa_p0049.png",
+          "score": 26.78125
+        },
+        {
+          "rank": 93,
+          "page_id": "fa_digipay-1400-fa_p0026.png",
+          "score": 26.703125
+        },
+        {
+          "rank": 94,
+          "page_id": "fa_digipay-1401-fa_p0045.png",
+          "score": 26.46875
+        },
+        {
+          "rank": 95,
+          "page_id": "fa_digipay-1401-fa_p0048.png",
+          "score": 26.453125
+        },
+        {
+          "rank": 96,
+          "page_id": "fa_digipay-1401-fa_p0055.png",
+          "score": 26.359375
+        },
+        {
+          "rank": 97,
+          "page_id": "fa_digipay-1401-fa_p0013.png",
+          "score": 26.25
+        },
+        {
+          "rank": 98,
+          "page_id": "fa_digipay-1401-fa_p0009.png",
+          "score": 26.171875
+        },
+        {
+          "rank": 99,
+          "page_id": "fa_digipay-1401-fa_p0053.png",
+          "score": 26.078125
+        },
+        {
+          "rank": 100,
+          "page_id": "fa_digipay-1401-fa_p0043.png",
+          "score": 26.015625
+        },
+        {
+          "rank": 101,
+          "page_id": "fa_digipay-1401-fa_p0022.png",
+          "score": 25.921875
+        },
+        {
+          "rank": 102,
+          "page_id": "fa_digipay-1401-fa_p0042.png",
+          "score": 25.921875
+        },
+        {
+          "rank": 103,
+          "page_id": "fa_digipay-1400-fa_p0001.png",
+          "score": 25.328125
+        },
+        {
+          "rank": 104,
+          "page_id": "fa_digipay-1401-fa_p0002.png",
+          "score": 25.265625
+        },
+        {
+          "rank": 105,
+          "page_id": "fa_digipay-1401-fa_p0001.png",
+          "score": 25.078125
+        },
+        {
+          "rank": 106,
+          "page_id": "fa_digipay-1401-fa_p0030.png",
+          "score": 25.015625
+        },
+        {
+          "rank": 107,
+          "page_id": "fa_digipay-1401-fa_p0072.png",
+          "score": 25.0
+        },
+        {
+          "rank": 108,
+          "page_id": "fa_digipay-1401-fa_p0023.png",
+          "score": 24.734375
+        },
+        {
+          "rank": 109,
+          "page_id": "fa_digipay-1400-fa_p0050.png",
+          "score": 24.71875
+        },
+        {
+          "rank": 110,
+          "page_id": "fa_digipay-1401-fa_p0031.png",
+          "score": 24.484375
+        },
+        {
+          "rank": 111,
+          "page_id": "fa_digipay-1401-fa_p0007.png",
+          "score": 22.96875
+        },
+        {
+          "rank": 112,
+          "page_id": "fa_digipay-1401-fa_p0071.png",
+          "score": 22.890625
+        },
+        {
+          "rank": 113,
+          "page_id": "fa_digipay-1401-fa_p0004.png",
+          "score": 22.4375
+        },
+        {
+          "rank": 114,
+          "page_id": "fa_digipay-1401-fa_p0015.png",
+          "score": 21.453125
+        },
+        {
+          "rank": 115,
+          "page_id": "fa_digipay-1401-fa_p0051.png",
+          "score": 20.25
+        },
+        {
+          "rank": 116,
+          "page_id": "fa_digipay-1400-fa_p0005.png",
+          "score": 15.453125
+        },
+        {
+          "rank": 117,
+          "page_id": "fa_digipay-1400-fa_p0020.png",
+          "score": 15.4453125
+        },
+        {
+          "rank": 118,
+          "page_id": "fa_digipay-1400-fa_p0038.png",
+          "score": 15.296875
+        },
+        {
+          "rank": 119,
+          "page_id": "fa_digipay-1400-fa_p0041.png",
+          "score": 15.21875
+        },
+        {
+          "rank": 120,
+          "page_id": "fa_digipay-1400-fa_p0012.png",
+          "score": 15.125
+        },
+        {
+          "rank": 121,
+          "page_id": "fa_digipay-1400-fa_p0035.png",
+          "score": 15.046875
+        },
+        {
+          "rank": 122,
+          "page_id": "fa_digipay-1400-fa_p0029.png",
+          "score": 14.9375
+        }
+      ]
+    },
+    {
+      "query_id": "fa_007",
+      "query": "میانگین زمان انتظار کاربران برای پاسخ‌گویی مرکز عملیات دیجی‌پی در سال ۱۴۰۱ چند ثانیه بوده است؟",
+      "reference_answer": "۴٫۲ ثانیه",
+      "relevant_page_ids": [
+        "fa_digipay-1401-fa_p0065.png"
+      ],
+      "reference_ranks": {
+        "fa_digipay-1401-fa_p0065.png": 24
+      },
+      "first_relevant_rank": 24,
+      "recall_at_5": 0.0,
+      "recall_at_20": 0.0,
+      "reciprocal_rank": 0.041666666666666664,
+      "elapsed_seconds": 0.404218908995972,
+      "query_token_count": 74,
+      "ranking": [
+        {
+          "rank": 1,
+          "page_id": "fa_digipay-1400-fa_p0036.png",
+          "score": 37.25
+        },
+        {
+          "rank": 2,
+          "page_id": "fa_digipay-1401-fa_p0003.png",
+          "score": 36.25
+        },
+        {
+          "rank": 3,
+          "page_id": "fa_digipay-1400-fa_p0042.png",
+          "score": 36.0625
+        },
+        {
+          "rank": 4,
+          "page_id": "fa_digipay-1400-fa_p0004.png",
+          "score": 36.03125
+        },
+        {
+          "rank": 5,
+          "page_id": "fa_digipay-1400-fa_p0043.png",
+          "score": 35.78125
+        },
+        {
+          "rank": 6,
+          "page_id": "fa_digipay-1400-fa_p0018.png",
+          "score": 35.75
+        },
+        {
+          "rank": 7,
+          "page_id": "fa_digipay-1400-fa_p0008.png",
+          "score": 35.6875
+        },
+        {
+          "rank": 8,
+          "page_id": "fa_digipay-1401-fa_p0057.png",
+          "score": 35.65625
+        },
+        {
+          "rank": 9,
+          "page_id": "fa_digipay-1400-fa_p0023.png",
+          "score": 35.59375
+        },
+        {
+          "rank": 10,
+          "page_id": "fa_digipay-1401-fa_p0064.png",
+          "score": 35.59375
+        },
+        {
+          "rank": 11,
+          "page_id": "fa_digipay-1400-fa_p0002.png",
+          "score": 35.5
+        },
+        {
+          "rank": 12,
+          "page_id": "fa_digipay-1400-fa_p0007.png",
+          "score": 35.46875
+        },
+        {
+          "rank": 13,
+          "page_id": "fa_digipay-1401-fa_p0011.png",
+          "score": 35.3125
+        },
+        {
+          "rank": 14,
+          "page_id": "fa_digipay-1401-fa_p0046.png",
+          "score": 35.15625
+        },
+        {
+          "rank": 15,
+          "page_id": "fa_digipay-1400-fa_p0047.png",
+          "score": 35.125
+        },
+        {
+          "rank": 16,
+          "page_id": "fa_digipay-1401-fa_p0067.png",
+          "score": 35.09375
+        },
+        {
+          "rank": 17,
+          "page_id": "fa_digipay-1400-fa_p0033.png",
+          "score": 35.03125
+        },
+        {
+          "rank": 18,
+          "page_id": "fa_digipay-1401-fa_p0021.png",
+          "score": 34.96875
+        },
+        {
+          "rank": 19,
+          "page_id": "fa_digipay-1400-fa_p0031.png",
+          "score": 34.9375
+        },
+        {
+          "rank": 20,
+          "page_id": "fa_digipay-1401-fa_p0063.png",
+          "score": 34.9375
+        },
+        {
+          "rank": 21,
+          "page_id": "fa_digipay-1400-fa_p0027.png",
+          "score": 34.90625
+        },
+        {
+          "rank": 22,
+          "page_id": "fa_digipay-1401-fa_p0041.png",
+          "score": 34.90625
+        },
+        {
+          "rank": 23,
+          "page_id": "fa_digipay-1401-fa_p0035.png",
+          "score": 34.875
+        },
+        {
+          "rank": 24,
+          "page_id": "fa_digipay-1401-fa_p0065.png",
+          "score": 34.8125
+        },
+        {
+          "rank": 25,
+          "page_id": "fa_digipay-1401-fa_p0052.png",
+          "score": 34.75
+        },
+        {
+          "rank": 26,
+          "page_id": "fa_digipay-1401-fa_p0026.png",
+          "score": 34.71875
+        },
+        {
+          "rank": 27,
+          "page_id": "fa_digipay-1401-fa_p0010.png",
+          "score": 34.6875
+        },
+        {
+          "rank": 28,
+          "page_id": "fa_digipay-1400-fa_p0017.png",
+          "score": 34.625
+        },
+        {
+          "rank": 29,
+          "page_id": "fa_digipay-1400-fa_p0040.png",
+          "score": 34.59375
+        },
+        {
+          "rank": 30,
+          "page_id": "fa_digipay-1401-fa_p0068.png",
+          "score": 34.5625
+        },
+        {
+          "rank": 31,
+          "page_id": "fa_digipay-1401-fa_p0024.png",
+          "score": 34.53125
+        },
+        {
+          "rank": 32,
+          "page_id": "fa_digipay-1400-fa_p0037.png",
+          "score": 34.46875
+        },
+        {
+          "rank": 33,
+          "page_id": "fa_digipay-1400-fa_p0044.png",
+          "score": 34.4375
+        },
+        {
+          "rank": 34,
+          "page_id": "fa_digipay-1400-fa_p0046.png",
+          "score": 34.4375
+        },
+        {
+          "rank": 35,
+          "page_id": "fa_digipay-1400-fa_p0019.png",
+          "score": 34.40625
+        },
+        {
+          "rank": 36,
+          "page_id": "fa_digipay-1400-fa_p0006.png",
+          "score": 34.28125
+        },
+        {
+          "rank": 37,
+          "page_id": "fa_digipay-1400-fa_p0032.png",
+          "score": 34.28125
+        },
+        {
+          "rank": 38,
+          "page_id": "fa_digipay-1401-fa_p0032.png",
+          "score": 34.28125
+        },
+        {
+          "rank": 39,
+          "page_id": "fa_digipay-1400-fa_p0021.png",
+          "score": 34.21875
+        },
+        {
+          "rank": 40,
+          "page_id": "fa_digipay-1400-fa_p0013.png",
+          "score": 34.03125
+        },
+        {
+          "rank": 41,
+          "page_id": "fa_digipay-1401-fa_p0005.png",
+          "score": 34.03125
+        },
+        {
+          "rank": 42,
+          "page_id": "fa_digipay-1401-fa_p0069.png",
+          "score": 34.03125
+        },
+        {
+          "rank": 43,
+          "page_id": "fa_digipay-1400-fa_p0014.png",
+          "score": 33.9375
+        },
+        {
+          "rank": 44,
+          "page_id": "fa_digipay-1401-fa_p0039.png",
+          "score": 33.9375
+        },
+        {
+          "rank": 45,
+          "page_id": "fa_digipay-1400-fa_p0045.png",
+          "score": 33.84375
+        },
+        {
+          "rank": 46,
+          "page_id": "fa_digipay-1401-fa_p0058.png",
+          "score": 33.8125
+        },
+        {
+          "rank": 47,
+          "page_id": "fa_digipay-1401-fa_p0050.png",
+          "score": 33.65625
+        },
+        {
+          "rank": 48,
+          "page_id": "fa_digipay-1400-fa_p0010.png",
+          "score": 33.53125
+        },
+        {
+          "rank": 49,
+          "page_id": "fa_digipay-1400-fa_p0034.png",
+          "score": 33.53125
+        },
+        {
+          "rank": 50,
+          "page_id": "fa_digipay-1401-fa_p0060.png",
+          "score": 33.5
+        },
+        {
+          "rank": 51,
+          "page_id": "fa_digipay-1400-fa_p0030.png",
+          "score": 33.46875
+        },
+        {
+          "rank": 52,
+          "page_id": "fa_digipay-1401-fa_p0047.png",
+          "score": 33.46875
+        },
+        {
+          "rank": 53,
+          "page_id": "fa_digipay-1400-fa_p0003.png",
+          "score": 33.375
+        },
+        {
+          "rank": 54,
+          "page_id": "fa_digipay-1400-fa_p0011.png",
+          "score": 33.375
+        },
+        {
+          "rank": 55,
+          "page_id": "fa_digipay-1400-fa_p0039.png",
+          "score": 33.34375
+        },
+        {
+          "rank": 56,
+          "page_id": "fa_digipay-1401-fa_p0061.png",
+          "score": 33.34375
+        },
+        {
+          "rank": 57,
+          "page_id": "fa_digipay-1401-fa_p0062.png",
+          "score": 33.3125
+        },
+        {
+          "rank": 58,
+          "page_id": "fa_digipay-1401-fa_p0020.png",
+          "score": 33.28125
+        },
+        {
+          "rank": 59,
+          "page_id": "fa_digipay-1401-fa_p0034.png",
+          "score": 33.25
+        },
+        {
+          "rank": 60,
+          "page_id": "fa_digipay-1400-fa_p0048.png",
+          "score": 33.03125
+        },
+        {
+          "rank": 61,
+          "page_id": "fa_digipay-1401-fa_p0017.png",
+          "score": 33.0
+        },
+        {
+          "rank": 62,
+          "page_id": "fa_digipay-1401-fa_p0029.png",
+          "score": 32.96875
+        },
+        {
+          "rank": 63,
+          "page_id": "fa_digipay-1401-fa_p0059.png",
+          "score": 32.90625
+        },
+        {
+          "rank": 64,
+          "page_id": "fa_digipay-1401-fa_p0066.png",
+          "score": 32.875
+        },
+        {
+          "rank": 65,
+          "page_id": "fa_digipay-1401-fa_p0025.png",
+          "score": 32.78125
+        },
+        {
+          "rank": 66,
+          "page_id": "fa_digipay-1401-fa_p0008.png",
+          "score": 32.75
+        },
+        {
+          "rank": 67,
+          "page_id": "fa_digipay-1401-fa_p0027.png",
+          "score": 32.71875
+        },
+        {
+          "rank": 68,
+          "page_id": "fa_digipay-1401-fa_p0070.png",
+          "score": 32.65625
+        },
+        {
+          "rank": 69,
+          "page_id": "fa_digipay-1400-fa_p0015.png",
+          "score": 32.59375
+        },
+        {
+          "rank": 70,
+          "page_id": "fa_digipay-1400-fa_p0025.png",
+          "score": 32.59375
+        },
+        {
+          "rank": 71,
+          "page_id": "fa_digipay-1401-fa_p0014.png",
+          "score": 32.53125
+        },
+        {
+          "rank": 72,
+          "page_id": "fa_digipay-1401-fa_p0049.png",
+          "score": 32.53125
+        },
+        {
+          "rank": 73,
+          "page_id": "fa_digipay-1401-fa_p0019.png",
+          "score": 32.46875
+        },
+        {
+          "rank": 74,
+          "page_id": "fa_digipay-1400-fa_p0022.png",
+          "score": 32.4375
+        },
+        {
+          "rank": 75,
+          "page_id": "fa_digipay-1401-fa_p0054.png",
+          "score": 32.4375
+        },
+        {
+          "rank": 76,
+          "page_id": "fa_digipay-1401-fa_p0037.png",
+          "score": 32.40625
+        },
+        {
+          "rank": 77,
+          "page_id": "fa_digipay-1400-fa_p0009.png",
+          "score": 32.34375
+        },
+        {
+          "rank": 78,
+          "page_id": "fa_digipay-1401-fa_p0033.png",
+          "score": 32.28125
+        },
+        {
+          "rank": 79,
+          "page_id": "fa_digipay-1401-fa_p0028.png",
+          "score": 32.15625
+        },
+        {
+          "rank": 80,
+          "page_id": "fa_digipay-1401-fa_p0055.png",
+          "score": 32.125
+        },
+        {
+          "rank": 81,
+          "page_id": "fa_digipay-1401-fa_p0038.png",
+          "score": 31.71875
+        },
+        {
+          "rank": 82,
+          "page_id": "fa_digipay-1401-fa_p0056.png",
+          "score": 31.71875
+        },
+        {
+          "rank": 83,
+          "page_id": "fa_digipay-1401-fa_p0013.png",
+          "score": 31.625
+        },
+        {
+          "rank": 84,
+          "page_id": "fa_digipay-1401-fa_p0040.png",
+          "score": 31.625
+        },
+        {
+          "rank": 85,
+          "page_id": "fa_digipay-1400-fa_p0024.png",
+          "score": 31.609375
+        },
+        {
+          "rank": 86,
+          "page_id": "fa_digipay-1401-fa_p0012.png",
+          "score": 31.578125
+        },
+        {
+          "rank": 87,
+          "page_id": "fa_digipay-1400-fa_p0016.png",
+          "score": 31.5625
+        },
+        {
+          "rank": 88,
+          "page_id": "fa_digipay-1400-fa_p0028.png",
+          "score": 31.5
+        },
+        {
+          "rank": 89,
+          "page_id": "fa_digipay-1401-fa_p0043.png",
+          "score": 31.5
+        },
+        {
+          "rank": 90,
+          "page_id": "fa_digipay-1401-fa_p0044.png",
+          "score": 31.484375
+        },
+        {
+          "rank": 91,
+          "page_id": "fa_digipay-1401-fa_p0053.png",
+          "score": 31.328125
+        },
+        {
+          "rank": 92,
+          "page_id": "fa_digipay-1401-fa_p0006.png",
+          "score": 31.28125
+        },
+        {
+          "rank": 93,
+          "page_id": "fa_digipay-1401-fa_p0036.png",
+          "score": 31.28125
+        },
+        {
+          "rank": 94,
+          "page_id": "fa_digipay-1400-fa_p0049.png",
+          "score": 31.1875
+        },
+        {
+          "rank": 95,
+          "page_id": "fa_digipay-1400-fa_p0026.png",
+          "score": 30.96875
+        },
+        {
+          "rank": 96,
+          "page_id": "fa_digipay-1401-fa_p0018.png",
+          "score": 30.9375
+        },
+        {
+          "rank": 97,
+          "page_id": "fa_digipay-1401-fa_p0045.png",
+          "score": 30.8125
+        },
+        {
+          "rank": 98,
+          "page_id": "fa_digipay-1400-fa_p0001.png",
+          "score": 30.796875
+        },
+        {
+          "rank": 99,
+          "page_id": "fa_digipay-1401-fa_p0002.png",
+          "score": 30.75
+        },
+        {
+          "rank": 100,
+          "page_id": "fa_digipay-1401-fa_p0009.png",
+          "score": 30.578125
+        },
+        {
+          "rank": 101,
+          "page_id": "fa_digipay-1401-fa_p0022.png",
+          "score": 30.5625
+        },
+        {
+          "rank": 102,
+          "page_id": "fa_digipay-1400-fa_p0050.png",
+          "score": 30.5
+        },
+        {
+          "rank": 103,
+          "page_id": "fa_digipay-1401-fa_p0072.png",
+          "score": 30.453125
+        },
+        {
+          "rank": 104,
+          "page_id": "fa_digipay-1401-fa_p0016.png",
+          "score": 30.4375
+        },
+        {
+          "rank": 105,
+          "page_id": "fa_digipay-1401-fa_p0001.png",
+          "score": 30.390625
+        },
+        {
+          "rank": 106,
+          "page_id": "fa_digipay-1401-fa_p0042.png",
+          "score": 30.328125
+        },
+        {
+          "rank": 107,
+          "page_id": "fa_digipay-1401-fa_p0048.png",
+          "score": 30.078125
+        },
+        {
+          "rank": 108,
+          "page_id": "fa_digipay-1401-fa_p0031.png",
+          "score": 29.796875
+        },
+        {
+          "rank": 109,
+          "page_id": "fa_digipay-1401-fa_p0030.png",
+          "score": 29.03125
+        },
+        {
+          "rank": 110,
+          "page_id": "fa_digipay-1401-fa_p0023.png",
+          "score": 27.78125
+        },
+        {
+          "rank": 111,
+          "page_id": "fa_digipay-1401-fa_p0007.png",
+          "score": 27.203125
+        },
+        {
+          "rank": 112,
+          "page_id": "fa_digipay-1401-fa_p0071.png",
+          "score": 27.125
+        },
+        {
+          "rank": 113,
+          "page_id": "fa_digipay-1401-fa_p0004.png",
+          "score": 26.484375
+        },
+        {
+          "rank": 114,
+          "page_id": "fa_digipay-1401-fa_p0015.png",
+          "score": 25.953125
+        },
+        {
+          "rank": 115,
+          "page_id": "fa_digipay-1401-fa_p0051.png",
+          "score": 23.515625
+        },
+        {
+          "rank": 116,
+          "page_id": "fa_digipay-1400-fa_p0041.png",
+          "score": 21.0625
+        },
+        {
+          "rank": 117,
+          "page_id": "fa_digipay-1400-fa_p0020.png",
+          "score": 21.046875
+        },
+        {
+          "rank": 118,
+          "page_id": "fa_digipay-1400-fa_p0038.png",
+          "score": 20.96875
+        },
+        {
+          "rank": 119,
+          "page_id": "fa_digipay-1400-fa_p0005.png",
+          "score": 20.9375
+        },
+        {
+          "rank": 120,
+          "page_id": "fa_digipay-1400-fa_p0029.png",
+          "score": 20.921875
+        },
+        {
+          "rank": 121,
+          "page_id": "fa_digipay-1400-fa_p0035.png",
+          "score": 20.34375
+        },
+        {
+          "rank": 122,
+          "page_id": "fa_digipay-1400-fa_p0012.png",
+          "score": 20.1875
+        }
+      ]
+    },
+    {
+      "query_id": "fa_008",
+      "query": "کاربران در سال ۱۴۰۱ به طور متوسط چقدر در صف پاسخ‌گویی دیجی‌پی منتظر مانده‌اند؟",
+      "reference_answer": "۴٫۲ ثانیه",
+      "relevant_page_ids": [
+        "fa_digipay-1401-fa_p0065.png"
+      ],
+      "reference_ranks": {
+        "fa_digipay-1401-fa_p0065.png": 28
+      },
+      "first_relevant_rank": 28,
+      "recall_at_5": 0.0,
+      "recall_at_20": 0.0,
+      "reciprocal_rank": 0.03571428571428571,
+      "elapsed_seconds": 0.19658005599922035,
+      "query_token_count": 63,
+      "ranking": [
+        {
+          "rank": 1,
+          "page_id": "fa_digipay-1400-fa_p0007.png",
+          "score": 31.375
+        },
+        {
+          "rank": 2,
+          "page_id": "fa_digipay-1400-fa_p0018.png",
+          "score": 31.234375
+        },
+        {
+          "rank": 3,
+          "page_id": "fa_digipay-1401-fa_p0011.png",
+          "score": 31.03125
+        },
+        {
+          "rank": 4,
+          "page_id": "fa_digipay-1400-fa_p0023.png",
+          "score": 30.9375
+        },
+        {
+          "rank": 5,
+          "page_id": "fa_digipay-1401-fa_p0021.png",
+          "score": 30.921875
+        },
+        {
+          "rank": 6,
+          "page_id": "fa_digipay-1401-fa_p0024.png",
+          "score": 30.859375
+        },
+        {
+          "rank": 7,
+          "page_id": "fa_digipay-1400-fa_p0036.png",
+          "score": 30.828125
+        },
+        {
+          "rank": 8,
+          "page_id": "fa_digipay-1400-fa_p0047.png",
+          "score": 30.734375
+        },
+        {
+          "rank": 9,
+          "page_id": "fa_digipay-1400-fa_p0004.png",
+          "score": 30.71875
+        },
+        {
+          "rank": 10,
+          "page_id": "fa_digipay-1400-fa_p0008.png",
+          "score": 30.546875
+        },
+        {
+          "rank": 11,
+          "page_id": "fa_digipay-1401-fa_p0041.png",
+          "score": 30.515625
+        },
+        {
+          "rank": 12,
+          "page_id": "fa_digipay-1400-fa_p0037.png",
+          "score": 30.390625
+        },
+        {
+          "rank": 13,
+          "page_id": "fa_digipay-1400-fa_p0019.png",
+          "score": 30.359375
+        },
+        {
+          "rank": 14,
+          "page_id": "fa_digipay-1400-fa_p0017.png",
+          "score": 30.34375
+        },
+        {
+          "rank": 15,
+          "page_id": "fa_digipay-1401-fa_p0052.png",
+          "score": 30.34375
+        },
+        {
+          "rank": 16,
+          "page_id": "fa_digipay-1401-fa_p0010.png",
+          "score": 30.1875
+        },
+        {
+          "rank": 17,
+          "page_id": "fa_digipay-1400-fa_p0034.png",
+          "score": 30.046875
+        },
+        {
+          "rank": 18,
+          "page_id": "fa_digipay-1401-fa_p0047.png",
+          "score": 30.03125
+        },
+        {
+          "rank": 19,
+          "page_id": "fa_digipay-1400-fa_p0043.png",
+          "score": 29.84375
+        },
+        {
+          "rank": 20,
+          "page_id": "fa_digipay-1400-fa_p0040.png",
+          "score": 29.8125
+        },
+        {
+          "rank": 21,
+          "page_id": "fa_digipay-1401-fa_p0057.png",
+          "score": 29.78125
+        },
+        {
+          "rank": 22,
+          "page_id": "fa_digipay-1400-fa_p0042.png",
+          "score": 29.703125
+        },
+        {
+          "rank": 23,
+          "page_id": "fa_digipay-1401-fa_p0046.png",
+          "score": 29.640625
+        },
+        {
+          "rank": 24,
+          "page_id": "fa_digipay-1401-fa_p0059.png",
+          "score": 29.5625
+        },
+        {
+          "rank": 25,
+          "page_id": "fa_digipay-1400-fa_p0003.png",
+          "score": 29.53125
+        },
+        {
+          "rank": 26,
+          "page_id": "fa_digipay-1401-fa_p0003.png",
+          "score": 29.53125
+        },
+        {
+          "rank": 27,
+          "page_id": "fa_digipay-1400-fa_p0014.png",
+          "score": 29.4375
+        },
+        {
+          "rank": 28,
+          "page_id": "fa_digipay-1401-fa_p0065.png",
+          "score": 29.4375
+        },
+        {
+          "rank": 29,
+          "page_id": "fa_digipay-1400-fa_p0031.png",
+          "score": 29.421875
+        },
+        {
+          "rank": 30,
+          "page_id": "fa_digipay-1400-fa_p0011.png",
+          "score": 29.390625
+        },
+        {
+          "rank": 31,
+          "page_id": "fa_digipay-1401-fa_p0035.png",
+          "score": 29.390625
+        },
+        {
+          "rank": 32,
+          "page_id": "fa_digipay-1401-fa_p0068.png",
+          "score": 29.34375
+        },
+        {
+          "rank": 33,
+          "page_id": "fa_digipay-1400-fa_p0002.png",
+          "score": 29.328125
+        },
+        {
+          "rank": 34,
+          "page_id": "fa_digipay-1400-fa_p0048.png",
+          "score": 29.3125
+        },
+        {
+          "rank": 35,
+          "page_id": "fa_digipay-1400-fa_p0046.png",
+          "score": 29.28125
+        },
+        {
+          "rank": 36,
+          "page_id": "fa_digipay-1401-fa_p0020.png",
+          "score": 29.28125
+        },
+        {
+          "rank": 37,
+          "page_id": "fa_digipay-1400-fa_p0033.png",
+          "score": 29.234375
+        },
+        {
+          "rank": 38,
+          "page_id": "fa_digipay-1401-fa_p0067.png",
+          "score": 29.21875
+        },
+        {
+          "rank": 39,
+          "page_id": "fa_digipay-1400-fa_p0013.png",
+          "score": 29.15625
+        },
+        {
+          "rank": 40,
+          "page_id": "fa_digipay-1400-fa_p0027.png",
+          "score": 29.15625
+        },
+        {
+          "rank": 41,
+          "page_id": "fa_digipay-1400-fa_p0032.png",
+          "score": 29.15625
+        },
+        {
+          "rank": 42,
+          "page_id": "fa_digipay-1400-fa_p0006.png",
+          "score": 29.140625
+        },
+        {
+          "rank": 43,
+          "page_id": "fa_digipay-1401-fa_p0017.png",
+          "score": 29.140625
+        },
+        {
+          "rank": 44,
+          "page_id": "fa_digipay-1400-fa_p0021.png",
+          "score": 29.09375
+        },
+        {
+          "rank": 45,
+          "page_id": "fa_digipay-1401-fa_p0063.png",
+          "score": 29.078125
+        },
+        {
+          "rank": 46,
+          "page_id": "fa_digipay-1400-fa_p0010.png",
+          "score": 29.015625
+        },
+        {
+          "rank": 47,
+          "page_id": "fa_digipay-1401-fa_p0053.png",
+          "score": 28.859375
+        },
+        {
+          "rank": 48,
+          "page_id": "fa_digipay-1401-fa_p0050.png",
+          "score": 28.84375
+        },
+        {
+          "rank": 49,
+          "page_id": "fa_digipay-1400-fa_p0030.png",
+          "score": 28.8125
+        },
+        {
+          "rank": 50,
+          "page_id": "fa_digipay-1401-fa_p0069.png",
+          "score": 28.8125
+        },
+        {
+          "rank": 51,
+          "page_id": "fa_digipay-1401-fa_p0019.png",
+          "score": 28.78125
+        },
+        {
+          "rank": 52,
+          "page_id": "fa_digipay-1400-fa_p0009.png",
+          "score": 28.734375
+        },
+        {
+          "rank": 53,
+          "page_id": "fa_digipay-1401-fa_p0025.png",
+          "score": 28.6875
+        },
+        {
+          "rank": 54,
+          "page_id": "fa_digipay-1401-fa_p0058.png",
+          "score": 28.671875
+        },
+        {
+          "rank": 55,
+          "page_id": "fa_digipay-1401-fa_p0033.png",
+          "score": 28.609375
+        },
+        {
+          "rank": 56,
+          "page_id": "fa_digipay-1401-fa_p0060.png",
+          "score": 28.515625
+        },
+        {
+          "rank": 57,
+          "page_id": "fa_digipay-1401-fa_p0039.png",
+          "score": 28.453125
+        },
+        {
+          "rank": 58,
+          "page_id": "fa_digipay-1401-fa_p0054.png",
+          "score": 28.453125
+        },
+        {
+          "rank": 59,
+          "page_id": "fa_digipay-1401-fa_p0032.png",
+          "score": 28.4375
+        },
+        {
+          "rank": 60,
+          "page_id": "fa_digipay-1401-fa_p0061.png",
+          "score": 28.4375
+        },
+        {
+          "rank": 61,
+          "page_id": "fa_digipay-1401-fa_p0008.png",
+          "score": 28.40625
+        },
+        {
+          "rank": 62,
+          "page_id": "fa_digipay-1401-fa_p0026.png",
+          "score": 28.390625
+        },
+        {
+          "rank": 63,
+          "page_id": "fa_digipay-1401-fa_p0027.png",
+          "score": 28.390625
+        },
+        {
+          "rank": 64,
+          "page_id": "fa_digipay-1401-fa_p0029.png",
+          "score": 28.359375
+        },
+        {
+          "rank": 65,
+          "page_id": "fa_digipay-1401-fa_p0014.png",
+          "score": 28.34375
+        },
+        {
+          "rank": 66,
+          "page_id": "fa_digipay-1401-fa_p0037.png",
+          "score": 28.3125
+        },
+        {
+          "rank": 67,
+          "page_id": "fa_digipay-1400-fa_p0045.png",
+          "score": 28.296875
+        },
+        {
+          "rank": 68,
+          "page_id": "fa_digipay-1400-fa_p0044.png",
+          "score": 28.078125
+        },
+        {
+          "rank": 69,
+          "page_id": "fa_digipay-1400-fa_p0022.png",
+          "score": 28.015625
+        },
+        {
+          "rank": 70,
+          "page_id": "fa_digipay-1401-fa_p0005.png",
+          "score": 27.984375
+        },
+        {
+          "rank": 71,
+          "page_id": "fa_digipay-1400-fa_p0039.png",
+          "score": 27.953125
+        },
+        {
+          "rank": 72,
+          "page_id": "fa_digipay-1401-fa_p0055.png",
+          "score": 27.90625
+        },
+        {
+          "rank": 73,
+          "page_id": "fa_digipay-1400-fa_p0024.png",
+          "score": 27.859375
+        },
+        {
+          "rank": 74,
+          "page_id": "fa_digipay-1401-fa_p0034.png",
+          "score": 27.828125
+        },
+        {
+          "rank": 75,
+          "page_id": "fa_digipay-1401-fa_p0028.png",
+          "score": 27.8125
+        },
+        {
+          "rank": 76,
+          "page_id": "fa_digipay-1400-fa_p0028.png",
+          "score": 27.671875
+        },
+        {
+          "rank": 77,
+          "page_id": "fa_digipay-1401-fa_p0036.png",
+          "score": 27.625
+        },
+        {
+          "rank": 78,
+          "page_id": "fa_digipay-1400-fa_p0025.png",
+          "score": 27.59375
+        },
+        {
+          "rank": 79,
+          "page_id": "fa_digipay-1401-fa_p0013.png",
+          "score": 27.59375
+        },
+        {
+          "rank": 80,
+          "page_id": "fa_digipay-1401-fa_p0064.png",
+          "score": 27.578125
+        },
+        {
+          "rank": 81,
+          "page_id": "fa_digipay-1400-fa_p0015.png",
+          "score": 27.53125
+        },
+        {
+          "rank": 82,
+          "page_id": "fa_digipay-1401-fa_p0045.png",
+          "score": 27.53125
+        },
+        {
+          "rank": 83,
+          "page_id": "fa_digipay-1401-fa_p0070.png",
+          "score": 27.5
+        },
+        {
+          "rank": 84,
+          "page_id": "fa_digipay-1401-fa_p0066.png",
+          "score": 27.46875
+        },
+        {
+          "rank": 85,
+          "page_id": "fa_digipay-1401-fa_p0062.png",
+          "score": 27.453125
+        },
+        {
+          "rank": 86,
+          "page_id": "fa_digipay-1401-fa_p0049.png",
+          "score": 27.4375
+        },
+        {
+          "rank": 87,
+          "page_id": "fa_digipay-1400-fa_p0016.png",
+          "score": 27.40625
+        },
+        {
+          "rank": 88,
+          "page_id": "fa_digipay-1401-fa_p0040.png",
+          "score": 27.40625
+        },
+        {
+          "rank": 89,
+          "page_id": "fa_digipay-1401-fa_p0056.png",
+          "score": 27.390625
+        },
+        {
+          "rank": 90,
+          "page_id": "fa_digipay-1401-fa_p0018.png",
+          "score": 27.21875
+        },
+        {
+          "rank": 91,
+          "page_id": "fa_digipay-1401-fa_p0044.png",
+          "score": 27.21875
+        },
+        {
+          "rank": 92,
+          "page_id": "fa_digipay-1401-fa_p0043.png",
+          "score": 27.203125
+        },
+        {
+          "rank": 93,
+          "page_id": "fa_digipay-1401-fa_p0006.png",
+          "score": 27.078125
+        },
+        {
+          "rank": 94,
+          "page_id": "fa_digipay-1400-fa_p0049.png",
+          "score": 27.0625
+        },
+        {
+          "rank": 95,
+          "page_id": "fa_digipay-1401-fa_p0038.png",
+          "score": 27.03125
+        },
+        {
+          "rank": 96,
+          "page_id": "fa_digipay-1401-fa_p0048.png",
+          "score": 27.03125
+        },
+        {
+          "rank": 97,
+          "page_id": "fa_digipay-1401-fa_p0022.png",
+          "score": 26.609375
+        },
+        {
+          "rank": 98,
+          "page_id": "fa_digipay-1401-fa_p0031.png",
+          "score": 26.59375
+        },
+        {
+          "rank": 99,
+          "page_id": "fa_digipay-1400-fa_p0026.png",
+          "score": 26.515625
+        },
+        {
+          "rank": 100,
+          "page_id": "fa_digipay-1401-fa_p0012.png",
+          "score": 26.4375
+        },
+        {
+          "rank": 101,
+          "page_id": "fa_digipay-1401-fa_p0016.png",
+          "score": 26.390625
+        },
+        {
+          "rank": 102,
+          "page_id": "fa_digipay-1401-fa_p0030.png",
+          "score": 26.265625
+        },
+        {
+          "rank": 103,
+          "page_id": "fa_digipay-1400-fa_p0001.png",
+          "score": 26.1875
+        },
+        {
+          "rank": 104,
+          "page_id": "fa_digipay-1400-fa_p0050.png",
+          "score": 26.125
+        },
+        {
+          "rank": 105,
+          "page_id": "fa_digipay-1401-fa_p0009.png",
+          "score": 26.109375
+        },
+        {
+          "rank": 106,
+          "page_id": "fa_digipay-1401-fa_p0042.png",
+          "score": 25.9375
+        },
+        {
+          "rank": 107,
+          "page_id": "fa_digipay-1401-fa_p0002.png",
+          "score": 25.78125
+        },
+        {
+          "rank": 108,
+          "page_id": "fa_digipay-1401-fa_p0072.png",
+          "score": 25.640625
+        },
+        {
+          "rank": 109,
+          "page_id": "fa_digipay-1401-fa_p0001.png",
+          "score": 25.34375
+        },
+        {
+          "rank": 110,
+          "page_id": "fa_digipay-1401-fa_p0023.png",
+          "score": 24.296875
+        },
+        {
+          "rank": 111,
+          "page_id": "fa_digipay-1401-fa_p0015.png",
+          "score": 22.6875
+        },
+        {
+          "rank": 112,
+          "page_id": "fa_digipay-1401-fa_p0007.png",
+          "score": 22.4375
+        },
+        {
+          "rank": 113,
+          "page_id": "fa_digipay-1401-fa_p0004.png",
+          "score": 22.375
+        },
+        {
+          "rank": 114,
+          "page_id": "fa_digipay-1401-fa_p0071.png",
+          "score": 21.96875
+        },
+        {
+          "rank": 115,
+          "page_id": "fa_digipay-1401-fa_p0051.png",
+          "score": 20.765625
+        },
+        {
+          "rank": 116,
+          "page_id": "fa_digipay-1400-fa_p0020.png",
+          "score": 16.390625
+        },
+        {
+          "rank": 117,
+          "page_id": "fa_digipay-1400-fa_p0029.png",
+          "score": 16.34375
+        },
+        {
+          "rank": 118,
+          "page_id": "fa_digipay-1400-fa_p0012.png",
+          "score": 16.25
+        },
+        {
+          "rank": 119,
+          "page_id": "fa_digipay-1400-fa_p0041.png",
+          "score": 16.109375
+        },
+        {
+          "rank": 120,
+          "page_id": "fa_digipay-1400-fa_p0038.png",
+          "score": 16.09375
+        },
+        {
+          "rank": 121,
+          "page_id": "fa_digipay-1400-fa_p0035.png",
+          "score": 16.0625
+        },
+        {
+          "rank": 122,
+          "page_id": "fa_digipay-1400-fa_p0005.png",
+          "score": 16.015625
+        }
+      ]
+    },
+    {
+      "query_id": "fa_009",
+      "query": "میانگین مدت زمان پاسخ‌گویی به کاربران مرکز عملیات دیجی‌پی در سال ۱۴۰۱ چقدر بوده است؟",
+      "reference_answer": "۲ دقیقه و ۱۴ ثانیه",
+      "relevant_page_ids": [
+        "fa_digipay-1401-fa_p0065.png"
+      ],
+      "reference_ranks": {
+        "fa_digipay-1401-fa_p0065.png": 17
+      },
+      "first_relevant_rank": 17,
+      "recall_at_5": 0.0,
+      "recall_at_20": 1.0,
+      "reciprocal_rank": 0.058823529411764705,
+      "elapsed_seconds": 0.7404135519900592,
+      "query_token_count": 67,
+      "ranking": [
+        {
+          "rank": 1,
+          "page_id": "fa_digipay-1400-fa_p0036.png",
+          "score": 35.28125
+        },
+        {
+          "rank": 2,
+          "page_id": "fa_digipay-1400-fa_p0042.png",
+          "score": 34.09375
+        },
+        {
+          "rank": 3,
+          "page_id": "fa_digipay-1400-fa_p0043.png",
+          "score": 33.90625
+        },
+        {
+          "rank": 4,
+          "page_id": "fa_digipay-1400-fa_p0004.png",
+          "score": 33.875
+        },
+        {
+          "rank": 5,
+          "page_id": "fa_digipay-1400-fa_p0002.png",
+          "score": 33.8125
+        },
+        {
+          "rank": 6,
+          "page_id": "fa_digipay-1400-fa_p0008.png",
+          "score": 33.8125
+        },
+        {
+          "rank": 7,
+          "page_id": "fa_digipay-1401-fa_p0003.png",
+          "score": 33.65625
+        },
+        {
+          "rank": 8,
+          "page_id": "fa_digipay-1401-fa_p0057.png",
+          "score": 33.59375
+        },
+        {
+          "rank": 9,
+          "page_id": "fa_digipay-1400-fa_p0007.png",
+          "score": 33.5
+        },
+        {
+          "rank": 10,
+          "page_id": "fa_digipay-1401-fa_p0011.png",
+          "score": 33.4375
+        },
+        {
+          "rank": 11,
+          "page_id": "fa_digipay-1400-fa_p0047.png",
+          "score": 33.40625
+        },
+        {
+          "rank": 12,
+          "page_id": "fa_digipay-1400-fa_p0040.png",
+          "score": 33.375
+        },
+        {
+          "rank": 13,
+          "page_id": "fa_digipay-1401-fa_p0021.png",
+          "score": 33.375
+        },
+        {
+          "rank": 14,
+          "page_id": "fa_digipay-1400-fa_p0018.png",
+          "score": 33.25
+        },
+        {
+          "rank": 15,
+          "page_id": "fa_digipay-1400-fa_p0023.png",
+          "score": 33.21875
+        },
+        {
+          "rank": 16,
+          "page_id": "fa_digipay-1401-fa_p0064.png",
+          "score": 33.0625
+        },
+        {
+          "rank": 17,
+          "page_id": "fa_digipay-1401-fa_p0065.png",
+          "score": 33.0
+        },
+        {
+          "rank": 18,
+          "page_id": "fa_digipay-1400-fa_p0006.png",
+          "score": 32.90625
+        },
+        {
+          "rank": 19,
+          "page_id": "fa_digipay-1401-fa_p0035.png",
+          "score": 32.90625
+        },
+        {
+          "rank": 20,
+          "page_id": "fa_digipay-1400-fa_p0046.png",
+          "score": 32.8125
+        },
+        {
+          "rank": 21,
+          "page_id": "fa_digipay-1401-fa_p0010.png",
+          "score": 32.78125
+        },
+        {
+          "rank": 22,
+          "page_id": "fa_digipay-1400-fa_p0032.png",
+          "score": 32.6875
+        },
+        {
+          "rank": 23,
+          "page_id": "fa_digipay-1400-fa_p0033.png",
+          "score": 32.65625
+        },
+        {
+          "rank": 24,
+          "page_id": "fa_digipay-1401-fa_p0041.png",
+          "score": 32.65625
+        },
+        {
+          "rank": 25,
+          "page_id": "fa_digipay-1401-fa_p0067.png",
+          "score": 32.59375
+        },
+        {
+          "rank": 26,
+          "page_id": "fa_digipay-1400-fa_p0021.png",
+          "score": 32.5625
+        },
+        {
+          "rank": 27,
+          "page_id": "fa_digipay-1401-fa_p0046.png",
+          "score": 32.5625
+        },
+        {
+          "rank": 28,
+          "page_id": "fa_digipay-1401-fa_p0052.png",
+          "score": 32.5625
+        },
+        {
+          "rank": 29,
+          "page_id": "fa_digipay-1401-fa_p0026.png",
+          "score": 32.53125
+        },
+        {
+          "rank": 30,
+          "page_id": "fa_digipay-1400-fa_p0031.png",
+          "score": 32.5
+        },
+        {
+          "rank": 31,
+          "page_id": "fa_digipay-1400-fa_p0037.png",
+          "score": 32.375
+        },
+        {
+          "rank": 32,
+          "page_id": "fa_digipay-1401-fa_p0068.png",
+          "score": 32.375
+        },
+        {
+          "rank": 33,
+          "page_id": "fa_digipay-1400-fa_p0044.png",
+          "score": 32.28125
+        },
+        {
+          "rank": 34,
+          "page_id": "fa_digipay-1401-fa_p0024.png",
+          "score": 32.28125
+        },
+        {
+          "rank": 35,
+          "page_id": "fa_digipay-1401-fa_p0063.png",
+          "score": 32.25
+        },
+        {
+          "rank": 36,
+          "page_id": "fa_digipay-1400-fa_p0003.png",
+          "score": 32.21875
+        },
+        {
+          "rank": 37,
+          "page_id": "fa_digipay-1400-fa_p0013.png",
+          "score": 32.1875
+        },
+        {
+          "rank": 38,
+          "page_id": "fa_digipay-1400-fa_p0017.png",
+          "score": 32.125
+        },
+        {
+          "rank": 39,
+          "page_id": "fa_digipay-1401-fa_p0032.png",
+          "score": 32.125
+        },
+        {
+          "rank": 40,
+          "page_id": "fa_digipay-1400-fa_p0027.png",
+          "score": 32.09375
+        },
+        {
+          "rank": 41,
+          "page_id": "fa_digipay-1401-fa_p0069.png",
+          "score": 32.0625
+        },
+        {
+          "rank": 42,
+          "page_id": "fa_digipay-1400-fa_p0034.png",
+          "score": 32.03125
+        },
+        {
+          "rank": 43,
+          "page_id": "fa_digipay-1401-fa_p0058.png",
+          "score": 32.03125
+        },
+        {
+          "rank": 44,
+          "page_id": "fa_digipay-1400-fa_p0019.png",
+          "score": 31.96875
+        },
+        {
+          "rank": 45,
+          "page_id": "fa_digipay-1400-fa_p0014.png",
+          "score": 31.875
+        },
+        {
+          "rank": 46,
+          "page_id": "fa_digipay-1400-fa_p0011.png",
+          "score": 31.828125
+        },
+        {
+          "rank": 47,
+          "page_id": "fa_digipay-1401-fa_p0060.png",
+          "score": 31.828125
+        },
+        {
+          "rank": 48,
+          "page_id": "fa_digipay-1400-fa_p0010.png",
+          "score": 31.8125
+        },
+        {
+          "rank": 49,
+          "page_id": "fa_digipay-1401-fa_p0050.png",
+          "score": 31.71875
+        },
+        {
+          "rank": 50,
+          "page_id": "fa_digipay-1400-fa_p0045.png",
+          "score": 31.703125
+        },
+        {
+          "rank": 51,
+          "page_id": "fa_digipay-1400-fa_p0048.png",
+          "score": 31.6875
+        },
+        {
+          "rank": 52,
+          "page_id": "fa_digipay-1401-fa_p0005.png",
+          "score": 31.65625
+        },
+        {
+          "rank": 53,
+          "page_id": "fa_digipay-1401-fa_p0039.png",
+          "score": 31.53125
+        },
+        {
+          "rank": 54,
+          "page_id": "fa_digipay-1400-fa_p0030.png",
+          "score": 31.375
+        },
+        {
+          "rank": 55,
+          "page_id": "fa_digipay-1401-fa_p0062.png",
+          "score": 31.359375
+        },
+        {
+          "rank": 56,
+          "page_id": "fa_digipay-1401-fa_p0020.png",
+          "score": 31.34375
+        },
+        {
+          "rank": 57,
+          "page_id": "fa_digipay-1400-fa_p0039.png",
+          "score": 31.25
+        },
+        {
+          "rank": 58,
+          "page_id": "fa_digipay-1401-fa_p0059.png",
+          "score": 31.234375
+        },
+        {
+          "rank": 59,
+          "page_id": "fa_digipay-1401-fa_p0066.png",
+          "score": 31.203125
+        },
+        {
+          "rank": 60,
+          "page_id": "fa_digipay-1401-fa_p0008.png",
+          "score": 31.125
+        },
+        {
+          "rank": 61,
+          "page_id": "fa_digipay-1401-fa_p0025.png",
+          "score": 31.046875
+        },
+        {
+          "rank": 62,
+          "page_id": "fa_digipay-1401-fa_p0017.png",
+          "score": 31.03125
+        },
+        {
+          "rank": 63,
+          "page_id": "fa_digipay-1401-fa_p0034.png",
+          "score": 31.03125
+        },
+        {
+          "rank": 64,
+          "page_id": "fa_digipay-1401-fa_p0070.png",
+          "score": 31.03125
+        },
+        {
+          "rank": 65,
+          "page_id": "fa_digipay-1401-fa_p0047.png",
+          "score": 30.875
+        },
+        {
+          "rank": 66,
+          "page_id": "fa_digipay-1401-fa_p0029.png",
+          "score": 30.65625
+        },
+        {
+          "rank": 67,
+          "page_id": "fa_digipay-1401-fa_p0056.png",
+          "score": 30.65625
+        },
+        {
+          "rank": 68,
+          "page_id": "fa_digipay-1401-fa_p0061.png",
+          "score": 30.625
+        },
+        {
+          "rank": 69,
+          "page_id": "fa_digipay-1400-fa_p0015.png",
+          "score": 30.609375
+        },
+        {
+          "rank": 70,
+          "page_id": "fa_digipay-1401-fa_p0027.png",
+          "score": 30.59375
+        },
+        {
+          "rank": 71,
+          "page_id": "fa_digipay-1400-fa_p0009.png",
+          "score": 30.53125
+        },
+        {
+          "rank": 72,
+          "page_id": "fa_digipay-1401-fa_p0019.png",
+          "score": 30.484375
+        },
+        {
+          "rank": 73,
+          "page_id": "fa_digipay-1401-fa_p0014.png",
+          "score": 30.34375
+        },
+        {
+          "rank": 74,
+          "page_id": "fa_digipay-1401-fa_p0028.png",
+          "score": 30.28125
+        },
+        {
+          "rank": 75,
+          "page_id": "fa_digipay-1400-fa_p0025.png",
+          "score": 30.25
+        },
+        {
+          "rank": 76,
+          "page_id": "fa_digipay-1401-fa_p0012.png",
+          "score": 30.125
+        },
+        {
+          "rank": 77,
+          "page_id": "fa_digipay-1400-fa_p0016.png",
+          "score": 30.109375
+        },
+        {
+          "rank": 78,
+          "page_id": "fa_digipay-1401-fa_p0049.png",
+          "score": 29.96875
+        },
+        {
+          "rank": 79,
+          "page_id": "fa_digipay-1401-fa_p0033.png",
+          "score": 29.875
+        },
+        {
+          "rank": 80,
+          "page_id": "fa_digipay-1401-fa_p0044.png",
+          "score": 29.734375
+        },
+        {
+          "rank": 81,
+          "page_id": "fa_digipay-1401-fa_p0037.png",
+          "score": 29.609375
+        },
+        {
+          "rank": 82,
+          "page_id": "fa_digipay-1400-fa_p0022.png",
+          "score": 29.59375
+        },
+        {
+          "rank": 83,
+          "page_id": "fa_digipay-1400-fa_p0001.png",
+          "score": 29.546875
+        },
+        {
+          "rank": 84,
+          "page_id": "fa_digipay-1401-fa_p0055.png",
+          "score": 29.5
+        },
+        {
+          "rank": 85,
+          "page_id": "fa_digipay-1401-fa_p0006.png",
+          "score": 29.4375
+        },
+        {
+          "rank": 86,
+          "page_id": "fa_digipay-1401-fa_p0040.png",
+          "score": 29.40625
+        },
+        {
+          "rank": 87,
+          "page_id": "fa_digipay-1400-fa_p0028.png",
+          "score": 29.390625
+        },
+        {
+          "rank": 88,
+          "page_id": "fa_digipay-1400-fa_p0050.png",
+          "score": 29.359375
+        },
+        {
+          "rank": 89,
+          "page_id": "fa_digipay-1401-fa_p0013.png",
+          "score": 29.359375
+        },
+        {
+          "rank": 90,
+          "page_id": "fa_digipay-1401-fa_p0053.png",
+          "score": 29.25
+        },
+        {
+          "rank": 91,
+          "page_id": "fa_digipay-1401-fa_p0054.png",
+          "score": 29.15625
+        },
+        {
+          "rank": 92,
+          "page_id": "fa_digipay-1400-fa_p0024.png",
+          "score": 29.046875
+        },
+        {
+          "rank": 93,
+          "page_id": "fa_digipay-1400-fa_p0049.png",
+          "score": 29.015625
+        },
+        {
+          "rank": 94,
+          "page_id": "fa_digipay-1401-fa_p0022.png",
+          "score": 29.0
+        },
+        {
+          "rank": 95,
+          "page_id": "fa_digipay-1401-fa_p0001.png",
+          "score": 28.953125
+        },
+        {
+          "rank": 96,
+          "page_id": "fa_digipay-1401-fa_p0036.png",
+          "score": 28.90625
+        },
+        {
+          "rank": 97,
+          "page_id": "fa_digipay-1400-fa_p0026.png",
+          "score": 28.75
+        },
+        {
+          "rank": 98,
+          "page_id": "fa_digipay-1401-fa_p0018.png",
+          "score": 28.734375
+        },
+        {
+          "rank": 99,
+          "page_id": "fa_digipay-1401-fa_p0009.png",
+          "score": 28.71875
+        },
+        {
+          "rank": 100,
+          "page_id": "fa_digipay-1401-fa_p0038.png",
+          "score": 28.640625
+        },
+        {
+          "rank": 101,
+          "page_id": "fa_digipay-1401-fa_p0043.png",
+          "score": 28.546875
+        },
+        {
+          "rank": 102,
+          "page_id": "fa_digipay-1401-fa_p0048.png",
+          "score": 28.453125
+        },
+        {
+          "rank": 103,
+          "page_id": "fa_digipay-1401-fa_p0045.png",
+          "score": 28.421875
+        },
+        {
+          "rank": 104,
+          "page_id": "fa_digipay-1401-fa_p0072.png",
+          "score": 28.390625
+        },
+        {
+          "rank": 105,
+          "page_id": "fa_digipay-1401-fa_p0002.png",
+          "score": 28.203125
+        },
+        {
+          "rank": 106,
+          "page_id": "fa_digipay-1401-fa_p0016.png",
+          "score": 28.125
+        },
+        {
+          "rank": 107,
+          "page_id": "fa_digipay-1401-fa_p0042.png",
+          "score": 27.828125
+        },
+        {
+          "rank": 108,
+          "page_id": "fa_digipay-1401-fa_p0031.png",
+          "score": 27.78125
+        },
+        {
+          "rank": 109,
+          "page_id": "fa_digipay-1401-fa_p0030.png",
+          "score": 26.859375
+        },
+        {
+          "rank": 110,
+          "page_id": "fa_digipay-1401-fa_p0023.png",
+          "score": 25.828125
+        },
+        {
+          "rank": 111,
+          "page_id": "fa_digipay-1401-fa_p0071.png",
+          "score": 25.53125
+        },
+        {
+          "rank": 112,
+          "page_id": "fa_digipay-1401-fa_p0007.png",
+          "score": 25.203125
+        },
+        {
+          "rank": 113,
+          "page_id": "fa_digipay-1401-fa_p0004.png",
+          "score": 24.65625
+        },
+        {
+          "rank": 114,
+          "page_id": "fa_digipay-1401-fa_p0015.png",
+          "score": 23.84375
+        },
+        {
+          "rank": 115,
+          "page_id": "fa_digipay-1401-fa_p0051.png",
+          "score": 22.0625
+        },
+        {
+          "rank": 116,
+          "page_id": "fa_digipay-1400-fa_p0020.png",
+          "score": 18.28125
+        },
+        {
+          "rank": 117,
+          "page_id": "fa_digipay-1400-fa_p0005.png",
+          "score": 18.1875
+        },
+        {
+          "rank": 118,
+          "page_id": "fa_digipay-1400-fa_p0041.png",
+          "score": 18.140625
+        },
+        {
+          "rank": 119,
+          "page_id": "fa_digipay-1400-fa_p0038.png",
+          "score": 18.03125
+        },
+        {
+          "rank": 120,
+          "page_id": "fa_digipay-1400-fa_p0035.png",
+          "score": 17.875
+        },
+        {
+          "rank": 121,
+          "page_id": "fa_digipay-1400-fa_p0029.png",
+          "score": 17.75
+        },
+        {
+          "rank": 122,
+          "page_id": "fa_digipay-1400-fa_p0012.png",
+          "score": 17.578125
+        }
+      ]
+    },
+    {
+      "query_id": "fa_010",
+      "query": "در گزارش سال ۱۴۰۱ دیجی‌پی، متوسط زمان پاسخ‌گویی چند دقیقه و چند ثانیه اعلام شده است؟",
+      "reference_answer": "۲ دقیقه و ۱۴ ثانیه",
+      "relevant_page_ids": [
+        "fa_digipay-1401-fa_p0065.png"
+      ],
+      "reference_ranks": {
+        "fa_digipay-1401-fa_p0065.png": 3
+      },
+      "first_relevant_rank": 3,
+      "recall_at_5": 1.0,
+      "recall_at_20": 1.0,
+      "reciprocal_rank": 0.3333333333333333,
+      "elapsed_seconds": 0.524527401998057,
+      "query_token_count": 69,
+      "ranking": [
+        {
+          "rank": 1,
+          "page_id": "fa_digipay-1400-fa_p0008.png",
+          "score": 33.625
+        },
+        {
+          "rank": 2,
+          "page_id": "fa_digipay-1401-fa_p0050.png",
+          "score": 32.625
+        },
+        {
+          "rank": 3,
+          "page_id": "fa_digipay-1401-fa_p0065.png",
+          "score": 32.46875
+        },
+        {
+          "rank": 4,
+          "page_id": "fa_digipay-1401-fa_p0035.png",
+          "score": 32.4375
+        },
+        {
+          "rank": 5,
+          "page_id": "fa_digipay-1401-fa_p0052.png",
+          "score": 32.4375
+        },
+        {
+          "rank": 6,
+          "page_id": "fa_digipay-1400-fa_p0034.png",
+          "score": 32.375
+        },
+        {
+          "rank": 7,
+          "page_id": "fa_digipay-1401-fa_p0039.png",
+          "score": 32.375
+        },
+        {
+          "rank": 8,
+          "page_id": "fa_digipay-1401-fa_p0021.png",
+          "score": 32.15625
+        },
+        {
+          "rank": 9,
+          "page_id": "fa_digipay-1400-fa_p0023.png",
+          "score": 31.859375
+        },
+        {
+          "rank": 10,
+          "page_id": "fa_digipay-1400-fa_p0032.png",
+          "score": 31.859375
+        },
+        {
+          "rank": 11,
+          "page_id": "fa_digipay-1401-fa_p0046.png",
+          "score": 31.859375
+        },
+        {
+          "rank": 12,
+          "page_id": "fa_digipay-1401-fa_p0032.png",
+          "score": 31.65625
+        },
+        {
+          "rank": 13,
+          "page_id": "fa_digipay-1401-fa_p0024.png",
+          "score": 31.609375
+        },
+        {
+          "rank": 14,
+          "page_id": "fa_digipay-1401-fa_p0037.png",
+          "score": 31.5
+        },
+        {
+          "rank": 15,
+          "page_id": "fa_digipay-1400-fa_p0040.png",
+          "score": 31.484375
+        },
+        {
+          "rank": 16,
+          "page_id": "fa_digipay-1400-fa_p0024.png",
+          "score": 31.40625
+        },
+        {
+          "rank": 17,
+          "page_id": "fa_digipay-1400-fa_p0036.png",
+          "score": 31.40625
+        },
+        {
+          "rank": 18,
+          "page_id": "fa_digipay-1400-fa_p0021.png",
+          "score": 31.328125
+        },
+        {
+          "rank": 19,
+          "page_id": "fa_digipay-1400-fa_p0018.png",
+          "score": 31.3125
+        },
+        {
+          "rank": 20,
+          "page_id": "fa_digipay-1400-fa_p0043.png",
+          "score": 31.265625
+        },
+        {
+          "rank": 21,
+          "page_id": "fa_digipay-1400-fa_p0042.png",
+          "score": 31.171875
+        },
+        {
+          "rank": 22,
+          "page_id": "fa_digipay-1401-fa_p0061.png",
+          "score": 31.15625
+        },
+        {
+          "rank": 23,
+          "page_id": "fa_digipay-1401-fa_p0059.png",
+          "score": 31.125
+        },
+        {
+          "rank": 24,
+          "page_id": "fa_digipay-1401-fa_p0067.png",
+          "score": 31.0625
+        },
+        {
+          "rank": 25,
+          "page_id": "fa_digipay-1400-fa_p0002.png",
+          "score": 31.015625
+        },
+        {
+          "rank": 26,
+          "page_id": "fa_digipay-1400-fa_p0010.png",
+          "score": 30.984375
+        },
+        {
+          "rank": 27,
+          "page_id": "fa_digipay-1401-fa_p0017.png",
+          "score": 30.984375
+        },
+        {
+          "rank": 28,
+          "page_id": "fa_digipay-1401-fa_p0069.png",
+          "score": 30.96875
+        },
+        {
+          "rank": 29,
+          "page_id": "fa_digipay-1400-fa_p0007.png",
+          "score": 30.90625
+        },
+        {
+          "rank": 30,
+          "page_id": "fa_digipay-1401-fa_p0063.png",
+          "score": 30.8125
+        },
+        {
+          "rank": 31,
+          "page_id": "fa_digipay-1400-fa_p0031.png",
+          "score": 30.765625
+        },
+        {
+          "rank": 32,
+          "page_id": "fa_digipay-1401-fa_p0047.png",
+          "score": 30.765625
+        },
+        {
+          "rank": 33,
+          "page_id": "fa_digipay-1400-fa_p0017.png",
+          "score": 30.6875
+        },
+        {
+          "rank": 34,
+          "page_id": "fa_digipay-1400-fa_p0006.png",
+          "score": 30.671875
+        },
+        {
+          "rank": 35,
+          "page_id": "fa_digipay-1401-fa_p0020.png",
+          "score": 30.671875
+        },
+        {
+          "rank": 36,
+          "page_id": "fa_digipay-1401-fa_p0011.png",
+          "score": 30.46875
+        },
+        {
+          "rank": 37,
+          "page_id": "fa_digipay-1401-fa_p0041.png",
+          "score": 30.46875
+        },
+        {
+          "rank": 38,
+          "page_id": "fa_digipay-1401-fa_p0068.png",
+          "score": 30.46875
+        },
+        {
+          "rank": 39,
+          "page_id": "fa_digipay-1401-fa_p0066.png",
+          "score": 30.453125
+        },
+        {
+          "rank": 40,
+          "page_id": "fa_digipay-1400-fa_p0025.png",
+          "score": 30.4375
+        },
+        {
+          "rank": 41,
+          "page_id": "fa_digipay-1401-fa_p0036.png",
+          "score": 30.421875
+        },
+        {
+          "rank": 42,
+          "page_id": "fa_digipay-1401-fa_p0058.png",
+          "score": 30.40625
+        },
+        {
+          "rank": 43,
+          "page_id": "fa_digipay-1400-fa_p0004.png",
+          "score": 30.359375
+        },
+        {
+          "rank": 44,
+          "page_id": "fa_digipay-1401-fa_p0054.png",
+          "score": 30.328125
+        },
+        {
+          "rank": 45,
+          "page_id": "fa_digipay-1400-fa_p0011.png",
+          "score": 30.234375
+        },
+        {
+          "rank": 46,
+          "page_id": "fa_digipay-1400-fa_p0022.png",
+          "score": 30.234375
+        },
+        {
+          "rank": 47,
+          "page_id": "fa_digipay-1400-fa_p0037.png",
+          "score": 30.234375
+        },
+        {
+          "rank": 48,
+          "page_id": "fa_digipay-1400-fa_p0009.png",
+          "score": 30.171875
+        },
+        {
+          "rank": 49,
+          "page_id": "fa_digipay-1400-fa_p0039.png",
+          "score": 30.15625
+        },
+        {
+          "rank": 50,
+          "page_id": "fa_digipay-1401-fa_p0053.png",
+          "score": 30.15625
+        },
+        {
+          "rank": 51,
+          "page_id": "fa_digipay-1401-fa_p0025.png",
+          "score": 30.125
+        },
+        {
+          "rank": 52,
+          "page_id": "fa_digipay-1401-fa_p0040.png",
+          "score": 30.078125
+        },
+        {
+          "rank": 53,
+          "page_id": "fa_digipay-1400-fa_p0047.png",
+          "score": 30.046875
+        },
+        {
+          "rank": 54,
+          "page_id": "fa_digipay-1401-fa_p0049.png",
+          "score": 30.046875
+        },
+        {
+          "rank": 55,
+          "page_id": "fa_digipay-1401-fa_p0008.png",
+          "score": 30.015625
+        },
+        {
+          "rank": 56,
+          "page_id": "fa_digipay-1401-fa_p0019.png",
+          "score": 30.0
+        },
+        {
+          "rank": 57,
+          "page_id": "fa_digipay-1400-fa_p0027.png",
+          "score": 29.984375
+        },
+        {
+          "rank": 58,
+          "page_id": "fa_digipay-1401-fa_p0018.png",
+          "score": 29.953125
+        },
+        {
+          "rank": 59,
+          "page_id": "fa_digipay-1400-fa_p0019.png",
+          "score": 29.9375
+        },
+        {
+          "rank": 60,
+          "page_id": "fa_digipay-1401-fa_p0005.png",
+          "score": 29.875
+        },
+        {
+          "rank": 61,
+          "page_id": "fa_digipay-1401-fa_p0060.png",
+          "score": 29.875
+        },
+        {
+          "rank": 62,
+          "page_id": "fa_digipay-1400-fa_p0026.png",
+          "score": 29.859375
+        },
+        {
+          "rank": 63,
+          "page_id": "fa_digipay-1401-fa_p0010.png",
+          "score": 29.796875
+        },
+        {
+          "rank": 64,
+          "page_id": "fa_digipay-1401-fa_p0014.png",
+          "score": 29.78125
+        },
+        {
+          "rank": 65,
+          "page_id": "fa_digipay-1401-fa_p0029.png",
+          "score": 29.71875
+        },
+        {
+          "rank": 66,
+          "page_id": "fa_digipay-1401-fa_p0042.png",
+          "score": 29.609375
+        },
+        {
+          "rank": 67,
+          "page_id": "fa_digipay-1400-fa_p0013.png",
+          "score": 29.5625
+        },
+        {
+          "rank": 68,
+          "page_id": "fa_digipay-1400-fa_p0014.png",
+          "score": 29.53125
+        },
+        {
+          "rank": 69,
+          "page_id": "fa_digipay-1400-fa_p0046.png",
+          "score": 29.515625
+        },
+        {
+          "rank": 70,
+          "page_id": "fa_digipay-1401-fa_p0034.png",
+          "score": 29.515625
+        },
+        {
+          "rank": 71,
+          "page_id": "fa_digipay-1400-fa_p0028.png",
+          "score": 29.5
+        },
+        {
+          "rank": 72,
+          "page_id": "fa_digipay-1401-fa_p0013.png",
+          "score": 29.453125
+        },
+        {
+          "rank": 73,
+          "page_id": "fa_digipay-1400-fa_p0033.png",
+          "score": 29.40625
+        },
+        {
+          "rank": 74,
+          "page_id": "fa_digipay-1401-fa_p0057.png",
+          "score": 29.375
+        },
+        {
+          "rank": 75,
+          "page_id": "fa_digipay-1401-fa_p0003.png",
+          "score": 29.34375
+        },
+        {
+          "rank": 76,
+          "page_id": "fa_digipay-1401-fa_p0026.png",
+          "score": 29.34375
+        },
+        {
+          "rank": 77,
+          "page_id": "fa_digipay-1401-fa_p0038.png",
+          "score": 29.328125
+        },
+        {
+          "rank": 78,
+          "page_id": "fa_digipay-1401-fa_p0064.png",
+          "score": 29.296875
+        },
+        {
+          "rank": 79,
+          "page_id": "fa_digipay-1400-fa_p0016.png",
+          "score": 29.171875
+        },
+        {
+          "rank": 80,
+          "page_id": "fa_digipay-1400-fa_p0030.png",
+          "score": 29.171875
+        },
+        {
+          "rank": 81,
+          "page_id": "fa_digipay-1401-fa_p0056.png",
+          "score": 29.171875
+        },
+        {
+          "rank": 82,
+          "page_id": "fa_digipay-1400-fa_p0015.png",
+          "score": 29.109375
+        },
+        {
+          "rank": 83,
+          "page_id": "fa_digipay-1401-fa_p0006.png",
+          "score": 29.09375
+        },
+        {
+          "rank": 84,
+          "page_id": "fa_digipay-1401-fa_p0055.png",
+          "score": 29.09375
+        },
+        {
+          "rank": 85,
+          "page_id": "fa_digipay-1401-fa_p0070.png",
+          "score": 29.03125
+        },
+        {
+          "rank": 86,
+          "page_id": "fa_digipay-1400-fa_p0045.png",
+          "score": 28.984375
+        },
+        {
+          "rank": 87,
+          "page_id": "fa_digipay-1401-fa_p0016.png",
+          "score": 28.890625
+        },
+        {
+          "rank": 88,
+          "page_id": "fa_digipay-1401-fa_p0012.png",
+          "score": 28.84375
+        },
+        {
+          "rank": 89,
+          "page_id": "fa_digipay-1401-fa_p0022.png",
+          "score": 28.78125
+        },
+        {
+          "rank": 90,
+          "page_id": "fa_digipay-1401-fa_p0044.png",
+          "score": 28.734375
+        },
+        {
+          "rank": 91,
+          "page_id": "fa_digipay-1401-fa_p0048.png",
+          "score": 28.703125
+        },
+        {
+          "rank": 92,
+          "page_id": "fa_digipay-1401-fa_p0033.png",
+          "score": 28.59375
+        },
+        {
+          "rank": 93,
+          "page_id": "fa_digipay-1401-fa_p0062.png",
+          "score": 28.296875
+        },
+        {
+          "rank": 94,
+          "page_id": "fa_digipay-1401-fa_p0030.png",
+          "score": 28.25
+        },
+        {
+          "rank": 95,
+          "page_id": "fa_digipay-1400-fa_p0048.png",
+          "score": 28.21875
+        },
+        {
+          "rank": 96,
+          "page_id": "fa_digipay-1400-fa_p0003.png",
+          "score": 28.15625
+        },
+        {
+          "rank": 97,
+          "page_id": "fa_digipay-1401-fa_p0028.png",
+          "score": 28.140625
+        },
+        {
+          "rank": 98,
+          "page_id": "fa_digipay-1401-fa_p0045.png",
+          "score": 28.140625
+        },
+        {
+          "rank": 99,
+          "page_id": "fa_digipay-1400-fa_p0044.png",
+          "score": 28.125
+        },
+        {
+          "rank": 100,
+          "page_id": "fa_digipay-1401-fa_p0009.png",
+          "score": 28.125
+        },
+        {
+          "rank": 101,
+          "page_id": "fa_digipay-1401-fa_p0027.png",
+          "score": 27.765625
+        },
+        {
+          "rank": 102,
+          "page_id": "fa_digipay-1401-fa_p0043.png",
+          "score": 27.40625
+        },
+        {
+          "rank": 103,
+          "page_id": "fa_digipay-1400-fa_p0049.png",
+          "score": 27.21875
+        },
+        {
+          "rank": 104,
+          "page_id": "fa_digipay-1401-fa_p0031.png",
+          "score": 26.859375
+        },
+        {
+          "rank": 105,
+          "page_id": "fa_digipay-1401-fa_p0001.png",
+          "score": 26.65625
+        },
+        {
+          "rank": 106,
+          "page_id": "fa_digipay-1401-fa_p0072.png",
+          "score": 26.21875
+        },
+        {
+          "rank": 107,
+          "page_id": "fa_digipay-1400-fa_p0001.png",
+          "score": 26.0625
+        },
+        {
+          "rank": 108,
+          "page_id": "fa_digipay-1401-fa_p0002.png",
+          "score": 25.203125
+        },
+        {
+          "rank": 109,
+          "page_id": "fa_digipay-1401-fa_p0023.png",
+          "score": 25.171875
+        },
+        {
+          "rank": 110,
+          "page_id": "fa_digipay-1400-fa_p0050.png",
+          "score": 24.671875
+        },
+        {
+          "rank": 111,
+          "page_id": "fa_digipay-1401-fa_p0004.png",
+          "score": 24.296875
+        },
+        {
+          "rank": 112,
+          "page_id": "fa_digipay-1401-fa_p0015.png",
+          "score": 23.796875
+        },
+        {
+          "rank": 113,
+          "page_id": "fa_digipay-1401-fa_p0071.png",
+          "score": 23.59375
+        },
+        {
+          "rank": 114,
+          "page_id": "fa_digipay-1401-fa_p0007.png",
+          "score": 22.828125
+        },
+        {
+          "rank": 115,
+          "page_id": "fa_digipay-1401-fa_p0051.png",
+          "score": 19.953125
+        },
+        {
+          "rank": 116,
+          "page_id": "fa_digipay-1400-fa_p0005.png",
+          "score": 17.734375
+        },
+        {
+          "rank": 117,
+          "page_id": "fa_digipay-1400-fa_p0020.png",
+          "score": 17.5625
+        },
+        {
+          "rank": 118,
+          "page_id": "fa_digipay-1400-fa_p0029.png",
+          "score": 17.234375
+        },
+        {
+          "rank": 119,
+          "page_id": "fa_digipay-1400-fa_p0041.png",
+          "score": 17.09375
+        },
+        {
+          "rank": 120,
+          "page_id": "fa_digipay-1400-fa_p0012.png",
+          "score": 17.046875
+        },
+        {
+          "rank": 121,
+          "page_id": "fa_digipay-1400-fa_p0035.png",
+          "score": 17.03125
+        },
+        {
+          "rank": 122,
+          "page_id": "fa_digipay-1400-fa_p0038.png",
+          "score": 16.96875
+        }
+      ]
+    }
+  ]
+}
