@@ -1,0 +1,32 @@
+[
+  {
+    "requested_token_budget": 768,
+    "max_pixels": 602112,
+    "original_image_size": [
+      1754,
+      1241
+    ],
+    "image_grid_thw": [
+      1,
+      46,
+      64
+    ],
+    "actual_visual_tokens": 736,
+    "sequence_length": 747
+  },
+  {
+    "requested_token_budget": 1536,
+    "max_pixels": 1204224,
+    "original_image_size": [
+      1754,
+      1241
+    ],
+    "image_grid_thw": [
+      1,
+      64,
+      92
+    ],
+    "actual_visual_tokens": 1472,
+    "sequence_length": 1483
+  }
+]

@@ -1,0 +1,4 @@
+{"query_id":"fa_dev_001","query":"الگوی رفتار کاربران دیجی‌پی در پرداخت اقساط","relevant_page_ids":["fa_digipay-1401-fa_p0052.png"],"type":"exact_title"}
+{"query_id":"fa_dev_002","query":"نمودار رفتار کاربران دیجی‌پی در زمان پرداخت قسط‌ها در کدام صفحه آمده است؟","relevant_page_ids":["fa_digipay-1401-fa_p0052.png"],"type":"paraphrase"}
+{"query_id":"fa_dev_003","query":"مرکز عملیات دیجی‌پی در سال ۱۴۰۱ بیش از چند هزار تماس ورودی دریافت کرده است؟","relevant_page_ids":["fa_digipay-1401-fa_p0065.png"],"type":"numerical"}
+{"query_id":"fa_dev_004","query":"میانگین زمان انتظار کاربران برای پاسخ‌گویی مرکز عملیات دیجی‌پی در سال ۱۴۰۱ چند ثانیه بوده است؟","relevant_page_ids":["fa_digipay-1401-fa_p0065.png"],"type":"numerical"}

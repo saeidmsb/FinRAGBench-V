@@ -14,3 +14,17 @@ FinRAGBench-V/retrieval/encode/
 FinRAGBench-V/retrieval/queries/
 render_test/
 FinRAGBench-V/retrieval/test.txt
+
+# Local retrieval assets
+/FinRAGBench-V/.venv-colpali-test/
+/FinRAGBench-V/models/
+/FinRAGBench-V/local_backups/
+/FinRAGBench-V/retrieval/encode/
+/FinRAGBench-V/retrieval/corpus/
+/FinRAGBench-V/retrieval/colqwen2-v1.0-merged/
+/FinRAGBench-V/data/fa/images/
+/FinRAGBench-V/data/fa/pdfs/
+/FinRAGBench-V/data/fa/text/
+/FinRAGBench-V/data/fa/fa-data.zip
+/FinRAGBench-V/scripts_fa/diagnostics_*.tar.gz
+*.py.bak

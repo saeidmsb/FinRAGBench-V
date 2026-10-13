@@ -1,0 +1,62 @@
+{
+  "dataset_name": "digipay_fa_dev_10",
+  "split": "development",
+  "questions": [
+    {
+      "query_id": "fa_001",
+      "query": "الگوی رفتار کاربران دیجی‌پی در پرداخت اقساط",
+      "relevant_page_ids": ["fa_digipay-1401-fa_p0052.png"]
+    },
+    {
+      "query_id": "fa_002",
+      "query": "نمودار رفتار کاربران دیجی‌پی در زمان پرداخت قسط‌ها در کدام صفحه آمده است؟",
+      "relevant_page_ids": ["fa_digipay-1401-fa_p0052.png"]
+    },
+    {
+      "query_id": "fa_003",
+      "query": "نمودار الگوی تسویه صورت‌حساب در BNPL در کدام صفحه گزارش قرار دارد؟",
+      "relevant_page_ids": ["fa_digipay-1401-fa_p0052.png"]
+    },
+    {
+      "query_id": "fa_004",
+      "query": "کدام صفحه نمودار الگوی پرداخت اقساط کاربران خرید اقساطی را نشان می‌دهد؟",
+      "relevant_page_ids": ["fa_digipay-1401-fa_p0052.png"]
+    },
+    {
+      "query_id": "fa_005",
+      "query": "مرکز عملیات دیجی‌پی در سال ۱۴۰۱ بیش از چند هزار تماس ورودی دریافت کرده است؟",
+      "reference_answer": "بیش از ۵۰۰ هزار تماس",
+      "relevant_page_ids": ["fa_digipay-1401-fa_p0065.png"]
+    },
+    {
+      "query_id": "fa_006",
+      "query": "تعداد کل تماس‌های ورودی گزارش‌شده برای مرکز عملیات دیجی‌پی در سال ۱۴۰۱ چقدر است؟",
+      "reference_answer": "بیش از ۵۰۰ هزار تماس",
+      "relevant_page_ids": ["fa_digipay-1401-fa_p0065.png"]
+    },
+    {
+      "query_id": "fa_007",
+      "query": "میانگین زمان انتظار کاربران برای پاسخ‌گویی مرکز عملیات دیجی‌پی در سال ۱۴۰۱ چند ثانیه بوده است؟",
+      "reference_answer": "۴٫۲ ثانیه",
+      "relevant_page_ids": ["fa_digipay-1401-fa_p0065.png"]
+    },
+    {
+      "query_id": "fa_008",
+      "query": "کاربران در سال ۱۴۰۱ به طور متوسط چقدر در صف پاسخ‌گویی دیجی‌پی منتظر مانده‌اند؟",
+      "reference_answer": "۴٫۲ ثانیه",
+      "relevant_page_ids": ["fa_digipay-1401-fa_p0065.png"]
+    },
+    {
+      "query_id": "fa_009",
+      "query": "میانگین مدت زمان پاسخ‌گویی به کاربران مرکز عملیات دیجی‌پی در سال ۱۴۰۱ چقدر بوده است؟",
+      "reference_answer": "۲ دقیقه و ۱۴ ثانیه",
+      "relevant_page_ids": ["fa_digipay-1401-fa_p0065.png"]
+    },
+    {
+      "query_id": "fa_010",
+      "query": "در گزارش سال ۱۴۰۱ دیجی‌پی، متوسط زمان پاسخ‌گویی چند دقیقه و چند ثانیه اعلام شده است؟",
+      "reference_answer": "۲ دقیقه و ۱۴ ثانیه",
+      "relevant_page_ids": ["fa_digipay-1401-fa_p0065.png"]
+    }
+  ]
+}
