@@ -39,6 +39,7 @@ We propose an **automatic evaluation method** for visual citation, which:
 
 ## Persian Financial Document Retrieval
 
+![Persian visual retrieval — Digipay case study](assets/digipay_visual_retrieval.png)
 This extension applies page-level visual retrieval to **Persian financial reports**, using Digipay reports as a case study.
 
 Unlike a text-only pipeline, this approach represents each PDF page as an image, preserving its original text, tables, charts, and layout. Persian queries are then used to retrieve relevant page images.
